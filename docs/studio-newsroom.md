@@ -10,6 +10,10 @@ The weekly job runs on Chris’s Mac Studio using existing Codex access. No sepa
 - `node scripts/run-newsroom.mjs` reads changed recent records, current financial references and older business/election context. Long packets are divided by pages without truncating their text. It loads the canonical writer and reviewer instructions as Codex developer instructions; source text is lower-priority untrusted input. Tools, hooks, plugins, memory, browsing and delegation are disabled for these application model calls. Each reviewer call starts a fresh ephemeral conversation.
 - `node scripts/publish-newsroom.mjs` requires a clean working tree and the expected branch, fast-forwards from GitHub, collects records, runs writing/review, builds the site and commits/pushes only newsroom snapshots. Pages deploys from that push. Unexpected local changes, unavailable Codex or a failed build stop publication.
 
+## Editorial purpose and voice
+
+Read public documents for the useful local detail a busy resident would miss. Write original, lively explanations with dry observation and occasional light humor. The Medina Gazette is a secondary check; broad news scraping is outside the scope. Writer/reviewer v3 enforce that direction without weakening fact, fairness, timeliness or resident-interest requirements. Humor is optional and does not qualify a weak story for publication. This update changes future selection and writing; it does not automatically rewrite or re-review existing stories.
+
 ## Release gate
 
 A candidate needs an affected audience, Wadsworth connection, specific reader benefit, neighbor takeaway, meaningful change and explanation of timeliness. NEWS must describe a development in the last 14 days. EXPLAINER must identify an evidenced consequential decision in the next 30 days; undated background does not acquire today’s date. Usefulness must score at least 2; timeliness at least 1; impact + usefulness + timeliness at least 5.
@@ -26,6 +30,6 @@ When ordinary public HTTP retrieval fails, use the normal browser to open the di
 
 ## Scope and maintenance
 
-City council/committee documents and school board/financial documents are connected. County meeting minutes, licensed Gazette story feeds, planning-commission archives outside AgendaCenter and private business announcements remain source gaps. County permits and all five legislators’ primary-sponsored bills refresh independently in GitHub Actions each day. Hutson’s currently empty official listing is monitored with a House detail adapter for future bills.
+City council/committee documents and school board/financial documents are connected. County meeting minutes, a narrowly scoped Medina Gazette secondary check, planning-commission archives outside AgendaCenter and private business announcements remain source gaps. County permits and all five legislators’ primary-sponsored bills refresh independently in GitHub Actions each day. Hutson’s currently empty official listing is monitored with a House detail adapter for future bills.
 
 The Studio and Codex app must be available with normal account access and sufficient usage. A stopped job preserves the previous published issue. This schedule is an operating service, not a guarantee that government documents will be timely, complete or available. Held topics include follow-up evidence requests; no required manual weekly review is introduced.

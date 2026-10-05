@@ -4,8 +4,8 @@ Decision: Chris's October 5 prototype feedback replaces “sourced means publish
 
 ## Canonical instructions
 
-- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v2`.
-- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v2`.
+- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v3`.
+- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v3`.
 - The Studio newsroom loads these instructions for separate Codex writing and review calls. `scripts/run-newsroom.mjs` contains the enforced JSON schema, resident-value fields, rubric, evidence checks and review gate. The older Convex calendar publisher remains a separate calendar product. No separately billed model API or model credential was added.
 
 ## Input contract
@@ -18,7 +18,7 @@ Documents remain data in the input message. Strip active content and bound lengt
 
 ```json
 {
-  "promptVersion": "resident-editor-v2",
+  "promptVersion": "resident-editor-v3",
   "cutoff": "YYYY-MM-DD",
   "decisions": [{
     "candidateId": "stable-change-id",
@@ -112,3 +112,10 @@ The static prototype now uses `lib/news-policy.ts` to require explicit audience,
 See `studio-newsroom.md` and the strict schemas in `scripts/run-newsroom.mjs`. A higher-priority Codex developer instruction carries the canonical editorial rules; source bundles are untrusted task input. NEWS/EXPLAINER are read separately from PROJECT history. The executable schema uses `items` for eligible drafts and `decisions` for routing records; every item carries audience, local connection, neighbor takeaway, concrete benefit, scores, dates and page-linked claims. Unsupported embeddings are withheld. Native evidence excerpts are the initial inline-context implementation.
 
 EXPLAINER eventDate may be blank when background is undated; its decisionDate must be evidenced and in the next 30 days. Never substitute retrieval time. PROJECT is eligible only as a dated meaningful lookup milestone after separate review, without fresh-news framing, invented opening/construction dates or guessed locations.
+
+
+## Public documents and original voice — October 5 clarification
+
+Matchstick discovers useful developments in original public records and writes resident-facing explanations. The Medina Gazette is the one named secondary newsroom check; broad news scraping and headline aggregation are outside this scope. City council and committee records, planning/zoning, schools, permits, budgets, county decisions and sponsored bills define the desired coverage; see studio-newsroom.md for the subset currently connected.
+
+Writer/reviewer v3 require inviting original prose, dry observational wit and optional restrained humor. Headline and lead still deliver the supported fact. No fabricated satire, partisan voice, joke quotas or factual implications hidden in punchlines. Humor can improve reading, never publication eligibility. The independent reviewer checks tone and factual implications; material edits still invalidate approval. Existing reviewed stories keep their original recorded prompt versions.

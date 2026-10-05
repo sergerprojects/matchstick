@@ -10,7 +10,7 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # Matchstick project rules
 
-- Independent Wadsworth public-service hub. Original sources directly; no MyTownView integration.
+- Independent Wadsworth public-service hub. Discover useful developments in original public documents and write original, lively resident explanations with restrained observational humor. The Medina Gazette is a secondary check; broad news scraping and headline aggregation are outside scope. Original sources directly; no MyTownView integration.
 - Routine collection, explanations and weekly publication must be hands-off for Chris. Do not introduce a required human review queue as the default workflow.
 - Every factual item needs source owner, original URL, event/reporting period and retrieval/verification dates. Unknown or failed collection is not zero activity.
 - Do not infer decisions from agendas, openings from permits, wards from ZIP codes or guilt from incident reports.
