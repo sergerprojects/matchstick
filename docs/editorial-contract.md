@@ -6,7 +6,7 @@ Decision: Chris's October 5 prototype feedback replaces “sourced means publish
 
 - Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v2`.
 - Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v2`.
-- These documents are application specifications. The present calendar-only publisher does not call an LLM, load these prompts or enforce this news contract yet. No model credentials, paid calls or automatic news deployment were added.
+- The Studio newsroom loads these instructions for separate Codex writing and review calls. `scripts/run-newsroom.mjs` contains the enforced JSON schema, resident-value fields, rubric, evidence checks and review gate. The older Convex calendar publisher remains a separate calendar product. No separately billed model API or model credential was added.
 
 ## Input contract
 
@@ -99,10 +99,16 @@ These are invented evaluation fixtures, not Wadsworth facts. Evaluate both promp
 | Collector receives no eligible news but complete usable records | Empty news list is successful |
 | Reviewer call fails, or draft changes after PASS | Hold item until current-draft review succeeds |
 
-## Implementation boundary
+## Historical implementation boundary
 
 The existing `convex/editorial.ts` publisher checks title/body/source but does not check resident value or independent review. Its manual seed and the static prototype are not acceptance evidence for this contract. `convex/issues.ts` assembles calendar notices only. Before enabling automatic multi-source news, replace source-only release checks with this contract, load the canonical prompts, connect supported document adapters, and evaluate the fixtures. Do not describe prompt files as an already running editorial service.
 
 ## October 5 resident lens implementation
 
 The static prototype now uses `lib/news-policy.ts` to require explicit audience, benefit, change, development date and review metadata before a story can render as news. Missing metadata fails closed; calendar/reference entries cannot return through seeded news fallbacks. This is a prototype rendering safeguard, not an implemented LLM writer/reviewer. The five-perspective contract must also be enforced by the automatic publisher before multi-source news is enabled.
+
+## Operational implementation — October 5
+
+See `studio-newsroom.md` and the strict schemas in `scripts/run-newsroom.mjs`. A higher-priority Codex developer instruction carries the canonical editorial rules; source bundles are untrusted task input. NEWS/EXPLAINER are read separately from PROJECT history. The executable schema uses `items` for eligible drafts and `decisions` for routing records; every item carries audience, local connection, neighbor takeaway, concrete benefit, scores, dates and page-linked claims. Unsupported embeddings are withheld. Native evidence excerpts are the initial inline-context implementation.
+
+EXPLAINER eventDate may be blank when background is undated; its decisionDate must be evidenced and in the next 30 days. Never substitute retrieval time. PROJECT is eligible only as a dated meaningful lookup milestone after separate review, without fresh-news framing, invented opening/construction dates or guessed locations.

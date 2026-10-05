@@ -42,24 +42,13 @@ await collect('permit-snapshot.json','https://building.medinaco.org/permits/perm
  if(!rows)throw new Error('No parsable county permit rows; refusing empty replacement');
  return {periodStart:iso(period[1]),periodEnd:iso(period[2]),records:[...records.values()].sort((a,b)=>b.issued.localeCompare(a.issued))};
 });
-await collect('legislation-snapshot.json','https://www.ohiosenate.gov/members/mark-romanchuk/legislation',async($)=>{
+async function stateBills($,person,chamber,base){
  const heading=$('h2').filter((_,e)=>clean($(e).text())==='Primary Sponsored Bills').first();
- const table=heading.nextAll('table').first();
- const records=[];
- table.find('tr').each((_,tr)=>{const cells=$(tr).children('th,td');if(cells.length!==2)return;const link=cells.eq(0).find('a');const bill=clean(cells.eq(0).text());const title=clean(cells.eq(1).text());const href=link.attr('href');if(!/^S\. B\. No\. \d+$/.test(bill)||!title||!href)return;const url=new URL(href,'https://www.ohiosenate.gov').href;if(!['www.legislature.ohio.gov','legislature.ohio.gov','www.ohiosenate.gov'].includes(new URL(url).hostname))throw new Error('Unexpected bill source');records.push({bill,title,url,representative:'Mark Romanchuk',role:'Primary sponsor'});});
- if(!records.length)throw new Error('Legislation table shape changed');
- for(const record of records){
-  const response=await fetch(record.url,{signal:AbortSignal.timeout(20000)});if(!response.ok)throw new Error(`Bill page ${response.status}`);
-  const detail=load(await response.text());const current=detail('h2').filter((_,e)=>clean(detail(e).text())==='Current Version').first().next('p').find('a').first();
-  record.version=clean(current.text());if(!record.version)throw new Error('Missing bill version');
-  record.completedSteps=detail('.status-step').filter((_,e)=>detail(e).find('img[alt="Step completed"]').length>0).map((_,e)=>{const chamber=detail(e).closest('.status-diagram-house').length?'House':detail(e).closest('.status-diagram-senate').length?'Senate':'';const step=clean(detail(e).text());return /Reported By Committee/.test(step)?`${chamber} committee reported the bill`:step;}).get();
-  if(!record.completedSteps.includes('Introduced In Senate'))throw new Error('Missing Senate introduction marker');
-  const final=detail('.status-diagram-final').first();
-  if(!final.length||!final.find('img[alt="Final step completed"],img[alt="Final step not completed"]').length)throw new Error('Missing final-stage status marker');
-  record.finalStage={label:clean(final.text()),completed:final.find('img[alt="Final step completed"]').length>0};
-  const order=['Introduced In Senate','In Senate Committee','Senate committee reported the bill','Passed By Senate','Introduced In House','In House Committee','House committee reported the bill','Passed By House'];
-  record.completedSteps.sort((a,b)=>order.indexOf(a)-order.indexOf(b));
-
- }
- return {assembly:'136th General Assembly',records};
-});
+ const table=heading.nextAll('table').first();const records=[];
+ table.find('tr').each((_,tr)=>{const cells=$(tr).children('th,td');if(cells.length!==2)return;const bill=clean(cells.eq(0).text()),title=clean(cells.eq(1).text()),href=cells.eq(0).find('a').attr('href');if(!/^[SH]\. B\. No\. \d+$/.test(bill)||!title||!href)return;const url=new URL(href,base).href;if(!['www.legislature.ohio.gov','legislature.ohio.gov','www.ohiosenate.gov','www.ohiohouse.gov'].includes(new URL(url).hostname))throw new Error('Unexpected bill source');records.push({bill,title,url,representative:person,role:'Primary sponsor'});});
+ if(!records.length){if(chamber==='House'&&$('h1').text().includes(person+' Legislation')&&$('.search-results-empty-container').length)return {representative:person,assembly:'136th General Assembly',records};throw new Error('Legislation table shape changed');}
+ for(const record of records){const response=await fetch(record.url,{signal:AbortSignal.timeout(20000)});if(!response.ok)throw new Error('Bill page '+response.status);const detail=load(await response.text());const current=detail('h2').filter((_,e)=>clean(detail(e).text())==='Current Version').first().next('p').find('a').first();record.version=clean(current.text());if(!record.version)throw new Error('Missing bill version');record.completedSteps=detail('.status-step').filter((_,e)=>detail(e).find('img[alt="Step completed"]').length>0).map((_,e)=>{const c=detail(e).closest('.status-diagram-house').length?'House':detail(e).closest('.status-diagram-senate').length?'Senate':'';const step=clean(detail(e).text());return /Reported By Committee/.test(step)?c+' committee reported the bill':step;}).get();if(!record.completedSteps.includes('Introduced In '+chamber))throw new Error('Missing introduction marker');const final=detail('.status-diagram-final').first();if(!final.find('img[alt="Final step completed"],img[alt="Final step not completed"]').length)throw new Error('Missing final marker');record.finalStage={label:clean(final.text()),completed:final.find('img[alt="Final step completed"]').length>0};const order=['Introduced In '+chamber,'In '+chamber+' Committee',chamber+' committee reported the bill','Passed By '+chamber,'Introduced In '+(chamber==='House'?'Senate':'House'),'In '+(chamber==='House'?'Senate':'House')+' Committee',(chamber==='House'?'Senate':'House')+' committee reported the bill','Passed By '+(chamber==='House'?'Senate':'House')];record.completedSteps.sort((a,b)=>order.indexOf(a)-order.indexOf(b));}
+ return {representative:person,assembly:'136th General Assembly',records};
+}
+await collect('legislation-snapshot.json','https://www.ohiosenate.gov/members/mark-romanchuk/legislation',$=>stateBills($,'Mark Romanchuk','Senate','https://www.ohiosenate.gov'));
+await collect('hutson-legislation-snapshot.json','https://www.ohiohouse.gov/members/sean-hutson/legislation',$=>stateBills($,'Sean Hutson','House','https://www.ohiohouse.gov'));

@@ -1,0 +1,1965 @@
+[
+  {
+    "cutoff": "2026-10-05",
+    "publishedAt": "2026-10-05T20:08:58.084Z",
+    "editorPrompt": "resident-editor-v2",
+    "reviewerPrompt": "resident-reviewer-v2",
+    "stories": [
+      {
+        "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
+        "category": "Schools",
+        "title": "What Wadsworth schools’ proposed 1% earned income tax would cover",
+        "dek": "The November 3 vote concerns a five-year tax on district residents’ earned income.",
+        "body": "Wadsworth City School District voters face a proposed 1% earned income tax for five years on November 3, 2026. For households weighing the cost, the district’s tax explanation includes wages, salaries, tips and self-employment income from sole proprietorships and partnerships, to the extent included in modified adjusted gross income.\n\nThe district says retirement income, interest, dividends, capital gains and unemployment benefits are excluded. The tax would be paid by district residents if approved.\n\nThe financial context predates this election: the district’s August forecast projected that cash reserves would run out in fiscal year 2029 without changes. The district says it is reviewing staffing and service reductions alongside the tax proposal. That forecast is a projection, not an existing cash shortfall.",
+        "source": {
+          "title": "1% Earned Income Tax FAQ",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+          "owner": "Wadsworth City Schools",
+          "checked": "2026-10-05",
+          "published": ""
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "",
+          "decisionDate": "2026-11-03",
+          "readerPerspectives": [
+            "school_parent",
+            "busy_parent",
+            "business_owner"
+          ],
+          "residentValue": "Helps voters understand the proposed tax’s duration, covered income and financial context before deciding.",
+          "change": "An upcoming vote on a five-year, 1% earned income tax provides a timely reason to explain existing financial background.",
+          "whyNow": "The November 3, 2026 election is 29 days after the edition cutoff.",
+          "review": "independent-pass"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The district proposes a 1% earned income tax for five years at the November 3, 2026 election; the proposal awaits voters.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 1,
+            "quote": "Request: 1.0% Earned Income Tax\n                              Duration: A Period of Five (5) Years\n                                 Election: November 3, 2026",
+            "claimId": "c1",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd"
+          },
+          {
+            "assertion": "Covered earned income includes wages, salaries, tips and self-employment income from sole proprietorships and partnerships to the extent included in modified adjusted gross income; the listed retirement and investment income and unemployment benefits are excluded.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 4,
+            "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
+            "claimId": "c2",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd"
+          },
+          {
+            "assertion": "District residents would pay the earned income tax if voters approve it.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 4,
+            "quote": "If approved, the earned income tax is paid by residents of the Wadsworth City School District,\nas outlined in the question above.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd"
+          },
+          {
+            "assertion": "The financial projection dates to August 2026.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 1,
+            "quote": "Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
+            "claimId": "c4",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1"
+          },
+          {
+            "assertion": "The district projected depletion of cash reserves in fiscal year 2029 without changes and said it was reviewing staffing and service reductions alongside the proposed tax.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 19,
+            "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-schools-earned-income-tax-2026-11-03",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "residentValue": "District voters can understand which income the proposed five-year tax would reach and distinguish the district’s projected reserve depletion from a current cash shortfall before voting.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "The proposed school district tax is 1% of earned income for five years and awaits voters on November 3, 2026.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7",
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "FAQ page 1 gives the rate, duration and election date; forecast page 19 confirms ballot placement. Supports the headline’s proposed status, deck and opening sentence."
+            },
+            {
+              "assertion": "Covered income includes wages, salaries, tips and self-employment income from sole proprietorships and partnerships to the extent included in modified adjusted gross income; retirement income, interest, dividends, capital gains and unemployment benefits are excluded.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED",
+              "note": "FAQ page 4 contains the exact supplied excerpt. The copy appropriately identifies the district’s explanation as its source."
+            },
+            {
+              "assertion": "District residents would pay the earned income tax if approved.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED",
+              "note": "FAQ page 4 explicitly identifies district residents as taxpayers, subject to the preceding earned-income definition."
+            },
+            {
+              "assertion": "The financial forecast dates to August 2026 and predates the election.",
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "Pages 1 and 3 identify the projection as August 2026. The copy clearly treats it as background."
+            },
+            {
+              "assertion": "The district projected cash reserve depletion in fiscal year 2029 without changes and said it was reviewing staffing and service reductions alongside the tax proposal.",
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 19 contains the exact supplied excerpt. The copy preserves attribution, conditionality and projected status."
+            },
+            {
+              "assertion": "The forecasted reserve depletion is a projection, not an existing cash shortfall.",
+              "claimIds": [],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 19 reports a positive June 30, 2026 cash balance and projects negative cash beginning in fiscal year 2029. This distinction concerns cash reserves, not the separately documented annual deficit spending."
+            },
+            {
+              "assertion": "The November 3 election is 29 days after the October 5 cutoff, providing a timely consequential choice for an explainer.",
+              "claimIds": [],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED",
+              "note": "The election date on page 1 falls within the permitted 30-day explainer window. No prior stories were supplied, and the candidate does not present August background as new reporting."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T19:58:08.759Z",
+          "candidateHash": "bd1d321bbae5d56eb1f93045ff9908106c098273b9c10440f908f8a648e47e28"
+        },
+        "selection": {
+          "scores": {
+            "impact": 3,
+            "usefulness": 3,
+            "timeliness": 2
+          },
+          "affectedAudience": "Wadsworth City School District voters, residents with earned income and families using district schools.",
+          "wadsworthConnection": "The proposed tax applies to residents of Wadsworth City School District.",
+          "neighborTakeaway": "The November 3 school proposal is a five-year, 1% earned income tax; retirement income is excluded.",
+          "newBeyondPriorCoverage": "No prior coverage was supplied. This explains an upcoming tax choice using existing background."
+        }
+      }
+    ],
+    "projects": [
+      {
+        "slug": "wadsworth-lot-10300-chick-fil-a",
+        "name": "Council approved access-road step tied to Wadsworth Chick-fil-A",
+        "category": "Development",
+        "stage": "Right-of-way and utility-easement ordinance adopted",
+        "location": "City of Wadsworth lot 10300",
+        "description": "Wadsworth City Council adopted an access-road and utility-easement ordinance on August 3, 2026, tied to Chick-fil-A’s ability to locate in the city.\n\nOrdinance 26-082 accepted public right of way for Access Road #1 and public utility easements shown on the subdivision plat for city lot 10300. The Planning Commission had approved that plat on June 8. Council adopted the ordinance with six members voting yes, Mike Reese abstaining and no votes against.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-08-03",
+        "evidence": [
+          {
+            "title": "Special City Council Agenda Packet - Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-08-03"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-08-03",
+            "title": "Council approved access-road step tied to Wadsworth Chick-fil-A",
+            "text": "The August 3 action accepted public right of way and utility easements for city lot 10300."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "Council linked Ordinance 26-082 to Chick-fil-A’s ability to locate in Wadsworth.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "He noted that the primary items were Ordinance 26-082 concerning Chick-\nfil-A's ability to locate within the City",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Ordinance 26-082 accepted public right of way for Access Road #1 and public utility easements on the subdivision plat of Wadsworth lot 10300, approved by the Planning Commission June 8, 2026.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "ORDINANCE NO. 26-082: AN ORDINANCE ACCEPTING PUBLIC RIGHT OF WAY\nFOR ACCESS ROAD #1 AND PUBLIC UTILITY EASEMENTS AS SHOWN ON THE\nSUBDIVISION PLAT OF CITY OF WADSWORTH LOT #10300 AS APPROVED BY\nTHE PLANNING COMMISSION ON JUNE 8, 2026 AND DECLARING AN\nEMERGENCY",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Council adopted the ordinance August 3, 2026, with six yes votes, Reese abstaining and none opposed.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "President Rospert called for a vote. Ayes: May,\nStugmyer, Berger, Hines, Maxwell, Yurchiak. Abstain: Reese. Nays: None Ordinance No.\n26-082 declared to have been adopted August 3, 2026.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-lot-10300-chick-fil-a",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following the proposed Wadsworth Chick-fil-A can identify the infrastructure approval Council completed on August 3 without mistaking it for an opening or construction announcement.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Council linked Ordinance 26-082 to Chick-fil-A’s ability to locate in Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 records Council President Rospert explicitly making this connection. Supports the headline and opening sentence without establishing an opening date or construction status."
+            },
+            {
+              "assertion": "Ordinance 26-082 accepted public right of way for Access Road #1 and public utility easements shown on the subdivision plat of Wadsworth lot 10300; the Planning Commission approved the plat June 8, 2026.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "The ordinance title on page 1 contains the supplied excerpt and supports the deck, body, location identifier and stated milestone. No street address or map pin is asserted."
+            },
+            {
+              "assertion": "Council adopted Ordinance 26-082 on August 3, 2026, with six yes votes, Mike Reese abstaining and none opposed.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly declares adoption and names six affirmative voters. The attendance list establishes Reese’s first name. The separate procedural motion references a different resolution number, but the final adoption statement expressly identifies Ordinance 26-082."
+            },
+            {
+              "assertion": "This is a dated infrastructure milestone for a proposed local business, rather than current news.",
+              "claimIds": [],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "The August 3 action predates the news window at the October 5 cutoff. The PROJECT exception applies: copy preserves the historical date and limited approval status. Supplied prior coverage contains no duplicate project entry."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T19:58:08.759Z",
+          "candidateHash": "24d3e0e4d67539a0010047d578c0f5ed83aed07d894570e0b4df570423166ccf"
+        },
+        "selection": {
+          "scores": {
+            "impact": 1,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents interested in the proposed Chick-fil-A development in Wadsworth.",
+          "wadsworthConnection": "City Council linked Ordinance 26-082 to Chick-fil-A locating in the city.",
+          "neighborTakeaway": "Council approved an access-road and utility-easement step tied to Chick-fil-A on August 3.",
+          "newBeyondPriorCoverage": "No prior project entry was supplied; this records a dated infrastructure approval."
+        }
+      },
+      {
+        "slug": "wadsworth-good-avenue-longview-drive-water-line",
+        "name": "Good Avenue and Longview Drive water-line project cleared for bidding",
+        "category": "Infrastructure",
+        "stage": "Bidding and contract-award authorization approved",
+        "location": "Good Avenue and Longview Drive, Wadsworth",
+        "description": "Wadsworth City Council authorized bidding and contract awards for the Good Avenue and Longview Drive water-line replacement project on September 1, 2026. The action concerns water infrastructure on those two streets.\n\nCouncil adopted Ordinance 26-095 unanimously, authorizing the public service director to advertise, receive bids and award contracts for the project. This dated milestone establishes the authority to seek bids and award the work; it does not establish a construction start date.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-09-01",
+        "evidence": [
+          {
+            "title": "City Council Agenda Packet & Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-09-01"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-09-01",
+            "title": "Good Avenue and Longview Drive water-line project cleared for bidding",
+            "text": "Council’s September 1 action authorized bids and contract awards for water-line replacement."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "Ordinance 26-095 authorizes the public service director to advertise, receive bids and award contracts for water-line replacement on Good Avenue and Longview Drive in Wadsworth. This establishes bidding and award authority rather than a construction start date.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 5,
+            "quote": "ORDINANCE NO. 26-095: AN ORDINANCE AUTHORIZING AND DIRECTING THE\nDIRECTOR OF PUBLIC SERVICE TO ADVERTISE, RECEIVE BIDS AND AWARD\nCONTRACTS PURSUANT TO ORC 735.05 IN ACCORDANCE WITH THE\nREQUIREMENTS OF ORC 9.17 FOR THE GOOD AVENUE AND LONGVIEW DRIVE\nWATER LINE REPLACEMENT PROJECT AND DECLARING AN EMERGENCY",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee"
+          },
+          {
+            "assertion": "Council unanimously adopted Ordinance 26-095 on September 1, 2026.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 5,
+            "quote": "President Pro Tem Stugmyer called for a vote. Ayes: Yurchiak, Maxwell, Hines, Reese,\nStugmyer, Berger, May. Nays: None Ordinance No. 26-095 declared to have been adopted\nSeptember 1, 2026.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-good-avenue-longview-drive-water-line",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents along Good Avenue and Longview Drive can identify the September 1 water-line replacement authorization without mistaking it for a construction announcement.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Ordinance 26-095 authorizes the public service director to advertise, receive bids and award contracts for the Good Avenue and Longview Drive water-line replacement project in Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 5 contains the exact quoted ordinance title; the Wadsworth Council record establishes the local connection. Supports the headline, deck, project location, authorization stage and body’s description of water infrastructure on the two streets."
+            },
+            {
+              "assertion": "Council unanimously adopted Ordinance 26-095 on September 1, 2026.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 5 contains the exact supplied adoption excerpt, naming seven affirmative votes and no opposing votes. Supports the date and unanimity stated in the copy."
+            },
+            {
+              "assertion": "The recorded action establishes authority to seek bids and award contracts, without establishing a construction start date.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 5 documents authorization, not an executed award or construction schedule. The copy accurately limits what this milestone establishes."
+            },
+            {
+              "assertion": "The September 1 milestone falls outside the current news window and adds a project record absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "The action predates the October 5 cutoff by 34 days. Neither supplied prior item covers this project. The dated lookup framing qualifies under the PROJECT exception without presenting the authorization as fresh news."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "7a5a5c3c8febf1408031829c84a7886bb2f3c057b65d7d133b469585bad39832"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents and property owners along Good Avenue and Longview Drive.",
+          "wadsworthConnection": "The approved water-line replacement project concerns two named streets in Wadsworth.",
+          "neighborTakeaway": "Council authorized bidding and contract awards for water-line replacement on Good Avenue and Longview Drive on September 1.",
+          "newBeyondPriorCoverage": "Neither supplied prior item covers this water-line replacement authorization."
+        }
+      },
+      {
+        "slug": "wadsworth-seville-road-access",
+        "name": "Seville Road access project received construction contract authorization",
+        "category": "Infrastructure",
+        "stage": "Construction contract authorized",
+        "location": "Seville Road Access Project, Wadsworth",
+        "description": "Wadsworth City Council authorized the public service director to enter into a construction contract with Fechko Excavating, LLC for the Seville Road Access Project on July 14, 2026.\n\nCouncil adopted amended Ordinance 26-080 with seven votes in favor and none opposed. The action authorized the contract; it did not establish when construction would begin.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-07-14",
+        "evidence": [
+          {
+            "title": "Special City Council Agenda Packet - Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-07-14"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-07-14",
+            "title": "Seville Road access project received construction contract authorization",
+            "text": "Council’s July 14 action named Fechko Excavating as the contractor."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "The Seville Road Access Project ordinance authorizes the public service director to enter into a construction contract with Fechko Excavating, LLC; this is contract authorization, not a construction start announcement.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 2,
+            "quote": "ORDINANCE NO. 26-080 (1st RDG) AN ORDINANCE AUTHORIZING AND\nDIRECTING THE DIRECTOR OF PUBLIC SERVICE TO ENTER INTO A\nCONTRACT FOR CONSTRUCTION OF THE SEVILLE ROAD ACCESS PROJECT\nWITH FECHKO EXCAVATING, LLC AND DECLARING AN EMERGENCY",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          },
+          {
+            "assertion": "Council adopted amended Ordinance 26-080 on July 14, 2026, with seven affirmative votes and none opposed.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 2,
+            "quote": "President Rospert called for a vote. Ayes: Reese, Hines,\nMaxwell, Yurchiak, Stugmyer, Berger, May. Nays: None Amended Ordinance No. 26-080\ndeclared to have been adopted July 14, 2026",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-seville-road-access",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following Seville Road improvements can identify the July 14 contract authorization and named contractor without mistaking the milestone for a construction start announcement.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Wadsworth City Council authorized the public service director to enter into a construction contract with Fechko Excavating, LLC for the Seville Road Access Project.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 2 contains the exact ordinance-title excerpt and records adoption. The amendment explicitly corrects the responsible official to Director of Public Service. Supports the headline, deck, body and authorization stage; it does not establish contract execution."
+            },
+            {
+              "assertion": "Council adopted amended Ordinance 26-080 on July 14, 2026, with seven affirmative votes and none opposed.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 2 contains the exact supplied adoption excerpt, naming seven affirmative voters and no opposing votes. Supports the date in the deck and body."
+            },
+            {
+              "assertion": "The recorded milestone is contract authorization, not a construction start announcement, and does not establish when construction would begin.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The supplied minutes document authorization without a construction schedule. The copy appropriately limits what this record establishes."
+            },
+            {
+              "assertion": "The Seville Road Access Project has an evidenced Wadsworth connection.",
+              "claimIds": [],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Pages 1–2 identify Wadsworth City Council and its authorization for the named project. The location remains a project-level label; no exact site, boundaries or map pin are asserted."
+            },
+            {
+              "assertion": "The July 14 authorization is a historical project milestone absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The action predates the October 5 news window. Supplied prior items do not cover this authorization. The explicitly dated lookup qualifies under the PROJECT exception and makes no claim about current construction status."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "c473b4a40240b6693555908189c07888ac0352ec24441dcf310a3d81a3554c74"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents following road construction on Seville Road.",
+          "wadsworthConnection": "Wadsworth City Council authorized the Seville Road Access Project contract.",
+          "neighborTakeaway": "Council authorized a construction contract with Fechko Excavating for the Seville Road Access Project on July 14.",
+          "newBeyondPriorCoverage": "The supplied prior projects do not include this contract authorization."
+        }
+      },
+      {
+        "slug": "wadsworth-wall-road-development-annexation",
+        "name": "Wall Road annexation proposal cleared a municipal-services step",
+        "category": "Development",
+        "stage": "Municipal-services resolution adopted",
+        "location": "Wadsworth · exact site not established",
+        "description": "Wadsworth City Council adopted a municipal-services resolution on July 14, 2026, for Wall Road Development’s proposed annexation of 94.2835 acres from Wadsworth Township into the city.\n\nEconomic Development Director Tom Morris explained that the resolution identifies municipal services available if the property is annexed. He said it did not approve the annexation or a development, or determine the city’s capacity to serve the property. Council adopted Resolution 26-09 with seven votes in favor and none opposed.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-07-14",
+        "evidence": [
+          {
+            "title": "Special City Council Agenda Packet - Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-07-14"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-07-14",
+            "title": "Wall Road annexation proposal cleared a municipal-services step",
+            "text": "Council’s July 14 resolution concerned a proposed 94.2835-acre annexation."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "Resolution 26-09 concerns municipal services for Wall Road Development’s proposed annexation of 94.2835 acres from Wadsworth Township into Wadsworth.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 3,
+            "quote": "RESOLUTION NO. 26-09: A RESOLUTION PURSUANT TO DIVISION (C) OF\nSECTION 709.023 OF THE OHIO REVISED CODE STATING WHAT SERVICES THE\nCITY OF WADSWORTH WILL PROVIDE AND AN APPROXIMATE DATE BY\nWHICH IT WILL PROVIDE THEM TO THE TERRITORY PROPOSED FOR\nANNEXATION BY THE PETITION OF WALL ROAD DEVELOPMENT FOR AN\nEXPEDITED TYPE 2 ANNEXATION OF 94.2835 ACRES FROM THE TOWNSHIP OF\nWADSWORTH TO THE CITY OF WADSWORTH UPON ANNEXATION",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          },
+          {
+            "assertion": "Economic Development Director Morris described the resolution as identifying available services, without approving annexation or development or determining service capacity.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 3,
+            "quote": "Economic Director Morris explained that the resolution fulfills the City's statutory obligation\nunder Ohio law to identify the municipal services available to the proposed annexation area\nwithin twenty days of the filing of the petition. He emphasized that the resolution was\nprocedural and did not constitute approval of the annexation, approval of development, or a\ndetermination regarding the City's capacity to serve the property.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          },
+          {
+            "assertion": "Council adopted Resolution 26-09 on July 14, 2026, with seven affirmative votes and none opposed.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 4,
+            "quote": "President Rospert called for a vote. Ayes: Berger, Reese, Yurchiak,\nMaxwell, May Stugmyer, Hines. Nays: None Resolution No. 26-09 declared to have been\nadopted July 14, 2026.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-wall-road-development-annexation",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following the Wall Road Development proposal can distinguish Council’s July 14 services resolution from approval to annex or develop the land.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Resolution 26-09 concerns municipal services for Wall Road Development’s proposed annexation of 94.2835 acres from Wadsworth Township into Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact supplied excerpt identifying the petitioner, acreage, jurisdictions and services purpose. Supports the deck and opening paragraph."
+            },
+            {
+              "assertion": "Economic Development Director Tom Morris explained that the resolution identifies available municipal services if annexation occurs, without approving annexation or development or determining service capacity.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 identifies Tom Morris as Economic Director; page 3 contains the quoted explanation and conditional service availability. The body appropriately attributes these distinctions to Morris."
+            },
+            {
+              "assertion": "Council adopted Resolution 26-09 on July 14, 2026, with seven affirmative votes and none opposed.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 4 explicitly records adoption and no opposing votes. Although the final roll call omits a comma between May and Stugmyer, page 1 identifies them as separate members, supporting seven affirmative votes. The earlier divided procedural vote was not the adoption vote."
+            },
+            {
+              "assertion": "The annexation proposal cleared a municipal-services step, establishing the stated project milestone.",
+              "claimIds": [
+                "c1",
+                "c3"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The resolution’s purpose on page 3 and adoption on page 4 support the headline and stage. The copy does not imply annexation approval, construction or an opening date."
+            },
+            {
+              "assertion": "The July 14 action is a historical project milestone absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The action predates the October 5 news window, and no supplied prior item covers this annexation. The explicitly dated lookup qualifies under the PROJECT exception without asserting current annexation status. No location pin or optional media is proposed."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "87efdc85433b1111aaa61af0dfdde7a9129f7472d2ee9ddd73d578c1159532f2"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents following the Wall Road Development annexation proposal.",
+          "wadsworthConnection": "The petition concerns annexation from Wadsworth Township into the City of Wadsworth.",
+          "neighborTakeaway": "Council adopted a municipal-services resolution for the proposed annexation, without approving annexation or development.",
+          "newBeyondPriorCoverage": "No supplied prior project covers the Wall Road annexation services resolution."
+        }
+      },
+      {
+        "slug": "wadsworth-briarthorn-sr261-turn-lane",
+        "name": "Briarthorn turn-lane construction was reported beginning in July",
+        "category": "Infrastructure",
+        "stage": "Construction reported beginning July 13, 2026",
+        "location": "State Route 261 at Briarthorn Crescent, Wadsworth",
+        "description": "Construction was beginning on the State Route 261 turn lane into Briarthorn, Economic Development Director Tom Morris reported on July 13, 2026.\n\nThe improvement was a condition for completing the subdivision. In June, Morris said a developer had committed to building the required lane and that approximately 40 residential lots remained in the principal unfinished section. He explained that the subdivision was already platted and subdivided, allowing remaining homes to proceed to construction once the turn lane was completed.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-07-13",
+        "evidence": [
+          {
+            "title": "Economic Development & Planning & Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-07-13"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-07-13",
+            "title": "Briarthorn turn-lane construction was reported beginning in July",
+            "text": "The State Route 261 improvement was required before remaining homes could proceed."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "On July 13, 2026, Morris reported construction beginning on the State Route 261 turn lane into Briarthorn.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 3,
+            "quote": "Economic Director Morris stated that the City was beginning to enter the building phase of the\nconstruction season. He reported that construction was beginning on State Route 261 for the turn lane\ninto Briarthorn and that residents would begin seeing construction signs in the area.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "The July report occurred at the July 13, 2026 committee meeting.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 1,
+            "quote": "Council Member Hines called the July 13, 2026 Economic Development & Planning Committee to\norder at approximately 5:00 p.m.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "The required turn lane connects State Route 261 to Briarthorn Crescent.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 2,
+            "quote": "a previous Planning Commission required installation of\na left-turn lane from State Route 261 into Briarthorn Crescent once the subdivision exceeded\napproximately one hundred homes.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Morris said a developer committed to constructing the required turn lane, allowing completion of the subdivision.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 3,
+            "quote": "Director Morris stated that a developer has now committed to constructing the required turn lane,\nallowing completion of the subdivision.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Approximately 40 residential lots remained in the principal unfinished section, according to Morris.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 3,
+            "quote": "Director Morris responded that approximately forty additional residential lots remain within the\nprincipal unfinished section of Briarthorn.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Morris explained that the subdivision was already platted and subdivided and remaining homes could proceed to construction once the lane was completed.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 3,
+            "quote": "Director Morris explained that the subdivision has already been platted and subdivided; therefore,\nonce the turn lane is completed, the remaining homes may proceed directly to construction.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "The earlier development report occurred June 8, 2026.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 1,
+            "quote": "Council Member May called the Economic Development & Planning Committee Work Session to\norder at 5:00 p.m.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-briarthorn-sr261-turn-lane",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Briarthorn residents and prospective homebuyers can understand the July construction milestone and why completing the turn lane was required for remaining homes to proceed.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "On July 13, 2026, Morris reported construction beginning on the State Route 261 turn lane into Briarthorn.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt. Supports the headline, opening sentence and dated stage; July 13 is the report date, not an independently established exact construction start date."
+            },
+            {
+              "assertion": "The July report occurred at the July 13, 2026 Economic Development & Planning Committee meeting.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly identifies the meeting date and contains the supplied excerpt."
+            },
+            {
+              "assertion": "The required turn lane connects State Route 261 to Briarthorn Crescent in Wadsworth.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Pages 1–2 establish the city context and identify a required left-turn lane from State Route 261 into Briarthorn Crescent. Supports the textual location; no coordinates, boundaries or map pin are proposed."
+            },
+            {
+              "assertion": "Morris said a developer committed to constructing the required turn lane, allowing completion of the subdivision.",
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt and describes the improvement as the final obstacle to completion. Supports the body's stated condition."
+            },
+            {
+              "assertion": "Approximately 40 residential lots remained in the principal unfinished section, according to Morris.",
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt. Copy preserves the approximate count and section limitation rather than presenting 40 as the subdivision-wide total."
+            },
+            {
+              "assertion": "Morris explained that the subdivision was already platted and subdivided and remaining homes could proceed to construction once the lane was completed.",
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 explicitly states this sequence. Supports the deck and final sentence without asserting that the lane was completed or home construction subsequently began."
+            },
+            {
+              "assertion": "The earlier development report occurred June 8, 2026.",
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "The supplied excerpt exists but omits the date; the page 1 heading and page footers establish June 8, 2026. The gathering was a work session without a quorum, and the candidate does not imply a formal action."
+            },
+            {
+              "assertion": "Tom Morris was Wadsworth's Economic Development Director.",
+              "claimIds": [],
+              "sourceIds": [
+                "a40c02a3953b9663741a",
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Both records' page 1 attendance lists identify Economic Development Director Tom Morris."
+            },
+            {
+              "assertion": "The July construction report advanced June's expectation and supplies a historical project milestone absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "a40c02a3953b9663741a",
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "June page 3 anticipated summer roadway construction; July page 3 reported construction beginning. No supplied prior item covers Briarthorn. The explicit historical framing qualifies under the PROJECT exception at the October 5 cutoff and makes no present-day status claim."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "e9ae5386009c7915829d8b21e3653fd22b36b8dfe93085f15380ec2f9756d992"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Briarthorn residents and people following development along State Route 261.",
+          "wadsworthConnection": "City officials identified the turn lane into Briarthorn as a requirement for completing the subdivision.",
+          "neighborTakeaway": "The city reported in July that construction was beginning on Briarthorn’s required State Route 261 turn lane.",
+          "newBeyondPriorCoverage": "The supplied prior projects do not cover Briarthorn; July reporting advances the June expectation of turn-lane construction."
+        }
+      }
+    ]
+  },
+  {
+    "cutoff": "2026-10-05",
+    "publishedAt": "2026-10-05T20:12:07.460Z",
+    "editorPrompt": "resident-editor-v2",
+    "reviewerPrompt": "resident-reviewer-v2",
+    "stories": [
+      {
+        "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
+        "category": "Schools",
+        "title": "What Wadsworth schools’ proposed 1% earned income tax would cover",
+        "dek": "The November 3 vote concerns a five-year tax on district residents’ earned income.",
+        "body": "Wadsworth City School District voters face a proposed 1% earned income tax for five years on November 3, 2026. For households weighing the cost, the district’s tax explanation includes wages, salaries, tips and self-employment income from sole proprietorships and partnerships, to the extent included in modified adjusted gross income.\n\nThe district says retirement income, interest, dividends, capital gains and unemployment benefits are excluded. The tax would be paid by district residents if approved.\n\nThe financial context predates this election: the district’s August forecast projected that cash reserves would run out in fiscal year 2029 without changes. The district says it is reviewing staffing and service reductions alongside the tax proposal. That forecast is a projection, not an existing cash shortfall.",
+        "source": {
+          "title": "1% Earned Income Tax FAQ",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+          "owner": "Wadsworth City Schools",
+          "checked": "2026-10-05",
+          "published": ""
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "",
+          "decisionDate": "2026-11-03",
+          "readerPerspectives": [
+            "school_parent",
+            "busy_parent",
+            "business_owner"
+          ],
+          "residentValue": "Helps voters understand the proposed tax’s duration, covered income and financial context before deciding.",
+          "change": "An upcoming vote on a five-year, 1% earned income tax provides a timely reason to explain existing financial background.",
+          "whyNow": "The November 3, 2026 election is 29 days after the edition cutoff.",
+          "review": "independent-pass"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The district proposes a 1% earned income tax for five years at the November 3, 2026 election; the proposal awaits voters.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 1,
+            "quote": "Request: 1.0% Earned Income Tax\n                              Duration: A Period of Five (5) Years\n                                 Election: November 3, 2026",
+            "claimId": "c1",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd"
+          },
+          {
+            "assertion": "Covered earned income includes wages, salaries, tips and self-employment income from sole proprietorships and partnerships to the extent included in modified adjusted gross income; the listed retirement and investment income and unemployment benefits are excluded.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 4,
+            "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
+            "claimId": "c2",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd"
+          },
+          {
+            "assertion": "District residents would pay the earned income tax if voters approve it.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 4,
+            "quote": "If approved, the earned income tax is paid by residents of the Wadsworth City School District,\nas outlined in the question above.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd"
+          },
+          {
+            "assertion": "The financial projection dates to August 2026.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 1,
+            "quote": "Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
+            "claimId": "c4",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1"
+          },
+          {
+            "assertion": "The district projected depletion of cash reserves in fiscal year 2029 without changes and said it was reviewing staffing and service reductions alongside the proposed tax.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 19,
+            "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-schools-earned-income-tax-2026-11-03",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "residentValue": "District voters can understand which income the proposed five-year tax would reach and distinguish the district’s projected reserve depletion from a current cash shortfall before voting.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "The proposed school district tax is 1% of earned income for five years and awaits voters on November 3, 2026.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7",
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "FAQ page 1 gives the rate, duration and election date; forecast page 19 confirms ballot placement. Supports the headline’s proposed status, deck and opening sentence."
+            },
+            {
+              "assertion": "Covered income includes wages, salaries, tips and self-employment income from sole proprietorships and partnerships to the extent included in modified adjusted gross income; retirement income, interest, dividends, capital gains and unemployment benefits are excluded.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED",
+              "note": "FAQ page 4 contains the exact supplied excerpt. The copy appropriately identifies the district’s explanation as its source."
+            },
+            {
+              "assertion": "District residents would pay the earned income tax if approved.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED",
+              "note": "FAQ page 4 explicitly identifies district residents as taxpayers, subject to the preceding earned-income definition."
+            },
+            {
+              "assertion": "The financial forecast dates to August 2026 and predates the election.",
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "Pages 1 and 3 identify the projection as August 2026. The copy clearly treats it as background."
+            },
+            {
+              "assertion": "The district projected cash reserve depletion in fiscal year 2029 without changes and said it was reviewing staffing and service reductions alongside the tax proposal.",
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 19 contains the exact supplied excerpt. The copy preserves attribution, conditionality and projected status."
+            },
+            {
+              "assertion": "The forecasted reserve depletion is a projection, not an existing cash shortfall.",
+              "claimIds": [],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 19 reports a positive June 30, 2026 cash balance and projects negative cash beginning in fiscal year 2029. This distinction concerns cash reserves, not the separately documented annual deficit spending."
+            },
+            {
+              "assertion": "The November 3 election is 29 days after the October 5 cutoff, providing a timely consequential choice for an explainer.",
+              "claimIds": [],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED",
+              "note": "The election date on page 1 falls within the permitted 30-day explainer window. No prior stories were supplied, and the candidate does not present August background as new reporting."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T19:58:08.759Z",
+          "candidateHash": "bd1d321bbae5d56eb1f93045ff9908106c098273b9c10440f908f8a648e47e28"
+        },
+        "selection": {
+          "scores": {
+            "impact": 3,
+            "usefulness": 3,
+            "timeliness": 2
+          },
+          "affectedAudience": "Wadsworth City School District voters, residents with earned income and families using district schools.",
+          "wadsworthConnection": "The proposed tax applies to residents of Wadsworth City School District.",
+          "neighborTakeaway": "The November 3 school proposal is a five-year, 1% earned income tax; retirement income is excluded.",
+          "newBeyondPriorCoverage": "No prior coverage was supplied. This explains an upcoming tax choice using existing background."
+        }
+      }
+    ],
+    "projects": [
+      {
+        "slug": "wadsworth-lot-10300-chick-fil-a",
+        "name": "Chick-fil-A project behind Sheetz received access-road approval in August",
+        "category": "Development",
+        "stage": "Right-of-way and utility-easement ordinance adopted",
+        "location": "City lot 10300, directly west of Sheetz at the former Legacy Inn site, Wadsworth",
+        "description": "Wadsworth City Council adopted the access-road and utility-easement ordinance tied to the proposed Chick-fil-A on August 3, 2026. The site is directly west of Sheetz, where the Legacy Inn had been located.\n\nOrdinance 26-082 accepted public right of way for Access Road One and utility easements on the subdivision plat for city lot 10300. The Planning Commission approved that plat June 8. Council adopted the ordinance with six votes in favor, Reese abstaining and none opposed.\n\nIn July, Planning Director Kaiser described a roughly 245-foot extension of Access Road One across the restaurant property’s frontage, with a 40-foot right of way and a 20-foot utility easement to the north. His June description of the proposed layout placed customer access behind Sheetz: one inbound lane for parking and two for drive-through queues, circulating counterclockwise before exiting onto Access Road One. In July, Engineer Davis said the Planning Commission required delineators, striping and other measures to improve local traffic circulation.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-08-03",
+        "evidence": [
+          {
+            "title": "Special City Council Agenda Packet - Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-08-03"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-06-08",
+            "title": "Subdivision plat approved",
+            "text": "The Planning Commission approved the subdivision plat for city lot 10300."
+          },
+          {
+            "date": "2026-08-03",
+            "title": "Council accepted road right of way and utility easements",
+            "text": "Council adopted Ordinance 26-082 with six votes in favor, Reese abstaining and none opposed."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "Council linked Ordinance 26-082 to Chick-fil-A locating in Wadsworth.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "He noted that the primary items were Ordinance 26-082 concerning Chick-\nfil-A's ability to locate within the City",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Ordinance 26-082 accepted Access Road One public right of way and utility easements on the subdivision plat for Wadsworth lot 10300; the Planning Commission approved the plat June 8, 2026.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "ORDINANCE NO. 26-082: AN ORDINANCE ACCEPTING PUBLIC RIGHT OF WAY\nFOR ACCESS ROAD #1 AND PUBLIC UTILITY EASEMENTS AS SHOWN ON THE\nSUBDIVISION PLAT OF CITY OF WADSWORTH LOT #10300 AS APPROVED BY\nTHE PLANNING COMMISSION ON JUNE 8, 2026 AND DECLARING AN\nEMERGENCY",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Council adopted Ordinance 26-082 August 3, 2026, with six affirmative votes, Reese abstaining and none opposed; this remains the project's latest evidenced milestone.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "President Rospert called for a vote. Ayes: May,\nStugmyer, Berger, Hines, Maxwell, Yurchiak. Abstain: Reese. Nays: None Ordinance No.\n26-082 declared to have been adopted August 3, 2026.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Planning Director Kaiser identified the city lot 10300 property as directly west of Sheetz.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 3,
+            "quote": "Planning Director Kaiser stated that a second item had been added and that an ordinance request had been\nsent to the Law Department concerning the acceptance of public right-of-way and utility easements\nassociated with the subdivision of City Lot 10300. He provided a copy of the draft plat and explained\nthat the property is directly west of the Sheetz property",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "Kaiser confirmed the site was behind Sheetz where the Legacy Inn had been located and described an approximately 245-foot Access Road One extension along the Chick-fil-A property.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 4,
+            "quote": "Council Member Hines asked whether the property was behind the Sheetz property where the Legacy\nInn had been located.\n\nPlanning Director Kaiser confirmed that it was and explained that the extension of Access Road One\nwould run approximately 245 feet, essentially the length of the Chick-fil-A property.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "Kaiser's July description included a 40-foot right of way across the frontage and a 20-foot utility easement to the north.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 4,
+            "quote": "He explained that Access Road One would\nbe extended across the frontage of the property as a 40-foot right-of-way and that a 20-foot utility\neasement to the north would also require Council acceptance.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "The site, access-road and traffic-requirement descriptions were reported at the July 13, 2026 meeting.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 1,
+            "quote": "Council Member Hines called the July 13, 2026 Economic Development & Planning Committee to\norder at approximately 5:00 p.m.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "Kaiser's June proposed circulation description placed access behind Sheetz, with one parking lane, two drive-through lanes, counterclockwise circulation and exit onto Access Road One.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 10,
+            "quote": "Director Kaiser confirmed that customers would enter the property from Access Road No. 1 located\nbehind Sheetz. After entering the site, traffic would separate into three inbound lanes. One lane would\nserve the primary parking area, while two lanes would feed the dual drive-through queues. Vehicles\nwould circulate counterclockwise around the building, with the ordering point located along the north\nside nearest Interstate 76 before continuing to the pickup windows and exiting back onto Access Road\nNo. 1.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "The proposed circulation description dates to June 8, 2026.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 1,
+            "quote": "June 8, 2026 5:00 P.M.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Engineer Davis said the Planning Commission required Chick-fil-A to install delineators, striping and other measures to optimize local traffic patterns.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 6,
+            "quote": "Engineer Davis explained that it varies. He cited Chick-fil-A as an example, stating that the Planning\nCommission required the project to install delineators, striping, and other measures to optimize local\ntraffic patterns",
+            "claimId": "c10",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-lot-10300-chick-fil-a",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following the proposed Chick-fil-A can locate its site behind Sheetz and understand the proposed vehicle access and required traffic measures alongside the dated August approval.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Council linked Ordinance 26-082 to Chick-fil-A locating in Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly connects the ordinance to Chick-fil-A’s ability to locate in the city. Supports the headline and opening without establishing construction or an opening."
+            },
+            {
+              "assertion": "Ordinance 26-082 accepted Access Road One public right of way and utility easements on the subdivision plat for Wadsworth lot 10300; the Planning Commission approved the plat June 8, 2026.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 contains the exact ordinance-title excerpt. Supports the body, project stage and June timeline entry."
+            },
+            {
+              "assertion": "Council adopted Ordinance 26-082 August 3, 2026, with six affirmative votes, Reese abstaining and none opposed; this is the latest project milestone evidenced in the supplied bundle.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly records adoption and the six named affirmative voters. The separate procedural motion references another resolution, but the final adoption statement expressly identifies Ordinance 26-082. No later project milestone is supplied."
+            },
+            {
+              "assertion": "Planning Director Kaiser identified the city lot 10300 property as directly west of Sheetz.",
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt and links the location to the lot’s subdivision and easements. Supports the textual project location."
+            },
+            {
+              "assertion": "Kaiser confirmed the site was behind Sheetz where the Legacy Inn had been located and described an approximately 245-foot Access Road One extension along the Chick-fil-A property.",
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 4 contains the exact confirmation and approximate length. Supports the headline’s relative location and the body’s site history and proposed extension."
+            },
+            {
+              "assertion": "Kaiser’s July description included a 40-foot right of way across the frontage and a 20-foot utility easement to the north.",
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 4 explicitly provides both dimensions and their placement. Copy preserves the description as a proposed extension."
+            },
+            {
+              "assertion": "The site, access-road and traffic-requirement descriptions were reported at the July 13, 2026 meeting.",
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 establishes the meeting date; pages 3–4 and 6 contain the relevant reports."
+            },
+            {
+              "assertion": "Kaiser’s June proposed circulation description placed access behind Sheetz, with one inbound lane serving parking, two serving drive-through queues, counterclockwise circulation and exit onto Access Road One.",
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 10 contains the exact circulation excerpt. Supports the deck and body while preserving proposed status and attribution."
+            },
+            {
+              "assertion": "The proposed circulation description dates to June 8, 2026.",
+              "claimIds": [
+                "c9"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 gives the date. This was a work session without formal committee action; the candidate correctly describes Kaiser’s report rather than inferring a vote."
+            },
+            {
+              "assertion": "Engineer Davis said the Planning Commission required Chick-fil-A to install delineators, striping and other measures to optimize local traffic patterns.",
+              "claimIds": [
+                "c10"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 6 contains the exact excerpt. The body attributes the report to Davis and describes the measures’ intended purpose without claiming a demonstrated traffic improvement."
+            },
+            {
+              "assertion": "The candidate adds site and proposed access details beyond the prior project entry while retaining August 3 as its dated approval milestone.",
+              "claimIds": [],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c",
+                "a40c02a3953b9663741a",
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "The prior entry covers the ordinance and vote but omits the relative site location, circulation layout, extension dimensions and traffic measures. This qualifies as historical PROJECT enrichment under the extension, with no fresh-news framing, invented opening date or unsupported map pin."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:10:30.801Z",
+          "candidateHash": "bdaf058731b97fb46542b43792b36b9d262ae8ba0d29e70539ff199d908839af"
+        },
+        "selection": {
+          "scores": {
+            "impact": 1,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents following the proposed Chick-fil-A and traffic access near Sheetz.",
+          "wadsworthConnection": "The project occupies city lot 10300 in Wadsworth, directly west of Sheetz at the former Legacy Inn site.",
+          "neighborTakeaway": "The proposed Chick-fil-A site is behind Sheetz, with access from Access Road One; Council approved the road and utility-easement step on August 3.",
+          "newBeyondPriorCoverage": "Adds the verified relative site location, proposed driveway circulation and required traffic measures while retaining the previously reported August 3 approval."
+        }
+      },
+      {
+        "slug": "wadsworth-good-avenue-longview-drive-water-line",
+        "name": "Good Avenue and Longview Drive water-line project cleared for bidding",
+        "category": "Infrastructure",
+        "stage": "Bidding and contract-award authorization approved",
+        "location": "Good Avenue and Longview Drive, Wadsworth",
+        "description": "Wadsworth City Council authorized bidding and contract awards for the Good Avenue and Longview Drive water-line replacement project on September 1, 2026. The action concerns water infrastructure on those two streets.\n\nCouncil adopted Ordinance 26-095 unanimously, authorizing the public service director to advertise, receive bids and award contracts for the project. This dated milestone establishes the authority to seek bids and award the work; it does not establish a construction start date.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-09-01",
+        "evidence": [
+          {
+            "title": "City Council Agenda Packet & Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-09-01"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-09-01",
+            "title": "Good Avenue and Longview Drive water-line project cleared for bidding",
+            "text": "Council’s September 1 action authorized bids and contract awards for water-line replacement."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "Ordinance 26-095 authorizes the public service director to advertise, receive bids and award contracts for water-line replacement on Good Avenue and Longview Drive in Wadsworth. This establishes bidding and award authority rather than a construction start date.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 5,
+            "quote": "ORDINANCE NO. 26-095: AN ORDINANCE AUTHORIZING AND DIRECTING THE\nDIRECTOR OF PUBLIC SERVICE TO ADVERTISE, RECEIVE BIDS AND AWARD\nCONTRACTS PURSUANT TO ORC 735.05 IN ACCORDANCE WITH THE\nREQUIREMENTS OF ORC 9.17 FOR THE GOOD AVENUE AND LONGVIEW DRIVE\nWATER LINE REPLACEMENT PROJECT AND DECLARING AN EMERGENCY",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee"
+          },
+          {
+            "assertion": "Council unanimously adopted Ordinance 26-095 on September 1, 2026.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 5,
+            "quote": "President Pro Tem Stugmyer called for a vote. Ayes: Yurchiak, Maxwell, Hines, Reese,\nStugmyer, Berger, May. Nays: None Ordinance No. 26-095 declared to have been adopted\nSeptember 1, 2026.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-good-avenue-longview-drive-water-line",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents along Good Avenue and Longview Drive can identify the September 1 water-line replacement authorization without mistaking it for a construction announcement.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Ordinance 26-095 authorizes the public service director to advertise, receive bids and award contracts for the Good Avenue and Longview Drive water-line replacement project in Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 5 contains the exact quoted ordinance title; the Wadsworth Council record establishes the local connection. Supports the headline, deck, project location, authorization stage and body’s description of water infrastructure on the two streets."
+            },
+            {
+              "assertion": "Council unanimously adopted Ordinance 26-095 on September 1, 2026.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 5 contains the exact supplied adoption excerpt, naming seven affirmative votes and no opposing votes. Supports the date and unanimity stated in the copy."
+            },
+            {
+              "assertion": "The recorded action establishes authority to seek bids and award contracts, without establishing a construction start date.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 5 documents authorization, not an executed award or construction schedule. The copy accurately limits what this milestone establishes."
+            },
+            {
+              "assertion": "The September 1 milestone falls outside the current news window and adds a project record absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED",
+              "note": "The action predates the October 5 cutoff by 34 days. Neither supplied prior item covers this project. The dated lookup framing qualifies under the PROJECT exception without presenting the authorization as fresh news."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "7a5a5c3c8febf1408031829c84a7886bb2f3c057b65d7d133b469585bad39832"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents and property owners along Good Avenue and Longview Drive.",
+          "wadsworthConnection": "The approved water-line replacement project concerns two named streets in Wadsworth.",
+          "neighborTakeaway": "Council authorized bidding and contract awards for water-line replacement on Good Avenue and Longview Drive on September 1.",
+          "newBeyondPriorCoverage": "Neither supplied prior item covers this water-line replacement authorization."
+        }
+      },
+      {
+        "slug": "wadsworth-seville-road-access",
+        "name": "Seville Road access project received construction contract authorization",
+        "category": "Infrastructure",
+        "stage": "Construction contract authorized",
+        "location": "Seville Road Access Project, Wadsworth",
+        "description": "Wadsworth City Council authorized the public service director to enter into a construction contract with Fechko Excavating, LLC for the Seville Road Access Project on July 14, 2026.\n\nCouncil adopted amended Ordinance 26-080 with seven votes in favor and none opposed. The action authorized the contract; it did not establish when construction would begin.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-07-14",
+        "evidence": [
+          {
+            "title": "Special City Council Agenda Packet - Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-07-14"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-07-14",
+            "title": "Seville Road access project received construction contract authorization",
+            "text": "Council’s July 14 action named Fechko Excavating as the contractor."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "The Seville Road Access Project ordinance authorizes the public service director to enter into a construction contract with Fechko Excavating, LLC; this is contract authorization, not a construction start announcement.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 2,
+            "quote": "ORDINANCE NO. 26-080 (1st RDG) AN ORDINANCE AUTHORIZING AND\nDIRECTING THE DIRECTOR OF PUBLIC SERVICE TO ENTER INTO A\nCONTRACT FOR CONSTRUCTION OF THE SEVILLE ROAD ACCESS PROJECT\nWITH FECHKO EXCAVATING, LLC AND DECLARING AN EMERGENCY",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          },
+          {
+            "assertion": "Council adopted amended Ordinance 26-080 on July 14, 2026, with seven affirmative votes and none opposed.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 2,
+            "quote": "President Rospert called for a vote. Ayes: Reese, Hines,\nMaxwell, Yurchiak, Stugmyer, Berger, May. Nays: None Amended Ordinance No. 26-080\ndeclared to have been adopted July 14, 2026",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-seville-road-access",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following Seville Road improvements can identify the July 14 contract authorization and named contractor without mistaking the milestone for a construction start announcement.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Wadsworth City Council authorized the public service director to enter into a construction contract with Fechko Excavating, LLC for the Seville Road Access Project.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 2 contains the exact ordinance-title excerpt and records adoption. The amendment explicitly corrects the responsible official to Director of Public Service. Supports the headline, deck, body and authorization stage; it does not establish contract execution."
+            },
+            {
+              "assertion": "Council adopted amended Ordinance 26-080 on July 14, 2026, with seven affirmative votes and none opposed.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 2 contains the exact supplied adoption excerpt, naming seven affirmative voters and no opposing votes. Supports the date in the deck and body."
+            },
+            {
+              "assertion": "The recorded milestone is contract authorization, not a construction start announcement, and does not establish when construction would begin.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The supplied minutes document authorization without a construction schedule. The copy appropriately limits what this record establishes."
+            },
+            {
+              "assertion": "The Seville Road Access Project has an evidenced Wadsworth connection.",
+              "claimIds": [],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Pages 1–2 identify Wadsworth City Council and its authorization for the named project. The location remains a project-level label; no exact site, boundaries or map pin are asserted."
+            },
+            {
+              "assertion": "The July 14 authorization is a historical project milestone absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The action predates the October 5 news window. Supplied prior items do not cover this authorization. The explicitly dated lookup qualifies under the PROJECT exception and makes no claim about current construction status."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "c473b4a40240b6693555908189c07888ac0352ec24441dcf310a3d81a3554c74"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents following road construction on Seville Road.",
+          "wadsworthConnection": "Wadsworth City Council authorized the Seville Road Access Project contract.",
+          "neighborTakeaway": "Council authorized a construction contract with Fechko Excavating for the Seville Road Access Project on July 14.",
+          "newBeyondPriorCoverage": "The supplied prior projects do not include this contract authorization."
+        }
+      },
+      {
+        "slug": "wadsworth-wall-road-development-annexation",
+        "name": "Wall Road annexation proposal cleared a municipal-services step",
+        "category": "Development",
+        "stage": "Municipal-services resolution adopted",
+        "location": "Wadsworth · exact site not established",
+        "description": "Wadsworth City Council adopted a municipal-services resolution on July 14, 2026, for Wall Road Development’s proposed annexation of 94.2835 acres from Wadsworth Township into the city.\n\nEconomic Development Director Tom Morris explained that the resolution identifies municipal services available if the property is annexed. He said it did not approve the annexation or a development, or determine the city’s capacity to serve the property. Council adopted Resolution 26-09 with seven votes in favor and none opposed.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-07-14",
+        "evidence": [
+          {
+            "title": "Special City Council Agenda Packet - Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-07-14"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-07-14",
+            "title": "Wall Road annexation proposal cleared a municipal-services step",
+            "text": "Council’s July 14 resolution concerned a proposed 94.2835-acre annexation."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "Resolution 26-09 concerns municipal services for Wall Road Development’s proposed annexation of 94.2835 acres from Wadsworth Township into Wadsworth.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 3,
+            "quote": "RESOLUTION NO. 26-09: A RESOLUTION PURSUANT TO DIVISION (C) OF\nSECTION 709.023 OF THE OHIO REVISED CODE STATING WHAT SERVICES THE\nCITY OF WADSWORTH WILL PROVIDE AND AN APPROXIMATE DATE BY\nWHICH IT WILL PROVIDE THEM TO THE TERRITORY PROPOSED FOR\nANNEXATION BY THE PETITION OF WALL ROAD DEVELOPMENT FOR AN\nEXPEDITED TYPE 2 ANNEXATION OF 94.2835 ACRES FROM THE TOWNSHIP OF\nWADSWORTH TO THE CITY OF WADSWORTH UPON ANNEXATION",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          },
+          {
+            "assertion": "Economic Development Director Morris described the resolution as identifying available services, without approving annexation or development or determining service capacity.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 3,
+            "quote": "Economic Director Morris explained that the resolution fulfills the City's statutory obligation\nunder Ohio law to identify the municipal services available to the proposed annexation area\nwithin twenty days of the filing of the petition. He emphasized that the resolution was\nprocedural and did not constitute approval of the annexation, approval of development, or a\ndetermination regarding the City's capacity to serve the property.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          },
+          {
+            "assertion": "Council adopted Resolution 26-09 on July 14, 2026, with seven affirmative votes and none opposed.",
+            "sourceId": "9b4272c54592376c7571",
+            "page": 4,
+            "quote": "President Rospert called for a vote. Ayes: Berger, Reese, Yurchiak,\nMaxwell, May Stugmyer, Hines. Nays: None Resolution No. 26-09 declared to have been\nadopted July 14, 2026.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-wall-road-development-annexation",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following the Wall Road Development proposal can distinguish Council’s July 14 services resolution from approval to annex or develop the land.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Resolution 26-09 concerns municipal services for Wall Road Development’s proposed annexation of 94.2835 acres from Wadsworth Township into Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact supplied excerpt identifying the petitioner, acreage, jurisdictions and services purpose. Supports the deck and opening paragraph."
+            },
+            {
+              "assertion": "Economic Development Director Tom Morris explained that the resolution identifies available municipal services if annexation occurs, without approving annexation or development or determining service capacity.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 identifies Tom Morris as Economic Director; page 3 contains the quoted explanation and conditional service availability. The body appropriately attributes these distinctions to Morris."
+            },
+            {
+              "assertion": "Council adopted Resolution 26-09 on July 14, 2026, with seven affirmative votes and none opposed.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 4 explicitly records adoption and no opposing votes. Although the final roll call omits a comma between May and Stugmyer, page 1 identifies them as separate members, supporting seven affirmative votes. The earlier divided procedural vote was not the adoption vote."
+            },
+            {
+              "assertion": "The annexation proposal cleared a municipal-services step, establishing the stated project milestone.",
+              "claimIds": [
+                "c1",
+                "c3"
+              ],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The resolution’s purpose on page 3 and adoption on page 4 support the headline and stage. The copy does not imply annexation approval, construction or an opening date."
+            },
+            {
+              "assertion": "The July 14 action is a historical project milestone absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "9b4272c54592376c7571"
+              ],
+              "support": "SUPPORTED",
+              "note": "The action predates the October 5 news window, and no supplied prior item covers this annexation. The explicitly dated lookup qualifies under the PROJECT exception without asserting current annexation status. No location pin or optional media is proposed."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "87efdc85433b1111aaa61af0dfdde7a9129f7472d2ee9ddd73d578c1159532f2"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Residents following the Wall Road Development annexation proposal.",
+          "wadsworthConnection": "The petition concerns annexation from Wadsworth Township into the City of Wadsworth.",
+          "neighborTakeaway": "Council adopted a municipal-services resolution for the proposed annexation, without approving annexation or development.",
+          "newBeyondPriorCoverage": "No supplied prior project covers the Wall Road annexation services resolution."
+        }
+      },
+      {
+        "slug": "wadsworth-briarthorn-sr261-turn-lane",
+        "name": "Briarthorn turn-lane construction was reported beginning in July",
+        "category": "Infrastructure",
+        "stage": "Construction reported beginning July 13, 2026",
+        "location": "State Route 261 at Briarthorn Crescent, Wadsworth",
+        "description": "Construction was beginning on the State Route 261 turn lane into Briarthorn, Economic Development Director Tom Morris reported on July 13, 2026.\n\nThe improvement was a condition for completing the subdivision. In June, Morris said a developer had committed to building the required lane and that approximately 40 residential lots remained in the principal unfinished section. He explained that the subdivision was already platted and subdivided, allowing remaining homes to proceed to construction once the turn lane was completed.",
+        "next": "Follow the next recorded development.",
+        "date": "2026-07-13",
+        "evidence": [
+          {
+            "title": "Economic Development & Planning & Approved Minutes",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "checked": "2026-10-05",
+            "published": "2026-07-13"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2026-07-13",
+            "title": "Briarthorn turn-lane construction was reported beginning in July",
+            "text": "The State Route 261 improvement was required before remaining homes could proceed."
+          }
+        ],
+        "evidenceRefs": [
+          {
+            "assertion": "On July 13, 2026, Morris reported construction beginning on the State Route 261 turn lane into Briarthorn.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 3,
+            "quote": "Economic Director Morris stated that the City was beginning to enter the building phase of the\nconstruction season. He reported that construction was beginning on State Route 261 for the turn lane\ninto Briarthorn and that residents would begin seeing construction signs in the area.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "The July report occurred at the July 13, 2026 committee meeting.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 1,
+            "quote": "Council Member Hines called the July 13, 2026 Economic Development & Planning Committee to\norder at approximately 5:00 p.m.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "The required turn lane connects State Route 261 to Briarthorn Crescent.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 2,
+            "quote": "a previous Planning Commission required installation of\na left-turn lane from State Route 261 into Briarthorn Crescent once the subdivision exceeded\napproximately one hundred homes.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Morris said a developer committed to constructing the required turn lane, allowing completion of the subdivision.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 3,
+            "quote": "Director Morris stated that a developer has now committed to constructing the required turn lane,\nallowing completion of the subdivision.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Approximately 40 residential lots remained in the principal unfinished section, according to Morris.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 3,
+            "quote": "Director Morris responded that approximately forty additional residential lots remain within the\nprincipal unfinished section of Briarthorn.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Morris explained that the subdivision was already platted and subdivided and remaining homes could proceed to construction once the lane was completed.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 3,
+            "quote": "Director Morris explained that the subdivision has already been platted and subdivided; therefore,\nonce the turn lane is completed, the remaining homes may proceed directly to construction.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "The earlier development report occurred June 8, 2026.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 1,
+            "quote": "Council Member May called the Economic Development & Planning Committee Work Session to\norder at 5:00 p.m.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-briarthorn-sr261-turn-lane",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Briarthorn residents and prospective homebuyers can understand the July construction milestone and why completing the turn lane was required for remaining homes to proceed.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "On July 13, 2026, Morris reported construction beginning on the State Route 261 turn lane into Briarthorn.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt. Supports the headline, opening sentence and dated stage; July 13 is the report date, not an independently established exact construction start date."
+            },
+            {
+              "assertion": "The July report occurred at the July 13, 2026 Economic Development & Planning Committee meeting.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly identifies the meeting date and contains the supplied excerpt."
+            },
+            {
+              "assertion": "The required turn lane connects State Route 261 to Briarthorn Crescent in Wadsworth.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Pages 1–2 establish the city context and identify a required left-turn lane from State Route 261 into Briarthorn Crescent. Supports the textual location; no coordinates, boundaries or map pin are proposed."
+            },
+            {
+              "assertion": "Morris said a developer committed to constructing the required turn lane, allowing completion of the subdivision.",
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt and describes the improvement as the final obstacle to completion. Supports the body's stated condition."
+            },
+            {
+              "assertion": "Approximately 40 residential lots remained in the principal unfinished section, according to Morris.",
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt. Copy preserves the approximate count and section limitation rather than presenting 40 as the subdivision-wide total."
+            },
+            {
+              "assertion": "Morris explained that the subdivision was already platted and subdivided and remaining homes could proceed to construction once the lane was completed.",
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 explicitly states this sequence. Supports the deck and final sentence without asserting that the lane was completed or home construction subsequently began."
+            },
+            {
+              "assertion": "The earlier development report occurred June 8, 2026.",
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "The supplied excerpt exists but omits the date; the page 1 heading and page footers establish June 8, 2026. The gathering was a work session without a quorum, and the candidate does not imply a formal action."
+            },
+            {
+              "assertion": "Tom Morris was Wadsworth's Economic Development Director.",
+              "claimIds": [],
+              "sourceIds": [
+                "a40c02a3953b9663741a",
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Both records' page 1 attendance lists identify Economic Development Director Tom Morris."
+            },
+            {
+              "assertion": "The July construction report advanced June's expectation and supplies a historical project milestone absent from supplied prior coverage.",
+              "claimIds": [],
+              "sourceIds": [
+                "a40c02a3953b9663741a",
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "June page 3 anticipated summer roadway construction; July page 3 reported construction beginning. No supplied prior item covers Briarthorn. The explicit historical framing qualifies under the PROJECT exception at the October 5 cutoff and makes no present-day status claim."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:01:19.507Z",
+          "candidateHash": "e9ae5386009c7915829d8b21e3653fd22b36b8dfe93085f15380ec2f9756d992"
+        },
+        "selection": {
+          "scores": {
+            "impact": 2,
+            "usefulness": 2,
+            "timeliness": 0
+          },
+          "affectedAudience": "Briarthorn residents and people following development along State Route 261.",
+          "wadsworthConnection": "City officials identified the turn lane into Briarthorn as a requirement for completing the subdivision.",
+          "neighborTakeaway": "The city reported in July that construction was beginning on Briarthorn’s required State Route 261 turn lane.",
+          "newBeyondPriorCoverage": "The supplied prior projects do not cover Briarthorn; July reporting advances the June expectation of turn-lane construction."
+        }
+      }
+    ],
+    "version": 2
+  }
+]

@@ -17,7 +17,7 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - Maintain the original editorial design. No generic SaaS layout or invented current news/metrics. Documentary photographs must be accurate and licensed.
 - Local code and compilation are authorized. Remote pushes, public deployment and new remote infrastructure require scoped user authorization.
 - Never read or reuse another project's secrets, credentials, tokens or Keychain items. Fresh exact approval is required for credential work.
-- No paid LLM calls or model credentials have been configured. Deterministic publication currently covers the city calendar only.
+- The Studio newsroom uses existing Codex access with separate writer/reviewer application calls. No separately billed LLM API or model credentials are configured. See docs/studio-newsroom.md for the enforced release gate and coverage limits.
 
 ## Editorial operation
 

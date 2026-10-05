@@ -99,3 +99,7 @@ The canonical generation prompt is `docs/editorial-system-prompt.md`; its indepe
 ### Resident lens and native tools
 
 Writer/reviewer prompts v2 apply Chris’s five-reader lens to every selection and explanation. See `docs/resident-tools.md` for the native permit, ward, portrait and bill-progress tools, daily Pages collection, and remaining news-pipeline integrations. Automatic tool refresh is separate from automatic news reporting.
+
+## Studio newsroom now connected
+
+The working document collector, Codex writer, independent reviewer and evidence-checked publisher are documented in `docs/studio-newsroom.md`. Reader-facing news reads the reviewed snapshot. `scripts/publish-newsroom.mjs` performs collection through Pages publication; the scheduled Studio run uses existing Codex access. This supersedes earlier calendar-only implementation notes. `/bills/` covers Romanchuk, Hutson, Miller, Moreno and Husted primary sponsorship; external official vote links stay in the directory.

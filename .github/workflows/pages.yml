@@ -28,12 +28,14 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Refresh public resident tools
-        run: node scripts/collect-resident-tools.mjs
+        run: |
+          node scripts/collect-resident-tools.mjs
+          python3 scripts/collect-federal-bills.py
       - name: Preserve last successful snapshots
         run: |
           git config user.name "Matchstick source collector"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/permit-snapshot.json lib/legislation-snapshot.json
+          git add lib/permit-snapshot.json lib/legislation-snapshot.json lib/hutson-legislation-snapshot.json lib/federal-legislation-snapshot.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh public resident tool snapshots"
             git push origin HEAD:gus/initial-prototype
