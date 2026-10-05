@@ -88,4 +88,6 @@ The source repository uses `gus/initial-prototype` as its bootstrap/default bran
 
 ### Publication status — October 5, 2026
 
-Source uploaded to https://github.com/sergerprojects/matchstick, branch `gus/initial-prototype`. Public visibility is confirmed and GitHub Pages activation succeeded. Deployment target: https://sergerprojects.github.io/matchstick/. The Actions workflow publishes the static snapshot when this branch changes.
+Source uploaded to https://github.com/sergerprojects/matchstick, branch `gus/initial-prototype`. Public visibility is confirmed. GitHub Actions completed publication successfully, and the live preview is https://sergerprojects.github.io/matchstick/. The Actions workflow publishes the static snapshot when this branch changes.
+
+The live preview was opened at 390 px and 320 px phone widths. The masthead fits without horizontal page overflow; navigation, project details, original-record dialogs, the school photo and the dated edition permalink were checked in the published site. Screenshot: `docs/matchstick-live-phone.jpg`.
