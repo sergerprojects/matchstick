@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-05T19:52:16.303Z",
+  "checkedAt": "2026-10-05T20:14:46.326Z",
   "coverage": [
     {
       "title": "City Council & committee documents",
@@ -7,7 +7,7 @@
       "status": "partial",
       "discovered": 101,
       "collected": 88,
-      "checkedAt": "2026-10-05T19:52:16.303Z"
+      "checkedAt": "2026-10-05T20:14:46.326Z"
     },
     {
       "title": "City Council Agenda Packet & Approved Minutes",
@@ -40,14 +40,14 @@
       "error": "Unreadable or oversized extracted text"
     },
     {
-      "title": "Revised Committee of The Whole-Finance Agenda Packet & Approved Minutes",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06162026-828",
+      "title": "City Council Agenda Packet & Approved Minutes",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06162026-827",
       "status": "failed",
       "error": "Unreadable or oversized extracted text"
     },
     {
-      "title": "City Council Agenda Packet & Approved Minutes",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06162026-827",
+      "title": "Revised Committee of The Whole-Finance Agenda Packet & Approved Minutes",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06162026-828",
       "status": "failed",
       "error": "Unreadable or oversized extracted text"
     },
@@ -93,28 +93,28 @@
       "status": "ok",
       "discovered": 10,
       "collected": 10,
-      "checkedAt": "2026-10-05T19:52:16.303Z"
+      "checkedAt": "2026-10-05T20:14:46.326Z"
     },
     {
       "title": "School financial and levy documents",
       "url": "https://www.wadsworthschools.org/",
       "status": "ok",
       "discovered": 4,
-      "checkedAt": "2026-10-05T19:52:16.303Z"
+      "checkedAt": "2026-10-05T20:14:46.326Z"
     }
   ],
   "documents": [
     {
-      "id": "3808d74ee05c4ae89092",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09142026-861",
-      "title": "Public Ways Agenda",
+      "id": "bc805619cc847df9191a",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-859",
+      "title": "City Council Revised Agenda Packet",
       "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-14",
+      "meetingDate": "2026-09-15",
       "kind": "agenda",
-      "sha256": "0255f963404641fae7a6eda6492d434ea3b5828086472bec4ccb3834050e6bc5",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "sha256": "eb10aea821f3261c536077f5c01ff4e8c98ad87ef0c4d1c29cbbef8060e73b37",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
-      "pageCount": 2
+      "pageCount": 4
     },
     {
       "id": "39e8f8ddb2f87a14992a",
@@ -124,7 +124,31 @@
       "meetingDate": "2026-09-14",
       "kind": "agenda",
       "sha256": "26f1cdb22cd5a53209f496edd806370db39de1a2581e003445e12ee847ef1021",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 2
+    },
+    {
+      "id": "2ae1a87ee242e5235d64",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-860",
+      "title": "Revised Whole Agenda Packet",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-09-15",
+      "kind": "agenda",
+      "sha256": "27d9c15e224e2924fe03d59d97f19f0ea12146e73bea97134669e5f850cbd7bd",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 23
+    },
+    {
+      "id": "e1856ac7fbdfb5b03a06",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09082026-857",
+      "title": "Public Service Agenda",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-09-08",
+      "kind": "agenda",
+      "sha256": "624d88901dc575bdd2d16d851e445e836c2474a2cc85f34181d6c404610c27b2",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 2
     },
@@ -136,91 +160,7 @@
       "meetingDate": "2026-09-09",
       "kind": "agenda",
       "sha256": "bbeefb351ec0781a41498b8a71a580f2d0a5b8b585204b1ff44743f953203187",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 8
-    },
-    {
-      "id": "e1856ac7fbdfb5b03a06",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09082026-857",
-      "title": "Public Service Agenda",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-08",
-      "kind": "agenda",
-      "sha256": "624d88901dc575bdd2d16d851e445e836c2474a2cc85f34181d6c404610c27b2",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 2
-    },
-    {
-      "id": "bc805619cc847df9191a",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-859",
-      "title": "City Council Revised Agenda Packet",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-15",
-      "kind": "agenda",
-      "sha256": "eb10aea821f3261c536077f5c01ff4e8c98ad87ef0c4d1c29cbbef8060e73b37",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 4
-    },
-    {
-      "id": "db1f72f289efa72a0912",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
-      "title": "City Council Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-01",
-      "kind": "minutes",
-      "sha256": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 6
-    },
-    {
-      "id": "5ebf4c85e6d495aa9caf",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09012026-856",
-      "title": "2nd Revised Committee of The Whole Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-01",
-      "kind": "agenda",
-      "sha256": "53a867168875b06765b85f17a43f5098f93ae86752d4c7d54c7f008b9cfe4879",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 26
-    },
-    {
-      "id": "28be7d4a53eb9f48ea0a",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-856",
-      "title": "2nd Revised Committee of The Whole Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-01",
-      "kind": "minutes",
-      "sha256": "5b9396118461e39bc3bbb62b38e76918426563e518ebf70720d70118187c23d6",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 13
-    },
-    {
-      "id": "8e47bf620987f518ab37",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08202026-851",
-      "title": "Revised Special City Council Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-08-20",
-      "kind": "agenda",
-      "sha256": "5cf12621f1f344de2630b9c7220ef0c4123314c505d3468eddb5fbbfdef1fea5",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 3
-    },
-    {
-      "id": "3bef91e1d76897035409",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08202026-851",
-      "title": "Revised Special City Council Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-08-20",
-      "kind": "minutes",
-      "sha256": "cc107e2fe27250f9fe2089efe37ecc625682dacec87850fa76e5597e5ada2f05",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
     },
@@ -232,9 +172,69 @@
       "meetingDate": "2026-09-01",
       "kind": "agenda",
       "sha256": "60dbf8540651631a624edce2aab66e4ae84509b2eb9a221b005bd715374f1936",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 6
+    },
+    {
+      "id": "db1f72f289efa72a0912",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+      "title": "City Council Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-09-01",
+      "kind": "minutes",
+      "sha256": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 6
+    },
+    {
+      "id": "28be7d4a53eb9f48ea0a",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-856",
+      "title": "2nd Revised Committee of The Whole Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-09-01",
+      "kind": "minutes",
+      "sha256": "5b9396118461e39bc3bbb62b38e76918426563e518ebf70720d70118187c23d6",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 13
+    },
+    {
+      "id": "8e47bf620987f518ab37",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08202026-851",
+      "title": "Revised Special City Council Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-08-20",
+      "kind": "agenda",
+      "sha256": "5cf12621f1f344de2630b9c7220ef0c4123314c505d3468eddb5fbbfdef1fea5",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 3
+    },
+    {
+      "id": "5ebf4c85e6d495aa9caf",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09012026-856",
+      "title": "2nd Revised Committee of The Whole Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-09-01",
+      "kind": "agenda",
+      "sha256": "53a867168875b06765b85f17a43f5098f93ae86752d4c7d54c7f008b9cfe4879",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 26
+    },
+    {
+      "id": "3bef91e1d76897035409",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08202026-851",
+      "title": "Revised Special City Council Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-08-20",
+      "kind": "minutes",
+      "sha256": "cc107e2fe27250f9fe2089efe37ecc625682dacec87850fa76e5597e5ada2f05",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 8
     },
     {
       "id": "095ca5e2adc7220c9ba8",
@@ -244,7 +244,7 @@
       "meetingDate": "2026-08-18",
       "kind": "minutes",
       "sha256": "8715cbe85bbfdb3f99f2a052b948fb9aa033ed3149c419e1e33e4dc25118b082",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 6
     },
@@ -256,7 +256,7 @@
       "meetingDate": "2026-08-18",
       "kind": "minutes",
       "sha256": "4b65ad321b0e2c52f31cfadf2efcd33cd1ab0f0139b2878fa81b3c9833d287d3",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 11
     },
@@ -268,21 +268,9 @@
       "meetingDate": "2026-08-12",
       "kind": "agenda",
       "sha256": "3b9546301a8652aecb39fc0b6be5589622f519269a0c8d236dc1a7ee91682909",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
-    },
-    {
-      "id": "490aadd865d2122a39c3",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08112026-847",
-      "title": "Public Service Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-08-11",
-      "kind": "agenda",
-      "sha256": "c032671692e8cdcee952a9602c59325a31a83a8dd8f6f265542bb92b05348183",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 4
     },
     {
       "id": "728c65e7205ae7c965ec",
@@ -292,21 +280,33 @@
       "meetingDate": "2026-08-12",
       "kind": "minutes",
       "sha256": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 26
     },
     {
-      "id": "37b1d824026c8b67cdbe",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+      "id": "3808d74ee05c4ae89092",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09142026-861",
+      "title": "Public Ways Agenda",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-09-14",
+      "kind": "agenda",
+      "sha256": "0255f963404641fae7a6eda6492d434ea3b5828086472bec4ccb3834050e6bc5",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 2
+    },
+    {
+      "id": "490aadd865d2122a39c3",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08112026-847",
       "title": "Public Service Agenda Packet & Approved Minutes",
       "owner": "City of Wadsworth",
       "meetingDate": "2026-08-11",
-      "kind": "minutes",
-      "sha256": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "kind": "agenda",
+      "sha256": "c032671692e8cdcee952a9602c59325a31a83a8dd8f6f265542bb92b05348183",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
-      "pageCount": 19
+      "pageCount": 4
     },
     {
       "id": "f30aee05abd102f5a96b",
@@ -316,7 +316,7 @@
       "meetingDate": "2026-08-11",
       "kind": "agenda",
       "sha256": "8be0143c5f4319e90a520f1a1262b51b61a6236920da86a375562f5521b4be2a",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 10
     },
@@ -328,9 +328,33 @@
       "meetingDate": "2026-08-11",
       "kind": "minutes",
       "sha256": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 14
+    },
+    {
+      "id": "37b1d824026c8b67cdbe",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+      "title": "Public Service Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-08-11",
+      "kind": "minutes",
+      "sha256": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 19
+    },
+    {
+      "id": "26e219aa49db1f518191",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+      "title": "Economic Development & Planning Agenda & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-08-10",
+      "kind": "minutes",
+      "sha256": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 10
     },
     {
       "id": "8250658773e70c2011d9",
@@ -340,7 +364,7 @@
       "meetingDate": "2026-08-10",
       "kind": "agenda",
       "sha256": "3533ab59aeb8a36a65dcc79508a90ad8579b5d8a7867c70e2620b4026a244cc0",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
@@ -352,21 +376,9 @@
       "meetingDate": "2026-08-04",
       "kind": "agenda",
       "sha256": "aa3aaa37aa4ed430ce5d4650b60fe80e4419c75ff949c85e28791f2ba620bcec",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
-    },
-    {
-      "id": "26e219aa49db1f518191",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
-      "title": "Economic Development & Planning Agenda & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-08-10",
-      "kind": "minutes",
-      "sha256": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 10
     },
     {
       "id": "0c1cbbc42332ef41e9bb",
@@ -376,7 +388,7 @@
       "meetingDate": "2026-08-04",
       "kind": "agenda",
       "sha256": "dcc03e537e2b763c4aa1c023e11f4a7d79fc1eee128496ca6a03dbd00a62ae3b",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 2
     },
@@ -388,7 +400,19 @@
       "meetingDate": "2026-08-04",
       "kind": "minutes",
       "sha256": "0848ff98dcab8c3a5c563fc7e7aa9108df4012e8f0c1ea828aab8fdd4c3d2f8b",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 8
+    },
+    {
+      "id": "825df69f29804067692d",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08042026-842",
+      "title": "Committee of The Whole 2nd Revised Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-08-04",
+      "kind": "minutes",
+      "sha256": "e94df9923232584b83a652be1ed05280659c76f643870eb159f6654645d29e68",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
     },
@@ -400,31 +424,19 @@
       "meetingDate": "2026-08-03",
       "kind": "agenda",
       "sha256": "ff58369b170eb06e98a1dc769795f5ee86ca9a7e058be370aeaab405100b192b",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
     {
-      "id": "825df69f29804067692d",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08042026-842",
-      "title": "Committee of The Whole 2nd Revised Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-08-04",
-      "kind": "minutes",
-      "sha256": "e94df9923232584b83a652be1ed05280659c76f643870eb159f6654645d29e68",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 8
-    },
-    {
-      "id": "541e8249c6ec0af3373c",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08032026-840",
+      "id": "b7db6b5dc354dd0bcb3c",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
       "title": "Special City Council Agenda Packet - Approved Minutes",
       "owner": "City of Wadsworth",
       "meetingDate": "2026-08-03",
-      "kind": "agenda",
-      "sha256": "ba736bfac821b3a72cfd951398f5b3491439100962c1251d99aaec9563a528fb",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "kind": "minutes",
+      "sha256": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 3
     },
@@ -436,19 +448,55 @@
       "meetingDate": "2026-08-03",
       "kind": "minutes",
       "sha256": "f24037ccbd5b9c1d32566ad2e3a231268cd2f4ff8f7c491591f9d6a02e2e019a",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
     },
     {
-      "id": "b7db6b5dc354dd0bcb3c",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+      "id": "541e8249c6ec0af3373c",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08032026-840",
       "title": "Special City Council Agenda Packet - Approved Minutes",
       "owner": "City of Wadsworth",
       "meetingDate": "2026-08-03",
+      "kind": "agenda",
+      "sha256": "ba736bfac821b3a72cfd951398f5b3491439100962c1251d99aaec9563a528fb",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 3
+    },
+    {
+      "id": "066e68c9a4f1fe97217a",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07212026-838",
+      "title": "Committee of The Whole/Finance Revised Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-07-21",
       "kind": "minutes",
-      "sha256": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "sha256": "e6f1f0fcd93c9c171da38b8e31766f051f81b46f4705f82244864a8f289efd38",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 6
+    },
+    {
+      "id": "58187b779e58ee86dc2a",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07212026-839",
+      "title": "City Council Revised Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-07-21",
+      "kind": "minutes",
+      "sha256": "30f33696c824fc6987268bc69a045fd429bb3d1884af0623d73aeafceb22cf9c",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 9
+    },
+    {
+      "id": "c7eaebc245c72ce6e8b9",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07212026-839",
+      "title": "City Council Revised Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-07-21",
+      "kind": "agenda",
+      "sha256": "265b7890dc149ae0a2d11389f43cda288253a23f6deccbee19d66fe060cd8ee7",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 3
     },
@@ -460,33 +508,9 @@
       "meetingDate": "2026-07-21",
       "kind": "agenda",
       "sha256": "2ea6f6daedb4d05158f5b9b5c6047d4295163426052a678df269c74ffccb1812",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 7
-    },
-    {
-      "id": "066e68c9a4f1fe97217a",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07212026-838",
-      "title": "Committee of The Whole/Finance Revised Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-07-21",
-      "kind": "minutes",
-      "sha256": "e6f1f0fcd93c9c171da38b8e31766f051f81b46f4705f82244864a8f289efd38",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 6
-    },
-    {
-      "id": "c7eaebc245c72ce6e8b9",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07212026-839",
-      "title": "City Council Revised Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-07-21",
-      "kind": "agenda",
-      "sha256": "265b7890dc149ae0a2d11389f43cda288253a23f6deccbee19d66fe060cd8ee7",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 3
     },
     {
       "id": "0a9a1972e884fefc90d1",
@@ -496,21 +520,9 @@
       "meetingDate": "2026-07-15",
       "kind": "agenda",
       "sha256": "af463a043d41319c12d88c5a9ae4a8b44da4e779795482ee28b88f4f697ea0c2",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 5
-    },
-    {
-      "id": "58187b779e58ee86dc2a",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07212026-839",
-      "title": "City Council Revised Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-07-21",
-      "kind": "minutes",
-      "sha256": "30f33696c824fc6987268bc69a045fd429bb3d1884af0623d73aeafceb22cf9c",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 9
     },
     {
       "id": "c319f341934d50fb6927",
@@ -520,21 +532,9 @@
       "meetingDate": "2026-07-14",
       "kind": "agenda",
       "sha256": "41e6ed26527c5510e79ab588ef7204e1ad8aff85b58d154f4144d4d85543751e",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 15
-    },
-    {
-      "id": "abcfb9916dc8d2c2c5be",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-836",
-      "title": "City Council Work Session Agenda Packet - Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-07-14",
-      "kind": "minutes",
-      "sha256": "641ad3318d2db758e0a48b81b6f59c5704e337d279dd1de50b21ebae4236ce02",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 4
     },
     {
       "id": "9b4272c54592376c7571",
@@ -544,21 +544,21 @@
       "meetingDate": "2026-07-14",
       "kind": "minutes",
       "sha256": "767c2ed1c51da06b84e7b872ee534375d29c7791dc2a86a9bd7b0735c7bcda70",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 4
     },
     {
-      "id": "a8e6f9470223149cbb06",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-854",
-      "title": "Public Service Agenda & Approved Minutes",
+      "id": "abcfb9916dc8d2c2c5be",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-836",
+      "title": "City Council Work Session Agenda Packet - Approved Minutes",
       "owner": "City of Wadsworth",
       "meetingDate": "2026-07-14",
-      "kind": "agenda",
-      "sha256": "0e0c8b7a2bf4c0f89b259960a649cb5757e60fb15faeee926ae12667faa78099",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "kind": "minutes",
+      "sha256": "641ad3318d2db758e0a48b81b6f59c5704e337d279dd1de50b21ebae4236ce02",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
-      "pageCount": 5
+      "pageCount": 4
     },
     {
       "id": "4a13522457a0430ba871",
@@ -568,7 +568,7 @@
       "meetingDate": "2026-07-14",
       "kind": "minutes",
       "sha256": "a7c175ac4bfa4366dd37634c09df021eb84cc7b06975afa9a2ae33dd572f1f7b",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 14
     },
@@ -580,9 +580,21 @@
       "meetingDate": "2026-07-13",
       "kind": "agenda",
       "sha256": "bd0383956ac6065f3eb5ca98b6bf16e831b267af9f9fabfa50406edef5d61f8b",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
+    },
+    {
+      "id": "a8e6f9470223149cbb06",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-854",
+      "title": "Public Service Agenda & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-07-14",
+      "kind": "agenda",
+      "sha256": "0e0c8b7a2bf4c0f89b259960a649cb5757e60fb15faeee926ae12667faa78099",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 5
     },
     {
       "id": "a40c02a3953b9663741a",
@@ -592,7 +604,7 @@
       "meetingDate": "2026-07-13",
       "kind": "minutes",
       "sha256": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
     },
@@ -604,7 +616,7 @@
       "meetingDate": "2026-07-13",
       "kind": "agenda",
       "sha256": "808f1ffe4ce865eafcd7a34db110005068e02ded2a0c9dd18e0f11b607529ff3",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
@@ -616,7 +628,7 @@
       "meetingDate": "2026-07-13",
       "kind": "minutes",
       "sha256": "6f3bb30c21d2f80bf77a94bd38ce51b6359a6a2272dedeb6cd10b00c5f71b1d9",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 14
     },
@@ -628,21 +640,9 @@
       "meetingDate": "2026-07-08",
       "kind": "agenda",
       "sha256": "ff46e6b3a7a67775321593f2837bad443f3e24574190e27178d8a343231c717d",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
-    },
-    {
-      "id": "8bbaf1d1fa28cd02a58d",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
-      "title": "Public Safety Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-07-08",
-      "kind": "minutes",
-      "sha256": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 17
     },
     {
       "id": "5b601c36737ebd875c84",
@@ -652,9 +652,21 @@
       "meetingDate": "2026-07-07",
       "kind": "minutes",
       "sha256": "9e8732b423a2bb55a189184f554c4daed080a2185f1123dbad5c989c7543df41",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 14
+    },
+    {
+      "id": "8bbaf1d1fa28cd02a58d",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+      "title": "Public Safety Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-07-08",
+      "kind": "minutes",
+      "sha256": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 17
     },
     {
       "id": "ae9366440eeb683d56d9",
@@ -664,19 +676,7 @@
       "meetingDate": "2026-07-07",
       "kind": "minutes",
       "sha256": "5d6bd8d726e7d2651cfb73ec88d50ea38d47c7b8fe78fa62ab685c65abc9d187",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 8
-    },
-    {
-      "id": "0533186f3c8bdec27299",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06172026-829",
-      "title": "Public Safety Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-06-17",
-      "kind": "agenda",
-      "sha256": "0073f217d64d60318cddb35c65fba4c3d0e828af4ad262d59d47ad1ed5f1795d",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
     },
@@ -688,9 +688,21 @@
       "meetingDate": "2026-06-17",
       "kind": "minutes",
       "sha256": "2a38a52ca74290d63de4c531c24ada2b1586c3c6a7801e11e9078f4e3d060916",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 28
+    },
+    {
+      "id": "0533186f3c8bdec27299",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06172026-829",
+      "title": "Public Safety Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-06-17",
+      "kind": "agenda",
+      "sha256": "0073f217d64d60318cddb35c65fba4c3d0e828af4ad262d59d47ad1ed5f1795d",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 8
     },
     {
       "id": "678da9a77e8a38ba3972",
@@ -700,7 +712,7 @@
       "meetingDate": "2026-06-16",
       "kind": "minutes",
       "sha256": "ff208ea8e70caa89ec18a025697e1a651814f64a7da59929f25cbd53b4aa5b24",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 7
     },
@@ -712,33 +724,9 @@
       "meetingDate": "2026-06-16",
       "kind": "minutes",
       "sha256": "6ae2e9fe53bc4c3f8f99eea9b26d279d2b0ac11d882b39946e04415bb6d85795",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
-    },
-    {
-      "id": "ffcff496758e72256a0a",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06092026-826",
-      "title": "Public Service Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-06-09",
-      "kind": "agenda",
-      "sha256": "8ccc626f9d17236fd30547f9126bfdb6d46d4c60bc57e89ee0c0c3fc4a91756d",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 54
-    },
-    {
-      "id": "dd6191fde7197f1e9951",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06092026-826",
-      "title": "Public Service Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-06-09",
-      "kind": "minutes",
-      "sha256": "db06b0f9963447b2fdd1f7deb0449233fe12eeeb055b2d28e24102cd2f1108a9",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 12
     },
     {
       "id": "203c966b28619f2a93a1",
@@ -748,7 +736,55 @@
       "meetingDate": "2026-06-08",
       "kind": "agenda",
       "sha256": "76311c56ceb3a56e0f6b91c3e62b4c3e6fe83ed6388bb37d7fe5d8828f755834",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 1
+    },
+    {
+      "id": "dd6191fde7197f1e9951",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06092026-826",
+      "title": "Public Service Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-06-09",
+      "kind": "minutes",
+      "sha256": "db06b0f9963447b2fdd1f7deb0449233fe12eeeb055b2d28e24102cd2f1108a9",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 12
+    },
+    {
+      "id": "ffcff496758e72256a0a",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06092026-826",
+      "title": "Public Service Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-06-09",
+      "kind": "agenda",
+      "sha256": "8ccc626f9d17236fd30547f9126bfdb6d46d4c60bc57e89ee0c0c3fc4a91756d",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 54
+    },
+    {
+      "id": "ca45e2006117b11e1924",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06082026-825",
+      "title": "Public Ways Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-06-08",
+      "kind": "agenda",
+      "sha256": "5c9e2e55fdbdc16251464b92aaabcd1080b49e8a6db58070335fb0e84f0460e3",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 1
+    },
+    {
+      "id": "0e5db6b6a7bc906cf5f6",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06032026-823",
+      "title": "City Council Work Session - Fire Levy - Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-06-03",
+      "kind": "agenda",
+      "sha256": "c8f05c3eb2a6bf4960f0ae61f08cffe32d3bb574d6a602a0958cea9912bf3dfc",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
@@ -760,21 +796,9 @@
       "meetingDate": "2026-06-08",
       "kind": "minutes",
       "sha256": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 13
-    },
-    {
-      "id": "ca45e2006117b11e1924",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06082026-825",
-      "title": "Public Ways Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-06-08",
-      "kind": "agenda",
-      "sha256": "5c9e2e55fdbdc16251464b92aaabcd1080b49e8a6db58070335fb0e84f0460e3",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 1
     },
     {
       "id": "92b48e69a9fc7fe36af6",
@@ -784,7 +808,7 @@
       "meetingDate": "2026-06-08",
       "kind": "minutes",
       "sha256": "1d1dd2678c78f51717c0b00838d6dea068ba06e4bebc1bb6818d6fe58cfcf8e8",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 15
     },
@@ -796,21 +820,9 @@
       "meetingDate": "2026-06-03",
       "kind": "minutes",
       "sha256": "dbd38e1fba8fdfc3c4f44180d057c29ace7eb3acb26fedea71a14c7ea5673919",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
-    },
-    {
-      "id": "0e5db6b6a7bc906cf5f6",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06032026-823",
-      "title": "City Council Work Session - Fire Levy - Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-06-03",
-      "kind": "agenda",
-      "sha256": "c8f05c3eb2a6bf4960f0ae61f08cffe32d3bb574d6a602a0958cea9912bf3dfc",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 1
     },
     {
       "id": "b712f5ea8787449a7ded",
@@ -820,21 +832,9 @@
       "meetingDate": "2026-06-02",
       "kind": "minutes",
       "sha256": "cf6523bb6c6deef49a9382c5004f5e43270d5a1e01cb6009f3555ae6c8c42b24",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
-    },
-    {
-      "id": "55f3d4d0f4eabc947db3",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06022026-822",
-      "title": "Revised Committee of The Whole Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-06-02",
-      "kind": "agenda",
-      "sha256": "efa1e1904d80c560635f0a6bb42422245d5967dcb44c4cfc76432598fef5e05a",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 2
     },
     {
       "id": "ce9f99b6a368645c09fb",
@@ -844,9 +844,21 @@
       "meetingDate": "2026-06-02",
       "kind": "minutes",
       "sha256": "260712f413356e70b96c11bdd6297882468f5a899a6cea61f3cca030a50eccb8",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
+    },
+    {
+      "id": "55f3d4d0f4eabc947db3",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_06022026-822",
+      "title": "Revised Committee of The Whole Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-06-02",
+      "kind": "agenda",
+      "sha256": "efa1e1904d80c560635f0a6bb42422245d5967dcb44c4cfc76432598fef5e05a",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 2
     },
     {
       "id": "5c235120c4393b557af4",
@@ -856,7 +868,7 @@
       "meetingDate": "2026-05-19",
       "kind": "minutes",
       "sha256": "dd401cc40ba55f44c94751b3a51a01b5f5977206d13fc3bbe389335f08556243",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
     },
@@ -868,9 +880,21 @@
       "meetingDate": "2026-05-19",
       "kind": "agenda",
       "sha256": "373dbe4f54a9b49945fe24c4cc20cf606fb71960def45fc8cabd65788133ff01",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
+    },
+    {
+      "id": "3d4e60f4d66920c19b58",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_05132026-817",
+      "title": "Public Safety Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-05-13",
+      "kind": "minutes",
+      "sha256": "2ee768b54298198fb234c820788736a742f257908e1ed7d391e7095e9f8c7d13",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 26
     },
     {
       "id": "ce7129244470486b991e",
@@ -880,7 +904,7 @@
       "meetingDate": "2026-05-19",
       "kind": "minutes",
       "sha256": "260712f413356e70b96c11bdd6297882468f5a899a6cea61f3cca030a50eccb8",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
     },
@@ -892,21 +916,9 @@
       "meetingDate": "2026-05-13",
       "kind": "agenda",
       "sha256": "1373efb5cb447586aa67475a205b220cc77ea45c7b660a8951d105398e7f9003",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
-    },
-    {
-      "id": "3d4e60f4d66920c19b58",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_05132026-817",
-      "title": "Public Safety Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-05-13",
-      "kind": "minutes",
-      "sha256": "2ee768b54298198fb234c820788736a742f257908e1ed7d391e7095e9f8c7d13",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 26
     },
     {
       "id": "0e11608a906458e6b632",
@@ -916,7 +928,7 @@
       "meetingDate": "2026-05-12",
       "kind": "agenda",
       "sha256": "599fad77dd90504ba30f2faa333ff08b1f783ea9eafb8fab8cf583390caad763",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 11
     },
@@ -928,21 +940,9 @@
       "meetingDate": "2026-05-12",
       "kind": "minutes",
       "sha256": "a64d6ae6fd94fc710203f040d65ebb6fe83acb8ac9f5493786dd37ca4a3ebb24",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
-    },
-    {
-      "id": "05398b0bc44b2297b040",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_05112026-815",
-      "title": "Public Ways Committee Agenda & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-05-11",
-      "kind": "agenda",
-      "sha256": "033e6678ac2cd26d4a872a1d201b9a5bc8b1c12c6395b69705687cba90751628",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 1
     },
     {
       "id": "e668874f89ea0412a810",
@@ -952,7 +952,7 @@
       "meetingDate": "2026-05-11",
       "kind": "minutes",
       "sha256": "4bf9e54004461b66176ead989b7361bb6f6a45736f19143a22b4dcf19c378c14",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 20
     },
@@ -964,7 +964,7 @@
       "meetingDate": "2026-05-06",
       "kind": "agenda",
       "sha256": "60fa388f4900875c9b73be6bd292ed5c24f9677860ff866c42849080688a7393",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 2
     },
@@ -976,7 +976,7 @@
       "meetingDate": "2026-05-06",
       "kind": "minutes",
       "sha256": "f5bc8decc94807f190c9714956bb71d178c13aa83cd06cd3def2e4ddd70420d5",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 6
     },
@@ -988,9 +988,21 @@
       "meetingDate": "2026-05-06",
       "kind": "minutes",
       "sha256": "ec900ee425e96006215f2ce5535b845e0e457f70a020895d78c14bc9c6c35be5",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
+    },
+    {
+      "id": "05398b0bc44b2297b040",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_05112026-815",
+      "title": "Public Ways Committee Agenda & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-05-11",
+      "kind": "agenda",
+      "sha256": "033e6678ac2cd26d4a872a1d201b9a5bc8b1c12c6395b69705687cba90751628",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 1
     },
     {
       "id": "4c8a48575c6b4eff3cc3",
@@ -1000,7 +1012,7 @@
       "meetingDate": "2026-04-21",
       "kind": "minutes",
       "sha256": "dcd61864a8e47afb38ba21fdb4023fd9b1e2cc36e9054c8ee22ca1d75afb2530",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 7
     },
@@ -1012,21 +1024,9 @@
       "meetingDate": "2026-04-21",
       "kind": "minutes",
       "sha256": "a554de5572616e57315d35023b8f7284b1af082b45cbfb8f0959a8e8fed2a2c2",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 12
-    },
-    {
-      "id": "00ca73878e194bb6a63d",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_04142026-818",
-      "title": "Public Service Agenda Packet & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-04-14",
-      "kind": "agenda",
-      "sha256": "b5e6f2affab6e03a8829cf8654aad4967971399932513e7bf7d1a5b321485bac",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 18
     },
     {
       "id": "112110a1d34486c1d262",
@@ -1036,9 +1036,21 @@
       "meetingDate": "2026-04-14",
       "kind": "minutes",
       "sha256": "04e622d768b97f06e0bd451525806b3b897c365e41c0cfab93aec00c4835c9ae",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 17
+    },
+    {
+      "id": "00ca73878e194bb6a63d",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_04142026-818",
+      "title": "Public Service Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-04-14",
+      "kind": "agenda",
+      "sha256": "b5e6f2affab6e03a8829cf8654aad4967971399932513e7bf7d1a5b321485bac",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 18
     },
     {
       "id": "d1fa32130db159e8c4f9",
@@ -1048,21 +1060,9 @@
       "meetingDate": "2026-04-13",
       "kind": "minutes",
       "sha256": "15ad846de1e5c38fa7ddcaef0b5232adce786aa2e433950347adab7c6f588d95",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 16
-    },
-    {
-      "id": "7a7ca321b920c0fd4c77",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_04132026-810",
-      "title": "Economic Development & Planning Agenda & Approved Minutes",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-04-13",
-      "kind": "minutes",
-      "sha256": "8be918cd6838c03216077db4614012721a28d06c2d0d4dcfef966f5ee93c3c8e",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 9
     },
     {
       "id": "96b8f48ee3fc08dca9de",
@@ -1072,19 +1072,19 @@
       "meetingDate": "2026-04-13",
       "kind": "agenda",
       "sha256": "840208ffb29a55caac7ab700eeb14679cb9dc256f057aa04ab4690d95c0946a4",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
     {
-      "id": "f883bc0d3dd52a38e839",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_04082026-807",
-      "title": "Safety Agenda Packet & Approved Minutes",
+      "id": "7a7ca321b920c0fd4c77",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_04132026-810",
+      "title": "Economic Development & Planning Agenda & Approved Minutes",
       "owner": "City of Wadsworth",
-      "meetingDate": "2026-04-08",
-      "kind": "agenda",
-      "sha256": "c4df28eaf09e397fd9020f64e7545bce99d1c4c6e15181dcd569887185868624",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "meetingDate": "2026-04-13",
+      "kind": "minutes",
+      "sha256": "8be918cd6838c03216077db4614012721a28d06c2d0d4dcfef966f5ee93c3c8e",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
     },
@@ -1096,9 +1096,21 @@
       "meetingDate": "2026-04-08",
       "kind": "minutes",
       "sha256": "8832bd9a2c0c6acc342b360188f0eaadc1a198bac83e2b6d4353f1e4118d6617",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 14
+    },
+    {
+      "id": "f883bc0d3dd52a38e839",
+      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_04082026-807",
+      "title": "Safety Agenda Packet & Approved Minutes",
+      "owner": "City of Wadsworth",
+      "meetingDate": "2026-04-08",
+      "kind": "agenda",
+      "sha256": "c4df28eaf09e397fd9020f64e7545bce99d1c4c6e15181dcd569887185868624",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 9
     },
     {
       "id": "0f8690e3725a337ee6a7",
@@ -1108,7 +1120,7 @@
       "meetingDate": "2026-04-07",
       "kind": "minutes",
       "sha256": "6b4c25a8788defe4bfb128d8ae00218144265d24a01771c549dc135f319f8a0d",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 9
     },
@@ -1120,7 +1132,7 @@
       "meetingDate": "2026-04-07",
       "kind": "agenda",
       "sha256": "6c3287c90fee045a6cb40852d2c974824e29df05c3ce1cd3583ba9991237cfe8",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 39
     },
@@ -1132,7 +1144,7 @@
       "meetingDate": "2026-04-07",
       "kind": "agenda",
       "sha256": "7ea1b616263eacbbe880b7af9d87b2976743b157ea59f568bcf7ad4413dee626",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
@@ -1144,21 +1156,9 @@
       "meetingDate": "2026-04-07",
       "kind": "minutes",
       "sha256": "81c7a6a9924c42ca3811c03994c6c442fe07b5aec127bbaa2b38e65ba2a6eec7",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 8
-    },
-    {
-      "id": "2ae1a87ee242e5235d64",
-      "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-860",
-      "title": "Revised Whole Agenda Packet",
-      "owner": "City of Wadsworth",
-      "meetingDate": "2026-09-15",
-      "kind": "agenda",
-      "sha256": "27d9c15e224e2924fe03d59d97f19f0ea12146e73bea97134669e5f850cbd7bd",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 23
     },
     {
       "id": "8050f6a0d65b602d1040",
@@ -1168,7 +1168,7 @@
       "meetingDate": "2026-09-14",
       "kind": "agenda-packet",
       "sha256": "373704a8aa15616357accc626e1734db861f1673d249de7f247214aa893ddff8",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 13
     },
@@ -1180,7 +1180,7 @@
       "meetingDate": "2026-09-24",
       "kind": "agenda-packet",
       "sha256": "ef5e0667411d9c4ad3e5d64dbeb6d2c50d86874f788b03b541a4d66064061dea",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 16
     },
@@ -1192,7 +1192,7 @@
       "meetingDate": "2026-09-14",
       "kind": "agenda-packet",
       "sha256": "e656191134afae89063de6e0d528b9f4f5830e466475a598c1b34e6f03309df8",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 4
     },
@@ -1204,21 +1204,9 @@
       "meetingDate": "2026-09-14",
       "kind": "minutes",
       "sha256": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 14
-    },
-    {
-      "id": "9f9ef75db49e61421909",
-      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/0cbf331d-98a3-460e-83db-c3fe43881c25",
-      "title": "Agenda Addendum & Supporting Documents",
-      "owner": "Wadsworth City Schools",
-      "meetingDate": "2026-09-14",
-      "kind": "agenda-packet",
-      "sha256": "ed08d54f66566f6b09c598a4cb1fa5170d48abc3a5387303c7ddc9fc2c196843",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 43
     },
     {
       "id": "cd5f7278b707380543bf",
@@ -1228,31 +1216,7 @@
       "meetingDate": "2026-08-10",
       "kind": "agenda-packet",
       "sha256": "c706d941cfcbc4d84d37494375ca0a6d690ae8aca187d114a05d780af10f34f9",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 11
-    },
-    {
-      "id": "36b8fa799bd618fe0c56",
-      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/2224e712-4e3c-4a47-a888-1b198a1d9e72",
-      "title": "Agenda Addendum",
-      "owner": "Wadsworth City Schools",
-      "meetingDate": "2026-08-10",
-      "kind": "agenda-packet",
-      "sha256": "fa8b0d1733b1bc3a103bac07fa29d1fb2982dc1225a9717a8cfa09fbe0b59a74",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 2
-    },
-    {
-      "id": "306ac811e3d501e86a9b",
-      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/deba7689-2b83-4cc8-bf67-c569a5cca82d",
-      "title": "Minutes",
-      "owner": "Wadsworth City Schools",
-      "meetingDate": "2026-08-10",
-      "kind": "minutes",
-      "sha256": "fb6d65dce796a70eec3e609ad88cdaa2c05ba9858be9214cece893e750198c2c",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 11
     },
@@ -1264,9 +1228,45 @@
       "meetingDate": "2026-09-14",
       "kind": "agenda-packet",
       "sha256": "631dbb631b25726ef6c9b0cf1c435d5ecba65076468100202bcd91784ac1a8f9",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 183
+    },
+    {
+      "id": "36b8fa799bd618fe0c56",
+      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/2224e712-4e3c-4a47-a888-1b198a1d9e72",
+      "title": "Agenda Addendum",
+      "owner": "Wadsworth City Schools",
+      "meetingDate": "2026-08-10",
+      "kind": "agenda-packet",
+      "sha256": "fa8b0d1733b1bc3a103bac07fa29d1fb2982dc1225a9717a8cfa09fbe0b59a74",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 2
+    },
+    {
+      "id": "9f9ef75db49e61421909",
+      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/0cbf331d-98a3-460e-83db-c3fe43881c25",
+      "title": "Agenda Addendum & Supporting Documents",
+      "owner": "Wadsworth City Schools",
+      "meetingDate": "2026-09-14",
+      "kind": "agenda-packet",
+      "sha256": "ed08d54f66566f6b09c598a4cb1fa5170d48abc3a5387303c7ddc9fc2c196843",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 43
+    },
+    {
+      "id": "306ac811e3d501e86a9b",
+      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/deba7689-2b83-4cc8-bf67-c569a5cca82d",
+      "title": "Minutes",
+      "owner": "Wadsworth City Schools",
+      "meetingDate": "2026-08-10",
+      "kind": "minutes",
+      "sha256": "fb6d65dce796a70eec3e609ad88cdaa2c05ba9858be9214cece893e750198c2c",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 11
     },
     {
       "id": "1c17f1e99f09eafc1fd5",
@@ -1276,21 +1276,9 @@
       "meetingDate": "2026-08-10",
       "kind": "agenda-packet",
       "sha256": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 119
-    },
-    {
-      "id": "efedf274fcacf627cdd7",
-      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
-      "title": "1% Earned Income Tax FAQ",
-      "owner": "Wadsworth City Schools",
-      "meetingDate": "",
-      "kind": "reference",
-      "sha256": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
-      "status": "ok",
-      "pageCount": 5
     },
     {
       "id": "6eac540dee5bdb58789e",
@@ -1300,7 +1288,7 @@
       "meetingDate": "",
       "kind": "reference",
       "sha256": "66d40d0af968e8e85b000eea1a71b7faae9e7580c5c7c3f0e02ae29aaba98ebd",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     },
@@ -1312,9 +1300,21 @@
       "meetingDate": "",
       "kind": "reference",
       "sha256": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 20
+    },
+    {
+      "id": "efedf274fcacf627cdd7",
+      "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+      "title": "1% Earned Income Tax FAQ",
+      "owner": "Wadsworth City Schools",
+      "meetingDate": "",
+      "kind": "reference",
+      "sha256": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
+      "status": "ok",
+      "pageCount": 5
     },
     {
       "id": "7d49283ff3fe0c800653",
@@ -1324,7 +1324,7 @@
       "meetingDate": "",
       "kind": "reference",
       "sha256": "1b99aa48a69f6a7c334e1413fe38fcdcdae382b13db744056c2da16e817af1ca",
-      "collectedAt": "2026-10-05T19:52:16.303Z",
+      "collectedAt": "2026-10-05T20:14:46.326Z",
       "status": "ok",
       "pageCount": 1
     }
