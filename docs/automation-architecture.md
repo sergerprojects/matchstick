@@ -8,8 +8,8 @@ Chris's October 5 instruction establishes the operating requirement: after setup
 2. Preserve meaningful document versions and source dates. Identify jurisdiction, reporting period and authoritative record type.
 3. Normalize events, decisions, votes, projects and notices. Keep proposals distinct from outcomes.
 4. Connect records by stable office, parcel, contract, bill and meeting identifiers. Ambiguous links remain unconnected.
-5. Produce explainers using deterministic templates first. Optional language-model prose uses only the supplied record bundle and sentence-level evidence.
-6. Automated publication gates reject unsupported names/dates/numbers, weak evidence, wrong jurisdiction, stale coverage and incompatible source versions. An omission or plain uncertainty state is a valid result.
+5. Select and route individual changes using `editorial-system-prompt.md` and `editorial-contract.md`. A source link alone is insufficient. Identify concrete resident value, deduplicate prior coverage and keep routine notices in calendar/service/reference destinations. Zero selected news stories is valid. Draft eligible stories using the canonical prompt and claim-level evidence.
+6. Resolve useful inline context under `embedded-context-policy.md`, including verified subject pins for location stories. Run a separate editorial invocation using `editorial-review-prompt.md`; release only eligible, supported drafts with PASS for the same evidence/draft version. Deterministic gates reject malformed output, unsupported source/excerpt references, weak provenance, wrong jurisdiction, stale coverage and incompatible versions. Optional context failure keeps the useful text; uncertain facts remain held. Neither a model review nor mechanical checks guarantee factual accuracy.
 7. Publish the updated subject history and immutable weekly issue. Subsequent changes appear as dated revisions/corrections.
 8. Monitoring handles bounded retries, quarantined source changes and recovery. Source outages should not create an ordinary task for Chris. Operational failures still require someone to maintain the service; autonomous publication is not a promise of maintenance-free software.
 
@@ -35,3 +35,9 @@ The October 5 routine imported 18 calendar events and published six within its s
 ## Editorial accountability
 
 An independent automated publication still needs a public owner and corrections route before launch. Routine drafts do not wait for Chris. Any exceptional manual intervention is an operational recovery path, not the standard publishing workflow.
+
+## October 5 editorial and context requirements
+
+Chris rejected a routine school-board rescheduling notice as news and requested an operational selection/writing standard, not a one-card repair. The canonical writer and reviewer prompts now define resident value, routing, human-readable prose, omission, evidence and independent review. The contract contains synthetic acceptance examples and release conditions. Chris also requested far more embedded context and fewer required exits; verified maps, relevant documents/clips, defined charts and structured records are enrichment requirements.
+
+These requirements are documented and binding for subsequent implementation. The calendar-only publisher and static prototype do not yet load these prompts or enforce the news-release contract. No LLM calls, model credentials, source adapters or public reader changes were introduced in this pass.

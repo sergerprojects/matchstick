@@ -18,3 +18,9 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - Local code and compilation are authorized. Remote pushes, public deployment and new remote infrastructure require scoped user authorization.
 - Never read or reuse another project's secrets, credentials, tokens or Keychain items. Fresh exact approval is required for credential work.
 - No paid LLM calls or model credentials have been configured. Deterministic publication currently covers the city calendar only.
+
+## Editorial operation
+
+Before changing source-to-story generation, news publication, topic selection or story enrichment, read `docs/editorial-system-prompt.md`, `docs/editorial-review-prompt.md`, `docs/editorial-contract.md` and `docs/embedded-context-policy.md`. These are the canonical resident-first requirements. A valid source alone is not publication eligibility. Routine meeting notices belong in calendar/service workflows. Do not fill topic or edition quotas. Explain the concrete local consequence and require an independent review before automatic news release.
+
+Plan useful inline context for eligible stories; place stories should have source-backed location pins. Do not substitute a generic city map for a verified subject locator. Prefer useful in-site explanations and supported context over mandatory external clicks. Prototype examples, seed routines and calendar assembly are not proof that these editorial gates are implemented. Never claim prompt files are a running news service.

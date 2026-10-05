@@ -91,3 +91,7 @@ The source repository uses `gus/initial-prototype` as its bootstrap/default bran
 Source uploaded to https://github.com/sergerprojects/matchstick, branch `gus/initial-prototype`. Public visibility is confirmed. GitHub Actions completed publication successfully, and the live preview is https://sergerprojects.github.io/matchstick/. The Actions workflow publishes the static snapshot when this branch changes.
 
 The live preview was opened at 390 px and 320 px phone widths. The masthead fits without horizontal page overflow; navigation, project details, original-record dialogs, the school photo and the dated edition permalink were checked in the published site. Screenshot: `docs/matchstick-live-phone.jpg`.
+
+## Resident-first editorial requirements
+
+The canonical generation prompt is `docs/editorial-system-prompt.md`; its independent reviewer is `docs/editorial-review-prompt.md`. `docs/editorial-contract.md` defines selection, structured output, publication gates and synthetic acceptance cases. `docs/embedded-context-policy.md` defines useful in-site maps, documents, clips and structured context. These govern future automatic news implementation. The current calendar publisher does not call an LLM or enforce this contract; source-only checks are insufficient for production news. This pass changes the operating specification, not prototype reader content.
