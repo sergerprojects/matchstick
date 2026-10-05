@@ -8,3 +8,5 @@ out
 .DS_Store
 
 .newsroom
+
+.newsroom-initial-cache-*

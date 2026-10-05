@@ -35,3 +35,5 @@ School normal HTTP currently works. If it fails, a normal browser can supply the
 Both actual CLI developer instructions consume `docs/voice/VOICE-PROFILE.md`. The writer also consumes `WRITER-VOICE-INCLUDE.md`; the independent reviewer consumes `REVIEWER-VOICE-INCLUDE.md`. Canonical editorial prompts are version 5. Synthetic calibration examples never enter source evidence. Existing approved text is not automatically rewritten for style.
 
 Gazette visible source captures are limited to 220 words per report; original attributed published briefs are limited to 150 words. Gazette evidence excerpts remain private rather than being republished in receipts. No paywall bypass or full-article copying.
+
+Scanned pages cited by a candidate are rendered directly from the content-addressed original PDF and attached to its independent reviewer. Amounts, dates and table columns are checked against those page images as well as the OCR transcription; source PDF and extracted-text hashes are retained separately.

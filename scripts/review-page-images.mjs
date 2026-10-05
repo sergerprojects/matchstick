@@ -1,0 +1,5 @@
+import {access,mkdir} from 'node:fs/promises';
+import {execFile} from 'node:child_process';
+import {promisify} from 'node:util';
+const run=promisify(execFile);
+export async function originalPageImages(claims,byId,store){const found=new Map();await mkdir(new URL('page-images/',store),{recursive:true});for(const claim of claims){const r=byId.get(claim.sourceId);if(!r?.extraction?.ocrPages?.includes(claim.page))continue;if(!/^[a-f0-9]{64}$/.test(r.sha256)||!Number.isInteger(claim.page)||claim.page<1||!r.pages.some(p=>p.page===claim.page))throw new Error('Invalid original image source');const key=r.sha256+'-p'+claim.page,entry=found.get(key);if(entry){entry.sourceIds.push(r.id);continue;}const prefix=new URL('page-images/'+key,store).pathname,path=prefix+'.png';try{await access(path);}catch{await run('pdftoppm',['-f',String(claim.page),'-l',String(claim.page),'-singlefile','-r','150','-png',new URL('versions/'+r.sha256+'.pdf',store).pathname,prefix],{timeout:45000,maxBuffer:1000000});}found.set(key,{sourceIds:[r.id],page:claim.page,path});}return [...found.values()].map(e=>({...e,sourceIds:[...new Set(e.sourceIds)]}));}
