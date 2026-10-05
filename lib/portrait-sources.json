@@ -68,5 +68,130 @@
     "sourceUrl": "https://www.ohiosenate.gov/assets/people/mark-romanchuk/headshots/thumbnails/medium/mark-romanchuk-march-2025-headshot_medium.jpg",
     "owner": "Ohio Senate",
     "checked": "2026-10-05"
+  },
+  {
+    "name": "Sean Hutson",
+    "path": "/representatives/sean-hutson.jpg",
+    "sourceUrl": "https://www.ohiohouse.gov/assets/people/headshots/medium/3053.jpg",
+    "owner": "Ohio House of Representatives",
+    "checked": "2026-10-05",
+    "width": 640,
+    "height": 818
+  },
+  {
+    "name": "Max Miller",
+    "path": "/representatives/max-miller.jpg",
+    "sourceUrl": "https://bioguide.congress.gov/photo/680908fb6c2e6631263de71f.jpg",
+    "owner": "U.S. House of Representatives \u00b7 Brian Thorpe",
+    "checked": "2026-10-05",
+    "width": 600,
+    "height": 750,
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Max_Miller,_official_portrait_(119th_Congress).jpg",
+    "license": "Public domain \u00b7 U.S. Congress"
+  },
+  {
+    "name": "Bernie Moreno",
+    "path": "/representatives/bernie-moreno.jpg",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sen._Bernie_Moreno_official_photo%2C_119th_Congress.jpg",
+    "owner": "United States Senate",
+    "checked": "2026-10-05",
+    "width": 240,
+    "height": 300,
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Sen._Bernie_Moreno_official_photo,_119th_Congress.jpg",
+    "license": "Public domain \u00b7 U.S. Congress"
+  },
+  {
+    "name": "Jon Husted",
+    "path": "/representatives/jon-husted.webp",
+    "sourceUrl": "https://www.husted.senate.gov/wp-content/uploads/2025/10/Husted_OfficialPortrait.webp",
+    "owner": "United States Senate",
+    "checked": "2026-10-05",
+    "width": 976,
+    "height": 1414
+  },
+  {
+    "name": "Tim Beck",
+    "path": "/representatives/school-board.jpg",
+    "sourceUrl": "https://www.wadsworthschools.org/board-of-education-2",
+    "photoUrl": "https://resources.finalsite.net/images/f_auto,q_auto/v1776169280/wadsworthk12ohus/etaogwezsi3sxkgy2ctr/BoardPictureRefined.png",
+    "owner": "Wadsworth City Schools",
+    "checked": "2026-10-05",
+    "width": 1213,
+    "height": 864,
+    "crop": {
+      "x": 650,
+      "y": 196,
+      "width": 165,
+      "height": 201
+    },
+    "note": "Individual frame from the district group photo. Identity follows the district caption: seated Julie Batey and Tim Beck; standing Jill Stevens, Tom Fisher and Amanda Gordon. Original image retained without alteration."
+  },
+  {
+    "name": "Julie Batey",
+    "path": "/representatives/school-board.jpg",
+    "sourceUrl": "https://www.wadsworthschools.org/board-of-education-2",
+    "photoUrl": "https://resources.finalsite.net/images/f_auto,q_auto/v1776169280/wadsworthk12ohus/etaogwezsi3sxkgy2ctr/BoardPictureRefined.png",
+    "owner": "Wadsworth City Schools",
+    "checked": "2026-10-05",
+    "width": 1213,
+    "height": 864,
+    "crop": {
+      "x": 348,
+      "y": 200,
+      "width": 190,
+      "height": 232
+    },
+    "note": "Individual frame from the district group photo. Identity follows the district caption: seated Julie Batey and Tim Beck; standing Jill Stevens, Tom Fisher and Amanda Gordon. Original image retained without alteration."
+  },
+  {
+    "name": "Tom Fisher",
+    "path": "/representatives/school-board.jpg",
+    "sourceUrl": "https://www.wadsworthschools.org/board-of-education-2",
+    "photoUrl": "https://resources.finalsite.net/images/f_auto,q_auto/v1776169280/wadsworthk12ohus/etaogwezsi3sxkgy2ctr/BoardPictureRefined.png",
+    "owner": "Wadsworth City Schools",
+    "checked": "2026-10-05",
+    "width": 1213,
+    "height": 864,
+    "crop": {
+      "x": 510,
+      "y": 50,
+      "width": 165,
+      "height": 201
+    },
+    "note": "Individual frame from the district group photo. Identity follows the district caption: seated Julie Batey and Tim Beck; standing Jill Stevens, Tom Fisher and Amanda Gordon. Original image retained without alteration."
+  },
+  {
+    "name": "Amanda Gordon",
+    "path": "/representatives/school-board.jpg",
+    "sourceUrl": "https://www.wadsworthschools.org/board-of-education-2",
+    "photoUrl": "https://resources.finalsite.net/images/f_auto,q_auto/v1776169280/wadsworthk12ohus/etaogwezsi3sxkgy2ctr/BoardPictureRefined.png",
+    "owner": "Wadsworth City Schools",
+    "checked": "2026-10-05",
+    "width": 1213,
+    "height": 864,
+    "crop": {
+      "x": 755,
+      "y": 80,
+      "width": 180,
+      "height": 220
+    },
+    "note": "Individual frame from the district group photo. Identity follows the district caption: seated Julie Batey and Tim Beck; standing Jill Stevens, Tom Fisher and Amanda Gordon. Original image retained without alteration."
+  },
+  {
+    "name": "Jill Stevens",
+    "path": "/representatives/school-board.jpg",
+    "sourceUrl": "https://www.wadsworthschools.org/board-of-education-2",
+    "photoUrl": "https://resources.finalsite.net/images/f_auto,q_auto/v1776169280/wadsworthk12ohus/etaogwezsi3sxkgy2ctr/BoardPictureRefined.png",
+    "owner": "Wadsworth City Schools",
+    "checked": "2026-10-05",
+    "width": 1213,
+    "height": 864,
+    "crop": {
+      "x": 275,
+      "y": 60,
+      "width": 150,
+      "height": 183
+    },
+    "note": "Individual frame from the district group photo. Identity follows the district caption: seated Julie Batey and Tim Beck; standing Jill Stevens, Tom Fisher and Amanda Gordon. Original image retained without alteration."
   }
 ]
