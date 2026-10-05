@@ -1,6 +1,6 @@
 # Matchstick
 
-An independent public-service hub for Wadsworth, Ohio. Next.js 16, TypeScript and Convex. No MyTownView integration. Local prototype; no public deployment or remote repository has been created.
+An independent public-service hub for Wadsworth, Ohio. Next.js 16, TypeScript and Convex. No MyTownView integration. Source: https://github.com/sergerprojects/matchstick. GitHub Pages publishes a dated static preview; autonomous collection still needs an always-on backend.
 
 ## Run locally
 
@@ -75,7 +75,7 @@ See `docs/design-direction.md` and `docs/automation-architecture.md` for the des
 
 ## GitHub Pages phone preview
 
-The private repository is `sergerprojects/matchstick`. The Pages site is a public, dated prototype; source repository visibility does not make Pages private.
+The public repository is `sergerprojects/matchstick`. Chris authorized public visibility on October 5, 2026 after the GitHub plan rejected Pages hosting from the private repository.
 
 ```sh
 npm run snapshot       # include the latest published local issue
@@ -84,4 +84,8 @@ npm run build:pages    # static export at /matchstick/
 
 Pages uses `/matchstick` as its base path, static image delivery and exported routes. `NEXT_PUBLIC_PREVIEW_MODE=static` disables local Convex connections and includes the published issue and source statuses in the build. No localhost backend or credentials are required on the phone. The preview is a snapshot; live collection is not hosted on GitHub Pages.
 
-The Pages workflow publishes on pushes to main. Production autonomous data collection still requires an always-on backend and source adapters; the Pages preview does not replace them.
+The source repository uses `gus/initial-prototype` as its bootstrap/default branch because the local Git hook prohibits direct pushes to main. Pushes to this branch publish the preview through GitHub Actions. Production autonomous data collection still requires an always-on backend and source adapters; the Pages preview does not replace them.
+
+### Publication status — October 5, 2026
+
+Source uploaded to https://github.com/sergerprojects/matchstick, branch `gus/initial-prototype`. Public visibility is confirmed and GitHub Pages activation succeeded. Deployment target: https://sergerprojects.github.io/matchstick/. The Actions workflow publishes the static snapshot when this branch changes.
