@@ -52,7 +52,7 @@ await collect('legislation-snapshot.json','https://www.ohiosenate.gov/members/ma
   const response=await fetch(record.url,{signal:AbortSignal.timeout(20000)});if(!response.ok)throw new Error(`Bill page ${response.status}`);
   const detail=load(await response.text());const current=detail('h2').filter((_,e)=>clean(detail(e).text())==='Current Version').first().next('p').find('a').first();
   record.version=clean(current.text());if(!record.version)throw new Error('Missing bill version');
-  record.completedSteps=detail('.status-step').filter((_,e)=>detail(e).find('img[alt="Step completed"]').length>0).map((_,e)=>clean(detail(e).text())).get();
+  record.completedSteps=detail('.status-step').filter((_,e)=>detail(e).find('img[alt="Step completed"]').length>0).map((_,e)=>{const chamber=detail(e).closest('.status-diagram-house').length?'House':detail(e).closest('.status-diagram-senate').length?'Senate':'';const step=clean(detail(e).text());return /Reported By Committee/.test(step)?`${chamber} committee reported the bill`:step;}).get();
  }
  return {assembly:'136th General Assembly',records};
 });

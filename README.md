@@ -95,3 +95,7 @@ The live preview was opened at 390 px and 320 px phone widths. The masthead fits
 ## Resident-first editorial requirements
 
 The canonical generation prompt is `docs/editorial-system-prompt.md`; its independent reviewer is `docs/editorial-review-prompt.md`. `docs/editorial-contract.md` defines selection, structured output, publication gates and synthetic acceptance cases. `docs/embedded-context-policy.md` defines useful in-site maps, documents, clips and structured context. These govern future automatic news implementation. The current calendar publisher does not call an LLM or enforce this contract; source-only checks are insufficient for production news. This pass changes the operating specification, not prototype reader content.
+
+### Resident lens and native tools
+
+Writer/reviewer prompts v2 apply Chris’s five-reader lens to every selection and explanation. See `docs/resident-tools.md` for the native permit, ward, portrait and bill-progress tools, daily Pages collection, and remaining news-pipeline integrations. Automatic tool refresh is separate from automatic news reporting.
