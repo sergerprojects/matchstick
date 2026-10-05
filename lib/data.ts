@@ -18,9 +18,9 @@ export const sources: Evidence[] = [
  city('Official crime map','909/LexisNexis-Community-Crime-Map','External provider. No incident data copied into Matchstick.'),
  {title:'Sheriff & offender lookup',url:'https://www.sheriffalerts.com/cap_office_disclaimer.php?office=55175&fwd=aHR0cDovL3NoZXJpZmZhbGVydHMuY29tL2NhcF9tYWluLnBocD9vZmZpY2U9NTUxNzU=',owner:'Medina County Sheriff',checked:cutoff,note:'Use the official registered-offender search. No personal registry records stored here.'},
  {title:'Ohio House directory',url:'https://www.ohiohouse.gov/members/directory',owner:'Ohio House of Representatives',checked:cutoff},
- {title:'Ohio legislation',url:'https://legislature.ohio.gov/',owner:'Ohio General Assembly',checked:cutoff,note:'Bill and vote ingestion is planned; activity is not represented as complete.'},
+ {title:'Ohio legislation',url:'https://legislature.ohio.gov/',owner:'Ohio General Assembly',checked:cutoff,note:'Romanchuk primary-sponsored bills and progress refresh daily. Other sponsored-bill feeds are not yet connected; voting records remain on official sites.'},
  {title:'Federal legislation',url:'https://www.congress.gov/',owner:'Library of Congress',checked:cutoff},
- {title:'U.S. House roll calls',url:'https://clerk.house.gov/evs/2026/index.asp',owner:'Clerk of the U.S. House',checked:cutoff},
+ {title:'U.S. House roll calls',url:'https://clerk.house.gov/Votes',owner:'Clerk of the U.S. House',checked:cutoff},
  {title:'Library events',url:'https://wadsworthlibrary.events.mylibrary.digital/',owner:'Wadsworth Public Library',checked:cutoff},
  {title:'Medina Gazette · Local News',url:'https://medina-gazette.com/news-category/news/local-news/11/18/',owner:'Medina Gazette · independent journalism',checked:cutoff,note:'Publisher links only. Article syndication has not been established.'},
 ];
@@ -36,7 +36,7 @@ export const meetings = [
  {id:'scare-oct17',day:'17',month:'OCT',title:'Scare on the Square',time:'Saturday · 5:30–8 p.m.',place:'Downtown · includes Wadsworth Thriller',type:'Around town',date:'2026-10-17T17:30:00-04:00',url:'https://wadsworthcity.com/Calendar.aspx'},
  {id:'trick-oct31',day:'31',month:'OCT',title:'Trick or treat',time:'Saturday · 6–8 p.m.',place:'Wadsworth · official city calendar',type:'Around town',date:'2026-10-31T18:00:00-04:00',url:'https://wadsworthcity.com/Calendar.aspx'},
 ];
-export type Representative = {photo?:string;name:string;office:string;level:string;ward?:string;url:string;email?:string;phone?:string;social?:{label:string;url:string}[];note?:string};
+export type Representative = {photo?:string;name:string;office:string;level:string;ward?:string;url:string;email?:string;phone?:string;votes?:{label:string;url:string};social?:{label:string;url:string}[];note?:string};
 const councilUrl='https://www.wadsworthcity.com/m/directory/department?did=52';
 export const representatives: Representative[] = [
  {name:'Mike Reese',office:'City Council · Ward 1',level:'City',ward:'1',url:councilUrl,email:'mreese@wadsworthcity.org',phone:'330-421-8909'},
@@ -50,11 +50,11 @@ export const representatives: Representative[] = [
  {name:'Robin Laubaugh',office:'Mayor',level:'City',url:'https://www.wadsworthcity.com/m/directory/employee?eid=18',email:'rlaubaugh@wadsworthcity.org',phone:'330-335-2705'},
  {name:'Tim Beck',office:'School Board · President',level:'Schools',url:'https://www.wadsworthschools.org/board-of-education-2',email:'tbeck@wadsworthschools.org'},
  ...['Julie Batey','Tom Fisher','Amanda Gordon','Jill Stevens'].map(name=>({name,office:'School Board'+(name==='Julie Batey'?' · Vice President':''),level:'Schools',url:'https://www.wadsworthschools.org/board-of-education-2'})),
- {name:'Sean Hutson',office:'Ohio House · District 66',level:'State',url:'https://www.ohiohouse.gov/members/sean-hutson',note:'Appointed September 30, 2026. Verify your district using the official finder.'},
- {name:'Mark Romanchuk',office:'Ohio Senate · District 22',level:'State',url:'https://www.ohiosenate.gov/members/mark-romanchuk'},
- {name:'Max Miller',office:'U.S. House · Ohio 7',level:'Federal',url:'https://maxmiller.house.gov/',social:[{label:'@RepMaxMiller · X',url:'https://x.com/RepMaxMiller'},{label:'Instagram',url:'https://www.instagram.com/repmaxmiller/'}]},
- {name:'Bernie Moreno',office:'U.S. Senate · Ohio',level:'Federal',url:'https://www.moreno.senate.gov/',social:[{label:'@berniemoreno · X',url:'https://x.com/berniemoreno'},{label:'Instagram',url:'https://www.instagram.com/senatorberniemoreno/'}]},
- {name:'Jon Husted',office:'U.S. Senate · Ohio',level:'Federal',url:'https://www.husted.senate.gov/',social:[{label:'@SenJonHusted · X',url:'https://x.com/SenJonHusted'},{label:'Instagram',url:'https://www.instagram.com/senjonhusted/'}]},
+ {name:'Sean Hutson',office:'Ohio House · District 66',level:'State',url:'https://www.ohiohouse.gov/members/sean-hutson',votes:{label:'House votes · session journals',url:'https://www.ohiohouse.gov/session/journals'},note:'Appointed September 30, 2026. Verify your district using the official finder.'},
+ {name:'Mark Romanchuk',office:'Ohio Senate · District 22',level:'State',url:'https://www.ohiosenate.gov/members/mark-romanchuk',votes:{label:'Senate votes · session journals',url:'https://www.ohiosenate.gov/session/journals/136'}},
+ {name:'Max Miller',office:'U.S. House · Ohio 7',level:'Federal',url:'https://maxmiller.house.gov/',votes:{label:'Recent votes · House Clerk',url:'https://clerk.house.gov/Members/M001222'},social:[{label:'@RepMaxMiller · X',url:'https://x.com/RepMaxMiller'},{label:'Instagram',url:'https://www.instagram.com/repmaxmiller/'}]},
+ {name:'Bernie Moreno',office:'U.S. Senate · Ohio',level:'Federal',url:'https://www.moreno.senate.gov/',votes:{label:'Voting record',url:'https://www.moreno.senate.gov/about/voting-record/'},social:[{label:'@berniemoreno · X',url:'https://x.com/berniemoreno'},{label:'Instagram',url:'https://www.instagram.com/senatorberniemoreno/'}]},
+ {name:'Jon Husted',office:'U.S. Senate · Ohio',level:'Federal',url:'https://www.husted.senate.gov/',votes:{label:'Voting record',url:'https://www.husted.senate.gov/legislation/voting-record/'},social:[{label:'@SenJonHusted · X',url:'https://x.com/SenJonHusted'},{label:'Instagram',url:'https://www.instagram.com/senjonhusted/'}]},
 ];
 export type Story={slug:string;category:string;title:string;dek:string;body:string;source:Evidence;editorial?:EditorialDecision};
 export const stories:Story[] = [

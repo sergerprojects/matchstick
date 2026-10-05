@@ -53,6 +53,13 @@ await collect('legislation-snapshot.json','https://www.ohiosenate.gov/members/ma
   const detail=load(await response.text());const current=detail('h2').filter((_,e)=>clean(detail(e).text())==='Current Version').first().next('p').find('a').first();
   record.version=clean(current.text());if(!record.version)throw new Error('Missing bill version');
   record.completedSteps=detail('.status-step').filter((_,e)=>detail(e).find('img[alt="Step completed"]').length>0).map((_,e)=>{const chamber=detail(e).closest('.status-diagram-house').length?'House':detail(e).closest('.status-diagram-senate').length?'Senate':'';const step=clean(detail(e).text());return /Reported By Committee/.test(step)?`${chamber} committee reported the bill`:step;}).get();
+  if(!record.completedSteps.includes('Introduced In Senate'))throw new Error('Missing Senate introduction marker');
+  const final=detail('.status-diagram-final').first();
+  if(!final.length||!final.find('img[alt="Final step completed"],img[alt="Final step not completed"]').length)throw new Error('Missing final-stage status marker');
+  record.finalStage={label:clean(final.text()),completed:final.find('img[alt="Final step completed"]').length>0};
+  const order=['Introduced In Senate','In Senate Committee','Senate committee reported the bill','Passed By Senate','Introduced In House','In House Committee','House committee reported the bill','Passed By House'];
+  record.completedSteps.sort((a,b)=>order.indexOf(a)-order.indexOf(b));
+
  }
  return {assembly:'136th General Assembly',records};
 });

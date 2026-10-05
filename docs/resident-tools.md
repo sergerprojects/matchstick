@@ -25,6 +25,18 @@ The previous-month county report rolls forward as the county publishes each mont
 
 ## Remaining integrations
 
-Automatic minutes-to-news writing/review, complete local/state/federal votes, business opening confirmation, current-period permit search and address-to-ward geospatial matching still require adapters. The House Clerk 2026 index returned HTTP 404 during this pass; no vote data was invented. The Brickyard name and State/Reimer intersection did not resolve through the public geocoder; no guessed coordinates or false project pins were added. The map enrichment contract holds unresolved locations until a verified locator is available. The existing area map is explicitly labeled as geographic orientation.
+Automatic minutes-to-news writing/review, broader local/state/federal sponsored-bill coverage, business opening confirmation, current-period permit search and address-to-ward geospatial matching still require adapters. The House Clerk 2026 index returned HTTP 404 during this pass; no vote data was invented. The Brickyard name and State/Reimer intersection did not resolve through the public geocoder; no guessed coordinates or false project pins were added. The map enrichment contract holds unresolved locations until a verified locator is available. The existing area map is explicitly labeled as geographic orientation.
 
 No test suite was added or run. Static export and TypeScript compilation were run as publication steps.
+
+## Bill tracker coverage — October 5, 2026
+
+Collapsed bill cards now show five actual milestones (introduced, Senate passage, House passage, sent to governor, signed) and a plain current-stage label. Governor receipt and signature require the official completed final-stage marker. The collector refreshes that marker daily, retains successful data on failure, and orders chamber steps by the bill's Senate origin. This is a milestone display, not a probability or a voting score.
+
+Only Mark Romanchuk's 13 primary-sponsored bills are connected to the live tracker. Sean Hutson's official legislation profile returned an empty listing on October 5; that does not establish zero legislative activity or voting history. Moreno and Husted publish paginated sponsored-legislation tables on their official sites; they are feasible future inputs, but are not connected. Congress.gov blocked the Miller member-page request with HTTP 403; GovInfo Bill Status XML is a supported official route for bill actions once sponsor discovery is connected. Local ordinances and school board decisions need their own routes; they do not share the state/federal bill-to-signature process.
+
+The public Pages workflow refreshes the permit and Romanchuk tools only. It does not collect city/school approved minutes or generate resident news. The local Convex calendar publisher and exported issue are separate from that public refresh. The Chick-fil-A project appears in the approved August 3 council minutes (Ordinance 26-082, adopted; planning commission approval June 8); discovering that information required a manual source lookup. Do not claim minute-driven autonomous news publication until document discovery, extraction, editorial selection, evidence review and publication are connected end to end.
+
+## Sponsored bills, with optional external vote records
+
+Chris clarified that the in-app focus is bills each representative sponsors and their progress, not a full vote-history interface. Voting records are external links on each legislator card. Moreno and Husted link to their individual official voting records; Miller links to the House Clerk member profile with recent votes. Ohio House/Senate links explicitly say session journals: these are chamber-wide original records, not individual filtered histories. No vote-history import or scoring is planned.

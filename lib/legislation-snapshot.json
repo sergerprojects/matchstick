@@ -11,7 +11,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 67",
@@ -23,7 +27,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 68",
@@ -35,7 +43,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 69",
@@ -47,7 +59,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 229",
@@ -57,13 +73,17 @@
       "role": "Primary sponsor",
       "version": "As Passed by the Senate",
       "completedSteps": [
-        "Introduced In House",
-        "In House Committee",
         "Introduced In Senate",
         "In Senate Committee",
         "Senate committee reported the bill",
-        "Passed By Senate"
-      ]
+        "Passed By Senate",
+        "Introduced In House",
+        "In House Committee"
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 230",
@@ -73,12 +93,16 @@
       "role": "Primary sponsor",
       "version": "As Passed by the Senate",
       "completedSteps": [
-        "Introduced In House",
         "Introduced In Senate",
         "In Senate Committee",
         "Senate committee reported the bill",
-        "Passed By Senate"
-      ]
+        "Passed By Senate",
+        "Introduced In House"
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 231",
@@ -90,7 +114,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 258",
@@ -102,7 +130,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 294",
@@ -112,12 +144,16 @@
       "role": "Primary sponsor",
       "version": "As Passed by the Senate",
       "completedSteps": [
-        "Introduced In House",
         "Introduced In Senate",
         "In Senate Committee",
         "Senate committee reported the bill",
-        "Passed By Senate"
-      ]
+        "Passed By Senate",
+        "Introduced In House"
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 298",
@@ -129,7 +165,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 370",
@@ -141,7 +181,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 457",
@@ -153,7 +197,11 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     },
     {
       "bill": "S. B. No. 464",
@@ -165,11 +213,15 @@
       "completedSteps": [
         "Introduced In Senate",
         "In Senate Committee"
-      ]
+      ],
+      "finalStage": {
+        "label": "Sent To The Governor",
+        "completed": false
+      }
     }
   ],
   "sourceUrl": "https://www.ohiosenate.gov/members/mark-romanchuk/legislation",
-  "collectedAt": "2026-10-05T19:11:38.368Z",
-  "lastAttempt": "2026-10-05T19:11:38.368Z",
+  "collectedAt": "2026-10-05T19:21:24.427Z",
+  "lastAttempt": "2026-10-05T19:21:24.427Z",
   "status": "ok"
 }
