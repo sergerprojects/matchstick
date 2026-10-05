@@ -30,3 +30,7 @@ html{font-synthesis:none}.match-mark{transform:none}.match-mark:before{display:n
 .permanent-story>p:not(.lead-dek):not(.story-dateline):not(.reader-note){font-family:var(--font-serif),Georgia,serif;font-size:21px;line-height:1.65}@media(max-width:560px){.permanent-story>p:not(.lead-dek):not(.story-dateline):not(.reader-note){font-size:19px}}
 
 .archive-date-filter{display:flex;gap:12px;align-items:center;margin:20px 0;font-size:13px}.archive-date-filter select{background:transparent;color:var(--ink);border:1px solid var(--line);padding:9px;font:inherit}.edition-correction{border-left:3px solid var(--blue);padding:8px 18px;margin:20px 0;font-size:14px}.edition-correction p{font-size:14px}
+
+button.meeting{width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);cursor:pointer;color:inherit;font:inherit}.story-date{display:block;color:var(--muted);font-size:11px;margin:8px 0}
+
+.dialog-close{position:absolute;top:18px;right:18px;padding:6px}.more-stories{margin:35px 0}.headline-button{text-decoration:none;color:inherit}

@@ -12,7 +12,7 @@ Connected October 5, 2026:
 - County roads: published dated closure entries, retained bulletin validity; reader display expires individual notices.
 - Ohio and GovInfo bill feeds: five primary-sponsored-bill lists remain connected. No full vote-history import.
 
-Pending supported access: complete planning applications/staff reports/outcomes, targeted Gazette secondary check, ODOT current closures and live city utility notices beyond the public digital newsroom. Public Safety packet reading is connected; native comparable statistical series needs reviewed definitions/periods before export.
+Pending supported access: complete planning applications/staff reports/outcomes, ODOT current closures and live city utility notices beyond the public digital newsroom. Public Safety packet reading is connected; native comparable statistical series needs reviewed definitions/periods before export.
 
 ## Recoverability
 
@@ -20,4 +20,6 @@ Raw PDF/text versions are keyed by SHA-256 under the ignored persistent store. R
 
 A separate publisher checkout must run with its own branch and a symlink to the persistent document store. A create-exclusive lock prevents simultaneous mutation; after an interrupted job confirm its recorded PID is no longer running before removing the lock. Never clear a lock or checkout automatically while another process may be using it.
 
-Git tracks approved stories, their versions, selected immutable editions and public coverage. This backs up published work remotely. Raw documents currently have local content-addressed recovery; an independent backup remains a setup gap until implemented, so do not call the local cache a disaster-recovery backup.
+Daily collection also maintains city/school calendar dates. A weekly ordinary-browser Gazette check supplies bounded, attributed public reporting through `import-gazette-check.mjs`; inaccessible reporting is a coverage gap.
+
+Git tracks approved stories, their versions, selected immutable editions and public coverage. This backs up published work remotely. `backup-newsroom.mjs` saves compressed source versions, reader checkpoints, working ledgers and run records to the ignored Gus `state/matchstick-backups` directory after completed collection/editorial work. This is a separate local recovery copy on the same Mac; offsite disaster recovery remains a gap.

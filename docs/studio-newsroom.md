@@ -18,7 +18,7 @@ Daily source collection; Monday editorial check; provisional paper every two wee
 
 ## Storage and recovery
 
-Ignored `.newsroom` storage contains raw versions, complete-reader checkpoints, facts, held decisions, run output and deployment status. Public exports contain approved text, necessary official quotations and coverage metadata only. Publisher uses a separate branch/checkout sharing that persistent store; development files must never be cleared to make automation run.
+The dedicated publisher’s ignored `.newsroom` symlink points to persistent Studio storage. That storage contains raw versions, complete-reader checkpoints, facts, held decisions, run output and deployment status. Public exports contain approved text, necessary official quotations and coverage metadata only. Publisher uses `/Users/gus/Projects/matchstick-publisher` on `matchstick/publisher`, sharing that persistent store; development files must never be cleared to make automation run.
 
 Collection and publication have different success records. A push alone is not success. Source failures remain in coverage even if the site build succeeds. Original approved content survives failed retrieval/model/build; failed pushes preserve their commit. A create-exclusive lock prevents simultaneous collection/editorial writes; investigate an interrupted run's recorded PID before removing its stale lock.
 
