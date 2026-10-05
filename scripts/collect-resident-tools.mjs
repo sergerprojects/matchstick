@@ -18,7 +18,9 @@ async function collect(file,url,parse){
   console.error(`${file}: retained last successful snapshot (${error.message})`);
  }
 }
-await collect('permit-snapshot.json','https://building.medinaco.org/permits/permitList.php?code=C&sDate=&eDate=',($)=>{
+const reportDate=d=>`${String(d.getUTCMonth()+1).padStart(2,'0')}/${String(d.getUTCDate()).padStart(2,'0')}/${String(d.getUTCFullYear()).slice(-2)}`;
+const permitReport=new URL('https://building.medinaco.org/permits/permitList.php');permitReport.searchParams.set('code','C');permitReport.searchParams.set('sDate',reportDate(new Date(Date.now()-90*86400000)));permitReport.searchParams.set('eDate',reportDate(new Date()));
+await collect('permit-snapshot.json',permitReport.href,($)=>{
  const period=$('body').text().match(/From (\d{2}\/\d{2}\/\d{2}) through (\d{2}\/\d{2}\/\d{2})/);
  if(!period||!$('body').text().includes('Commercial Permits Issued'))throw new Error('Permit report shape changed');
  const iso=s=>`20${s.slice(6)}-${s.slice(0,2)}-${s.slice(3,5)}`;

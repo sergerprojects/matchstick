@@ -1,35 +1,37 @@
 # Matchstick Studio newsroom
 
-The active native automation `publish-matchstick-s-weekly-edition` runs Mondays at 7 a.m. Eastern on the Studio.
+## Operating sequence
 
-The weekly job runs on Chris’s Mac Studio using existing Codex access. No separately billed LLM API, model key, required human editor or approval queue is used.
+The Mac Studio uses existing Codex access. No separate LLM API billing or routine approval queue for Chris.
 
-## Working commands
+1. `collect-resident-tools.mjs` and `collect-federal-bills.py`: official 90-day commercial permits and all five primary-sponsored-bill feeds.
+2. `collect-news-records.mjs`: city/committee packets, all trailing 90-day school meetings, financial references, county minutes/agendas/resolutions, library attachments, planning/hearing notices. Every PDF is eligible for OCR. Discovery rechecks older city records for late outcomes and revisions.
+3. `collect-service-records.mjs`: supported permit facts, city service notices and dated county road bulletin.
+4. `extract-news-facts.mjs`: reads every page/section, checkpoints the reader by document version, and validates exact page-linked facts. A partial packet cannot reach writing until all its sections have completed. Model failures remain retryable. Whole-document facts are reconciled by subject before selection.
+5. `run-newsroom.mjs`: writer v5 selects useful developments from the complete fact inventory, then a separate ephemeral reviewer v5 checks the copy and every claim. Changed/held subjects remain reconsiderable; no destructive bootstrap reset. `--catch-up` explicitly uses 90 days and keeps actual development dates.
+6. `save-news-archive.mjs`: permanent reviewed stories and versions. `--edition` or `--catch-up` freezes selected versions into an immutable paper; an unchanged or empty selection does not invent a new issue.
+7. `publish-newsroom.mjs`: dedicated clean publisher checkout, collection, optionally editorial reading/writing, compilation, scoped generated-file commit, push, bounded Pages confirmation and live archive/story availability checks. `--collect-only` skips model calls. Default editorial mode updates stories and issues a paper only when fourteen days have elapsed and useful approved changes exist.
 
-- `node scripts/collect-news-records.mjs` follows city agenda/minute PDF links, school board packets/minutes and financial/levy documents. It extracts every page with Poppler, uses Tesseract for recent scanned city documents, and preserves date, kind, URL and PDF hash. Full text stays in ignored `.newsroom/` storage. Public `lib/news-coverage.json` exposes successful documents and failures.
-- `node scripts/run-newsroom.mjs` reads changed recent records, current financial references and older business/election context. Long packets are divided by pages without truncating their text. It loads the canonical writer and reviewer instructions as Codex developer instructions; source text is lower-priority untrusted input. Tools, hooks, plugins, memory, browsing and delegation are disabled for these application model calls. Each reviewer call starts a fresh ephemeral conversation.
-- `node scripts/publish-newsroom.mjs` requires a clean working tree and the expected branch, fast-forwards from GitHub, collects records, runs writing/review, builds the site and commits/pushes only newsroom snapshots. Pages deploys from that push. Unexpected local changes, unavailable Codex or a failed build stop publication.
+## Frequency
 
-## Editorial purpose and voice
+Daily source collection; Monday editorial check; provisional paper every two weeks. Time-sensitive notices expire automatically. No minimum story count or filler. Revisit cadence after the catch-up and six weeks of actual useful reporting; initial historical backlog is not evidence of weekly future story volume.
 
-Read public documents for the useful local detail a busy resident would miss. Write original, lively explanations with dry observation and occasional light humor. The Medina Gazette is a secondary check; broad news scraping is outside the scope. Writer/reviewer v3 enforce that direction without weakening fact, fairness, timeliness or resident-interest requirements. Humor is optional and does not qualify a weak story for publication. This update changes future selection and writing; it does not automatically rewrite or re-review existing stories.
+## Storage and recovery
 
-## Release gate
+Ignored `.newsroom` storage contains raw versions, complete-reader checkpoints, facts, held decisions, run output and deployment status. Public exports contain approved text, necessary official quotations and coverage metadata only. Publisher uses a separate branch/checkout sharing that persistent store; development files must never be cleared to make automation run.
 
-A candidate needs an affected audience, Wadsworth connection, specific reader benefit, neighbor takeaway, meaningful change and explanation of timeliness. NEWS must describe a development in the last 14 days. EXPLAINER must identify an evidenced consequential decision in the next 30 days; undated background does not acquire today’s date. Usefulness must score at least 2; timeliness at least 1; impact + usefulness + timeliness at least 5.
+Collection and publication have different success records. A push alone is not success. Source failures remain in coverage even if the site build succeeds. Original approved content survives failed retrieval/model/build; failed pushes preserve their commit. A create-exclusive lock prevents simultaneous collection/editorial writes; investigate an interrupted run's recorded PID before removing its stale lock.
 
-Every factual assertion in headline, deck, body and structured fields needs an exact source/page excerpt. The publisher matches excerpts against collected text and binds the review to the unchanged candidate and evidence hashes. Every claim ID must receive SUPPORTED from a separate reviewer; PASS with failures or missing claims is rejected. Fluency, a valid source or a meeting title cannot make a candidate eligible. Rejected drafts are held; no fallback publishes them.
+Exact quotes and same-candidate separate PASS remain required. Dates are not substituted with retrieval time. Agendas, permits and bill introductions do not establish approval, opening or law. Humor is optional and reviewed, including implied facts. Read canonical editorial-system-prompt.md, editorial-review-prompt.md, editorial-contract.md and embedded-context-policy.md before changing selection or publication.
 
-PROJECT is a separate dated lookup record. A meaningful earlier development can belong in its history without becoming fresh news. Project locations stay textual when no exact site is established; no guessed map pins or opening dates. Current enrichment is readable original-source excerpts. Arbitrary model-generated embed URLs are not rendered.
+## Actual boundaries
 
-`lib/news-snapshot.json` feeds the home, school, project and weekly edition pages. Previous weekly versions are retained in `lib/news-issues.json`; raw drafts/review reports and the incremental ledger remain local. The October 5 bootstrap read six complete record bundles and independently approved a school-tax explainer and the Chick-fil-A access-road milestone. This is operational news publication, separate from the older Convex calendar publisher.
+See pipeline-coverage.md. Planning notices are connected, but the complete planning application/staff-report/disposition archive remains unresolved. Gazette is a targeted secondary-check requirement, not a broad scraper; ordinary-browser lead import is connected through `gazette-browser-check.json` and `import-gazette-check.mjs`; a fresh weekly browser check remains required. Native comparable crime statistics and automated address-to-ward matching remain work. County road notices are not a complete city/state disruption feed.
 
-## Browser fallback for school records
+School normal HTTP currently works. If it fails, a normal browser can supply the observed current-year resource links and public Finalsite redirects in `school-browser-index.json`, valid for 36 hours. Never bypass access controls. Preserve gaps when public browser access also fails.
 
-When ordinary public HTTP retrieval fails, use the normal browser to open the district’s current-year board archive. Read each recent link and its preceding meeting-date heading. Open those observed resource links and capture the public Finalsite PDF redirect. Save `.newsroom/school-browser-index.json` as `{indexUrl, observedAt, records:[{url,downloadUrl,title,meetingDate}]}`. Dates are ISO dates; indexUrl must exactly match the official current-year archive. The collector accepts this observed index for 36 hours. Never bypass an access-control page, CAPTCHA or paywall. If normal browser access fails too, keep the source gap visible.
+## Original voice loading
 
-## Scope and maintenance
+Both actual CLI developer instructions consume `docs/voice/VOICE-PROFILE.md`. The writer also consumes `WRITER-VOICE-INCLUDE.md`; the independent reviewer consumes `REVIEWER-VOICE-INCLUDE.md`. Canonical editorial prompts are version 5. Synthetic calibration examples never enter source evidence. Existing approved text is not automatically rewritten for style.
 
-City council/committee documents and school board/financial documents are connected. County meeting minutes, a narrowly scoped Medina Gazette secondary check, planning-commission archives outside AgendaCenter and private business announcements remain source gaps. County permits and all five legislators’ primary-sponsored bills refresh independently in GitHub Actions each day. Hutson’s currently empty official listing is monitored with a House detail adapter for future bills.
-
-The Studio and Codex app must be available with normal account access and sufficient usage. A stopped job preserves the previous published issue. This schedule is an operating service, not a guarantee that government documents will be timely, complete or available. Held topics include follow-up evidence requests; no required manual weekly review is introduced.
+Gazette visible source captures are limited to 220 words per report; original attributed published briefs are limited to 150 words. Gazette evidence excerpts remain private rather than being republished in receipts. No paywall bypass or full-article copying.

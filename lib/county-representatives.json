@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-05T22:32:10.368Z",
+  "records": [
+    {
+      "name": "Colleen M. Swedyk",
+      "office": "County Commissioner · President",
+      "level": "County",
+      "url": "https://www.medinaco.org/county-commissioners/board-members/",
+      "email": "cswedyk@medinacounty.gov",
+      "phone": "330-722-9212",
+      "photo": "/representatives/colleen-swedyk.png"
+    },
+    {
+      "name": "Stephen D. Hambley",
+      "office": "County Commissioner · Vice President",
+      "level": "County",
+      "url": "https://www.medinaco.org/county-commissioners/board-members/",
+      "email": "shambley@medinacounty.gov",
+      "phone": "330-722-9214",
+      "photo": "/representatives/stephen-hambley.png"
+    },
+    {
+      "name": "Aaron M. Harrison",
+      "office": "County Commissioner",
+      "level": "County",
+      "url": "https://www.medinaco.org/county-commissioners/board-members/",
+      "email": "aharrison@medinacounty.gov",
+      "phone": "330-722-9211",
+      "photo": "/representatives/aaron-harrison.png"
+    },
+    {
+      "name": "Terry Grice",
+      "office": "County Sheriff",
+      "level": "County",
+      "url": "https://medinasheriff.org/divisions/administration/",
+      "photo": "/representatives/terry-grice.jpg"
+    },
+    {
+      "name": "Anthony P. Capretta",
+      "office": "County Auditor",
+      "level": "County",
+      "url": "https://auditor.medinacounty.gov/",
+      "email": "auditorcapretta@medinacounty.gov",
+      "phone": "330-725-9754",
+      "social": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/MedinaCountyAuditor/"
+        }
+      ]
+    }
+  ]
+}

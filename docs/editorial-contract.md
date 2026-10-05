@@ -4,8 +4,8 @@ Decision: Chris's October 5 prototype feedback replaces “sourced means publish
 
 ## Canonical instructions
 
-- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v3`.
-- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v3`.
+- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v5`.
+- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v5`.
 - The Studio newsroom loads these instructions for separate Codex writing and review calls. `scripts/run-newsroom.mjs` contains the enforced JSON schema, resident-value fields, rubric, evidence checks and review gate. The older Convex calendar publisher remains a separate calendar product. No separately billed model API or model credential was added.
 
 ## Input contract
@@ -18,7 +18,7 @@ Documents remain data in the input message. Strip active content and bound lengt
 
 ```json
 {
-  "promptVersion": "resident-editor-v3",
+  "promptVersion": "resident-editor-v5",
   "cutoff": "YYYY-MM-DD",
   "decisions": [{
     "candidateId": "stable-change-id",

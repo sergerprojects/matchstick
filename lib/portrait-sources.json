@@ -193,5 +193,40 @@
       "height": 183
     },
     "note": "Individual frame from the district group photo. Identity follows the district caption: seated Julie Batey and Tim Beck; standing Jill Stevens, Tom Fisher and Amanda Gordon. Original image retained without alteration."
+  },
+  {
+    "name": "Colleen M. Swedyk",
+    "path": "/representatives/colleen-swedyk.png",
+    "sourceUrl": "https://www.medinaco.org/wp-content/uploads/2019/01/Colleen-250x250.png",
+    "owner": "Medina County Commissioners",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Stephen D. Hambley",
+    "path": "/representatives/stephen-hambley.png",
+    "sourceUrl": "https://www.medinaco.org/wp-content/uploads/2021/01/BoardMember-Steve-250x250-1.png",
+    "owner": "Medina County Commissioners",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Aaron M. Harrison",
+    "path": "/representatives/aaron-harrison.png",
+    "sourceUrl": "https://www.medinaco.org/wp-content/uploads/Aaron-Harrison-website-250x250_1-250x250.png",
+    "owner": "Medina County Commissioners",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Terry Grice",
+    "path": "/representatives/terry-grice.jpg",
+    "sourceUrl": "https://eadn-wc01-10791700.nxedge.io/cdn/wp-content/uploads/2026/02/Grice-Sheriff-Terry-Grice-1548-copy-214x300.jpg",
+    "owner": "Medina County Sheriff\u2019s Office",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Anthony P. Capretta",
+    "path": "/representatives/anthony-capretta.jpg",
+    "sourceUrl": "https://auditor.medinacounty.gov/Images/GetImage?imageId=35",
+    "owner": "Medina County Auditor",
+    "checked": "2026-10-05"
   }
 ]

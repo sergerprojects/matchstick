@@ -1,3 +1,5 @@
+import calendarSnapshot from './calendar-snapshot.json';
+import countyRepresentatives from './county-representatives.json';
 import newsroomSnapshot from './news-snapshot.json';
 import type {EditorialDecision} from './news-policy';
 export const cutoff = '2026-10-05';
@@ -39,10 +41,11 @@ const seedMeetings = [
  {id:'scare-oct17',day:'17',month:'OCT',title:'Scare on the Square',time:'Saturday · 5:30–8 p.m.',place:'Downtown · includes Wadsworth Thriller',type:'Around town',date:'2026-10-17T17:30:00-04:00',url:'https://wadsworthcity.com/Calendar.aspx'},
  {id:'trick-oct31',day:'31',month:'OCT',title:'Trick or treat',time:'Saturday · 6–8 p.m.',place:'Wadsworth · official city calendar',type:'Around town',date:'2026-10-31T18:00:00-04:00',url:'https://wadsworthcity.com/Calendar.aspx'},
 ];
-export const meetings=seedMeetings.filter(m=>m.date.slice(0,10)>=newsroom.cutoff);
+export const meetings=calendarSnapshot.records.filter(m=>m.date.slice(0,10)>=newsroom.cutoff);
 export type Representative = {photo?:string;name:string;office:string;level:string;ward?:string;url:string;email?:string;phone?:string;votes?:{label:string;url:string};social?:{label:string;url:string}[];note?:string};
 const councilUrl='https://www.wadsworthcity.com/m/directory/department?did=52';
 export const representatives: Representative[] = [
+ ...countyRepresentatives.records,
  {name:'Mike Reese',office:'City Council · Ward 1',level:'City',ward:'1',url:councilUrl,email:'mreese@wadsworthcity.org',phone:'330-421-8909'},
  {name:'Jon Yurchiak',office:'City Council · Ward 2',level:'City',ward:'2',url:councilUrl,email:'jyurchiak@wadsworthcity.org',phone:'614-592-4876'},
  {name:'Jeanne Hines',office:'City Council · Ward 3',level:'City',ward:'3',url:councilUrl,email:'jhines@wadsworthcity.org',phone:'330-730-4556'},

@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-09-01",
-  "periodEnd": "2026-09-30",
+  "periodStart": "2026-07-07",
+  "periodEnd": "2026-10-05",
   "records": [
     {
       "id": "C-00401-26",
@@ -78,10 +78,290 @@
         "Electrical",
         "HVAC"
       ]
+    },
+    {
+      "id": "C-00306-26",
+      "parcel": "04020B13215",
+      "issued": "2026-08-20",
+      "address": "110 HUMBOLT AVE",
+      "type": "COMMERCIAL-REMODEL",
+      "discipline": "Building",
+      "value": 12000,
+      "work": [
+        "Building",
+        "Electrical",
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00305-26",
+      "parcel": "",
+      "issued": "2026-08-19",
+      "address": "200 RL HAVENS CRESCENT",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00303-26",
+      "parcel": "04020D04296",
+      "issued": "2026-08-18",
+      "address": "150 SILVERCREEK RD",
+      "type": "ALARM SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00298-25",
+      "parcel": "",
+      "issued": "2026-08-18",
+      "address": "457 ROSALIND AVE",
+      "type": "COMM-GENERATOR",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00097-26",
+      "parcel": "",
+      "issued": "2026-08-18",
+      "address": "320 CHESTNUT ST",
+      "type": "HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00075-26",
+      "parcel": "",
+      "issued": "2026-08-11",
+      "address": "300 WEATHERSTONE DR",
+      "type": "ELECTRIC",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00285-26",
+      "parcel": "",
+      "issued": "2026-07-30",
+      "address": "1000 SEVILLE RD",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00278-26",
+      "parcel": "04020A03234",
+      "issued": "2026-07-29",
+      "address": "180 GREAT OAKS TRAIL",
+      "type": "EXISTING BLDG C OF O",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building",
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00139-26",
+      "parcel": "",
+      "issued": "2026-07-28",
+      "address": "111 COLLEGE ST",
+      "type": "HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00276-26",
+      "parcel": "04020A04047",
+      "issued": "2026-07-24",
+      "address": "988 HIGH ST",
+      "type": "ALARM SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00275-26",
+      "parcel": "04020D03007",
+      "issued": "2026-07-23",
+      "address": "129 S MAIN STREET",
+      "type": "SPECIAL INS-COMMERCIAL",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00267-26",
+      "parcel": "04020B29005",
+      "issued": "2026-07-21",
+      "address": "1183 WILLIAMS RESERVE BLVD",
+      "type": "COMMERCIAL SPRINKLER",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00269-26",
+      "parcel": "",
+      "issued": "2026-07-21",
+      "address": "209 PARK PLACE DR",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00266-26",
+      "parcel": "",
+      "issued": "2026-07-20",
+      "address": "322 GRANDVIEW AVE",
+      "type": "POWER RESTORATION",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00265-26",
+      "parcel": "",
+      "issued": "2026-07-20",
+      "address": "131 COLLEGE ST",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00256-26",
+      "parcel": "04020A03179",
+      "issued": "2026-07-15",
+      "address": "193 SMOKERISE DR",
+      "type": "COMMERCIAL-NEW CONSTRUCTN",
+      "discipline": "Building",
+      "value": 2800000,
+      "work": [
+        "Building",
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00161-26",
+      "parcel": "",
+      "issued": "2026-07-14",
+      "address": "151 MAIN ST",
+      "type": "ELECTRIC",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00246-26",
+      "parcel": "",
+      "issued": "2026-07-14",
+      "address": "138 S MAIN STREET",
+      "type": "COMMERCIAL ELECTRIC",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00247-26",
+      "parcel": "",
+      "issued": "2026-07-14",
+      "address": "235 BROAD ST",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00239-26",
+      "parcel": "04020A06052",
+      "issued": "2026-07-10",
+      "address": "780 HIGH ST",
+      "type": "ALARM SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00230-26",
+      "parcel": "",
+      "issued": "2026-07-09",
+      "address": "161 DEEPWOOD DR",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00222-26",
+      "parcel": "04020B13215",
+      "issued": "2026-07-07",
+      "address": "110 HUMBOLT AVE",
+      "type": "COMMERCIAL-REMODEL",
+      "discipline": "Building",
+      "value": 75000,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00224-26",
+      "parcel": "",
+      "issued": "2026-07-07",
+      "address": "1183 WILLIAMS RESERVE BLVD",
+      "type": "COMMERCIAL ELECTRIC",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=&eDate=",
-  "collectedAt": "2026-10-05T21:32:17.522Z",
-  "lastAttempt": "2026-10-05T21:32:17.522Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F07%2F26&eDate=10%2F05%2F26",
+  "collectedAt": "2026-10-05T22:56:03.523Z",
+  "lastAttempt": "2026-10-05T22:56:03.523Z",
   "status": "ok"
 }
