@@ -1,0 +1,10 @@
+import { ConvexHttpClient } from 'convex/browser';
+import { makeFunctionReference } from 'convex/server';
+import { writeFile } from 'node:fs/promises';
+const client=new ConvexHttpClient('http://127.0.0.1:3210');
+const issue=await client.query(makeFunctionReference('issues:latest'),{});
+if(!issue?.slug||!issue.body)throw new Error('A published automatic issue is required for the phone preview.');
+const states=await client.query(makeFunctionReference('collectors:status'),{});
+await writeFile(new URL('../lib/preview-issue.json',import.meta.url),JSON.stringify(issue,null,2)+'\n');
+await writeFile(new URL('../lib/preview-status.json',import.meta.url),JSON.stringify(states,null,2)+'\n');
+console.log(`Saved published issue ${issue.slug} and ${states.length} source statuses. No backend credentials exported.`);

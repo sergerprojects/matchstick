@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main style={{maxWidth:760,margin:'100px auto',padding:30}}><p>Matchstick · Wadsworth, Ohio</p><h1 style={{fontSize:65,margin:'30px 0'}}>A little off the map.</h1><p>That page isn’t here. Let’s get you back to the town.</p><Link href="/" style={{display:'inline-block',marginTop:25,color:'#1845cf'}}>Back to Matchstick →</Link></main>;}
