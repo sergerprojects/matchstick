@@ -1,0 +1,12 @@
+export type ReaderPerspective='business_owner'|'busy_parent'|'prospective_mover'|'casual_neighbor'|'school_parent';
+export type EditorialDecision={destination:'NEWS'|'EXPLAINER'|'CALENDAR'|'REFERENCE'|'HOLD';eventDate:string;readerPerspectives:ReaderPerspective[];residentValue:string;change:string;whyNow:string;review:'prototype-curated'|'independent-pass'|'pending';decisionDate?:string};
+// Rendering safeguard. Automatic publication still requires evidence hashes and the separate reviewer.
+export function eligibleNews<T extends {editorial?:EditorialDecision}>(items:T[],cutoff:string):T[]{
+ const day=Date.parse(cutoff+'T12:00:00Z');
+ return items.filter(({editorial:e})=>{
+  if(!e||!['NEWS','EXPLAINER'].includes(e.destination)||e.review==='pending'||!e.readerPerspectives.length||!e.residentValue.trim()||!e.change.trim()||!e.whyNow.trim())return false;
+  const date=Date.parse(e.eventDate+'T12:00:00Z');if(!Number.isFinite(date)||!Number.isFinite(day))return false;
+  if(e.destination==='NEWS')return date<=day&&day-date<=14*86400000;
+  const decision=Date.parse((e.decisionDate||'')+'T12:00:00Z');return Number.isFinite(decision)&&decision>=day&&decision-day<=30*86400000;
+ });
+}

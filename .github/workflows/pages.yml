@@ -2,9 +2,11 @@ name: Publish Matchstick preview
 on:
   push:
     branches: [gus/initial-prototype]
+  schedule:
+    - cron: '23 10 * * *'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
@@ -25,6 +27,17 @@ jobs:
       - uses: actions/configure-pages@v5
       - name: Install dependencies
         run: npm ci
+      - name: Refresh public resident tools
+        run: node scripts/collect-resident-tools.mjs
+      - name: Preserve last successful snapshots
+        run: |
+          git config user.name "Matchstick source collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lib/permit-snapshot.json lib/legislation-snapshot.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public resident tool snapshots"
+            git push origin HEAD:gus/initial-prototype
+          fi
       - name: Export the phone preview
         run: npm run build:pages
       - uses: actions/upload-pages-artifact@v4

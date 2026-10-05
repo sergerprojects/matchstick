@@ -52,3 +52,7 @@ The current project map is an area-orientation embed, not a verified Brickyard p
 The Safety page now includes a controlled iframe of the city-linked LexisNexis Community Crime Map, using the exact Wadsworth agency URL from https://www.wadsworthcity.com/909/LexisNexis-Community-Crime-Map. Provider URL: https://communitycrimemap.com/?agency-jump-dropdown=OH%20-%20Wadsworth. Public response headers checked October 5 allow framing (no X-Frame-Options or frame-ancestors restriction observed). The provider presents its own first-use terms/Continue dialog inside the frame; Matchstick does not accept terms on a visitor’s behalf.
 
 The map is the primary experience, with mobile dimensions, a user-triggered browser fullscreen control, attribution, coverage context and a secondary loading fallback link. It is live provider content, not captured crime data or a statistical import. The provider describes its agency-selected reports at https://risk.lexisnexis.com/products/community-crime-map. The remaining external registry/records/road tools are unchanged.
+
+## October 5 native tools update
+
+Ward maps, monthly city commercial permits and primary-sponsored Ohio Senate bills now render inside Matchstick. Source promotions are removed from newspaper slots. Direct registry search uses the sheriff-linked required provider disclaimer. See `resident-tools.md` for actual coverage and boundaries; tool collection is not automatic news reporting.

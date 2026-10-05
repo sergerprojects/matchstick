@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Mike Reese",
+    "path": "/representatives/mike-reese.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=6231",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Chris Maxwell",
+    "path": "/representatives/chris-maxwell.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=7828",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Angela May",
+    "path": "/representatives/angela-may.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=7837",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Dan Rospert",
+    "path": "/representatives/dan-rospert.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=4516",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Zach Berger",
+    "path": "/representatives/zach-berger.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=7839",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Tom Stugmyer",
+    "path": "/representatives/tom-stugmyer.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=1699",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Jon Yurchiak",
+    "path": "/representatives/jon-yurchiak.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=4267",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Jeanne Hines",
+    "path": "/representatives/jeanne-hines.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=4268",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Robin Laubaugh",
+    "path": "/representatives/robin-laubaugh.jpg",
+    "sourceUrl": "https://www.wadsworthcity.com/ImageRepository/Document?documentID=6211",
+    "owner": "City of Wadsworth",
+    "checked": "2026-10-05"
+  },
+  {
+    "name": "Mark Romanchuk",
+    "path": "/representatives/mark-romanchuk.jpg",
+    "sourceUrl": "https://www.ohiosenate.gov/assets/people/mark-romanchuk/headshots/thumbnails/medium/mark-romanchuk-march-2025-headshot_medium.jpg",
+    "owner": "Ohio Senate",
+    "checked": "2026-10-05"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "periodStart": "2026-09-01",
+  "periodEnd": "2026-09-30",
+  "records": [
+    {
+      "id": "C-00401-26",
+      "parcel": "04020C04100",
+      "issued": "2026-09-29",
+      "address": "280 GRANDVIEW AVE",
+      "type": "ALARM SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00402-26",
+      "parcel": "",
+      "issued": "2026-09-29",
+      "address": "165 SECOND ST",
+      "type": "COMM-GENERATOR",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00391-26",
+      "parcel": "04020A01144",
+      "issued": "2026-09-23",
+      "address": "295 WEATHERSTONE DR",
+      "type": "EXISTING BLDG C OF O",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building",
+        "Electrical"
+      ]
+    },
+    {
+      "id": "C-00372-26",
+      "parcel": "",
+      "issued": "2026-09-16",
+      "address": "174 N LYMAN STREET",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00367-26",
+      "parcel": "04020B03048",
+      "issued": "2026-09-11",
+      "address": "1255 HIGH ST",
+      "type": "COMMERCIAL-REMODEL",
+      "discipline": "Building",
+      "value": 500000,
+      "work": [
+        "Building",
+        "Electrical",
+        "HVAC"
+      ]
+    },
+    {
+      "id": "C-00333-26",
+      "parcel": "04020A06063",
+      "issued": "2026-09-02",
+      "address": "826 HIGH ST",
+      "type": "COMMERCIAL-NEW CONSTRUCTN",
+      "discipline": "Building",
+      "value": 1300000,
+      "work": [
+        "Building",
+        "Electrical",
+        "HVAC"
+      ]
+    }
+  ],
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=&eDate=",
+  "collectedAt": "2026-10-05T18:39:38.391Z",
+  "lastAttempt": "2026-10-05T18:39:38.391Z",
+  "status": "ok"
+}

@@ -4,8 +4,8 @@ Decision: Chris's October 5 prototype feedback replaces “sourced means publish
 
 ## Canonical instructions
 
-- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v1`.
-- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v1`.
+- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v2`.
+- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v2`.
 - These documents are application specifications. The present calendar-only publisher does not call an LLM, load these prompts or enforce this news contract yet. No model credentials, paid calls or automatic news deployment were added.
 
 ## Input contract
@@ -18,7 +18,7 @@ Documents remain data in the input message. Strip active content and bound lengt
 
 ```json
 {
-  "promptVersion": "resident-editor-v1",
+  "promptVersion": "resident-editor-v2",
   "cutoff": "YYYY-MM-DD",
   "decisions": [{
     "candidateId": "stable-change-id",
@@ -28,7 +28,10 @@ Documents remain data in the input message. Strip active content and bound lengt
     "eventDate": "ISO date or null",
     "affectedAudience": "Specific group or area",
     "wadsworthConnection": "Established local connection",
-    "residentValue": "Concrete benefit of reading this",
+    "readerPerspectives": ["business_owner|busy_parent|prospective_mover|casual_neighbor|school_parent"],
+    "residentValue": "Concrete benefit to the named reader of reading this",
+    "neighborTakeaway": "One specific thing they could tell a neighbor",
+    "freshnessBasis": "Development date or live consequential decision",
     "whyNow": "Actual development or decision deadline",
     "sourceIds": ["supplied-source-id"],
     "priorCoverageIds": [],
@@ -56,6 +59,8 @@ Each eligible candidate also returns an `inlineContext` list. Each entry has kin
 | 3 | Major/durable consequence, including for a small affected group | Urgent action, major choice or crucial accountability | Immediate development or urgent substantive deadline |
 
 NEWS/EXPLAINER requires usefulness >= 2, timeliness >= 1 and impact + usefulness + timeliness >= 5, plus ALL of the prompt's evidence/local-connection/change requirements. No score can override routing exclusions. This is a conservative initial rubric to calibrate against evaluated examples; scores are editorial judgments, not objective measurements. Do not optimize for clicks or article count.
+
+A reader perspective and concrete benefit are mandatory, not a topic quota. Ordinary NEWS uses a trailing 14-day development window; EXPLAINER needs a consequential decision in the next 30 days. Older exceptions must carry a current evidenced consequence and reviewer approval. Retrieval timestamps cannot satisfy freshness. Standing source promotions never qualify as news.
 
 ## Publication contract
 
@@ -97,3 +102,7 @@ These are invented evaluation fixtures, not Wadsworth facts. Evaluate both promp
 ## Implementation boundary
 
 The existing `convex/editorial.ts` publisher checks title/body/source but does not check resident value or independent review. Its manual seed and the static prototype are not acceptance evidence for this contract. `convex/issues.ts` assembles calendar notices only. Before enabling automatic multi-source news, replace source-only release checks with this contract, load the canonical prompts, connect supported document adapters, and evaluate the fixtures. Do not describe prompt files as an already running editorial service.
+
+## October 5 resident lens implementation
+
+The static prototype now uses `lib/news-policy.ts` to require explicit audience, benefit, change, development date and review metadata before a story can render as news. Missing metadata fails closed; calendar/reference entries cannot return through seeded news fallbacks. This is a prototype rendering safeguard, not an implemented LLM writer/reviewer. The five-perspective contract must also be enforced by the automatic publisher before multi-source news is enabled.
