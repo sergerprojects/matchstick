@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "5ef996f852ce726a033cc90f053e9488ea5056554db9717213e67a9d165f1b81",
+      "archiveHash": "232d8852cd67eee88f1772204b82e5422666858ef1b336c83a0e20b0cbe96e46",
       "records": [
         {
           "bill": "H.R. 9500",
@@ -1936,8 +1936,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-05T23:31:08.915582+00:00",
-      "lastAttempt": "2026-10-05T23:31:08.915582+00:00",
+      "collectedAt": "2026-10-06T00:17:30.159758+00:00",
+      "lastAttempt": "2026-10-06T00:17:30.159758+00:00",
       "status": "ok"
     },
     {
@@ -1946,7 +1946,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "165c947c54404adc2093c7aba7e34a46bb511a664c21828b2e87c8f4fa8ccd1f",
+      "archiveHash": "b5901eb1a27de71a699cb0092ae543914fa5787bbb5230787d09ab8068eefec0",
       "records": [
         {
           "bill": "S. 5666",
@@ -2018,7 +2018,7 @@
           "title": "Connected Vehicle Security Act of 2026",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4429",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4429.xml",
-          "sourceHash": "e8ae0611df7ec54849f0ff1530b556f63bb25c940253f38f47d9a9f6104a4c68",
+          "sourceHash": "70a5c8ad42657c6d759722c7e49ee071db2de91865923cb6828fc39077151193",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2027,7 +2027,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-04-29",
-          "updated": "2026-10-02T11:03:21Z",
+          "updated": "2026-10-05T20:22:01Z",
           "latestAction": {
             "date": "2026-09-22",
             "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 671."
@@ -3475,8 +3475,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-05T23:31:08.915582+00:00",
-      "lastAttempt": "2026-10-05T23:31:08.915582+00:00",
+      "collectedAt": "2026-10-06T00:17:30.159758+00:00",
+      "lastAttempt": "2026-10-06T00:17:30.159758+00:00",
       "status": "ok"
     },
     {
@@ -3485,7 +3485,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "165c947c54404adc2093c7aba7e34a46bb511a664c21828b2e87c8f4fa8ccd1f",
+      "archiveHash": "b5901eb1a27de71a699cb0092ae543914fa5787bbb5230787d09ab8068eefec0",
       "records": [
         {
           "bill": "S. 5638",
@@ -6598,8 +6598,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-05T23:31:08.915582+00:00",
-      "lastAttempt": "2026-10-05T23:31:08.915582+00:00",
+      "collectedAt": "2026-10-06T00:17:30.159758+00:00",
+      "lastAttempt": "2026-10-06T00:17:30.159758+00:00",
       "status": "ok"
     }
   ]

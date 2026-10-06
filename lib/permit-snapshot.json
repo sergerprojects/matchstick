@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-07",
-  "periodEnd": "2026-10-05",
+  "periodStart": "2026-07-08",
+  "periodEnd": "2026-10-06",
   "records": [
     {
       "id": "C-00401-26",
@@ -334,34 +334,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00222-26",
-      "parcel": "04020B13215",
-      "issued": "2026-07-07",
-      "address": "110 HUMBOLT AVE",
-      "type": "COMMERCIAL-REMODEL",
-      "discipline": "Building",
-      "value": 75000,
-      "work": [
-        "Building"
-      ]
-    },
-    {
-      "id": "C-00224-26",
-      "parcel": "",
-      "issued": "2026-07-07",
-      "address": "1183 WILLIAMS RESERVE BLVD",
-      "type": "COMMERCIAL ELECTRIC",
-      "discipline": "Electrical",
-      "value": 0,
-      "work": [
-        "Electrical"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F07%2F26&eDate=10%2F05%2F26",
-  "collectedAt": "2026-10-05T23:30:59.842Z",
-  "lastAttempt": "2026-10-05T23:30:59.842Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F08%2F26&eDate=10%2F06%2F26",
+  "collectedAt": "2026-10-06T00:17:20.249Z",
+  "lastAttempt": "2026-10-06T00:17:20.249Z",
   "status": "ok"
 }
