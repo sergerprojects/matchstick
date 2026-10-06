@@ -4,7 +4,7 @@ export type EditorialDecision={destination:'NEWS'|'EXPLAINER'|'CALENDAR'|'REFERE
 export function eligibleNews<T extends {editorial?:EditorialDecision}>(items:T[],cutoff:string,asOf=cutoff):T[]{
  const day=Date.parse(asOf+'T12:00:00Z');
  return items.filter(({editorial:e})=>{
-  if(!e||!['NEWS','EXPLAINER'].includes(e.destination)||!['prototype-curated','independent-pass'].includes(e.review)||!Array.isArray(e.readerPerspectives)||!e.readerPerspectives.some(p=>['business_owner','busy_parent','prospective_mover','casual_neighbor','school_parent'].includes(p))||typeof e.residentValue!=='string'||!e.residentValue.trim()||typeof e.change!=='string'||!e.change.trim()||typeof e.whyNow!=='string'||!e.whyNow.trim())return false;
+  if(!e||!['NEWS','EXPLAINER'].includes(e.destination)||e.review!=='independent-pass'||!Array.isArray(e.readerPerspectives)||!e.readerPerspectives.some(p=>['business_owner','busy_parent','prospective_mover','casual_neighbor','school_parent'].includes(p))||typeof e.residentValue!=='string'||!e.residentValue.trim()||typeof e.change!=='string'||!e.change.trim()||typeof e.whyNow!=='string'||!e.whyNow.trim())return false;
   const date=Date.parse(e.eventDate+'T12:00:00Z');if(!Number.isFinite(day))return false;
   if(e.destination==='NEWS'){const available=Date.parse((e.availabilityDate||'')+'T12:00:00Z');return Number.isFinite(date)&&date<=day&&(day-date<=14*86400000||(Number.isFinite(available)&&available<=day&&day-available<=14*86400000));}
   const decision=Date.parse((e.decisionDate||'')+'T12:00:00Z');return Number.isFinite(decision)&&decision>=day&&decision-day<=30*86400000;
