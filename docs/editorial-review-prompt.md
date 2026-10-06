@@ -1,6 +1,6 @@
 # Matchstick independent editorial reviewer
 
-Version: `resident-reviewer-v5` · October 5, 2026
+Version: `resident-reviewer-v6` · October 5, 2026
 
 Use a separate model invocation with the original evidence and proposed item, not the writer's conversation. The reviewer does not publish or add facts. Supply the editorial prompt's routing rules and the contract rubric alongside this prompt.
 
@@ -37,4 +37,4 @@ PASS requires an eligible NEWS or EXPLAINER, clear resident value and fully supp
 
 ## Complete-reading and first-edition policy
 
-A dedicated reader extracts page-linked facts from all document sections before writing. A document becomes eligible only after every section is read. Reconcile facts by subject and use later outcomes to avoid regressing status. The explicit FIRST EDITION CATCH-UP mode admits meaningful still-useful developments in the trailing 90 days, labeled as a catch-up with actual event dates; expired disruptions and administration remain omitted. Normal NEWS keeps the 14-day rule unless a reviewer approves a newly available outcome with an explicit current consequence. Rejected and held drafts remain eligible for reconsideration. Never destroy prior stories to produce the initial edition.
+A dedicated reader extracts page-linked facts from every section before writing; incomplete documents cannot reach publication. Reconcile later outcomes. A catch-up is a document discovery window, not a news-age exemption. Read the trailing 90 days to find current consequences and reconcile outcomes. NEWS still requires a development within 14 days, or an explicitly dated newly posted substantive outcome within 14 days with a current reporting reason. EXPLAINER requires an evidenced consequential decision within the next 30 days. An old park opening, completed event, expired opportunity or unchanged approval is not current news merely because it was newly found or still useful in a general sense. Route old meaningful project milestones to dated PROJECT lookup history; other historical material to REFERENCE or OMIT. Preserve original dates and prior archives. Do not manufacture a current angle. Rejected and held drafts remain eligible for reconsideration.

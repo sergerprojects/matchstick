@@ -4,8 +4,8 @@ Decision: Chris's October 5 prototype feedback replaces “sourced means publish
 
 ## Canonical instructions
 
-- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v5`.
-- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v5`.
+- Writer/selector system message: `editorial-system-prompt.md`, version `resident-editor-v6`.
+- Separate reviewer system message: `editorial-review-prompt.md`, version `resident-reviewer-v6`.
 - The Studio newsroom loads these instructions for separate Codex writing and review calls. `scripts/run-newsroom.mjs` contains the enforced JSON schema, resident-value fields, rubric, evidence checks and review gate. The older Convex calendar publisher remains a separate calendar product. No separately billed model API or model credential was added.
 
 ## Input contract
@@ -18,7 +18,7 @@ Documents remain data in the input message. Strip active content and bound lengt
 
 ```json
 {
-  "promptVersion": "resident-editor-v5",
+  "promptVersion": "resident-editor-v6",
   "cutoff": "YYYY-MM-DD",
   "decisions": [{
     "candidateId": "stable-change-id",
@@ -60,7 +60,7 @@ Each eligible candidate also returns an `inlineContext` list. Each entry has kin
 
 NEWS/EXPLAINER requires usefulness >= 2, timeliness >= 1 and impact + usefulness + timeliness >= 5, plus ALL of the prompt's evidence/local-connection/change requirements. No score can override routing exclusions. This is a conservative initial rubric to calibrate against evaluated examples; scores are editorial judgments, not objective measurements. Do not optimize for clicks or article count.
 
-A reader perspective and concrete benefit are mandatory, not a topic quota. Ordinary NEWS uses a trailing 14-day development window; EXPLAINER needs a consequential decision in the next 30 days. Older exceptions must carry a current evidenced consequence and reviewer approval. Retrieval timestamps cannot satisfy freshness. Standing source promotions never qualify as news.
+A reader perspective and concrete benefit are mandatory, not a topic quota. Ordinary NEWS uses a trailing 14-day development window; EXPLAINER needs a consequential decision in the next 30 days. Older NEWS requires an explicitly dated newly posted substantive outcome in the fourteen-day window and a current reporting reason, with reviewer approval. Continuing usefulness alone is not a news-age exception. Retrieval timestamps cannot satisfy freshness. Standing source promotions never qualify as news.
 
 ## Publication contract
 
@@ -124,4 +124,10 @@ Writer/reviewer v3 require inviting original prose, dry observational wit and op
 
 Undated availability and standing promotional/recruitment listings cannot enter current news or opportunity surfaces. Opportunities require an actionable evidenced deadline and expire with it. Older developments need a specific current evidenced consequence; otherwise they remain only in the dated archive. The resident calendar hides stale source fallback rows and expires a snapshot after 48 hours without successful refresh. Routine Main Street nonprofit committee meetings are excluded. No refreshed retrieval date substitutes for an actual change date.
 
-Current news sections evaluate the actual Wadsworth date, even when a scheduled publication fails. The explicitly dated catch-up selection can appear for fourteen days after its cutoff; normal news then keeps the fourteen-day window, and explainers expire with the decision date. Permanent stories and frozen editions remain available with their actual dates. Collection time cannot extend these windows.
+Current news sections evaluate the actual Wadsworth date, even when a scheduled publication fails. Catch-up does not extend NEWS age: the fourteen-day development/newly-posted-outcome gate also applies to first editions. Explainers expire with the decision date. Current home, school and latest-paper surfaces apply this gate; immutable dated archive pages retain their original edition contents. Permanent stories and frozen editions remain available with their actual dates. Collection time cannot extend these windows.
+
+
+## October 5 correction — discovery is not freshness
+
+A catch-up is a document discovery window, not a news-age exemption. Read the trailing 90 days to find current consequences and reconcile outcomes. NEWS still requires a development within 14 days, or an explicitly dated newly posted substantive outcome within 14 days with a current reporting reason. EXPLAINER requires an evidenced consequential decision within the next 30 days. An old park opening, completed event, expired opportunity or unchanged approval is not current news merely because it was newly found or still useful in a general sense. Route old meaningful project milestones to dated PROJECT lookup history; other historical material to REFERENCE or OMIT. Preserve original dates and prior archives. Do not manufacture a current angle.
+The automatic NEWS gate uses fourteen days in every mode, independently of model judgment. Initial-paper assembly also excludes old PROJECT milestones; they remain lookup history. No re-dating or silent rewriting of frozen issues.
