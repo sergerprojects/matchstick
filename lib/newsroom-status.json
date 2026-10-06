@@ -1,5 +1,14 @@
 {
-  "lastAttempt": "2026-10-05T20:15:16.612Z",
-  "status": "ok",
-  "lastSuccess": "2026-10-05T20:15:16.613Z"
+  "lastAttempt": "2026-10-06T01:26:16.199Z",
+  "status": "awaiting-deployment",
+  "lastSuccess": "2026-10-05T20:15:16.613Z",
+  "collection": {
+    "completedAt": "2026-10-06T00:24:08.302Z",
+    "documents": 181,
+    "failures": 0
+  },
+  "editorial": {
+    "completedAt": "2026-10-06T01:26:01.458Z",
+    "mode": "catch-up"
+  }
 }
