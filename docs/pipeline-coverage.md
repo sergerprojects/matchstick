@@ -23,3 +23,9 @@ A separate publisher checkout must run with its own branch and a symlink to the 
 Daily collection also maintains city/school calendar dates. A weekly ordinary-browser Gazette check supplies bounded, attributed public reporting through `import-gazette-check.mjs`; inaccessible reporting is a coverage gap.
 
 Git tracks approved stories, their versions, selected immutable editions and public coverage. This backs up published work remotely. `backup-newsroom.mjs` saves compressed source versions, reader checkpoints, working ledgers and run records to the ignored Gus `state/matchstick-backups` directory after completed collection/editorial work. This is a separate local recovery copy on the same Mac; offsite disaster recovery remains a gap.
+
+## Main Street Wadsworth
+
+The downtown nonprofit is a first-party source for its own public events and programs, not a government agency. Its advertised public Events Calendar API supplies the next 90 days with venue, Eastern start/end times and organizer descriptions. Public nonprofit committee meetings remain meetings; community events remain Things to do. Identical named First Friday/Candlelight Walk entries can retain multiple original notices; contradictory times require confirmation rather than an invented correction.
+
+The public News and Press Releases indexes are checked for linked PDFs in current upload directories. Upload timestamps limit discovery only; actual announcement/development dates must come from the source and pass full reading, relevance and review. Currently visible newsletter/release archives largely predate this edition. Newsletter-only updates are not collected; no account was subscribed and no email access was added. This is a bounded direct-source collector, not general news scraping.

@@ -8,7 +8,8 @@ async function deploy(sha){for(let attempt=0;attempt<60;attempt++){const runs=JS
 try{await mkdir(store,{recursive:true});lock=await open(new URL('publication.lock',store),'wx');await lock.writeFile(JSON.stringify({pid:process.pid,startedAt:new Date().toISOString(),mode}));
  if(await command('git',['status','--porcelain'],{capture:true}))throw new Error('Publishing checkout has pending changes; preserve them and stop');
  const branch=await command('git',['branch','--show-current'],{capture:true});if(!['matchstick/publisher','gus/initial-prototype'].includes(branch))throw new Error('Unexpected publication branch');
- await command('git',['fetch','origin','gus/initial-prototype']);await command('git',['merge','--ff-only','origin/gus/initial-prototype']);
+  await command('git',['fetch','origin','gus/initial-prototype']);await command('git',['merge','--ff-only','origin/gus/initial-prototype']);
+ await command('npm',['ci']);
  for(const name of ['fact-editor-ledger.json','editor-ledger.json'])ledgerBackups.set(name,await readFile(new URL(name,store)).catch(()=>null));
  for(const path of paths)backups.set(path,await readFile(root+path).catch(()=>null));
  await command('node',['scripts/collect-calendar.mjs']);await command('node',['scripts/collect-county-directory.mjs']);await command('node',['scripts/collect-resident-tools.mjs']);await command('python3',['scripts/collect-federal-bills.py']);await command('node',['scripts/collect-news-records.mjs']);await command('node',['scripts/collect-service-records.mjs']);await command('node',['scripts/import-gazette-check.mjs']);

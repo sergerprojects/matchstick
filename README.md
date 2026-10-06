@@ -28,13 +28,13 @@ node scripts/publish-newsroom.mjs              # incremental editorial run
 
 Its ignored `.newsroom` link points to `/Users/gus/Projects/Gus-Chief-of-Staff/state/matchstick-newsroom`. This persistent store holds original PDF/text versions, page extraction, completed reads, facts, held questions and private model runs. Never stage it in the public repository or clear development files to make publication run.
 
-The publisher fast-forwards the expected branch, collects sources, optionally performs complete reading and editorial work, archives approved stories, builds, commits only public generated exports, pushes to `gus/initial-prototype`, confirms the exact Pages run and checks the live pages. A lock prevents overlapping store writes. Source, model or build failures preserve the published edition; an unconfirmed push is not reported as a successful deployment.
+The publisher fast-forwards the expected branch, installs the locked dependencies, collects sources, optionally performs complete reading and editorial work, archives approved stories, builds, commits only public generated exports, pushes to `gus/initial-prototype`, confirms the exact Pages run and checks the live pages. A lock prevents overlapping store writes. Source, model or build failures preserve the published edition; an unconfirmed push is not reported as a successful deployment.
 
 A local compressed recovery copy is written under Gus `state/matchstick-backups`. This is on the same Studio; offsite disaster recovery remains unfinished. Published stories and immutable issues are also retained in GitHub.
 
 ## What feeds the reporting
 
-City council and committee documents; school packets, minutes and financial references; county minutes, agendas and resolutions; library board documents; published planning/hearing notices; commercial permits; city service notices; dated county road notices. Ohio and GovInfo supply all five state/federal representatives’ primary-sponsored bills and progress. Full vote history stays on official sites.
+City council and committee documents; school packets, minutes and financial references; county minutes, agendas and resolutions; library board documents; published planning/hearing notices; current first-party Main Street Wadsworth announcements; commercial permits; city service notices; dated county road notices. Ohio and GovInfo supply all five state/federal representatives’ primary-sponsored bills and progress. Full vote history stays on official sites.
 
 The reader processes every required document section before story selection, including sparse scanned pages inside otherwise readable PDFs. Exact excerpts must match their source page. A separate resident-interest pass considers every extracted subject. Original writing then receives full subject facts and source pages; an independent reviewer checks every claim and cited scanned-page images. Held evidence cannot publish through a fallback.
 
@@ -43,6 +43,8 @@ The resident test is specific: would a local business owner, busy parent, prospe
 Medina Gazette is a targeted ordinary-browser secondary check, not a broad news scraper. Document its relevant visible reporting in the persistent `gazette-browser-check.json` format and import it with `import-gazette-check.mjs`. Captures are limited to 220 words; original attributed published briefs are limited to 150 words. No full article copying or paywall bypass.
 
 Details: [Studio newsroom](docs/studio-newsroom.md), [coverage and gaps](docs/pipeline-coverage.md), [source access drafts](docs/source-access-requests.md).
+
+The city’s official iCalendar subscriptions supply upcoming dates across month boundaries for a 90-day horizon. Main Street Wadsworth’s advertised event API adds organizer dates and details. All-day and ongoing events remain visible until they end. A calendar entry does not automatically become a news story.
 
 ## Reader and archive
 

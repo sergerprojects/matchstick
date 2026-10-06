@@ -8,7 +8,7 @@ export const calendarKinds: Record<CalendarKind, {label: string; filter: string}
 };
 export function calendarKind(event: {title: string; type: string}): CalendarKind {
  if (event.type === 'Schools') return 'school';
- if (event.type === 'City meetings') return 'public';
+ if (['City meetings','Community meetings'].includes(event.type)) return 'public';
  // Exact holiday names avoid classifying a parade or festival as an office holiday.
  if (/^(?:Veteran(?:s['’]?|['’]s)? Day|Thanksgiving(?: Day)?|Day After Thanksgiving|Christmas (?:Eve|Day)|New Year['’]?s Day|Martin Luther King(?: Jr\.?)? Day|Presidents['’]? Day|Memorial Day|Juneteenth|Independence Day|Labor Day|Columbus Day)$/i.test(event.title.trim())) return 'holiday';
  if (event.type === 'Around town') return 'community';
