@@ -14,6 +14,7 @@ const ledger=await json('.newsroom/editor-ledger.json').catch(()=>({handled:[]})
 const byId=new Map(evidence.records.map(r=>[r.id,r]));
 const catchup=process.argv.includes('--catch-up')||process.argv.includes('--initial');
 const inventory=JSON.parse(await readFile(new URL('fact-inventory.json',local),'utf8'));
+inventory.facts.sort((a,b)=>a.subjectKey.localeCompare(b.subjectKey)||a.factId.localeCompare(b.factId));inventory.documents.sort((a,b)=>a.id.localeCompare(b.id));
 if(inventory.cutoff!==cutoff)throw new Error('Complete today’s document reading before writing');
 const required=evidence.records.filter(r=>r.status==='ok'&&(!r.meetingDate||r.meetingDate>=inventory.start||/chick[\s-]*fil/i.test(r.pages.map(p=>p.text).join(' '))));if(required.some(r=>!inventory.documents.some(d=>d.id===r.id&&d.sha256===r.sha256&&d.textSHA===hash(JSON.stringify(r.pages.filter(p=>p.text.trim())))&&d.complete)))throw new Error('Current source versions contain unread or incomplete documents; finish extraction before writing');
 const factLedger=await json('.newsroom/fact-editor-ledger.json').catch(()=>({handled:[],held:[]}));

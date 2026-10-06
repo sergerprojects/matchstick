@@ -1,7 +1,7 @@
 import {readFile,writeFile} from 'node:fs/promises';
 import {load} from 'cheerio';
 const root=new URL('../lib/',import.meta.url);
-const now=new Date().toISOString();
+const now=new Date().toISOString(),localDay=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()),reportEnd=new Date(localDay+'T12:00:00Z');
 const clean=s=>s.replace(/\s+/g,' ').trim();
 async function collect(file,url,parse){
  let prior;try{prior=JSON.parse(await readFile(new URL(file,root),'utf8'));}catch{}
@@ -19,7 +19,7 @@ async function collect(file,url,parse){
  }
 }
 const reportDate=d=>`${String(d.getUTCMonth()+1).padStart(2,'0')}/${String(d.getUTCDate()).padStart(2,'0')}/${String(d.getUTCFullYear()).slice(-2)}`;
-const permitReport=new URL('https://building.medinaco.org/permits/permitList.php');permitReport.searchParams.set('code','C');permitReport.searchParams.set('sDate',reportDate(new Date(Date.now()-90*86400000)));permitReport.searchParams.set('eDate',reportDate(new Date()));
+const permitReport=new URL('https://building.medinaco.org/permits/permitList.php');permitReport.searchParams.set('code','C');permitReport.searchParams.set('sDate',reportDate(new Date(reportEnd.getTime()-90*86400000)));permitReport.searchParams.set('eDate',reportDate(reportEnd));
 await collect('permit-snapshot.json',permitReport.href,($)=>{
  const period=$('body').text().match(/From (\d{2}\/\d{2}\/\d{2}) through (\d{2}\/\d{2}\/\d{2})/);
  if(!period||!$('body').text().includes('Commercial Permits Issued'))throw new Error('Permit report shape changed');
