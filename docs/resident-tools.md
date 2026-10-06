@@ -40,3 +40,8 @@ The public Pages workflow refreshes the permit and Romanchuk tools only. It does
 ## Sponsored bills, with optional external vote records
 
 Chris clarified that the in-app focus is bills each representative sponsors and their progress, not a full vote-history interface. Voting records are external links on each legislator card. Moreno and Husted link to their individual official voting records; Miller links to the House Clerk member profile with recent votes. Ohio House/Senate links explicitly say session journals: these are chamber-wide original records, not individual filtered histories. No vote-history import or scoring is planned.
+
+
+## Calendar event usability — October 5
+
+Event dialogs display date/time, place and collected description directly. No link-only “Official notice” accordion. A small direct source credit remains at the bottom; community events prefer the known Main Street organizer entry when merged with the city calendar. Native .ics downloads use source-confirmed timestamps, locations and descriptions, preserve all-day exclusive end dates and omit unknown end times. Conflicting schedules have no calendar-download action. This downloads a calendar file for the resident to import; it does not subscribe, create an account or modify a personal calendar automatically.
