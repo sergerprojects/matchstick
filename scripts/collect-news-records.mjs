@@ -1,3 +1,4 @@
+import {publicDocumentMetadata} from './public-coverage.mjs';
 import {readFile,writeFile,mkdir,rename} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {execFile} from 'node:child_process';
@@ -45,5 +46,5 @@ try{const index='https://www.wadsworthlibrary.com/library-board',$=load((await f
 // Preserve older school context for project follow-up; stale records never establish a fresh event.
 for(const r of prior.records)if(!records.some(n=>n.url===r.url))records.push({...r,status:'stale'});
 const output={cutoff,collectedAt:now,coverage,records};await writeFile(new URL('records.next.json',cache),JSON.stringify(output));await rename(new URL('records.next.json',cache),manifestFile);
-await writeFile(new URL('lib/news-coverage.json',base),JSON.stringify({checkedAt:now,coverage,documents:records.map(({id,url,title,owner,meetingDate,kind,sha256,collectedAt,status,pages,firstSeenAt,changedAt,indexText,postedAt})=>({id,url,title,owner,meetingDate,kind,sha256,collectedAt,status,firstSeenAt,changedAt,indexText,postedAt,pageCount:pages.length}))},null,2)+'\n');
+await writeFile(new URL('lib/news-coverage.json',base),JSON.stringify({checkedAt:now,coverage,documents:records.map(publicDocumentMetadata)},null,2)+'\n');
 console.log(`${records.length} documents with page text; ${coverage.filter(c=>c.status==='failed').length} collection failures. Full text remains local.`);

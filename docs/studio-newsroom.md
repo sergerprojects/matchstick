@@ -36,4 +36,28 @@ Both actual CLI developer instructions consume `docs/voice/VOICE-PROFILE.md`. Th
 
 Gazette visible source captures are limited to 220 words per report; original attributed published briefs are limited to 150 words. Gazette evidence excerpts remain private rather than being republished in receipts. No paywall bypass or full-article copying.
 
-Scanned pages cited by a candidate are rendered directly from the content-addressed original PDF and attached to its independent reviewer. Amounts, dates and table columns are checked against those page images as well as the OCR transcription; source PDF and extracted-text hashes are retained separately.
+Collected PDF pages cited by a candidate are rendered directly from the content-addressed original PDF and attached to its independent reviewer. Amounts, dates and table columns are checked against those page images as well as the extracted text; source PDF and extracted-text hashes are retained separately.
+
+## Gazette browser-check format
+
+Save the targeted ordinary-browser observation to `.newsroom/gazette-browser-check.json` before the editorial publisher. Required JSON fields:
+
+```json
+{
+  "checkedAt": "actual current ISO timestamp",
+  "indexUrl": "exact observed Gazette index URL",
+  "access": "brief description of ordinary visible access",
+  "items": [{
+    "url": "exact https://medina-gazette.com/news/ article URL",
+    "title": "actual article title",
+    "author": "actual named reporter",
+    "publishedAt": "actual article publication timestamp",
+    "eventDate": "actual reported event date in YYYY-MM-DD, or empty string",
+    "publicContext": "At most 220 words of useful visible reporting, preserving proposal versus outcome and relevant attribution."
+  }]
+}
+```
+
+This is a format example, not source evidence. If a successful targeted check finds no relevant new report, `items` may be empty; it does not establish exhaustive Gazette coverage. If access fails, retain the last observation rather than fabricating a fresh check. The importer expires checks after eight days. Do not copy an entire article. Inspect the reader’s subsequent HOLD questions for missing underlying official records.
+
+The independent reviewer receives the verified complete-reading inventory and reconciled subject facts, alongside candidate-linked pages and adjacent context. The complete-reading gate still checks every required current source/text version before writing. Selected review pages are not mislabeled as unread whole packets; bounded publisher excerpts retain their explicit scope. Every cited collected PDF page is attached as an original page image. Correctable copy/optional metadata defects may return REVISE for repair and fresh review; genuine missing core facts remain HOLD.

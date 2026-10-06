@@ -1,105 +1,78 @@
 # Matchstick
 
-An independent public-service hub for Wadsworth, Ohio. Next.js 16, TypeScript and Convex. No MyTownView integration. Source: https://github.com/sergerprojects/matchstick. GitHub Pages publishes a dated static preview; autonomous collection still needs an always-on backend.
+**Boring stuff. With a little spark.** An independent, free public-service publication for Wadsworth, Ohio.
 
-## Run locally
+Live site: https://sergerprojects.github.io/matchstick/  
+Source: https://github.com/sergerprojects/matchstick
+
+## Current operating model
+
+Next.js 16 and TypeScript export a static site to GitHub Pages. The Mac Studio collects original public documents and uses existing Codex access for original writing and separate editorial review. The public site needs no connection to the Studio, reader account or paid LLM API. The local Convex calendar prototype is retained for development; the Studio newsroom is the current publication path.
+
+- Daily at 6 a.m. Eastern: collect official sources and refresh resident tools.
+- Monday at 7 a.m. Eastern: read changed documents, investigate useful leads, write and independently review stories.
+- Provisionally every two weeks: freeze a paper when useful approved developments exist. No story quotas or filler editions.
+- First full edition: a 90-day catch-up with actual development dates. Review cadence after six weeks of subsequent reporting.
+
+The two native Codex schedules target this project’s Studio task. They depend on the Mac Studio being available; GitHub Pages itself does not run the editorial job. Routine publication requires no approval queue for Chris.
+
+## Publication commands
+
+Use the clean dedicated checkout `/Users/gus/Projects/matchstick-publisher`, branch `matchstick/publisher`:
+
+```sh
+node scripts/publish-newsroom.mjs --collect-only
+node scripts/publish-newsroom.mjs --catch-up   # first full issue only
+node scripts/publish-newsroom.mjs              # incremental editorial run
+```
+
+Its ignored `.newsroom` link points to `/Users/gus/Projects/Gus-Chief-of-Staff/state/matchstick-newsroom`. This persistent store holds original PDF/text versions, page extraction, completed reads, facts, held questions and private model runs. Never stage it in the public repository or clear development files to make publication run.
+
+The publisher fast-forwards the expected branch, collects sources, optionally performs complete reading and editorial work, archives approved stories, builds, commits only public generated exports, pushes to `gus/initial-prototype`, confirms the exact Pages run and checks the live pages. A lock prevents overlapping store writes. Source, model or build failures preserve the published edition; an unconfirmed push is not reported as a successful deployment.
+
+A local compressed recovery copy is written under Gus `state/matchstick-backups`. This is on the same Studio; offsite disaster recovery remains unfinished. Published stories and immutable issues are also retained in GitHub.
+
+## What feeds the reporting
+
+City council and committee documents; school packets, minutes and financial references; county minutes, agendas and resolutions; library board documents; published planning/hearing notices; commercial permits; city service notices; dated county road notices. Ohio and GovInfo supply all five state/federal representatives’ primary-sponsored bills and progress. Full vote history stays on official sites.
+
+The reader processes every required document section before story selection, including sparse scanned pages inside otherwise readable PDFs. Exact excerpts must match their source page. A separate resident-interest pass considers every extracted subject. Original writing then receives full subject facts and source pages; an independent reviewer checks every claim and cited scanned-page images. Held evidence cannot publish through a fallback.
+
+The resident test is specific: would a local business owner, busy parent, prospective mover, casual neighbor or school parent learn something useful? Collection alone does not make news. Actual action, proposal, posting and retrieval dates stay distinct. Agendas do not establish decisions; permits do not establish a business opening; bills do not establish law.
+
+Medina Gazette is a targeted ordinary-browser secondary check, not a broad news scraper. Document its relevant visible reporting in the persistent `gazette-browser-check.json` format and import it with `import-gazette-check.mjs`. Captures are limited to 220 words; original attributed published briefs are limited to 150 words. No full article copying or paywall bypass.
+
+Details: [Studio newsroom](docs/studio-newsroom.md), [coverage and gaps](docs/pipeline-coverage.md), [source access drafts](docs/source-access-requests.md).
+
+## Reader and archive
+
+- Original reporting, dated project histories, school decisions and resident tools.
+- City, school, county, Ohio and federal directory with sourced portraits and verified available social channels.
+- Separate sponsored-bill page with progress toward enactment.
+- Native commercial-permit information, in-site ward map, calendar details, road notices and supported safety tools.
+- Search, topic/date archive filters and browser-local follows.
+- Permanent `/stories/<slug>/` pages with dated versions and corrections.
+- Immutable `/editions/<slug>/` back issues and a printable latest paper at `/edition/`.
+- Evidence in expandable receipts and Sources, rather than source-directory promotions in news slots.
+
+Remaining access/tool work includes complete planning applications/staff reports/outcomes, automatic address-to-ward lookup, a complete city/state disruption feed and comparable crime statistics. County road coverage is not every city street or state route. Registry tools do not create copied person-level registry stories.
+
+## Development
 
 ```sh
 npm ci
-npm run backend
-# In a second terminal:
-npm run dev
+NEXT_PUBLIC_PREVIEW_MODE=static npm run dev
+npm run build:pages
 ```
 
-The Convex CLI creates an anonymous local backend and writes this project's local configuration. First-time data setup:
+The development reader uses port 3017. Node 20.9+ is required. Studio document extraction uses installed `pdftotext`, `pdfinfo`, `pdftoppm` and Tesseract; federal bill collection uses Python. Actual model calls use the installed Codex CLI and existing account access. Do not inspect account stores or add API credentials for routine runs.
 
-```sh
-npx convex run editorial:seed
-npx convex run automation:weekly
-```
+Pages uses `/matchstick` as its base path and static images. Pushes to `gus/initial-prototype` deploy through GitHub Actions; the daily workflow also refreshes supported resident snapshots. No local backend or credentials are required on a phone.
 
-Open http://127.0.0.1:3017. The local Convex backend runs at port 3210. Node 20.9+ is required by Next.js. This project uses the standard Convex runtime; no Node-only actions or account login are needed.
+Canonical operating prompts: [writer](docs/editorial-system-prompt.md), [independent reviewer](docs/editorial-review-prompt.md), [release contract](docs/editorial-contract.md), [inline context](docs/embedded-context-policy.md), and [original voice](docs/voice/VOICE-PROFILE.md). Runtime v5 loads the writer/reviewer voice includes as actual developer instructions; calibration examples are never factual evidence.
 
-## Working reader
+## Assets
 
-- Editorial home, three project records and source-backed timelines.
-- Schools, city/state/federal representatives, real ward selector and official maps.
-- Search across the current source-backed edition, project filters and map/list views.
-- Browser-local follows in My Wadsworth; no account needed.
-- Original-record dialogs, source register, explicit gaps and collection status.
-- Official crime-map, registry, permits and road-closure access; no copied personal registry.
-- Credited Gazette links; no article syndication.
-- Printable fixed first edition at `/edition-preview`.
-- Automatically published calendar edition at `/edition`.
+Brand typography is Libre Caslon Text and Libre Franklin, with OFL licenses under `app/fonts/`. Blue-tip match artwork is in `public/brand/` and `app/icon.svg`. Representative portraits retain provenance in `lib/portrait-sources.json` and the Sources page. No generated documentary portraits are used.
 
-## Hands-off operation
-
-This is a product requirement. Routine publication must not depend on Chris approving drafts, collecting records, running commands or reviewing a queue. Initial setup commands are development setup, not the operating model.
-
-Convex schedules daily collection at 08:15 UTC and weekly collection + publication Monday at 10:00 UTC. Local schedules run **only while the local backend is running**. Public always-on hosting is still a launch task.
-
-`automation:daily` collects the city agenda index and calendar, records versions and failures, and parses structured calendar events. `automation:weekly` refreshes sources, checks freshness and assembles a fixed dated edition without an LLM or editor.
-
-Calendar import rejects missing structure, mixed months, missing location/date/official URL and oversized imports. Unchanged pages do not create another document version. Missing events in an authoritative month become inactive. Failed/empty collection does not create a zero-activity claim. Publications include current-source coverage gaps and remain immutable for that cutoff. This first slice parses the displayed month only; next-month collection is needed before month-boundary completeness can be claimed.
-
-Published queries expose no draft records. Collectors, imports, seed and publisher are internal functions. There are no public write functions, editor login, credential integration or paid model calls.
-
-## What remains before a fully autonomous public service
-
-| Area | Current state | Next work |
-| --- | --- | --- |
-| City calendar | Working automatic collection, normalized events, weekly publication | Month-boundary coverage, schedule correction records, archived editions and incident alerts |
-| Agendas/minutes | Automatic index snapshot/versioning | Document discovery, PDF extraction, outcome/roll-call adapters and claim-level evidence |
-| Projects | Three manually prepared original-source records | Project/bid/permit adapters with dated state changes and closed deadlines |
-| Schools | Original records and dated meeting information | Supported collection route, decisions, finance and policies; 403 failures must remain visible |
-| County | Original services/permits links | Wadsworth relevance rules, permit exports, relevant commission actions |
-| Representatives | Current directory examples + selected verified socials | Automated office/tenure updates, complete local/county directory and legislative actions |
-| Safety | Official crime-map/registry/records links | Defined statistical series and provider-supported integrations |
-| Journalism | Gazette publisher link | Supported headline feed or permission to syndicate |
-| Publication | Calendar edition auto-published; fixed design edition | Rich multi-source summaries, source-change corrections and automated release quality gates |
-| Hosting | Local reader/backend | Always-on public deployment, domain, monitoring and recovery |
-
-An LLM is optional for prose and document interpretation. Add it behind a budget, with evidence for every factual sentence, deterministic checks for names/dates/amounts, and conservative abstention when records conflict. No human approval queue should be required for ordinary items. Keep substantive unknowns visible. Automatic quality gates alone do not prove model-generated claims correct; high-impact allegations and registry/person-level conclusions should never be inferred or written by a model.
-
-## Source and asset rights
-
-The initial snapshot is dated October 5, 2026. Original URLs, owners and review dates are in `lib/data.ts`. Collection dates in the automatic edition are separate from event dates. Prototype records are selected coverage, not a complete civic ledger.
-
-`public/wadsworth-high-school.jpg`: “Wadsworth 7.jpg”, SilentMatt Psychedelic, July 13, 2023, https://commons.wikimedia.org/wiki/File:Wadsworth_7.jpg, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). The UI displays the unchanged source in cropped frames. Credit and license are available in Sources & About. Cropped adaptations remain CC BY-SA 4.0. No generated documentary imagery is used.
-
-## Development evidence
-
-TypeScript compilation and production build were run while creating the prototype. The local publication routine ran and created the October 5 automatic issue from original calendar records. No automated test suite was added or run.
-
-See `docs/design-direction.md` and `docs/automation-architecture.md` for the design rationale and autonomous publication plan.
-
-## GitHub Pages phone preview
-
-The public repository is `sergerprojects/matchstick`. Chris authorized public visibility on October 5, 2026 after the GitHub plan rejected Pages hosting from the private repository.
-
-```sh
-npm run snapshot       # include the latest published local issue
-npm run build:pages    # static export at /matchstick/
-```
-
-Pages uses `/matchstick` as its base path, static image delivery and exported routes. `NEXT_PUBLIC_PREVIEW_MODE=static` disables local Convex connections and includes the published issue and source statuses in the build. No localhost backend or credentials are required on the phone. The preview is a snapshot; live collection is not hosted on GitHub Pages.
-
-The source repository uses `gus/initial-prototype` as its bootstrap/default branch because the local Git hook prohibits direct pushes to main. Pushes to this branch publish the preview through GitHub Actions. Production autonomous data collection still requires an always-on backend and source adapters; the Pages preview does not replace them.
-
-### Publication status — October 5, 2026
-
-Source uploaded to https://github.com/sergerprojects/matchstick, branch `gus/initial-prototype`. Public visibility is confirmed. GitHub Actions completed publication successfully, and the live preview is https://sergerprojects.github.io/matchstick/. The Actions workflow publishes the static snapshot when this branch changes.
-
-The live preview was opened at 390 px and 320 px phone widths. The masthead fits without horizontal page overflow; navigation, project details, original-record dialogs, the school photo and the dated edition permalink were checked in the published site. Screenshot: `docs/matchstick-live-phone.jpg`.
-
-## Resident-first editorial requirements
-
-The canonical generation prompt is `docs/editorial-system-prompt.md`; its independent reviewer is `docs/editorial-review-prompt.md`. `docs/editorial-contract.md` defines selection, structured output, publication gates and synthetic acceptance cases. `docs/embedded-context-policy.md` defines useful in-site maps, documents, clips and structured context. These govern future automatic news implementation. The current calendar publisher does not call an LLM or enforce this contract; source-only checks are insufficient for production news. This pass changes the operating specification, not prototype reader content.
-
-### Resident lens and native tools
-
-Writer/reviewer prompts v2 apply Chris’s five-reader lens to every selection and explanation. See `docs/resident-tools.md` for the native permit, ward, portrait and bill-progress tools, daily Pages collection, and remaining news-pipeline integrations. Automatic tool refresh is separate from automatic news reporting.
-
-## Studio newsroom now connected
-
-The working document collector, Codex writer, independent reviewer and evidence-checked publisher are documented in `docs/studio-newsroom.md`. Reader-facing news reads the reviewed snapshot. `scripts/publish-newsroom.mjs` performs collection through Pages publication; the scheduled Studio run uses existing Codex access. This supersedes earlier calendar-only implementation notes. `/bills/` covers Romanchuk, Hutson, Miller, Moreno and Husted primary sponsorship; external official vote links stay in the directory.
+`public/wadsworth-high-school.jpg`: “Wadsworth 7.jpg,” SilentMatt Psychedelic, July 13, 2023, [original](https://commons.wikimedia.org/wiki/File:Wadsworth_7.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The UI displays the source in cropped frames with credit; cropped adaptations retain that license.
