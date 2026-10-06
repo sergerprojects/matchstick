@@ -34,3 +34,17 @@ html{font-synthesis:none}.match-mark{transform:none}.match-mark:before{display:n
 button.meeting{width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);cursor:pointer;color:inherit;font:inherit}.story-date{display:block;color:var(--muted);font-size:11px;margin:8px 0}
 
 .dialog-close{position:absolute;top:18px;right:18px;padding:6px}.more-stories{margin:35px 0}.headline-button{text-decoration:none;color:inherit}
+
+/* Calendar categories use both words and color, including in compact home rows. */
+.calendar-community{--calendar-color:#85400f;--calendar-wash:#f7e5d4}
+.calendar-public{--calendar-color:#1845ad;--calendar-wash:#e6ebf7}
+.calendar-school{--calendar-color:#2d653c;--calendar-wash:#e4eee1}
+.calendar-holiday{--calendar-color:#65507b;--calendar-wash:#ede6f3}
+.calendar-other{--calendar-color:#515a53;--calendar-wash:#e7e9e2}
+.meeting .calendar-tag,.calendar-tag{display:inline-flex;align-items:center;gap:6px;width:fit-content;border-radius:3px;padding:3px 7px;margin-bottom:7px;background:var(--calendar-wash);color:var(--calendar-color);font-size:10px;font-weight:650;line-height:1.4;letter-spacing:.03em}
+.calendar-tag:before,.calendar-dot{content:'';display:inline-block;width:6px;height:6px;flex-shrink:0;border-radius:50%;background:var(--calendar-color)}
+.calendar-filters{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 12px}
+.calendar-filters button{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);border-radius:3px;padding:7px 10px;font-size:12px;line-height:1.4}
+.calendar-filters button[aria-pressed=true]{background:var(--calendar-wash,var(--ink));border-color:var(--calendar-color,var(--ink));color:var(--calendar-color,white);font-weight:650}
+.calendar-count{font-size:12px;margin-bottom:5px;color:var(--muted)}
+@media(max-width:560px){.calendar-filters{gap:7px}.calendar-filters button{padding:9px 10px}.meeting .calendar-tag{font-size:10px}}
