@@ -123,3 +123,5 @@ Writer/reviewer v3 require inviting original prose, dry observational wit and op
 ## Hard freshness exclusion
 
 Undated availability and standing promotional/recruitment listings cannot enter current news or opportunity surfaces. Opportunities require an actionable evidenced deadline and expire with it. Older developments need a specific current evidenced consequence; otherwise they remain only in the dated archive. The resident calendar hides stale source fallback rows and expires a snapshot after 48 hours without successful refresh. Routine Main Street nonprofit committee meetings are excluded. No refreshed retrieval date substitutes for an actual change date.
+
+Current news sections evaluate the actual Wadsworth date, even when a scheduled publication fails. The explicitly dated catch-up selection can appear for fourteen days after its cutoff; normal news then keeps the fourteen-day window, and explainers expire with the decision date. Permanent stories and frozen editions remain available with their actual dates. Collection time cannot extend these windows.

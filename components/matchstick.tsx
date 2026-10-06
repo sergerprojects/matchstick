@@ -54,7 +54,7 @@ function Publication({section,slug,data,mode,collectorState,automaticEdition}:{s
  function openEvidence(items:Evidence[],s?:Story){setStory(s||null);setEvidence(items);}
  function Save({id,label='Follow'}:{id:string;label?:string}){return <button className={`save-button ${saved.includes(id)?'is-saved':''}`} aria-pressed={saved.includes(id)} onClick={()=>follow(id)}>{saved.includes(id)?<Check size={16}/>:<Plus size={16}/>} {saved.includes(id)?'Following':label}</button>;}
  const currentLocalDate=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(calendarNow));
- const news=eligibleNews(data.stories,newsroom.cutoff).filter(s=>s.editorial?.destination!=='EXPLAINER'||(s.editorial.decisionDate||'')>=currentLocalDate);
+ const news=eligibleNews(data.stories,newsroom.cutoff,currentLocalDate).filter(s=>s.editorial?.destination!=='EXPLAINER'||(s.editorial.decisionDate||'')>=currentLocalDate);
  const lastPaper=publishedEditions.at(-1);
  const resultItems=[...data.projects.map(p=>({title:p.name,category:'Project',href:'/projects/'+p.slug,text:p.description})),...storyArchive.map(s=>({title:s.title,category:s.category,href:'/stories/'+s.slug,text:s.dek})),...data.representatives.map(r=>({title:r.name,category:r.office,href:'/representatives',text:r.office})),...data.sources.map(s=>({title:s.title,category:'Original source',href:'/sources',text:s.owner}))].filter(r=>query.trim()&&`${r.title} ${r.category} ${r.text}`.toLowerCase().includes(query.toLowerCase())).slice(0,15);
  const sourceButton=(items:Evidence[],label='See the source')=><button className="source-link" onClick={()=>openEvidence(items)}><FileText size={14}/>{label}<ArrowUpRight size={14}/></button>;
