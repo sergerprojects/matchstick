@@ -14705,11 +14705,11 @@
   },
   {
     "slug": "wadsworth-downtown-infrastructure-delivery",
-    "title": "Downtown construction proposal pairs traditional bidding with outside management",
+    "title": "Who watches the downtown construction bill?",
     "category": "Infrastructure",
-    "dek": "Wadsworth staff recommended traditional construction bidding and a separate firm to help manage the downtown infrastructure project on August 11, 2026. Public Service Director Matt Hiscock said the approach could bring costs closer to the budget while providing management capacity the city lacked.",
-    "body": "Wadsworth staff recommended traditional construction bidding and a separate firm to help manage the downtown infrastructure project on August 11, 2026. Public Service Director Matt Hiscock said the approach could bring costs closer to the budget while providing management capacity the city lacked.\n\nThe proposed “owner’s representative” would work for the city, manage contractor relationships and help oversee construction. Hiscock explained a consequential distinction: unlike a construction manager at risk, that representative would not absorb cost overruns.\n\nStaff hoped to seek construction bids in the fall and award the work during 2026. They also planned to seek authority to interview firms for the representative role. Those were proposed next steps; the August recommendation did not establish a selected firm, a construction award or achieved savings.",
-    "revisionKind": "NEW",
+    "dek": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.",
+    "body": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Public Service Agenda Packet & Approved Minutes",
@@ -15799,6 +15799,455 @@
         },
         "projectSlug": "wadsworth-downtown-infrastructure-delivery",
         "versionHash": "de5c978ffaeb6b73989d271038d6f153f7d3a2ca9699021210cb327d233d3ef8",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-downtown-infrastructure-delivery",
+        "title": "Who watches the downtown construction bill?",
+        "category": "Infrastructure",
+        "dek": "Council is considering a $1.13 million base ceiling for management and inspection—not the construction itself.",
+        "body": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "City Council Revised Agenda Packet",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-09-15"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-09-15",
+          "decisionDate": "2026-10-06",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "business_owner",
+            "casual_neighbor"
+          ],
+          "residentValue": "Explains the proposed base contract ceiling, additional change-order allowance and management arrangement before Council consideration.",
+          "change": "The earlier management recommendation now has proposed financial terms and scheduled Council consideration.",
+          "whyNow": "The October 6 second reading provides a current reason to explain the proposed spending limits and earlier management recommendation.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The proposed authorization permits agreements with one or more consulting firms for Downtown Infrastructure Project construction management and field inspection, with a $1.13 million base contract ceiling. It concerns oversight services rather than construction work itself.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 15,
+            "quote": "Section 1, That the Director of Public Service is hereby authorized and directed to negotiate and\nenter into one or more agreements with one or more consulting firms to provide construction\nmanagement and field inspection services for the Downtown Infrastructure Project. The total price\nto be awarded pursuant to said contract shall not exceed $1,130,000.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Under the proposal, total city obligations under the contract, including change orders, could not exceed the contract amount plus 10%; the $1.13 million base ceiling does not include that additional allowance.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 15,
+            "quote": "If it becomes necessary after the\ncontract is entered into, to authorize change orders, such change orders may be authorized so long as\nthe total financial obligation of the city pursuant to the contract including change orders does not\nexceed the contract amount plus ten percent of the contract amount.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Ordinance 26-108 remains proposed and is scheduled for second reading.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 1,
+            "quote": "ORDINANCE NO. 26-108 (2nd RDG) AN ORDINANCE AUTHORIZING AND DIRECTING\nTHE DIRECTOR OF PUBLIC SERVICE TO ENTER INTO AN AGREEMENT PURSUANT\nTO ORC 735.05 IN ACCORDANCE WITH THE REQUIREMENTS OF ORC 9.17 FOR\nCONSTRUCTION MANAGEMENT SERVICES AND FIELD INSPECTION SERVICES FOR\nTHE DOWNTOWN INFRASTRUCTURE PROJECT AND DECLARING AN EMERGENCY",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Council’s meeting is scheduled for October 6, 2026, at 6:30 p.m. in City Council Chambers.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 1,
+            "quote": "Tuesday October 6, 2026 at 6:30 p.m.\n                                City Council Chambers",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The September 15, 2026 committee packet supplies the dated background for the proposed financial terms.",
+            "sourceId": "2ae1a87ee242e5235d64",
+            "page": 1,
+            "quote": "Tuesday September 15, 2026 at 6:00 p.m.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-860",
+            "owner": "City of Wadsworth",
+            "sourceHash": "27d9c15e224e2924fe03d59d97f19f0ea12146e73bea97134669e5f850cbd7bd",
+            "sourceTextHash": "5bacf60d5e3d6fd20cefb2f8818cb38441301f0636e16588227dee14e6b13dd3",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "The September draft already contained the $1.13 million base contract ceiling and the limit on total obligations including change orders.",
+            "sourceId": "2ae1a87ee242e5235d64",
+            "page": 18,
+            "quote": "The total price\nto be awarded pursuant to said contract shall not exceed $1,130,000. If it becomes necessary after the\ncontract is entered into, to authorize change orders, such change orders may be authorized so long as\nthe total financial obligation of the city pursuant to the contract including change orders does not\nexceed the contract amount plus ten percent of the contract amount.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-860",
+            "owner": "City of Wadsworth",
+            "sourceHash": "27d9c15e224e2924fe03d59d97f19f0ea12146e73bea97134669e5f850cbd7bd",
+            "sourceTextHash": "5bacf60d5e3d6fd20cefb2f8818cb38441301f0636e16588227dee14e6b13dd3",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Hiscock described staff’s recommendation for traditional construction bidding with an owner’s representative, anticipated budget benefits and a shortage of city construction-management capacity. Savings were an expectation.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "Dir. Hiscock wished to discuss from staff, as well as Administration, that a more traditional design\nbid project model be pursued. It was thought this would bring things closer to the budget. In\naddition, it was thought to be better to use what was called an “Owner’s Rep” that acted as a\nconstruction manager within the process. It was thought along with savings, the same type of\nmanagement would be gotten. As everyone probably knew, the project worked by team\nmanagement. The manpower did not exist to provide that kind of construction management here\nwith either a CMR or an Owner’s Rep.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Hiscock said the owner’s representative would manage aspects of construction and contractor relationships without absorbing overruns as a construction manager at risk would.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "An Owner’s Rep was essentially a CMR company that did not have the AR part for this type of\nproject. They did not have the “at risk” and would not take the overage. But they would still be\nfirst line to manage the project and would be in charge of certain aspects of the project. They\nwould also manage relationships with certain contractors and would be part of the first steps of the\nprocess.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Matt Hiscock was public service director.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Matt Hiscock, Public Service Dir.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The earlier management recommendation was discussed at the August 11, 2026 Public Service Committee meeting.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Council Member Stugmyer called the August 11, 2026 meeting of the Public Service Committee\nto order at approximately 6:20 p.m.",
+            "claimId": "c10",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-downtown-infrastructure-delivery",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "a7525195ce6c48b0d07f27fe3ddf98213e70475b37b9638c1ac1f4e46e16e3b1",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5",
+                "c6"
+              ],
+              "sourceIds": [
+                "2ae1a87ee242e5235d64"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c9",
+                "c10"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5",
+                "2ae1a87ee242e5235d64",
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "30ac8c39c9dd5cdc80bf8641883c1b8299d321f6345da708c5d5b03775bfa395",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-downtown-infrastructure-delivery",
+        "title": "Who watches the downtown construction bill?",
+        "category": "Infrastructure",
+        "dek": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.",
+        "body": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Public Service Agenda Packet & Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-08-11"
+        },
+        "editorial": {
+          "destination": "PROJECT",
+          "eventDate": "2026-08-11",
+          "review": "independent-pass"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The recommendation was reported August 11, 2026.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Council Member Stugmyer called the August 11, 2026 meeting of the Public Service Committee\nto order at approximately 6:20 p.m.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Matt Hiscock was public service director.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Matt Hiscock, Public Service Dir.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Staff and administration recommended traditional bidding and an owner's representative, expecting a closer fit to the budget and management capacity unavailable within city staffing.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "Dir. Hiscock wished to discuss from staff, as well as Administration, that a more traditional design\nbid project model be pursued. It was thought this would bring things closer to the budget. In\naddition, it was thought to be better to use what was called an “Owner’s Rep” that acted as a\nconstruction manager within the process. It was thought along with savings, the same type of\nmanagement would be gotten. As everyone probably knew, the project worked by team\nmanagement. The manpower did not exist to provide that kind of construction management here\nwith either a CMR or an Owner’s Rep.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The proposed representative would manage aspects of construction and contractor relationships without absorbing overruns as a construction manager at risk would.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "An Owner’s Rep was essentially a CMR company that did not have the AR part for this type of\nproject. They did not have the “at risk” and would not take the overage. But they would still be\nfirst line to manage the project and would be in charge of certain aspects of the project. They\nwould also manage relationships with certain contractors and would be part of the first steps of the\nprocess.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The representative would act for the city.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "Such firms\nwere usually construction management firms who worked hand in hand with projects similar to\nthis and then stepped back to be on “this side” of the project to work with the City and would be\nthe City’s eyes and ears.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The discussion concerned the downtown infrastructure project and its relationship to the drainage work.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 9,
+            "quote": "Dir. Hiscock said it was the same design done by the same design team. That group actually said\nall the Downtown Infrastructure project could not be done unless the stormwater aspect was\naddressed.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Staff sought future legislation for fall construction bidding, a 2026 award and interviewing owner's-representative firms; these were expectations rather than completed selections or awards.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 10,
+            "quote": "Dir. Hiscock said the goal was to bring before Committee/Council the first piece of legislation that\nasked to go out to advertise bids in a more traditional design-bid-build for the project. These\nneeded to be gotten in by fall to actually be awarded this year to at least be able to hand off the\nproject to a selected contractor. At the same time and similarly, the next piece of legislation asked\nfor authorization to go out to interview Owner’s Rep firms, CM firms to get under contract.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-downtown-infrastructure-delivery",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "4cbf564a047eb80487b67e2ec6422ade9f64aefd8e7f2220e529e263a205ffda",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3",
+                "c7"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "projectSlug": "wadsworth-downtown-infrastructure-delivery",
+        "versionHash": "fa82c08213f6a4e934bc7c1815b59417c89d0ff9de6255697e702e6efa9a95d9",
         "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]

@@ -7673,12 +7673,12 @@
     },
     {
       "slug": "wadsworth-downtown-infrastructure-delivery",
-      "name": "Downtown construction proposal pairs traditional bidding with outside management",
+      "name": "Who watches the downtown construction bill?",
       "category": "Infrastructure",
       "stage": "Traditional bidding and an owner's representative recommended August 11, 2026",
       "location": "Downtown Wadsworth",
-      "description": "Wadsworth staff recommended traditional construction bidding and a separate firm to help manage the downtown infrastructure project on August 11, 2026. Public Service Director Matt Hiscock said the approach could bring costs closer to the budget while providing management capacity the city lacked.\n\nThe proposed “owner’s representative” would work for the city, manage contractor relationships and help oversee construction. Hiscock explained a consequential distinction: unlike a construction manager at risk, that representative would not absorb cost overruns.\n\nStaff hoped to seek construction bids in the fall and award the work during 2026. They also planned to seek authority to interview firms for the representative role. Those were proposed next steps; the August recommendation did not establish a selected firm, a construction award or achieved savings.",
-      "revisionKind": "NEW",
+      "description": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-11",
@@ -7884,6 +7884,13 @@
         "wadsworthConnection": "The proposal concerns Wadsworth's downtown infrastructure project.",
         "neighborTakeaway": "Staff proposed traditional bidding with a separate construction-management representative; that representative would not absorb cost overruns.",
         "newBeyondPriorCoverage": "Adds the proposed delivery method and its overrun-risk distinction. The existing Mills–Pardee entry concerns the separate drainage component."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "a7525195ce6c48b0d07f27fe3ddf98213e70475b37b9638c1ac1f4e46e16e3b1",
+        "freshIndependentReview": false
       }
     },
     {
