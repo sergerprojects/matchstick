@@ -1,16 +1,16 @@
 {
   "cutoff": "2026-10-05",
-  "publishedAt": "2026-10-06T01:26:01.374Z",
+  "publishedAt": "2026-10-07T01:25:59.586287+00:00",
   "editorPrompt": "resident-editor-v5",
   "reviewerPrompt": "resident-reviewer-v5",
   "stories": [
     {
       "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
       "category": "Schools",
-      "title": "Wadsworth school tax vote follows cuts and rising healthcare costs",
-      "dek": "Election background: The November 3 proposal is a five-year, 1% earned income tax.",
-      "body": "Wadsworth City School District voters will decide November 3, 2026, whether to approve a 1% earned income tax for five years. The proposal follows staffing reductions and canceled bus purchases, while the district’s August forecast includes higher healthcare costs.\n\nIf approved, district residents would pay on covered earned income. The district identifies wages, salaries, tips and self-employment income from sole proprietorships and partnerships, to the extent included in modified adjusted gross income. Retirement income, interest, dividends, capital gains and unemployment benefits are excluded.\n\nThe August forecast reported 25 teaching positions, one administrator and numerous support positions eliminated or left unfilled for 2026–27. Its detailed staffing assumptions include reductions of 14 full-time-equivalent elementary classroom positions and 1.78 across elementary art, music and physical education. Three additional certified-staff reductions were planned for 2027–28.\n\nThe cuts also reached equipment: three planned fiscal 2027 bus purchases were eliminated, with replacement reduced to one bus annually in fiscal 2028 and 2029. Those are vehicle-purchase reductions, not a count of canceled routes.\n\nMeanwhile, the district reported a 12.2% healthcare renewal increase for the plan year beginning July 1, 2026. Its projected 11% annual increases for fiscal 2028–2030 are assumptions, not approved future rates.\n\nThe forecast covers the General Fund only. It projects an annual financing shortfall of about $2.51 million in fiscal 2027, including other financing sources and uses, and depletion of cash reserves in fiscal 2029 without changes. Annual shortfalls reduce reserves; they do not mean those reserves are already exhausted.\n\nOn September 14, the district reported that the state education department did not then require a fiscal precaution plan because its projected fiscal 2029 deficit was below 5% of appropriation revenue. The district said a deficit still projected at the February forecast update would require a plan regardless of its size. That is a conditional planning requirement, not a finding that the district has already run out of cash.",
-      "revisionKind": "UPDATE",
+      "title": "A school tax with a different tax base",
+      "dek": "On November 3, district voters decide a five-year, 1% earned income tax. Retirement income would be excluded.",
+      "body": "The proposed tax would apply to qualifying wages, salaries, tips and self-employment income. Retirement income, interest, dividends, capital gains and unemployment benefits would be excluded.\n\nThe district has already cut or left unfilled 25 teaching positions, one administrator and numerous support positions for 2026–27. It also canceled three planned bus purchases—not three bus routes.\n\nEven with those reductions, its August General Fund forecast projects cash reserves running out in fiscal 2029 without further changes. That is a forecast of trouble ahead, not a statement that the checking account is empty today.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Click here to view the Four Year Assumptions",
@@ -407,15 +407,22 @@
         "wadsworthConnection": "The proposed tax, spending reductions and financial forecast concern Wadsworth City School District.",
         "neighborTakeaway": "The school tax vote follows staffing and bus-purchase reductions; the forecast also includes higher healthcare costs, and the district reported a conditional February requirement for a financial plan.",
         "newBeyondPriorCoverage": "Adds canceled bus purchases, healthcare premium pressure, the forecast's General Fund scope and the September 14 report about a conditional fiscal precaution plan requirement."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "3c3b66a9c1e88d4bbca303fe2daee3a8b534d2b40439388a2c02b942caede3e2",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "823-college-street-wadsworth-rezoning",
       "category": "Development",
-      "title": "120-unit assisted-living proposal clears a zoning recommendation",
-      "dek": "Council still must consider the requested zoning change at 823 College St.",
-      "body": "Wadsworth Planning Commission voted 3–1 on September 28 to recommend rezoning 6.5 acres at 823 College St., The Gazette’s Brooke Adams reported. Vermillion Development proposes a three-story, 120-unit assisted-living facility there.\n\nThe request would change the property from College Street Gateway zoning to R-2 residential. The recommendation does not approve the facility, and the zoning change would apply even if that project never proceeds.\n\nCouncil’s Committee of the Whole has the draft rezoning ordinance on its October 6 agenda. Adams reported a tentative November 17 public hearing; that date is not final.",
-      "revisionKind": "NEW",
+      "title": "An assisted-living proposal on College Street",
+      "dek": "The plan: three stories, 120 units and 6.5 acres at 823 College St. The zoning still needs Council approval.",
+      "body": "The proposed assisted-living facility cleared a step September 28: Planning Commission recommended changing the property to R-2 residential zoning, The Gazette’s Brooke Adams reported.\n\nCouncil is scheduled to discuss the draft October 6. That is a zoning decision, not a green light for the building.\n\nOne detail matters beyond this proposal: the new zoning would stay even if the facility never gets built. A tentative November 17 public hearing has been reported, but the date is not final.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Wadsworth assisted-living proposal moves to City Council",
@@ -626,15 +633,22 @@
         "wadsworthConnection": "The rezoning concerns 6.5 acres at 823 College Street in Wadsworth.",
         "neighborTakeaway": "Planning Commission recommended the College Street rezoning, but the proposed 120-unit assisted-living facility is not approved.",
         "newBeyondPriorCoverage": "No supplied prior item covers this rezoning recommendation."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "fd3db4aece2fa917c1a5898fcf8b052f8dd95bf8ffcfab0f2f009a7b03c9b6b6",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "medina-county-dog-shelter",
       "category": "County Services",
-      "title": "County authorizes donation fund for planned replacement dog shelter",
-      "dek": "The roughly $6 million plan includes adoption space, indoor play areas and on-site veterinary treatment.",
-      "body": "Medina County commissioners authorized a Community Foundation donation fund September 22 for a planned replacement dog shelter. Contributions are intended primarily for construction and related debt, with money remaining after debt retirement available for operations or further improvements.\n\nThe planned 10,000-square-foot shelter would include better ventilation and daylight, indoor play space, adoption and meet-and-greet areas, and an exam and treatment suite. Commissioners determined that the existing shelter, built in 1974, had exceeded its useful life.\n\nThe county estimates the project at approximately $6 million, including construction and other project costs. Separately, commissioners authorized up to $7 million in notes in anticipation of bonds on September 15. That borrowing ceiling is not a final construction price.\n\nThe projected schedule calls for bidding in late 2026, groundbreaking by early 2027 and opening in early 2028. Those remain expectations. The September 22 action also authorized staff to finalize the fund’s administrative arrangements.",
-      "revisionKind": "NEW",
+      "title": "A better shelter for dogs between homes",
+      "dek": "Medina County’s roughly $6 million replacement plan includes indoor play areas, adoption space and on-site veterinary care.",
+      "body": "The existing dog shelter dates to 1974, and county officials say it has outlived its useful life. The planned replacement would add better ventilation, daylight and room for dogs to meet prospective adopters.\n\nCommissioners authorized a donation fund September 22 to help pay for construction and related debt.\n\nThe projected schedule calls for bidding in late 2026, groundbreaking by early 2027 and opening in early 2028. Those are targets, not appointments you should put the dog in the car for yet.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Resolutions Passed, September 22, 2026",
@@ -871,6 +885,13 @@
         "wadsworthConnection": "The Medina County Dog Shelter provides county services that include Wadsworth residents.",
         "neighborTakeaway": "The county authorized a donation fund for its planned replacement shelter; the roughly $6 million estimate and early-2028 opening remain projections.",
         "newBeyondPriorCoverage": "No supplied prior story covers the shelter financing or donation partnership."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "b28bf4f000006bc2ef51ad5f34c21f476be44160044b888934a81cf8b1a39fa9",
+        "freshIndependentReview": false
       }
     },
     {
@@ -1396,10 +1417,10 @@
     {
       "slug": "medina-county-odjfs-contract-52260206",
       "category": "County Services",
-      "title": "County increases child-support investigation budget to $66,738",
-      "dek": "The amended 2026 agreement identifies $22,690.98 from local sources and $44,047.20 in federal reimbursement.",
-      "body": "Medina County commissioners increased the 2026 budget for child-support extradition and investigative services from $37,076.77 to $66,738.18 on September 22. The agreement funds work by the Prosecutor’s Office for the county child-support agency.\n\nJob and Family Services said additional services were necessary. The amendment adds $29,661.41 to the program budget for January 1 through December 31, 2026.\n\nThe funding plan assigns $44,047.20 to federal reimbursement and $22,690.98 to local sources. Those are the shares of the amended total, not separate additions to it. The approval increases the service budget; it does not establish how much additional support families will receive.",
-      "revisionKind": "NEW",
+      "title": "More money for child-support investigations",
+      "dek": "Medina County raised its 2026 budget for extradition and investigative work to about $66,738.",
+      "body": "The September 22 amendment adds roughly $29,661 for work the Prosecutor’s Office does for the county child-support agency.\n\nJob and Family Services said additional services were needed. Federal reimbursement would cover about $44,047 of the revised budget; local sources would cover about $22,691.\n\nThe approval puts more money behind the work. It does not tell families how much more support will be collected or whether their cases will move faster.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Resolutions Passed, September 22, 2026",
@@ -1565,6 +1586,13 @@
         "wadsworthConnection": "The amendment funds the county child-support agency and prosecutor's services, including cases involving Wadsworth residents.",
         "neighborTakeaway": "The county increased its 2026 child-support investigation and extradition budget from about $37,077 to $66,738.",
         "newBeyondPriorCoverage": "No supplied prior story covers this increase or its local and federal funding shares."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "9832c7ac2f125fcc26c86ccbecc2888cefaa1450b50617026d52409e8efedbbe",
+        "freshIndependentReview": false
       }
     },
     {
@@ -2429,10 +2457,10 @@
     {
       "slug": "wadsworth-city-lots-9074-9855-9995-9996-9998",
       "category": "Development",
-      "title": "What R-2 zoning would allow on five Akron Road lots",
-      "dek": "Ongoing proposal: Council consideration is scheduled October 6 for approximately 26 acres near I-76 and Medina Line Road.",
-      "body": "A proposed zoning change would allow single-family, attached and multifamily housing under Wadsworth’s R-2 rules on five properties north of Akron Road. Council is scheduled to consider Ordinance 26-090 at its October 6 meeting, beginning at 6:30 p.m. in Council Chambers.\n\nThe properties total approximately 26 acres near I-76 and Medina Line Road. Planning Director Jeff Kaiser explained in August that R-2 permits those housing types at a lower density than R-3. The amendment covers only the north-side properties; zoning south of Akron Road is outside its scope.\n\nLot 9074 would change from commercial zoning, lot 9855 from city R-1 residential zoning, and lots 9995, 9996 and 9998 from township R-1 residential zoning.\n\nThe October agenda lists a fourth reading, not an adopted rezoning. Kaiser said housing density, utility locations and site layouts would be addressed through the development process after the zoning question. Owners’ plans potentially included extending sanitary sewer across I-76; that was a possibility, not an approved extension.",
-      "revisionKind": "NEW",
+      "title": "More housing options north of Akron Road",
+      "dek": "A proposed zoning change covers about 26 acres near I-76 and Medina Line Road. Council consideration is scheduled October 6.",
+      "body": "R-2 zoning would allow single-family homes, attached housing and multifamily development on five properties north of Akron Road. The south side is outside this proposal.\n\nThat changes what could be built, not what will be built. Housing density, utility locations and site layouts would come later in the development process.\n\nCouncil’s agenda lists a fourth reading at its 6:30 p.m. meeting. The rezoning remains a proposal; there is no approved neighborhood layout tucked inside it.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "City Council Revised Agenda Packet",
@@ -2681,6 +2709,13 @@
         "wadsworthConnection": "The proposal concerns five Wadsworth city lots totaling approximately 26 acres.",
         "neighborTakeaway": "Council will consider R-2 zoning for about 26 acres October 6; housing layouts and density are separate development questions.",
         "newBeyondPriorCoverage": "The existing College Street rezoning story concerns another property; no prior item explains these five Akron Road lots."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "472de5c3506abd5db5cccf0ebd31d60749175c3798587aa407dc0e731b79dd60",
+        "freshIndependentReview": false
       }
     },
     {
@@ -2854,10 +2889,10 @@
     {
       "slug": "wadsworth-municipal-airport-fees-hangar-lottery",
       "category": "Local Government",
-      "title": "Airport proposal sets aircraft fees and a paid hangar lottery",
-      "dek": "Council’s committee considers the proposal October 6; waiting longer would not improve an applicant’s lottery priority.",
-      "body": "Aircraft owners and people seeking a city-owned hangar would face specific annual charges under Wadsworth’s proposed airport rules. Council’s Committee of the Whole / Finance is scheduled to consider the proposal October 6 at 6 p.m. in Council Chambers.\n\nPowered aircraft would carry an annual maintenance fee of $300 plus 15 cents per pound of maximum takeoff weight. Non-powered aircraft would cost $175. The charge would apply separately to each aircraft based at the airport or elsewhere in Wadsworth for more than 30 days during the fee year, with no multiple-aircraft discount.\n\nJoining the hangar waiting list would cost a nonrefundable $150, renewed each January 1. The first year would be prorated by calendar quarter; payments would not count toward rent.\n\nAvailable hangars would be assigned by public lottery, giving applicants with no city hangar priority over those with one. Application date would confer no priority. Two declined offers, or two failures to respond within ten days, during 24 months would remove an applicant from the list.\n\nThese are proposed requirements; they have not been adopted.",
-      "revisionKind": "NEW",
+      "title": "A waiting list with a cover charge",
+      "dek": "Proposed airport rules would charge $150 a year to wait for a city-owned hangar. Getting one would still come down to a lottery.",
+      "body": "The waiting-list fee would be nonrefundable and would not count toward rent. Waiting longer would not improve your lottery priority, although applicants without a city hangar would get priority over those who already have one.\n\nThe draft also sets annual aircraft fees: $300 plus 15 cents per pound of maximum takeoff weight for powered aircraft, or $175 for non-powered aircraft based in Wadsworth for more than 30 days during the fee year.\n\nCouncil’s committee considers the proposal October 6 at 6 p.m. These are proposed rules, not a bill already in the mail.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Committee of The Whole-Finance Revised Agenda Packet",
@@ -3090,15 +3125,22 @@
         "wadsworthConnection": "The proposed fees cover aircraft based in Wadsworth, and the allocation rules concern city-owned hangars.",
         "neighborTakeaway": "The airport proposal would charge annually to stay on the hangar waiting list and use a lottery that gives priority to applicants without a hangar.",
         "newBeyondPriorCoverage": "No prior item explains the proposed aircraft fees or hangar allocation rules."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "a4888b32c37dddfceb9f3f214d257c9e665c3d09e9623f603eb619ac517d1144",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-marcs-tower-project",
       "category": "Public Safety",
-      "title": "Radio tower proposal returns with a request for FAA review",
-      "dek": "October 6 committee consideration follows an August report of a four-foot height limit at the proposed site.",
-      "body": "Wadsworth is considering asking the Federal Aviation Administration to continue reviewing the site for its proposed public-safety radio tower. Council’s Committee of the Whole / Finance has the request scheduled for October 6 at 6 p.m.\n\nSafety Director Dan Chafin reported August 12 that an FAA notice allowed a tower only four feet tall at the selected site. The project needed 180 feet. He explained that the location fell within protected airport airspace.\n\nChafin said consultants calculated a possible height of about 21.6 feet under the aviation constraint—still far below the project’s requirement. At that time, the city was preparing a request for further study and exploring alternatives.\n\nThe October proposal would ask the FAA to consider the site’s operational history and the tower’s practical effect on aviation at Wadsworth Municipal Airport. It is a proposed request for review, not permission to build the tower.",
-      "revisionKind": "NEW",
+      "title": "The radio tower has an altitude problem",
+      "dek": "Wadsworth wants further FAA review of a proposed public-safety tower near protected airport airspace.",
+      "body": "The project needed a 180-foot tower. In August, Safety Director Dan Chafin reported that an FAA notice allowed only four feet at the chosen site. That is quite a difference to resolve before ordering the tower.\n\nConsultants calculated another possible limit of about 21.6 feet—still well short of the requirement.\n\nCouncil’s committee is scheduled to consider a request for continued FAA review October 6 at 6 p.m. The request asks the agency to weigh the site’s history and effect on airport operations. It is not permission to build.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Committee of The Whole-Finance Revised Agenda Packet",
@@ -3343,6 +3385,13 @@
         "wadsworthConnection": "The proposed MARCS tower is a Wadsworth project affected by protected airspace around the municipal airport.",
         "neighborTakeaway": "The city is considering asking the FAA for further review after officials reported a four-foot limit at a site intended for a 180-foot radio tower.",
         "newBeyondPriorCoverage": "No prior item covers the tower setback or the October 6 proposed request for further aeronautical review."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "4f7e19019666c3aefd4655f9f258b6ab38b704e049bce80b1a923b50ba36ae99",
+        "freshIndependentReview": false
       }
     },
     {
@@ -3710,10 +3759,10 @@
     {
       "slug": "wadsworth-fire-ems-levies-2026-11-03",
       "category": "Elections",
-      "title": "Fire and EMS levy proposals would change taxes on different schedules",
-      "dek": "Election background: Chafin estimates a combined increase of about $12 annually per $100,000 of property value once both changes apply, assuming a state rollback.",
-      "body": "Wadsworth’s fire and EMS proposals for the November 3, 2026 election pair a one-mill fire levy reduction with a one-mill EMS increase. If approved, the fire reduction would begin in 2027, while increased EMS collections would begin in 2028.\n\nThe city proposed reducing its 1.5-mill fire levy by one mill and renewing the three-mill EMS levy with one additional mill. Safety Director Dan Chafin estimated the combined net taxpayer increase at approximately $12 annually per $100,000 of the county auditor’s market value. His July explanation assumed a state rollback on the existing portion of the EMS levy: state funding that offsets part of residents’ taxes. This is an estimate, not an individual tax bill.\n\nChafin said the city planned to draw down projected fire reserves of about $4.8 million while reducing that levy. He emphasized that money would not be transferred from the fire account to EMS.\n\nJuly’s staffing forecast assumed one additional firefighter/paramedic in each of 2028, 2029 and 2030. The General Fund would share those staffing costs; the levy would not cover them alone.\n\nOn August 12, Chafin reported that the ballot documents had been submitted and accepted by the Board of Elections. Voters will decide the tax proposals on November 3.",
-      "revisionKind": "NEW",
+      "title": "Two levy changes, one November decision",
+      "dek": "Wadsworth proposes cutting its fire levy by one mill and adding one mill to the EMS levy. Voters decide November 3.",
+      "body": "The proposals would reduce the 1.5-mill fire levy and renew the three-mill EMS levy with an additional mill.\n\nSafety Director Dan Chafin estimated a combined net increase of about $12 a year per $100,000 of the county auditor’s market value once both changes apply. His estimate assumed a state tax rollback on the existing portion of the EMS levy; it is not an individual tax quote.\n\nThe city plans to draw down fire reserves as that levy falls. Fire money would not be transferred to EMS. The tax labels may look like a simple swap, but the funding arrangements are separate.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Special City Council Agenda Packet - Approved Minutes",
@@ -4061,6 +4110,13 @@
         "wadsworthConnection": "The proposals concern Wadsworth’s fire and EMS levies, reserves and staffing.",
         "neighborTakeaway": "The proposed fire levy reduction would begin a year before increased EMS collections. Chafin estimates the combined change would eventually cost about $12 more annually per $100,000 of auditor market value, assuming the anticipated state rollback.",
         "newBeyondPriorCoverage": "Prior election coverage concerns the school earned income tax, not the separate city property-tax proposals."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "bf7616fa8e83df2656bfd108dd5e416b80c6a15541a89d68f2ffd385c9b20ea7",
+        "freshIndependentReview": false
       }
     },
     {
@@ -4364,10 +4420,10 @@
     {
       "slug": "wadsworth-stormwater-fund-rate-study",
       "category": "Utilities",
-      "title": "Stormwater rate review was planned for October 13",
-      "dek": "Ongoing budget question: Staff intended to examine costs and land maps before a possible adjustment.",
-      "body": "Wadsworth’s Stormwater Commission was due to revisit costs and a possible rate adjustment October 13, following a July discussion of an internal rate study. For households and businesses paying stormwater charges, the unresolved question is whether that review will lead to a different rate.\n\nAssistant Service Director Mike Testa reported July 14 that the commission had reviewed 2026 and proposed 2027 capital projects and equipment. Engineering staff planned to check maps of impervious land—surfaces that do not absorb water—and consider both capital and operating costs.\n\nA September Council update again listed the commission’s October 13 meeting, at 4:30 p.m. in Council Chambers. No proposed rate amount or adopted change is established. The July discussion described a planned review, not a new charge.",
-      "revisionKind": "NEW",
+      "title": "A stormwater bill question, without a price tag yet",
+      "dek": "The commission’s October 13 meeting follows plans to examine costs and a possible rate adjustment.",
+      "body": "Engineering staff planned to review capital and operating costs, along with maps of impervious land: surfaces that do not absorb water.\n\nThat study could inform a stormwater-rate adjustment. No proposed amount or adopted change is established, so there is no new bill to calculate yet.\n\nThe commission’s October 13 meeting is scheduled for 4:30 p.m. in Council Chambers. The useful question is whether the review produces an actual rate proposal—not simply whether another meeting takes place.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "Public Service Agenda & Approved Minutes",
@@ -4563,15 +4619,22 @@
         "wadsworthConnection": "The review concerns Wadsworth’s Stormwater Fund and potential rate adjustment.",
         "neighborTakeaway": "An October 13 review was planned for stormwater costs and a possible rate adjustment; no new rate or increase amount is established.",
         "newBeyondPriorCoverage": "No prior item explains the planned stormwater rate review."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "98eccd65e509ae4626049897810f93cef1957364d08c88d8a99a5a6107ad740c",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-downtown-infrastructure-delivery",
       "category": "Infrastructure",
-      "title": "Downtown oversight proposal carries $1.13 million base contract ceiling",
-      "dek": "Change orders could add up to 10% of the contract amount; Council’s second reading is scheduled October 6.",
-      "body": "Wadsworth is considering a $1.13 million base contract ceiling for consulting agreements to manage and inspect its Downtown Infrastructure Project. That covers construction oversight, with a separate allowance for change orders: total city obligations, including those changes, could not exceed the contract amount plus 10%.\n\nOrdinance 26-108 would allow agreements with one or more consulting firms. It remains a proposal, scheduled for second reading October 6 at the 6:30 p.m. Council meeting in Council Chambers.\n\nThe background is staff’s August recommendation to use traditional construction bidding with a separate firm acting as the city’s representative. Public Service Director Matt Hiscock said that approach could bring costs closer to the budget while supplying construction-management capacity the city lacked.\n\nHiscock also described a limit: the owner’s representative would manage contractor relationships and aspects of construction but would not absorb overruns as a construction manager at risk would. The anticipated savings were staff’s expectation.",
-      "revisionKind": "UPDATE",
+      "title": "Who watches the downtown construction bill?",
+      "dek": "Council is considering a $1.13 million base ceiling for management and inspection—not the construction itself.",
+      "body": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
         "title": "City Council Revised Agenda Packet",
@@ -4821,17 +4884,24 @@
         "wadsworthConnection": "The proposal concerns management and inspection of Wadsworth’s Downtown Infrastructure Project.",
         "neighborTakeaway": "Council’s October 6 second reading concerns a proposed $1.13 million base contract ceiling for downtown oversight. Total obligations, including change orders, could reach the contract amount plus 10%.",
         "newBeyondPriorCoverage": "Adds proposed financial terms and scheduled October 6 consideration to the earlier management-method overview."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "existing facts, concise original observational voice",
+        "priorFactualReviewCandidateHash": "a7525195ce6c48b0d07f27fe3ddf98213e70475b37b9638c1ac1f4e46e16e3b1",
+        "freshIndependentReview": false
       }
     }
   ],
   "projects": [
     {
       "slug": "wadsworth-lot-10300-chick-fil-a",
-      "name": "Chick-fil-A project behind Sheetz received access-road approval in August",
+      "name": "First, the road. Then, the chicken.",
       "category": "Development",
       "stage": "Right-of-way and utility-easement ordinance adopted",
       "location": "City lot 10300, directly west of Sheetz at the former Legacy Inn site, Wadsworth",
-      "description": "Wadsworth City Council adopted the access-road and utility-easement ordinance tied to the proposed Chick-fil-A on August 3, 2026. The site is directly west of Sheetz, where the Legacy Inn had been located.\n\nOrdinance 26-082 accepted public right of way for Access Road One and utility easements on the subdivision plat for city lot 10300. The Planning Commission approved that plat June 8. Council adopted the ordinance with six votes in favor, Reese abstaining and none opposed.\n\nIn July, Planning Director Kaiser described a roughly 245-foot extension of Access Road One across the restaurant property’s frontage, with a 40-foot right of way and a 20-foot utility easement to the north. His June description of the proposed layout placed customer access behind Sheetz: one inbound lane for parking and two for drive-through queues, circulating counterclockwise before exiting onto Access Road One. In July, Engineer Davis said the Planning Commission required delineators, striping and other measures to improve local traffic circulation.",
+      "description": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.\n\nThe proposed layout separates parking traffic from two drive-through queues—because wanting a sandwich and wanting a parking space are different ambitions.\n\nAn opening date is not established in the reviewed project information. For now, lunch remains your responsibility.",
       "next": "Follow the next recorded development.",
       "date": "2026-08-03",
       "evidence": [
@@ -5101,16 +5171,22 @@
         "wadsworthConnection": "The project occupies city lot 10300 in Wadsworth, directly west of Sheetz at the former Legacy Inn site.",
         "neighborTakeaway": "The proposed Chick-fil-A site is behind Sheetz, with access from Access Road One; Council approved the road and utility-easement step on August 3.",
         "newBeyondPriorCoverage": "Adds the verified relative site location, proposed driveway circulation and required traffic measures while retaining the previously reported August 3 approval."
+      },
+      "revisionKind": "STYLE",
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-good-avenue-longview-drive-water-line",
-      "name": "Good–Longview water-line authorization sets a $2 million base ceiling",
+      "name": "New water lines. Fresh pavement above them.",
       "category": "Infrastructure",
       "stage": "Bidding and contract-award authorization adopted September 1, 2026",
       "location": "Good Avenue and Longview Drive, Wadsworth",
-      "description": "Wadsworth’s authorization for the Good Avenue and Longview Drive water-line replacement sets a $2 million ceiling for the base contract. Changes may be authorized only if the total obligation stays within the awarded bid amount plus 10%.\n\nCouncil unanimously adopted Ordinance 26-095 on September 1, 2026, allowing the public service director to advertise, receive bids and award the work. These are spending limits, not a report of final costs.\n\nCity Engineer Glenn Davis explained in August that the project includes paving above the replacement lines. He reported partial funding through an Ohio Public Works Commission grant and additional funding through the EPA.\n\nThe approval establishes authority to procure the work. It does not establish a selected contractor or construction start date.",
-      "revisionKind": "UPDATE",
+      "description": "Good Avenue and Longview Drive are in line for water-line replacement, with paving above the new lines included in the project.\n\nCouncil authorized bidding and award on September 1, with a $2 million base ceiling. Changes must keep the total within the awarded bid amount plus 10%. That is a spending limit, not the final price.\n\nPartial funding includes an Ohio Public Works Commission grant and EPA funding. A selected contractor and construction start date are not established yet. The paperwork has moved; the digging is not confirmed.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-09-01",
@@ -5283,6 +5359,11 @@
         "wadsworthConnection": "The authorization concerns water-line replacement and associated paving on two Wadsworth streets.",
         "neighborTakeaway": "The Good–Longview authorization caps the base contract at $2 million, with changes limited to 10% above the awarded bid.",
         "newBeyondPriorCoverage": "Adds the specific contract ceiling and change-order terms while retaining paving, funding and September adoption."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "freshIndependentReview": false
       }
     },
     {

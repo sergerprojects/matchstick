@@ -1,11 +1,11 @@
 [
   {
     "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
-    "title": "Wadsworth school tax vote follows cuts and rising healthcare costs",
+    "title": "A school tax with a different tax base",
     "category": "Schools",
-    "dek": "Election background: The November 3 proposal is a five-year, 1% earned income tax.",
-    "body": "Wadsworth City School District voters will decide November 3, 2026, whether to approve a 1% earned income tax for five years. The proposal follows staffing reductions and canceled bus purchases, while the district’s August forecast includes higher healthcare costs.\n\nIf approved, district residents would pay on covered earned income. The district identifies wages, salaries, tips and self-employment income from sole proprietorships and partnerships, to the extent included in modified adjusted gross income. Retirement income, interest, dividends, capital gains and unemployment benefits are excluded.\n\nThe August forecast reported 25 teaching positions, one administrator and numerous support positions eliminated or left unfilled for 2026–27. Its detailed staffing assumptions include reductions of 14 full-time-equivalent elementary classroom positions and 1.78 across elementary art, music and physical education. Three additional certified-staff reductions were planned for 2027–28.\n\nThe cuts also reached equipment: three planned fiscal 2027 bus purchases were eliminated, with replacement reduced to one bus annually in fiscal 2028 and 2029. Those are vehicle-purchase reductions, not a count of canceled routes.\n\nMeanwhile, the district reported a 12.2% healthcare renewal increase for the plan year beginning July 1, 2026. Its projected 11% annual increases for fiscal 2028–2030 are assumptions, not approved future rates.\n\nThe forecast covers the General Fund only. It projects an annual financing shortfall of about $2.51 million in fiscal 2027, including other financing sources and uses, and depletion of cash reserves in fiscal 2029 without changes. Annual shortfalls reduce reserves; they do not mean those reserves are already exhausted.\n\nOn September 14, the district reported that the state education department did not then require a fiscal precaution plan because its projected fiscal 2029 deficit was below 5% of appropriation revenue. The district said a deficit still projected at the February forecast update would require a plan regardless of its size. That is a conditional planning requirement, not a finding that the district has already run out of cash.",
-    "revisionKind": "UPDATE",
+    "dek": "On November 3, district voters decide a five-year, 1% earned income tax. Retirement income would be excluded.",
+    "body": "The proposed tax would apply to qualifying wages, salaries, tips and self-employment income. Retirement income, interest, dividends, capital gains and unemployment benefits would be excluded.\n\nThe district has already cut or left unfilled 25 teaching positions, one administrator and numerous support positions for 2026–27. It also canceled three planned bus purchases—not three bus routes.\n\nEven with those reductions, its August General Fund forecast projects cash reserves running out in fiscal 2029 without further changes. That is a forecast of trouble ahead, not a statement that the checking account is empty today.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Click here to view the Four Year Assumptions",
@@ -959,16 +959,412 @@
         },
         "versionHash": "94a119ff286333862982c63ac2066f691a26fdc9a93cf68b7a0938a5e6f1e40d",
         "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
+        "title": "A school tax with a different tax base",
+        "category": "Schools",
+        "dek": "On November 3, district voters decide a five-year, 1% earned income tax. Retirement income would be excluded.",
+        "body": "The proposed tax would apply to qualifying wages, salaries, tips and self-employment income. Retirement income, interest, dividends, capital gains and unemployment benefits would be excluded.\n\nThe district has already cut or left unfilled 25 teaching positions, one administrator and numerous support positions for 2026–27. It also canceled three planned bus purchases—not three bus routes.\n\nEven with those reductions, its August General Fund forecast projects cash reserves running out in fiscal 2029 without further changes. That is a forecast of trouble ahead, not a statement that the checking account is empty today.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Click here to view the Four Year Assumptions",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+          "owner": "Wadsworth City Schools",
+          "checked": "2026-10-05",
+          "published": "2026-09-14"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-09-14",
+          "decisionDate": "2026-11-03",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "school_parent",
+            "busy_parent",
+            "business_owner"
+          ],
+          "residentValue": "Helps voters understand existing spending reductions, rising costs and conditional financial oversight before deciding on the proposed tax.",
+          "change": "The election explainer gains substantive budget context and the district's September report about a conditional financial-plan requirement.",
+          "whyNow": "The November 3 election is 29 days after cutoff. The added facts materially expand the existing explainer and remain explicitly dated background.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The district placed a five-year, 1% earned income tax on the November 3, 2026 ballot and projected reserve depletion in fiscal 2029 without changes.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 19,
+            "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "District residents would pay the tax if approved.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 4,
+            "quote": "If approved, the earned income tax is paid by residents of the Wadsworth City School District,\nas outlined in the question above.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
+            "sourceTextHash": "428e54856c8a626596f2ce45756de489554419a11f9325320c45bb3ff9df606e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The district's definition includes the specified compensation and self-employment income to the extent included in modified adjusted gross income and excludes the listed retirement, investment and unemployment income.",
+            "sourceId": "efedf274fcacf627cdd7",
+            "page": 4,
+            "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
+            "claimId": "c3",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
+            "sourceTextHash": "428e54856c8a626596f2ce45756de489554419a11f9325320c45bb3ff9df606e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The financial projection is dated August 2026.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 1,
+            "quote": "Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
+            "claimId": "c4",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The district reported 25 teaching positions, one administrator and numerous support positions eliminated or left unfilled for 2026–27.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 2,
+            "quote": "25 teaching staff, 1 administrator, and numerous support staff positions\n                 were RIF’d/not filled for the 2026-27 school year",
+            "claimId": "c5",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The listed reductions include 14 elementary classroom FTE and 1.78 elementary art, music and physical-education FTE.",
+            "sourceId": "1c17f1e99f09eafc1fd5",
+            "page": 116,
+            "quote": "K-4 Elementary Teachers (-14 FTE)\n                    ▪ K-4 Encore teachers - art, music, PE (1.78 FTE – 3 positions)",
+            "claimId": "c6",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+            "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The forecast plans three additional certified-staff reductions for 2027–28.",
+            "sourceId": "1c17f1e99f09eafc1fd5",
+            "page": 116,
+            "quote": "The forecast incorporates a planned reduction in professional staff, aligned\n                        with the anticipated decline in our student enrollment of an additional three\n                        certified staff for the 2027-28 school year.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+            "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Three fiscal 2027 bus purchases were eliminated and replacement was reduced to one bus annually in fiscal 2028 and 2029; these figures concern vehicle replacement, not route cancellations.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 17,
+            "quote": "Previously, the district purchased 3 buses per year to keep a healthy cycle of\n                         bus replacement about every 12 years. Due to the budget reductions outlined\n                         in the spring of 2026, the 3 buses for 2027 were eliminated. In addition, bus\n                         replacement was reduced to 1 per year for FY 28 and 29.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The district reported a 12.2% healthcare renewal increase for the plan year beginning July 1, 2026.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 14,
+            "quote": "for\nthe 2026-27 plan year, the district's healthcare renewal increased by 12.2%. In the past year,\nthe district experienced a depletion of reserves with the Summit Regional Healthcare\nConsortium (SRHCC) from $2.5M to less than half a million dollars.\nIn April, the SRHCC approved renewal rates for the 2026-27 plan year beginning July 1, 2026.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Healthcare renewal increases of 11% for fiscal 2028, 2029 and 2030 are forecast assumptions.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 14,
+            "quote": "FY 2017:       5.16%           FY 2022:        0.00%         Projected\n       FY 2018:       2.33%           FY 2023:        1.60%         FY 2027:     12.2%\n       FY 2019:       4.85%           FY 2024:        4.10%         FY 2028:     11.0%\n       FY 2020:       0.00%           FY 2025:        18.61%        FY 2029:     11.0%\n       FY 2021:       0.00%           FY2026:         15.56%        FY 2030:     11.0%",
+            "claimId": "c10",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The projection covers only the General Fund.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 3,
+            "quote": "This Forecast includes the General Fund only.",
+            "claimId": "c11",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The fiscal 2027 projected annual financing shortfall is $2,505,128, approximately $2.51 million, including other financing sources and uses.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 18,
+            "quote": "Budget FY2027     FY2028       FY2029        FY2030\nExcess of Revenues and Other Financing Sources\nover (under) Expenditures and Other Financing Uses        2,505,128-   6,061,573-   8,477,292-   10,588,657-",
+            "claimId": "c12",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The forecast distinguishes annual shortfalls from remaining reserves, with positive cash balances in fiscal 2027 and 2028 before a projected negative balance in fiscal 2029.",
+            "sourceId": "444e30c979bd4777b311",
+            "page": 19,
+            "quote": "2024            2025           2026       Change   Budget FY2027   FY2028      FY2029        FY2030\nCash Balance June 30                   21,076,279      16,883,060     14,611,633   -16.7%     12,106,505    6,044,932   2,432,360-   13,021,018-",
+            "claimId": "c13",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+            "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The district reported no current fiscal precaution plan requirement because its projected fiscal 2029 deficit was below 5% of appropriation revenue, but said a deficit still projected at the February update would require a plan regardless of amount.",
+            "sourceId": "3eb5b181039f2e548c2b",
+            "page": 2,
+            "quote": "The District was notified by ODEW that we are not required to submit a fiscal\n             precaution plan since the [projected FY 2029 deficit is less than 5% of our\n             appropriation revenue]. If the deficit in FY 29 is still projected in February with the\n             next forecast update, regardless of the amount, we will be required to submit a plan.",
+            "claimId": "c14",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/70e447d1-e458-4304-826f-6597da77a98d",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
+            "sourceTextHash": "ff84e94fafe25baa35c6e0b87798d85af74c1f10ad545b23dd3cd60c7f11ef3e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The fiscal precaution report occurred September 14, 2026.",
+            "sourceId": "3eb5b181039f2e548c2b",
+            "page": 2,
+            "quote": "Minutes of Regular Meeting                                       Date: September 14, 2026",
+            "claimId": "c15",
+            "url": "https://www.wadsworthschools.org/fs/resource-manager/view/70e447d1-e458-4304-826f-6597da77a98d",
+            "owner": "Wadsworth City Schools",
+            "sourceHash": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
+            "sourceTextHash": "ff84e94fafe25baa35c6e0b87798d85af74c1f10ad545b23dd3cd60c7f11ef3e",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-schools-earned-income-tax-2026-11-03",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "3c3b66a9c1e88d4bbca303fe2daee3a8b534d2b40439388a2c02b942caede3e2",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311",
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "1c17f1e99f09eafc1fd5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "1c17f1e99f09eafc1fd5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c9"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c10"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c11"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c12"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c13"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c14"
+              ],
+              "sourceIds": [
+                "3eb5b181039f2e548c2b"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c15"
+              ],
+              "sourceIds": [
+                "3eb5b181039f2e548c2b"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c1",
+                "c5",
+                "c8",
+                "c9"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311",
+                "efedf274fcacf627cdd7"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c13",
+                "c14"
+              ],
+              "sourceIds": [
+                "444e30c979bd4777b311",
+                "3eb5b181039f2e548c2b"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "efedf274fcacf627cdd7",
+                "444e30c979bd4777b311",
+                "3eb5b181039f2e548c2b"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "564958d9f15770bcd10c6c5043bb0d3169414292de7fe3e0dbffe921f8d2ea41",
+        "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
   },
   {
     "slug": "wadsworth-lot-10300-chick-fil-a",
-    "title": "Chick-fil-A project behind Sheetz received access-road approval in August",
+    "title": "First, the road. Then, the chicken.",
     "category": "Development",
-    "dek": "Wadsworth City Council adopted the access-road and utility-easement ordinance tied to the proposed Chick-fil-A on August 3, 2026. The site is directly west of Sheetz, where the Legacy Inn had been located.",
-    "body": "Wadsworth City Council adopted the access-road and utility-easement ordinance tied to the proposed Chick-fil-A on August 3, 2026. The site is directly west of Sheetz, where the Legacy Inn had been located.\n\nOrdinance 26-082 accepted public right of way for Access Road One and utility easements on the subdivision plat for city lot 10300. The Planning Commission approved that plat June 8. Council adopted the ordinance with six votes in favor, Reese abstaining and none opposed.\n\nIn July, Planning Director Kaiser described a roughly 245-foot extension of Access Road One across the restaurant property’s frontage, with a 40-foot right of way and a 20-foot utility easement to the north. His June description of the proposed layout placed customer access behind Sheetz: one inbound lane for parking and two for drive-through queues, circulating counterclockwise before exiting onto Access Road One. In July, Engineer Davis said the Planning Commission required delineators, striping and other measures to improve local traffic circulation.",
-    "revisionKind": "NEW",
+    "dek": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.",
+    "body": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.\n\nThe proposed layout separates parking traffic from two drive-through queues—because wanting a sandwich and wanting a parking space are different ambitions.\n\nAn opening date is not established in the reviewed project information. For now, lunch remains your responsibility.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Special City Council Agenda Packet - Approved Minutes",
@@ -1739,16 +2135,276 @@
         "projectSlug": "wadsworth-lot-10300-chick-fil-a",
         "versionHash": "0bac5b853c0065bf48bda22588553798f63b792c6cc107c8b6ef1d8905208432",
         "savedAt": "2026-10-05T20:10:30.801Z"
+      },
+      {
+        "slug": "wadsworth-lot-10300-chick-fil-a",
+        "title": "First, the road. Then, the chicken.",
+        "category": "Development",
+        "dek": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.",
+        "body": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.\n\nThe proposed layout separates parking traffic from two drive-through queues—because wanting a sandwich and wanting a parking space are different ambitions.\n\nAn opening date is not established in the reviewed project information. For now, lunch remains your responsibility.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Special City Council Agenda Packet - Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-08-03"
+        },
+        "editorial": {
+          "destination": "PROJECT",
+          "eventDate": "2026-08-03",
+          "review": "independent-pass"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "Council linked Ordinance 26-082 to Chick-fil-A locating in Wadsworth.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "He noted that the primary items were Ordinance 26-082 concerning Chick-\nfil-A's ability to locate within the City",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Ordinance 26-082 accepted Access Road One public right of way and utility easements on the subdivision plat for Wadsworth lot 10300; the Planning Commission approved the plat June 8, 2026.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "ORDINANCE NO. 26-082: AN ORDINANCE ACCEPTING PUBLIC RIGHT OF WAY\nFOR ACCESS ROAD #1 AND PUBLIC UTILITY EASEMENTS AS SHOWN ON THE\nSUBDIVISION PLAT OF CITY OF WADSWORTH LOT #10300 AS APPROVED BY\nTHE PLANNING COMMISSION ON JUNE 8, 2026 AND DECLARING AN\nEMERGENCY",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Council adopted Ordinance 26-082 August 3, 2026, with six affirmative votes, Reese abstaining and none opposed; this remains the project's latest evidenced milestone.",
+            "sourceId": "b7db6b5dc354dd0bcb3c",
+            "page": 1,
+            "quote": "President Rospert called for a vote. Ayes: May,\nStugmyer, Berger, Hines, Maxwell, Yurchiak. Abstain: Reese. Nays: None Ordinance No.\n26-082 declared to have been adopted August 3, 2026.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08032026-840",
+            "owner": "City of Wadsworth",
+            "sourceHash": "345bbf8c233245b3bdf0c5d14fd960a429669558f448eebc3944da52e67571d4"
+          },
+          {
+            "assertion": "Planning Director Kaiser identified the city lot 10300 property as directly west of Sheetz.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 3,
+            "quote": "Planning Director Kaiser stated that a second item had been added and that an ordinance request had been\nsent to the Law Department concerning the acceptance of public right-of-way and utility easements\nassociated with the subdivision of City Lot 10300. He provided a copy of the draft plat and explained\nthat the property is directly west of the Sheetz property",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "Kaiser confirmed the site was behind Sheetz where the Legacy Inn had been located and described an approximately 245-foot Access Road One extension along the Chick-fil-A property.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 4,
+            "quote": "Council Member Hines asked whether the property was behind the Sheetz property where the Legacy\nInn had been located.\n\nPlanning Director Kaiser confirmed that it was and explained that the extension of Access Road One\nwould run approximately 245 feet, essentially the length of the Chick-fil-A property.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "Kaiser's July description included a 40-foot right of way across the frontage and a 20-foot utility easement to the north.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 4,
+            "quote": "He explained that Access Road One would\nbe extended across the frontage of the property as a 40-foot right-of-way and that a 20-foot utility\neasement to the north would also require Council acceptance.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "The site, access-road and traffic-requirement descriptions were reported at the July 13, 2026 meeting.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 1,
+            "quote": "Council Member Hines called the July 13, 2026 Economic Development & Planning Committee to\norder at approximately 5:00 p.m.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          },
+          {
+            "assertion": "Kaiser's June proposed circulation description placed access behind Sheetz, with one parking lane, two drive-through lanes, counterclockwise circulation and exit onto Access Road One.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 10,
+            "quote": "Director Kaiser confirmed that customers would enter the property from Access Road No. 1 located\nbehind Sheetz. After entering the site, traffic would separate into three inbound lanes. One lane would\nserve the primary parking area, while two lanes would feed the dual drive-through queues. Vehicles\nwould circulate counterclockwise around the building, with the ordering point located along the north\nside nearest Interstate 76 before continuing to the pickup windows and exiting back onto Access Road\nNo. 1.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "The proposed circulation description dates to June 8, 2026.",
+            "sourceId": "8bec41faa2cb9267761c",
+            "page": 1,
+            "quote": "June 8, 2026 5:00 P.M.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_06082026-824",
+            "owner": "City of Wadsworth",
+            "sourceHash": "e89d7442e5a62ba24e0d74cdcf2929fbf7416f1f3f87714997cb6872ef165f23"
+          },
+          {
+            "assertion": "Engineer Davis said the Planning Commission required Chick-fil-A to install delineators, striping and other measures to optimize local traffic patterns.",
+            "sourceId": "a40c02a3953b9663741a",
+            "page": 6,
+            "quote": "Engineer Davis explained that it varies. He cited Chick-fil-A as an example, stating that the Planning\nCommission required the project to install delineators, striping, and other measures to optimize local\ntraffic patterns",
+            "claimId": "c10",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-834",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b9d1cbb3551a5188d458cab3fa3c1cfd6e60e7c8fab2cbba5e71c1a300f78acc"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-lot-10300-chick-fil-a",
+          "promptVersion": "resident-reviewer-v2",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "residentValue": "Residents following the proposed Chick-fil-A can locate its site behind Sheetz and understand the proposed vehicle access and required traffic measures alongside the dated August approval.",
+          "failures": [],
+          "claimChecks": [
+            {
+              "assertion": "Council linked Ordinance 26-082 to Chick-fil-A locating in Wadsworth.",
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly connects the ordinance to Chick-fil-A’s ability to locate in the city. Supports the headline and opening without establishing construction or an opening."
+            },
+            {
+              "assertion": "Ordinance 26-082 accepted Access Road One public right of way and utility easements on the subdivision plat for Wadsworth lot 10300; the Planning Commission approved the plat June 8, 2026.",
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 contains the exact ordinance-title excerpt. Supports the body, project stage and June timeline entry."
+            },
+            {
+              "assertion": "Council adopted Ordinance 26-082 August 3, 2026, with six affirmative votes, Reese abstaining and none opposed; this is the latest project milestone evidenced in the supplied bundle.",
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 explicitly records adoption and the six named affirmative voters. The separate procedural motion references another resolution, but the final adoption statement expressly identifies Ordinance 26-082. No later project milestone is supplied."
+            },
+            {
+              "assertion": "Planning Director Kaiser identified the city lot 10300 property as directly west of Sheetz.",
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 3 contains the exact excerpt and links the location to the lot’s subdivision and easements. Supports the textual project location."
+            },
+            {
+              "assertion": "Kaiser confirmed the site was behind Sheetz where the Legacy Inn had been located and described an approximately 245-foot Access Road One extension along the Chick-fil-A property.",
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 4 contains the exact confirmation and approximate length. Supports the headline’s relative location and the body’s site history and proposed extension."
+            },
+            {
+              "assertion": "Kaiser’s July description included a 40-foot right of way across the frontage and a 20-foot utility easement to the north.",
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 4 explicitly provides both dimensions and their placement. Copy preserves the description as a proposed extension."
+            },
+            {
+              "assertion": "The site, access-road and traffic-requirement descriptions were reported at the July 13, 2026 meeting.",
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 establishes the meeting date; pages 3–4 and 6 contain the relevant reports."
+            },
+            {
+              "assertion": "Kaiser’s June proposed circulation description placed access behind Sheetz, with one inbound lane serving parking, two serving drive-through queues, counterclockwise circulation and exit onto Access Road One.",
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 10 contains the exact circulation excerpt. Supports the deck and body while preserving proposed status and attribution."
+            },
+            {
+              "assertion": "The proposed circulation description dates to June 8, 2026.",
+              "claimIds": [
+                "c9"
+              ],
+              "sourceIds": [
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 1 gives the date. This was a work session without formal committee action; the candidate correctly describes Kaiser’s report rather than inferring a vote."
+            },
+            {
+              "assertion": "Engineer Davis said the Planning Commission required Chick-fil-A to install delineators, striping and other measures to optimize local traffic patterns.",
+              "claimIds": [
+                "c10"
+              ],
+              "sourceIds": [
+                "a40c02a3953b9663741a"
+              ],
+              "support": "SUPPORTED",
+              "note": "Page 6 contains the exact excerpt. The body attributes the report to Davis and describes the measures’ intended purpose without claiming a demonstrated traffic improvement."
+            },
+            {
+              "assertion": "The candidate adds site and proposed access details beyond the prior project entry while retaining August 3 as its dated approval milestone.",
+              "claimIds": [],
+              "sourceIds": [
+                "b7db6b5dc354dd0bcb3c",
+                "a40c02a3953b9663741a",
+                "8bec41faa2cb9267761c"
+              ],
+              "support": "SUPPORTED",
+              "note": "The prior entry covers the ordinance and vote but omits the relative site location, circulation layout, extension dimensions and traffic measures. This qualifies as historical PROJECT enrichment under the extension, with no fresh-news framing, invented opening date or unsupported map pin."
+            }
+          ],
+          "revisionInstructions": [],
+          "reviewedAt": "2026-10-05T20:10:30.801Z",
+          "candidateHash": "bdaf058731b97fb46542b43792b36b9d262ae8ba0d29e70539ff199d908839af"
+        },
+        "projectSlug": "wadsworth-lot-10300-chick-fil-a",
+        "versionHash": "7fe29daeec93331a69c3fea3b763d2da677fef35b5dc7aab1162ef5f3b85c76c",
+        "savedAt": "2026-10-05T20:10:30.801Z"
       }
     ]
   },
   {
     "slug": "wadsworth-good-avenue-longview-drive-water-line",
-    "title": "Good–Longview water-line authorization sets a $2 million base ceiling",
+    "title": "New water lines. Fresh pavement above them.",
     "category": "Infrastructure",
-    "dek": "Wadsworth’s authorization for the Good Avenue and Longview Drive water-line replacement sets a $2 million ceiling for the base contract. Changes may be authorized only if the total obligation stays within the awarded bid amount plus 10%.",
-    "body": "Wadsworth’s authorization for the Good Avenue and Longview Drive water-line replacement sets a $2 million ceiling for the base contract. Changes may be authorized only if the total obligation stays within the awarded bid amount plus 10%.\n\nCouncil unanimously adopted Ordinance 26-095 on September 1, 2026, allowing the public service director to advertise, receive bids and award the work. These are spending limits, not a report of final costs.\n\nCity Engineer Glenn Davis explained in August that the project includes paving above the replacement lines. He reported partial funding through an Ohio Public Works Commission grant and additional funding through the EPA.\n\nThe approval establishes authority to procure the work. It does not establish a selected contractor or construction start date.",
-    "revisionKind": "UPDATE",
+    "dek": "Good Avenue and Longview Drive are in line for water-line replacement, with paving above the new lines included in the project.",
+    "body": "Good Avenue and Longview Drive are in line for water-line replacement, with paving above the new lines included in the project.\n\nCouncil authorized bidding and award on September 1, with a $2 million base ceiling. Changes must keep the total within the awarded bid amount plus 10%. That is a spending limit, not the final price.\n\nPartial funding includes an Ohio Public Works Commission grant and EPA funding. A selected contractor and construction start date are not established yet. The paperwork has moved; the digging is not confirmed.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "City Council Agenda Packet & Approved Minutes",
@@ -2163,6 +2819,168 @@
         },
         "projectSlug": "wadsworth-good-avenue-longview-drive-water-line",
         "versionHash": "a5e2856eb3359c28fb9a90461e562cb9e0c1ae203ae7605e246003c295399e62",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-good-avenue-longview-drive-water-line",
+        "title": "New water lines. Fresh pavement above them.",
+        "category": "Infrastructure",
+        "dek": "Good Avenue and Longview Drive are in line for water-line replacement, with paving above the new lines included in the project.",
+        "body": "Good Avenue and Longview Drive are in line for water-line replacement, with paving above the new lines included in the project.\n\nCouncil authorized bidding and award on September 1, with a $2 million base ceiling. Changes must keep the total within the awarded bid amount plus 10%. That is a spending limit, not the final price.\n\nPartial funding includes an Ohio Public Works Commission grant and EPA funding. A selected contractor and construction start date are not established yet. The paperwork has moved; the digging is not confirmed.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "City Council Agenda Packet & Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09012026-855",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-09-01"
+        },
+        "editorial": {
+          "destination": "PROJECT",
+          "eventDate": "2026-09-01",
+          "review": "independent-pass"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The ordinance authorizes bidding and award for the named streets, sets a $2 million base ceiling and limits total obligations with changes to the awarded bid plus 10%.",
+            "sourceId": "21ff2dd33c6d60cd0fcb",
+            "page": 2,
+            "quote": "Section 1. That the Director of Public Service is hereby authorized and directed to advertise, receive\nbids and award a contract to the lowest and best bidder meeting specifications for the Good Avenue\nand Longview Drive water line replacement project in accordance with plans and specifications to be\nfiled in the office of the Director of Public Service. The total price to be awarded pursuant to said\ncontract shall not exceed $2,000,000. If it becomes necessary after the contract is entered into, to\nauthorize change orders, such change orders may be authorized so long as the total financial\nobligation of the city pursuant to the contract including change orders does not exceed the awarded\nbid amount plus ten percent of the awarded bid amount.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "60dbf8540651631a624edce2aab66e4ae84509b2eb9a221b005bd715374f1936",
+            "sourceTextHash": "43f0d03e54290e6b99d60ae8835d940450c34550e5761948adf8d309442988e1",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Council unanimously adopted Ordinance 26-095 September 1, 2026.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 5,
+            "quote": "President Pro Tem Stugmyer called for a vote. Ayes: Yurchiak, Maxwell, Hines, Reese,\nStugmyer, Berger, May. Nays: None Ordinance No. 26-095 declared to have been adopted\nSeptember 1, 2026.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee",
+            "sourceTextHash": "58523c61184e54d2294bc139a37330ed02c014ba9a9a1a057a7f732a5f517bb2",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Davis described replacement water lines with paving and reported OPWC grant and EPA funding.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 3,
+            "quote": "Eng. Davis said this request was a little more typical whereas the project had been in design and\nwas funded partially by a grant through OPWC (Ohio Public Works Commission) and also through\nthe EPA. This should go out to bid within the next couple months. It was desired that legislation\nbe put on the docket. Two readings were anticipated to offer appropriate time to make sure things\nremained on schedule. This involved replacement of some water lines and included paving on top.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The scope report occurred August 11, 2026.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Council Member Stugmyer called the August 11, 2026 meeting of the Public Service Committee\nto order at approximately 6:20 p.m.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Glenn Davis was city engineer.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Glenn Davis, City Engineer",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-good-avenue-longview-drive-water-line",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "09e3c8d06c02752152709f9647bed90e45f675e14144d7284ea542657b9daa6d",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "21ff2dd33c6d60cd0fcb",
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c1",
+                "c2"
+              ],
+              "sourceIds": [
+                "21ff2dd33c6d60cd0fcb",
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "21ff2dd33c6d60cd0fcb",
+                "db1f72f289efa72a0912",
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "projectSlug": "wadsworth-good-avenue-longview-drive-water-line",
+        "versionHash": "1f0c1d77646a00cfd986a83dd12079136b7c07181f7a6c288ecd99c89d627619",
         "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
@@ -4018,11 +4836,11 @@
   },
   {
     "slug": "823-college-street-wadsworth-rezoning",
-    "title": "120-unit assisted-living proposal clears a zoning recommendation",
+    "title": "An assisted-living proposal on College Street",
     "category": "Development",
-    "dek": "Council still must consider the requested zoning change at 823 College St.",
-    "body": "Wadsworth Planning Commission voted 3–1 on September 28 to recommend rezoning 6.5 acres at 823 College St., The Gazette’s Brooke Adams reported. Vermillion Development proposes a three-story, 120-unit assisted-living facility there.\n\nThe request would change the property from College Street Gateway zoning to R-2 residential. The recommendation does not approve the facility, and the zoning change would apply even if that project never proceeds.\n\nCouncil’s Committee of the Whole has the draft rezoning ordinance on its October 6 agenda. Adams reported a tentative November 17 public hearing; that date is not final.",
-    "revisionKind": "NEW",
+    "dek": "The plan: three stories, 120 units and 6.5 acres at 823 College St. The zoning still needs Council approval.",
+    "body": "The proposed assisted-living facility cleared a step September 28: Planning Commission recommended changing the property to R-2 residential zoning, The Gazette’s Brooke Adams reported.\n\nCouncil is scheduled to discuss the draft October 6. That is a zoning decision, not a green light for the building.\n\nOne detail matters beyond this proposal: the new zoning would stay even if the facility never gets built. A tentative November 17 public hearing has been reported, but the date is not final.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Wadsworth assisted-living proposal moves to City Council",
@@ -4435,16 +5253,226 @@
         },
         "versionHash": "92a08aa52441457b056fee145846d571198e7066061aa95010e5f31f45569d06",
         "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "823-college-street-wadsworth-rezoning",
+        "title": "An assisted-living proposal on College Street",
+        "category": "Development",
+        "dek": "The plan: three stories, 120 units and 6.5 acres at 823 College St. The zoning still needs Council approval.",
+        "body": "The proposed assisted-living facility cleared a step September 28: Planning Commission recommended changing the property to R-2 residential zoning, The Gazette’s Brooke Adams reported.\n\nCouncil is scheduled to discuss the draft October 6. That is a zoning decision, not a green light for the building.\n\nOne detail matters beyond this proposal: the new zoning would stay even if the facility never gets built. A tentative November 17 public hearing has been reported, but the date is not final.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Wadsworth assisted-living proposal moves to City Council",
+          "url": "https://medina-gazette.com/news/476515/wadsworth-assisted-living-proposal-moves-to-city-council/",
+          "owner": "The Gazette · Brooke Adams",
+          "checked": "2026-10-05",
+          "published": "2026-09-28"
+        },
+        "editorial": {
+          "destination": "NEWS",
+          "eventDate": "2026-09-28",
+          "decisionDate": "",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "casual_neighbor",
+            "prospective_mover"
+          ],
+          "residentValue": "Helps nearby residents understand the proposed scale, the zoning consequence and the remaining approval process.",
+          "change": "Planning Commission recommended the rezoning 3–1; a draft ordinance is scheduled for Council committee consideration.",
+          "whyNow": "The recommendation occurred seven days before the cutoff, with committee consideration scheduled October 6.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The Gazette report is by Brooke Adams.",
+            "sourceId": "37baf645fa6541dfae33",
+            "page": 1,
+            "quote": "",
+            "claimId": "c1",
+            "url": "https://medina-gazette.com/news/476515/wadsworth-assisted-living-proposal-moves-to-city-council/",
+            "owner": "The Gazette · Brooke Adams",
+            "sourceHash": "b138a093ecf7273cb29d147d870c930dea2363254f19561babab8cfddb5e7656",
+            "sourceTextHash": "623febc457ae29f3ef513955576b5b46bc935aa2f2c68683c71969832b661f15",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Planning Commission voted 3–1 to recommend rezoning 6.5 acres for the proposed facility.",
+            "sourceId": "37baf645fa6541dfae33",
+            "page": 1,
+            "quote": "",
+            "claimId": "c2",
+            "url": "https://medina-gazette.com/news/476515/wadsworth-assisted-living-proposal-moves-to-city-council/",
+            "owner": "The Gazette · Brooke Adams",
+            "sourceHash": "b138a093ecf7273cb29d147d870c930dea2363254f19561babab8cfddb5e7656",
+            "sourceTextHash": "623febc457ae29f3ef513955576b5b46bc935aa2f2c68683c71969832b661f15",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Vermillion Development seeks R-2 residential zoning for 823 College Street, currently zoned College Street Gateway, and proposes a three-story, 120-unit assisted-living facility.",
+            "sourceId": "37baf645fa6541dfae33",
+            "page": 1,
+            "quote": "",
+            "claimId": "c3",
+            "url": "https://medina-gazette.com/news/476515/wadsworth-assisted-living-proposal-moves-to-city-council/",
+            "owner": "The Gazette · Brooke Adams",
+            "sourceHash": "b138a093ecf7273cb29d147d870c930dea2363254f19561babab8cfddb5e7656",
+            "sourceTextHash": "623febc457ae29f3ef513955576b5b46bc935aa2f2c68683c71969832b661f15",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The recommendation does not approve the facility, and rezoning would apply regardless of whether the project proceeds.",
+            "sourceId": "37baf645fa6541dfae33",
+            "page": 1,
+            "quote": "",
+            "claimId": "c4",
+            "url": "https://medina-gazette.com/news/476515/wadsworth-assisted-living-proposal-moves-to-city-council/",
+            "owner": "The Gazette · Brooke Adams",
+            "sourceHash": "b138a093ecf7273cb29d147d870c930dea2363254f19561babab8cfddb5e7656",
+            "sourceTextHash": "623febc457ae29f3ef513955576b5b46bc935aa2f2c68683c71969832b661f15",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The reported November 17 hearing date is tentative.",
+            "sourceId": "37baf645fa6541dfae33",
+            "page": 1,
+            "quote": "",
+            "claimId": "c5",
+            "url": "https://medina-gazette.com/news/476515/wadsworth-assisted-living-proposal-moves-to-city-council/",
+            "owner": "The Gazette · Brooke Adams",
+            "sourceHash": "b138a093ecf7273cb29d147d870c930dea2363254f19561babab8cfddb5e7656",
+            "sourceTextHash": "623febc457ae29f3ef513955576b5b46bc935aa2f2c68683c71969832b661f15",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The October 6 committee agenda includes the draft rezoning ordinance and identifies the Planning Commission action as September 28, 2026.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 1,
+            "quote": "3. ORDINANCE NO. 26-______ AN ORDINANCE TO CHANGE THE ZONING DISTRICT\n          CLASSIFICATION OF CITY LOT 9561 FROM COLLEGE STREET GATEWAY TO THE\n          R-2 RESIDENTIAL DISTRICT CLASSIFICATION AND TO DECLARE AN EMERGENCY\n                       •    Sponsored by Council Member ____________________\n                       •    Approved by the Planning Commission September 28, 2026",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Committee consideration is scheduled October 6, 2026.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 1,
+            "quote": "COMMITTEE OF THE WHOLE / FINANCE\n                                 Wadsworth City Council\n                           Tuesday October 6, 2026 at 6:00 p.m.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "823-college-street-wadsworth-rezoning",
+          "verdict": "PASS",
+          "destination": "NEWS",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "fd3db4aece2fa917c1a5898fcf8b052f8dd95bf8ffcfab0f2f009a7b03c9b6b6",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "37baf645fa6541dfae33"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "37baf645fa6541dfae33",
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "37baf645fa6541dfae33"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "37baf645fa6541dfae33"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "37baf645fa6541dfae33"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "37baf645fa6541dfae33",
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "37baf645fa6541dfae33",
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "52b25d86054a87b07a25decb52c7f308248e3f2a15b762a4bfa9c358a86dca32",
+        "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
   },
   {
     "slug": "medina-county-dog-shelter",
-    "title": "County authorizes donation fund for planned replacement dog shelter",
+    "title": "A better shelter for dogs between homes",
     "category": "County Services",
-    "dek": "The roughly $6 million plan includes adoption space, indoor play areas and on-site veterinary treatment.",
-    "body": "Medina County commissioners authorized a Community Foundation donation fund September 22 for a planned replacement dog shelter. Contributions are intended primarily for construction and related debt, with money remaining after debt retirement available for operations or further improvements.\n\nThe planned 10,000-square-foot shelter would include better ventilation and daylight, indoor play space, adoption and meet-and-greet areas, and an exam and treatment suite. Commissioners determined that the existing shelter, built in 1974, had exceeded its useful life.\n\nThe county estimates the project at approximately $6 million, including construction and other project costs. Separately, commissioners authorized up to $7 million in notes in anticipation of bonds on September 15. That borrowing ceiling is not a final construction price.\n\nThe projected schedule calls for bidding in late 2026, groundbreaking by early 2027 and opening in early 2028. Those remain expectations. The September 22 action also authorized staff to finalize the fund’s administrative arrangements.",
-    "revisionKind": "NEW",
+    "dek": "Medina County’s roughly $6 million replacement plan includes indoor play areas, adoption space and on-site veterinary care.",
+    "body": "The existing dog shelter dates to 1974, and county officials say it has outlived its useful life. The planned replacement would add better ventilation, daylight and room for dogs to meet prospective adopters.\n\nCommissioners authorized a donation fund September 22 to help pay for construction and related debt.\n\nThe projected schedule calls for bidding in late 2026, groundbreaking by early 2027 and opening in early 2028. Those are targets, not appointments you should put the dog in the car for yet.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Resolutions Passed, September 22, 2026",
@@ -4908,6 +5936,242 @@
           ]
         },
         "versionHash": "131873a73e98821206c51f891d4ed6352a7d6c70d35135d72253d1b47540be4a",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "medina-county-dog-shelter",
+        "title": "A better shelter for dogs between homes",
+        "category": "County Services",
+        "dek": "Medina County’s roughly $6 million replacement plan includes indoor play areas, adoption space and on-site veterinary care.",
+        "body": "The existing dog shelter dates to 1974, and county officials say it has outlived its useful life. The planned replacement would add better ventilation, daylight and room for dogs to meet prospective adopters.\n\nCommissioners authorized a donation fund September 22 to help pay for construction and related debt.\n\nThe projected schedule calls for bidding in late 2026, groundbreaking by early 2027 and opening in early 2028. Those are targets, not appointments you should put the dog in the car for yet.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Resolutions Passed, September 22, 2026",
+          "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+          "owner": "Medina County Commissioners",
+          "checked": "2026-10-05",
+          "published": "2026-09-22"
+        },
+        "editorial": {
+          "destination": "NEWS",
+          "eventDate": "2026-09-22",
+          "decisionDate": "",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "casual_neighbor",
+            "busy_parent"
+          ],
+          "residentValue": "Explains the planned county service improvements, funding amounts and intended use of donations without presenting estimates as commitments.",
+          "change": "Commissioners authorized the shelter donation partnership after authorizing financing the previous week.",
+          "whyNow": "The September 22 authorization falls within the trailing 14-day news window.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "Commissioners authorized the partnership and creation of the MCCF Dog Shelter Fund.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 27,
+            "quote": "NOW THEREFORE BE IT RESOLVED by the Medina County Board of Commissioners\nauthorize the joint partnership and creation of the MCCF Dog Shelter Fund through the Medina",
+            "claimId": "c1",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The fund supports the new Medina County Dog Shelter; commissioners authorized staff to finalize administrative arrangements and adopted the resolution September 22, 2026.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 28,
+            "quote": "County Community Foundation for the purpose of receiving donations in support of the\nconstruction and long-term sustainability of the new Medina County Dog Shelter; and\n\nBE IT FURTHER RESOLVED, the Board authorizes the County Administrator and other\nappropriate staff to work collaboratively with MCCF to finalize all documents, agreements, and\nadministrative arrangements necessary to activate and manage the MCCF Dog Shelter Fund.\n\n\n\n\nVoting AYE thereon: Mr. Hambley, Mr. Harrison and Mrs. Swedyk\n\nAdopted: September 22, 2026",
+            "claimId": "c2",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Donations are intended for construction and associated debt, with remaining funds after debt retirement potentially supporting operations or site enhancements.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 27,
+            "quote": "WHEREAS, donations made to the MCCF Dog Shelter Fund will be applied toward construction\ncosts and the payment of principal and interest of debt issuance associated with the project, and\nany funds remaining after debt retirement may be applied to operational or further site\nenhancements as further described in Exhibit A.",
+            "claimId": "c3",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Construction and related debt are the primary intended uses of donations.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 32,
+            "quote": "Funds donated to the Dog Shelter Construction Fund will be applied primarily to the construction costs\nand the payment of principal and interest on any bonds associated with the construction.",
+            "claimId": "c4",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The planned 10,000-square-foot shelter includes improved ventilation and daylight, indoor play space, adoption and meet-and-greet areas, and veterinary examination and treatment space.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 27,
+            "quote": "WHEREAS, the MCCF Dog Shelter Fund will be used to help support construction of a new\n10,000-square-foot dog shelter designed to include modern enclosures, enhanced ventilation and\nnatural lighting, indoor play and multi-purpose space, dedicated adoption and meet-and-greet\nareas, and an exam and treatment suite for on-site veterinary care, along with other improvements\nconsistent with current standards of animal health and welfare",
+            "claimId": "c5",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Commissioners determined the existing shelter, built in 1974, had exceeded its useful life.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 27,
+            "quote": "the Board of Commissioners determined that the existing dog shelter,\nconstructed in 1974, has exceeded its useful life",
+            "claimId": "c6",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The county estimates approximately $6 million including construction and soft costs; bidding in late 2026, groundbreaking by early 2027 and opening in early 2028 are projections.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 27,
+            "quote": "WHEREAS, the construction project is expected to be publicly bid in late 2026, with\ngroundbreaking anticipated no later than early 2027 and a projected facility opening in early 2028;\nand\n\nWHEREAS, the estimated total project cost is approximately $6,000,000, inclusive of\nconstruction and soft costs, and the County is working with bond counsel to finance the project\nwhile seeking contributions to reduce overall debt obligations",
+            "claimId": "c7",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Commissioners authorized up to $7 million in notes in anticipation of bonds for the shelter and site; this amount is a financing ceiling rather than a final construction price.",
+            "sourceId": "d57eae99b6590569e743",
+            "page": 3,
+            "quote": "26-0671     A resolution providing for the issuance and sale of not to exceed $7,000,000 of notes, in anticipation of the\n            issuance of bonds, for the purpose of paying costs of constructing, furnishing and equipping a new county\n            dog shelter and clearing, improving and equipping its site",
+            "claimId": "c8",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-15-26-Commissioners-Meeting.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "e24de8a9b377ab63d8cd90fb26a4f1badc44638e2eb582b01770741ac7792b9e",
+            "sourceTextHash": "b1da52c69a52c82572754aba8f62375b0993f49812ce08602ebb9ab375fa8f2d",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The shelter financing authorization passed September 15, 2026.",
+            "sourceId": "d57eae99b6590569e743",
+            "page": 3,
+            "quote": "RESOLUTIONS PASSED SEPTEMBER 15, 2026",
+            "claimId": "c9",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-15-26-Commissioners-Meeting.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "e24de8a9b377ab63d8cd90fb26a4f1badc44638e2eb582b01770741ac7792b9e",
+            "sourceTextHash": "b1da52c69a52c82572754aba8f62375b0993f49812ce08602ebb9ab375fa8f2d",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "medina-county-dog-shelter",
+          "verdict": "PASS",
+          "destination": "NEWS",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "b28bf4f000006bc2ef51ad5f34c21f476be44160044b888934a81cf8b1a39fa9",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1",
+                "c2"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3",
+                "c4"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "d57eae99b6590569e743"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c9"
+              ],
+              "sourceIds": [
+                "d57eae99b6590569e743"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d",
+                "d57eae99b6590569e743"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "ae47f2fc847b95263816bddd6ee1b238faa23fc968a88a0729b2fe284aaf14b4",
         "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
@@ -5906,11 +7170,11 @@
   },
   {
     "slug": "medina-county-odjfs-contract-52260206",
-    "title": "County increases child-support investigation budget to $66,738",
+    "title": "More money for child-support investigations",
     "category": "County Services",
-    "dek": "The amended 2026 agreement identifies $22,690.98 from local sources and $44,047.20 in federal reimbursement.",
-    "body": "Medina County commissioners increased the 2026 budget for child-support extradition and investigative services from $37,076.77 to $66,738.18 on September 22. The agreement funds work by the Prosecutor’s Office for the county child-support agency.\n\nJob and Family Services said additional services were necessary. The amendment adds $29,661.41 to the program budget for January 1 through December 31, 2026.\n\nThe funding plan assigns $44,047.20 to federal reimbursement and $22,690.98 to local sources. Those are the shares of the amended total, not separate additions to it. The approval increases the service budget; it does not establish how much additional support families will receive.",
-    "revisionKind": "NEW",
+    "dek": "Medina County raised its 2026 budget for extradition and investigative work to about $66,738.",
+    "body": "The September 22 amendment adds roughly $29,661 for work the Prosecutor’s Office does for the county child-support agency.\n\nJob and Family Services said additional services were needed. Federal reimbursement would cover about $44,047 of the revised budget; local sources would cover about $22,691.\n\nThe approval puts more money behind the work. It does not tell families how much more support will be collected or whether their cases will move faster.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Resolutions Passed, September 22, 2026",
@@ -6232,6 +7496,171 @@
           ]
         },
         "versionHash": "2133b9361cadba7ce4347fa033396997b38673aa0b97185c8535ad1751398893",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "medina-county-odjfs-contract-52260206",
+        "title": "More money for child-support investigations",
+        "category": "County Services",
+        "dek": "Medina County raised its 2026 budget for extradition and investigative work to about $66,738.",
+        "body": "The September 22 amendment adds roughly $29,661 for work the Prosecutor’s Office does for the county child-support agency.\n\nJob and Family Services said additional services were needed. Federal reimbursement would cover about $44,047 of the revised budget; local sources would cover about $22,691.\n\nThe approval puts more money behind the work. It does not tell families how much more support will be collected or whether their cases will move faster.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Resolutions Passed, September 22, 2026",
+          "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+          "owner": "Medina County Commissioners",
+          "checked": "2026-10-05",
+          "published": "2026-09-22"
+        },
+        "editorial": {
+          "destination": "NEWS",
+          "eventDate": "2026-09-22",
+          "decisionDate": "",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "busy_parent",
+            "casual_neighbor"
+          ],
+          "residentValue": "Explains a substantial increase in a defined county enforcement budget, its funding sources and the limit on claiming benefits for individual families.",
+          "change": "Commissioners increased the annual program budget by $29,661.41 after JFS identified a need for additional services.",
+          "whyNow": "The September 22 approval falls within the trailing 14-day news window.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The agreement funds extradition and investigative services between the county child-support agency and Prosecutor's Office for calendar 2026.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 42,
+            "quote": "an agreement for cooperative services between the Medina County Child Support\nEnforcement Agency and the Medina County Prosecutor’s Office for Extradition and Investigative\nServices for the period of January 1, 2026 through December 31, 2026",
+            "claimId": "c1",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "JFS identified additional services as necessary; the budget rose from $37,076.77 to $66,738.18, an arithmetic increase of $29,661.41.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 42,
+            "quote": "the Board of County Commissioners originally approved this agreement with a\nprogram budget of $37,076.77 and contract budget of $24,470.67 (FFP amount) on March 24,\n2026, per Resolution No. 26-0212 and,\n\nWHEREAS, Medina County Job and Family Services has now assessed additional services are\nnecessary and require an amended project budget of $66,738.18 and contract budget of $44,047.20\n(FFP amount)",
+            "claimId": "c2",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Commissioners approved the amendment for January 1 through December 31, 2026; this is a service-budget authorization, not evidence of additional support payments received by families.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 42,
+            "quote": "the amended agreement between Medina County Job and Family Services and the\nMedina County Prosecutor’s Office for Extradition and investigative Services for the period of\nJanuary 1, 2026 through December 31, 2026 be approved as cited above.",
+            "claimId": "c3",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The amendment was adopted September 22, 2026.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 42,
+            "quote": "Adopted: September 22, 2026",
+            "claimId": "c4",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The amended total comprises $22,690.98 in local sources and $44,047.20 in federal reimbursement.",
+            "sourceId": "b1f61a4c68a019f5e38d",
+            "page": 43,
+            "quote": "‘Non-Federal Share $22,690.98 Local Sources\nFFP Reimbursement $44,047.20\nTotal IV-D Contract Cost S$ 66,738.18",
+            "claimId": "c5",
+            "url": "https://www.medinaco.org/wp-content/uploads/9-22-26_2.pdf",
+            "owner": "Medina County Commissioners",
+            "sourceHash": "b4b5fa0b272c9803451e735c23356ca786af68838ef73ed6e4f8ba60fb496df6",
+            "sourceTextHash": "857929cdc8988114333c5cd50737017499bd248d43f29af93d550de4d71bf14e",
+            "transcription": "ocr"
+          }
+        ],
+        "review": {
+          "candidateId": "medina-county-odjfs-contract-52260206",
+          "verdict": "PASS",
+          "destination": "NEWS",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "9832c7ac2f125fcc26c86ccbecc2888cefaa1450b50617026d52409e8efedbbe",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "b1f61a4c68a019f5e38d"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "6155320abbd9267c48270eac6e4852c7652c873767e966bba310e9b816409d26",
         "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
@@ -7876,11 +9305,11 @@
   },
   {
     "slug": "wadsworth-city-lots-9074-9855-9995-9996-9998",
-    "title": "What R-2 zoning would allow on five Akron Road lots",
+    "title": "More housing options north of Akron Road",
     "category": "Development",
-    "dek": "Ongoing proposal: Council consideration is scheduled October 6 for approximately 26 acres near I-76 and Medina Line Road.",
-    "body": "A proposed zoning change would allow single-family, attached and multifamily housing under Wadsworth’s R-2 rules on five properties north of Akron Road. Council is scheduled to consider Ordinance 26-090 at its October 6 meeting, beginning at 6:30 p.m. in Council Chambers.\n\nThe properties total approximately 26 acres near I-76 and Medina Line Road. Planning Director Jeff Kaiser explained in August that R-2 permits those housing types at a lower density than R-3. The amendment covers only the north-side properties; zoning south of Akron Road is outside its scope.\n\nLot 9074 would change from commercial zoning, lot 9855 from city R-1 residential zoning, and lots 9995, 9996 and 9998 from township R-1 residential zoning.\n\nThe October agenda lists a fourth reading, not an adopted rezoning. Kaiser said housing density, utility locations and site layouts would be addressed through the development process after the zoning question. Owners’ plans potentially included extending sanitary sewer across I-76; that was a possibility, not an approved extension.",
-    "revisionKind": "NEW",
+    "dek": "A proposed zoning change covers about 26 acres near I-76 and Medina Line Road. Council consideration is scheduled October 6.",
+    "body": "R-2 zoning would allow single-family homes, attached housing and multifamily development on five properties north of Akron Road. The south side is outside this proposal.\n\nThat changes what could be built, not what will be built. Housing density, utility locations and site layouts would come later in the development process.\n\nCouncil’s agenda lists a fourth reading at its 6:30 p.m. meeting. The rezoning remains a proposal; there is no approved neighborhood layout tucked inside it.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "City Council Revised Agenda Packet",
@@ -8369,6 +9798,254 @@
         },
         "versionHash": "5407ff0830abaa45365815c2db63d6f6caaf5133c2be1cc8995c21240da14aef",
         "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-city-lots-9074-9855-9995-9996-9998",
+        "title": "More housing options north of Akron Road",
+        "category": "Development",
+        "dek": "A proposed zoning change covers about 26 acres near I-76 and Medina Line Road. Council consideration is scheduled October 6.",
+        "body": "R-2 zoning would allow single-family homes, attached housing and multifamily development on five properties north of Akron Road. The south side is outside this proposal.\n\nThat changes what could be built, not what will be built. Housing density, utility locations and site layouts would come later in the development process.\n\nCouncil’s agenda lists a fourth reading at its 6:30 p.m. meeting. The rezoning remains a proposal; there is no approved neighborhood layout tucked inside it.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "City Council Revised Agenda Packet",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-08-18"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-08-18",
+          "decisionDate": "2026-10-06",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "casual_neighbor",
+            "prospective_mover"
+          ],
+          "residentValue": "Explains the permitted housing types and affected area before imminent Council consideration, without implying a final vote or development approval.",
+          "change": "An ongoing five-lot rezoning proposal is scheduled for fourth reading October 6.",
+          "whyNow": "Substantive Council consideration is scheduled one day after cutoff; August background explains the land-use choice.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "Council’s meeting is scheduled October 6, 2026 at 6:30 p.m. in Council Chambers.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 1,
+            "quote": "Tuesday October 6, 2026 at 6:30 p.m.\n                                City Council Chambers",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The October agenda lists Ordinance 26-090 for fourth reading and identifies the five lots and their proposed changes to R-2; this is scheduled consideration rather than adoption.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 2,
+            "quote": "ORDINANCE NO. 26-090 (4th RDG) AN ORDINANCE TO CHANGE THE ZONING DISTRICT\n CLASSIFICATION OF CITY LOT #9074 FROM C-3 COMMERCIAL TO THE R-2\n RESIDENTIAL DISTRICT CLASSIFICATION; TO CHANGE THE ZONING DISTRICT\n CLASSIFICATION OF CITY LOT #9855 FROM R-1 RESIDENTIAL TO R-2 RESIDENTIAL;\n AND TO CHANGE THE ZONING CLASSIFICATION OF CITY LOTS #9995, #9996, AND\n #9998 FROM R-1 TOWNSHIP RESIDENTIAL DISTRICT TO R-2 RESIDENTIAL DISTRICT\n AND TO DECLARE AN EMERGENCY",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Kaiser described five properties north of Akron Road totaling approximately 26 acres near I-76 and Medina Line Road.",
+            "sourceId": "26e219aa49db1f518191",
+            "page": 3,
+            "quote": "Planning Director Kaiser presented an update regarding a proposed zoning map amendment for five\nproperties on the north side of Akron Road near the city's eastern limits.\n\nHe explained that the properties total approximately 26 acres and are generally bounded by I-76 and\nMedina Line Road.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+            "sourceTextHash": "fe507856fd6969ff1c62dd82b2a19ad44a01528bb68979bc2a946dc8572147f9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Kaiser explained that R-2 allows single-family, attached and multifamily housing at a lower density than R-3.",
+            "sourceId": "26e219aa49db1f518191",
+            "page": 3,
+            "quote": "Dir. Kaiser\nexplained that R-2 permits single-family homes as well as attached and multifamily residential\ndevelopment at a lower density than the R-3 district.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+            "sourceTextHash": "fe507856fd6969ff1c62dd82b2a19ad44a01528bb68979bc2a946dc8572147f9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Development details would follow the zoning question, and sewer extension across I-76 remained potential.",
+            "sourceId": "26e219aa49db1f518191",
+            "page": 4,
+            "quote": "He stated that the property owners have plans that could potentially extend sanitary sewer across I-76\nand connect to the public system near Wadsworth Crossing. Additional development details, including\ndensities, utility locations, and site layouts, would be addressed during the development process after the\nzoning question is resolved.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+            "sourceTextHash": "fe507856fd6969ff1c62dd82b2a19ad44a01528bb68979bc2a946dc8572147f9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The proposal excludes the south side of Akron Road.",
+            "sourceId": "26e219aa49db1f518191",
+            "page": 4,
+            "quote": "Dir. Kaiser emphasized that the proposed rezoning applies only to the properties on the north side of\nAkron Road. Existing zoning on the south side is not part of the amendment.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+            "sourceTextHash": "fe507856fd6969ff1c62dd82b2a19ad44a01528bb68979bc2a946dc8572147f9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Jeff Kaiser was planning director and the explanation occurred in August.",
+            "sourceId": "26e219aa49db1f518191",
+            "page": 1,
+            "quote": "Planning Dir. Jeff Kaiser",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+            "sourceTextHash": "fe507856fd6969ff1c62dd82b2a19ad44a01528bb68979bc2a946dc8572147f9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The explanatory discussion occurred August 10, 2026.",
+            "sourceId": "26e219aa49db1f518191",
+            "page": 1,
+            "quote": "Council Member Hines called the August 10, 2026 Economic Development & Planning Committee to\norder at approximately 5:00 p.m.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08102026-848",
+            "owner": "City of Wadsworth",
+            "sourceHash": "b4c491fcf125488804887f20dad6d9d78002d354ea1ea0fda7fcc62fb4b2154c",
+            "sourceTextHash": "fe507856fd6969ff1c62dd82b2a19ad44a01528bb68979bc2a946dc8572147f9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The dated past Council milestone was advancement to third reading August 18, 2026.",
+            "sourceId": "095ca5e2adc7220c9ba8",
+            "page": 6,
+            "quote": "Ordinance No. 26-090 was moved to third reading.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08182026-849",
+            "owner": "City of Wadsworth",
+            "sourceHash": "8715cbe85bbfdb3f99f2a052b948fb9aa033ed3149c419e1e33e4dc25118b082",
+            "sourceTextHash": "2fc05c1a309551b33df3ab2d8f0bd52db6d40e61004516ee419f6e30b548e31a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "That Council meeting occurred August 18, 2026.",
+            "sourceId": "095ca5e2adc7220c9ba8",
+            "page": 1,
+            "quote": "The meeting of Wadsworth City Council, Tuesday August 18, 2026 at 6:30 p.m.",
+            "claimId": "c10",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08182026-849",
+            "owner": "City of Wadsworth",
+            "sourceHash": "8715cbe85bbfdb3f99f2a052b948fb9aa033ed3149c419e1e33e4dc25118b082",
+            "sourceTextHash": "2fc05c1a309551b33df3ab2d8f0bd52db6d40e61004516ee419f6e30b548e31a",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-city-lots-9074-9855-9995-9996-9998",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "472de5c3506abd5db5cccf0ebd31d60749175c3798587aa407dc0e731b79dd60",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "26e219aa49db1f518191"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "26e219aa49db1f518191"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "26e219aa49db1f518191"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "26e219aa49db1f518191"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7",
+                "c8"
+              ],
+              "sourceIds": [
+                "26e219aa49db1f518191"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c9",
+                "c10"
+              ],
+              "sourceIds": [
+                "095ca5e2adc7220c9ba8"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5",
+                "26e219aa49db1f518191"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "9ca3f1d840a2f7c11269f2d5afa773054d0370da1dcf6b285e4eb49fa0036a10",
+        "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
   },
@@ -8694,11 +10371,11 @@
   },
   {
     "slug": "wadsworth-municipal-airport-fees-hangar-lottery",
-    "title": "Airport proposal sets aircraft fees and a paid hangar lottery",
+    "title": "A waiting list with a cover charge",
     "category": "Local Government",
-    "dek": "Council’s committee considers the proposal October 6; waiting longer would not improve an applicant’s lottery priority.",
-    "body": "Aircraft owners and people seeking a city-owned hangar would face specific annual charges under Wadsworth’s proposed airport rules. Council’s Committee of the Whole / Finance is scheduled to consider the proposal October 6 at 6 p.m. in Council Chambers.\n\nPowered aircraft would carry an annual maintenance fee of $300 plus 15 cents per pound of maximum takeoff weight. Non-powered aircraft would cost $175. The charge would apply separately to each aircraft based at the airport or elsewhere in Wadsworth for more than 30 days during the fee year, with no multiple-aircraft discount.\n\nJoining the hangar waiting list would cost a nonrefundable $150, renewed each January 1. The first year would be prorated by calendar quarter; payments would not count toward rent.\n\nAvailable hangars would be assigned by public lottery, giving applicants with no city hangar priority over those with one. Application date would confer no priority. Two declined offers, or two failures to respond within ten days, during 24 months would remove an applicant from the list.\n\nThese are proposed requirements; they have not been adopted.",
-    "revisionKind": "NEW",
+    "dek": "Proposed airport rules would charge $150 a year to wait for a city-owned hangar. Getting one would still come down to a lottery.",
+    "body": "The waiting-list fee would be nonrefundable and would not count toward rent. Waiting longer would not improve your lottery priority, although applicants without a city hangar would get priority over those who already have one.\n\nThe draft also sets annual aircraft fees: $300 plus 15 cents per pound of maximum takeoff weight for powered aircraft, or $175 for non-powered aircraft based in Wadsworth for more than 30 days during the fee year.\n\nCouncil’s committee considers the proposal October 6 at 6 p.m. These are proposed rules, not a bill already in the mail.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Committee of The Whole-Finance Revised Agenda Packet",
@@ -9155,16 +10832,248 @@
         },
         "versionHash": "83e7a6b4cb5d277be2825f2f6fb25b8aff534ed8b6487d04be2bfda959cbdc65",
         "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-municipal-airport-fees-hangar-lottery",
+        "title": "A waiting list with a cover charge",
+        "category": "Local Government",
+        "dek": "Proposed airport rules would charge $150 a year to wait for a city-owned hangar. Getting one would still come down to a lottery.",
+        "body": "The waiting-list fee would be nonrefundable and would not count toward rent. Waiting longer would not improve your lottery priority, although applicants without a city hangar would get priority over those who already have one.\n\nThe draft also sets annual aircraft fees: $300 plus 15 cents per pound of maximum takeoff weight for powered aircraft, or $175 for non-powered aircraft based in Wadsworth for more than 30 days during the fee year.\n\nCouncil’s committee considers the proposal October 6 at 6 p.m. These are proposed rules, not a bill already in the mail.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Committee of The Whole-Finance Revised Agenda Packet",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": ""
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "",
+          "decisionDate": "2026-10-06",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "business_owner",
+            "casual_neighbor"
+          ],
+          "residentValue": "Helps affected owners and applicants understand proposed costs and allocation conditions before committee consideration.",
+          "change": "A proposed airport ordinance would establish the specified maintenance fees, annual waiting-list payments and lottery rules.",
+          "whyNow": "Substantive committee consideration is scheduled one day after the cutoff.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The Committee of the Whole / Finance meeting is scheduled October 6, 2026 at 6 p.m. in Council Chambers.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 1,
+            "quote": "COMMITTEE OF THE WHOLE / FINANCE\n                                 Wadsworth City Council\n                           Tuesday October 6, 2026 at 6:00 p.m.\n                                 City Council Chambers",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The airport ordinance is scheduled as draft legislation, rather than an adopted rule.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 1,
+            "quote": "2. ORDINANCE NO. 26-______ AN ORDINANCE TO AMEND SECTIONS 94.30 AND 94.31\n          AND TO ENACT SECTIONS 94.29 AND SECTIONS 94.32 THROUGH 94.39 OF THE\n          CODIFIED ORDINANCES OF THE CITY OF WADSWORTH PERTAINING TO THE\n          WADSWORTH MUNICIPAL AIRPORT AND DECLARING AN EMERGENCY",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The proposed annual maintenance fees are $300 plus 15 cents per pound of maximum takeoff weight for powered aircraft and $175 for non-powered aircraft.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 12,
+            "quote": "Aircraft Annual fee\nPowered aircraft $300.00 plus $0.15 per pound of maximum takeoff weight\nNon-powered aircraft $175.00",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "The fee would cover each aircraft based at the airport or elsewhere in the city for more than 30 days during the fee year.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 12,
+            "quote": "The fee applies to each aircraft based at the Wadsworth Municipal Airport or\nelsewhere in the city for more than 30 days during the fee year. The aircraft owner is responsible\nfor payment.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Aircraft would be assessed separately without a multiple-aircraft discount.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 12,
+            "quote": "The fee shall be assessed separately and in full for each aircraft\nsubject to this section. No discount, reduction, credit, or abatement shall be allowed because a\nperson owns, leases, manages, or operates more than one aircraft.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "The proposed hangar waiting-list payment is a nonrefundable $150 on joining and each January 1, with quarterly first-year proration and no rent credit.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 15,
+            "quote": "Each applicant shall pay a non-refundable fee of $150.00\nwhen joining the waiting list and on January 1 of each year thereafter in order to remain on the\nlist. The fee for the year in which a person first applies shall be prorated by calendar quarter. The\nfee is not credited against rent or any other amount owed to the city.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Public random lotteries would prioritize applicants without city-owned hangars over those with one; application date would not confer priority.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 15,
+            "quote": "As units become available, the Director of Public\nService shall assign them by public random lottery and shall record the results. Applicants who\nhold, lease, occupy, or control no city-owned hangar unit shall be drawn and assigned before\napplicants who hold, lease, occupy, or control one unit. Within each priority group, selection is\nrandom, and date of application does not confer priority.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Two declined offers or two failures to respond within ten days during 24 months would cause removal from the waiting list.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 16,
+            "quote": "An applicant who declines two offers within any 24 months,\nor who twice fails to respond within ten days during any 24 months, shall be removed from the\nwaiting list and may reapply only as a new applicant.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "ocr"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-municipal-airport-fees-hangar-lottery",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "a4888b32c37dddfceb9f3f214d257c9e665c3d09e9623f603eb619ac517d1144",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3",
+                "c6",
+                "c7"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "b4c770d713eda668de8963967e5166b72c1765e3af582de1e723a42f5ec19bd2",
+        "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
   },
   {
     "slug": "wadsworth-marcs-tower-project",
-    "title": "Radio tower proposal returns with a request for FAA review",
+    "title": "The radio tower has an altitude problem",
     "category": "Public Safety",
-    "dek": "October 6 committee consideration follows an August report of a four-foot height limit at the proposed site.",
-    "body": "Wadsworth is considering asking the Federal Aviation Administration to continue reviewing the site for its proposed public-safety radio tower. Council’s Committee of the Whole / Finance has the request scheduled for October 6 at 6 p.m.\n\nSafety Director Dan Chafin reported August 12 that an FAA notice allowed a tower only four feet tall at the selected site. The project needed 180 feet. He explained that the location fell within protected airport airspace.\n\nChafin said consultants calculated a possible height of about 21.6 feet under the aviation constraint—still far below the project’s requirement. At that time, the city was preparing a request for further study and exploring alternatives.\n\nThe October proposal would ask the FAA to consider the site’s operational history and the tower’s practical effect on aviation at Wadsworth Municipal Airport. It is a proposed request for review, not permission to build the tower.",
-    "revisionKind": "NEW",
+    "dek": "Wadsworth wants further FAA review of a proposed public-safety tower near protected airport airspace.",
+    "body": "The project needed a 180-foot tower. In August, Safety Director Dan Chafin reported that an FAA notice allowed only four feet at the chosen site. That is quite a difference to resolve before ordering the tower.\n\nConsultants calculated another possible limit of about 21.6 feet—still well short of the requirement.\n\nCouncil’s committee is scheduled to consider a request for continued FAA review October 6 at 6 p.m. The request asks the agency to weigh the site’s history and effect on airport operations. It is not permission to build.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Committee of The Whole-Finance Revised Agenda Packet",
@@ -9644,6 +11553,250 @@
           ]
         },
         "versionHash": "9eea49865aee54055148cf75a33aa7ec0a94664e3d7bb46d316f618dd8131841",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-marcs-tower-project",
+        "title": "The radio tower has an altitude problem",
+        "category": "Public Safety",
+        "dek": "Wadsworth wants further FAA review of a proposed public-safety tower near protected airport airspace.",
+        "body": "The project needed a 180-foot tower. In August, Safety Director Dan Chafin reported that an FAA notice allowed only four feet at the chosen site. That is quite a difference to resolve before ordering the tower.\n\nConsultants calculated another possible limit of about 21.6 feet—still well short of the requirement.\n\nCouncil’s committee is scheduled to consider a request for continued FAA review October 6 at 6 p.m. The request asks the agency to weigh the site’s history and effect on airport operations. It is not permission to build.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Committee of The Whole-Finance Revised Agenda Packet",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-08-12"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-08-12",
+          "decisionDate": "2026-10-06",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "casual_neighbor",
+            "prospective_mover"
+          ],
+          "residentValue": "Explains the physical obstacle to a public-safety infrastructure project and the limited purpose of the upcoming city action.",
+          "change": "A proposed request for continued FAA review follows the August report of a height restriction.",
+          "whyNow": "The October 6 committee agenda establishes an imminent substantive choice about advancing the project.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The October 6 committee agenda includes a proposed resolution supporting the MARCS tower and requesting continued FAA review of operational history and aviation effects.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 1,
+            "quote": "1. RESOLUTION NO. 26-______ A RESOLUTION SUPPORTING THE PROPOSED\n          CONSTRUCTION OF A MULTI-AGENCY RADIO COMMUNICATIONS SYSTEM\n          (MARCS) TOWER AND REQUESTING THE FAA TO CONTINUE ITS AERONAUTICAL\n          REVIEW WITH CONSIDERATION OF THE SITE’S OPERATIONAL HISTORY AND\n          THE TOWER’S PRACTICAL EFFECT ON AVIATION ACTIVITY AT THE\n          WADSWORTH MUNICIPAL AIRPORT AND DECLARING AN EMERGENCY",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Committee consideration is scheduled October 6, 2026 at 6 p.m.",
+            "sourceId": "6ccbc7422d813dfa5a37",
+            "page": 1,
+            "quote": "COMMITTEE OF THE WHOLE / FINANCE\n                                 Wadsworth City Council\n                           Tuesday October 6, 2026 at 6:00 p.m.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+            "owner": "City of Wadsworth",
+            "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
+            "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Chafin reported an FAA notice limiting the proposed tower to four feet.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 22,
+            "quote": "Since the last\nmeeting an official notice from the FAA was received to inform the department that a tower was\nallowed to be built as long as it was 4 feet tall or less.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Chafin explained that the proposed location fell within protected airport airspace.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 22,
+            "quote": "This created what was called the conical\nsurface area; basically, it was a protected flight space. The location of the tower fell within this\nconical surface area.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Consultants calculated about 21.6 feet, compared with the project's needed 180 feet.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 23,
+            "quote": "The\nconsultants calculated the distance (height) to be about 21.6 feet, which was not the height of 180 feet\nneeded, but was better than 4 feet.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The city was preparing a further-review request, with officials describing the project as a safety need for first responders.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 23,
+            "quote": "Right now, word was awaited on some tentative language or response to help the department craft a\nresponse to the FAA to put them on notice that further review was wanted. The process would be\nhelped with navigation and assistance from the consultants to get through things. To have spoken\nwith Perdantus and DAS, both entities agreed and were glad to have had the consultant because it\nsounded like there was more of a grasp of the situation from which to build a case that this project\nwas still an important safety need for the community, first responders, etc.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Alternative plans remained exploratory.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 23,
+            "quote": "there were\nsome exploratory conversations for an emergency Plan B if this issue could not be solved.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The historical report occurred August 12, 2026.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 1,
+            "quote": "Council Member Yurchiak welcomed everyone to the August 12, 2026 Public Safety Committee\nmeeting.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Dan Chafin was safety director.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 1,
+            "quote": "Safety Director Dan Chafin",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-marcs-tower-project",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "4f7e19019666c3aefd4655f9f258b6ab38b704e049bce80b1a923b50ba36ae99",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8",
+                "c9"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "6ccbc7422d813dfa5a37",
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "4d5213e2a1f3e0b833b349b5e94f604e4730d5d7a7b8597f7661c4c6f93fb1f7",
         "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
@@ -10342,11 +12495,11 @@
   },
   {
     "slug": "wadsworth-fire-ems-levies-2026-11-03",
-    "title": "Fire and EMS levy proposals would change taxes on different schedules",
+    "title": "Two levy changes, one November decision",
     "category": "Elections",
-    "dek": "Election background: Chafin estimates a combined increase of about $12 annually per $100,000 of property value once both changes apply, assuming a state rollback.",
-    "body": "Wadsworth’s fire and EMS proposals for the November 3, 2026 election pair a one-mill fire levy reduction with a one-mill EMS increase. If approved, the fire reduction would begin in 2027, while increased EMS collections would begin in 2028.\n\nThe city proposed reducing its 1.5-mill fire levy by one mill and renewing the three-mill EMS levy with one additional mill. Safety Director Dan Chafin estimated the combined net taxpayer increase at approximately $12 annually per $100,000 of the county auditor’s market value. His July explanation assumed a state rollback on the existing portion of the EMS levy: state funding that offsets part of residents’ taxes. This is an estimate, not an individual tax bill.\n\nChafin said the city planned to draw down projected fire reserves of about $4.8 million while reducing that levy. He emphasized that money would not be transferred from the fire account to EMS.\n\nJuly’s staffing forecast assumed one additional firefighter/paramedic in each of 2028, 2029 and 2030. The General Fund would share those staffing costs; the levy would not cover them alone.\n\nOn August 12, Chafin reported that the ballot documents had been submitted and accepted by the Board of Elections. Voters will decide the tax proposals on November 3.",
-    "revisionKind": "NEW",
+    "dek": "Wadsworth proposes cutting its fire levy by one mill and adding one mill to the EMS levy. Voters decide November 3.",
+    "body": "The proposals would reduce the 1.5-mill fire levy and renew the three-mill EMS levy with an additional mill.\n\nSafety Director Dan Chafin estimated a combined net increase of about $12 a year per $100,000 of the county auditor’s market value once both changes apply. His estimate assumed a state tax rollback on the existing portion of the EMS levy; it is not an individual tax quote.\n\nThe city plans to draw down fire reserves as that levy falls. Fire money would not be transferred to EMS. The tax labels may look like a simple swap, but the funding arrangements are separate.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Special City Council Agenda Packet - Approved Minutes",
@@ -11033,6 +13186,353 @@
         },
         "versionHash": "4674261e961148f3ac2d11cf10c25d61cef773faa84d6a84280c8501d06cf8f5",
         "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-fire-ems-levies-2026-11-03",
+        "title": "Two levy changes, one November decision",
+        "category": "Elections",
+        "dek": "Wadsworth proposes cutting its fire levy by one mill and adding one mill to the EMS levy. Voters decide November 3.",
+        "body": "The proposals would reduce the 1.5-mill fire levy and renew the three-mill EMS levy with an additional mill.\n\nSafety Director Dan Chafin estimated a combined net increase of about $12 a year per $100,000 of the county auditor’s market value once both changes apply. His estimate assumed a state tax rollback on the existing portion of the EMS levy; it is not an individual tax quote.\n\nThe city plans to draw down fire reserves as that levy falls. Fire money would not be transferred to EMS. The tax labels may look like a simple swap, but the funding arrangements are separate.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Special City Council Agenda Packet - Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-837",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-08-12"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-08-12",
+          "decisionDate": "2026-11-03",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "casual_neighbor",
+            "business_owner",
+            "prospective_mover"
+          ],
+          "residentValue": "Explains the paired property-tax changes, annual cost estimate and rollback assumption, staggered timing and forecast staffing before a consequential vote.",
+          "change": "The August ballot-filing report advances the earlier levy discussions; the upcoming vote makes the cost and service background timely.",
+          "whyNow": "The November 3 election is within 30 days of the October 5 cutoff.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The fire and EMS levy proposals concern the November 3, 2026 election.",
+            "sourceId": "6a730afba778d67b64fe",
+            "page": 1,
+            "quote": "PROCEEDING TO PLACE THE\nBALLOT ISSUE ON THE BALLOT FOR THE NOVEMBER 3, 2026 ELECTION AND\nDECLARING AN EMERGENCY",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "0b648ae652799ec2c0edfd6794d4153eab41e459b105770c6422561e491667a8",
+            "sourceTextHash": "a9c5d242924257276f930289e23ec9b6f11ff40244d6f65c1b1fd2c5712059c5",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "The EMS levy proposal also identifies the November 3, 2026 election.",
+            "sourceId": "6a730afba778d67b64fe",
+            "page": 1,
+            "quote": "PROCEEDING TO PLACE THE BALLOT ISSUE ON THE BALLOT FOR THE\nNOVEMBER 3, 2026 ELECTION AND DECLARING AN EMERGENCY",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-837",
+            "owner": "City of Wadsworth",
+            "sourceHash": "0b648ae652799ec2c0edfd6794d4153eab41e459b105770c6422561e491667a8",
+            "sourceTextHash": "a9c5d242924257276f930289e23ec9b6f11ff40244d6f65c1b1fd2c5712059c5",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "The fire levy was 1.5 mills, with a proposed one-mill reduction beginning in 2027; increased EMS receipts would begin in 2028.",
+            "sourceId": "231821dc75658d0cd813",
+            "page": 3,
+            "quote": "Safety Director Chafin explained that the FIRE levy was set to expire at the end of 2026 and\nwas currently a 1.5-mill levy. The City proposed reducing it by one mill beginning in 2027.\nThe EMS levy currently in effect had one additional year to run, so the proposed renewal would\nnot increase receipts in 2027. Beginning in 2028, the renewed EMS levy would generate\nincreased receipts.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
+            "owner": "City of Wadsworth",
+            "sourceHash": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
+            "sourceTextHash": "109274ad778545e3ece4725e8094f51f06d1d19a9184f64e66a436c77cc161b9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The EMS proposal was a three-mill renewal with a one-mill increase.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 12,
+            "quote": "On the EMS side, the levy was a 3 mil renewal with a 1 mil increase",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The July taxpayer comparison used the county auditor’s market-value basis and annual revenue projections.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 12,
+            "quote": "Option B - Fire\nThis was the 1.0 mil decrease that turned the annual revenue into $315,700; for taxpayers that would\nbe $11 for each $100,000 Auditor’s Market Value.\n\nCurrent baseline reference was $34.30 for $100,000 Auditor’s market value.\n\nThese were the actual revenue projection estimates from the County Auditor’s office.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Chafin’s July estimate assumed an anticipated state rollback on the existing EMS levy portion; he explained that this state funding offsets residents’ taxes.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 13,
+            "quote": "Because the EMS\nlevy was in existence for a while, the original portion of the EMS levy was actually eligible for what\nwas called a State Rollback. That meant the State provided funding to help offset the taxes to\nresidents. With the State Rollback, it allowed a drop from $92 to $87.53 per $100,000 and, in reality,\nwas much closer to the number presented last time. However, the County Auditor’s office was not\nallowed to show the number during the process. The official number was the $92; but, in reality,\nwhen the rollback went into effect, the actual out-of-pocket amount would be $87.53 per $100,000\nvaluation.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The July explanation places the approximate $12 net increase per $100,000 of valuation in an annual cost comparison, with the EMS change starting in 2028.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 13,
+            "quote": "For the Fire Levy reductions, the reduction went from $34 down to $11. This was a difference of $23\nper $100,000 valuation. The net difference between the two was $12 per $100,000 valuation. As a\nreminder, the EMS levy did not start until 2028. That meant in 2027, the taxpayers saw a temporary\n$23 difference (reduction) per $100,000. To speak of $12 difference per $100,000 that meant the\noffsetting difference was $36 per year, approximately $3 per month.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Chafin described approximately $4.8 million in projected fire reserves and a planned spend-down alongside the paired levy changes.",
+            "sourceId": "231821dc75658d0cd813",
+            "page": 3,
+            "quote": "Dir. Chafin explained that the projected FIRE levy cash balance was approximately $4.8\nmillion. The City planned to strategically spend down those reserves while reducing the FIRE\nlevy by one mill. The reduction was intended to offset the proposed one-mill increase on the\nEMS side.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
+            "owner": "City of Wadsworth",
+            "sourceHash": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
+            "sourceTextHash": "109274ad778545e3ece4725e8094f51f06d1d19a9184f64e66a436c77cc161b9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Chafin said no fire-to-EMS transfer was proposed and described the approximately $12 net impact per $100,000 of property valuation as an estimate, rather than an individual bill.",
+            "sourceId": "231821dc75658d0cd813",
+            "page": 4,
+            "quote": "He emphasized that the City would not be transferring funds from the FIRE account to the\nEMS account. Rather, the two levy changes were being considered together so that increased\nEMS revenue and reduced FIRE revenue would be balanced against the FIRE levy cash\nreserves. The strategic spend-down of FIRE reserves was intended to help offset the taxpayer\nimpact of the EMS increase. He estimated the net impact at approximately $12 per $100,000\nof property valuation.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
+            "owner": "City of Wadsworth",
+            "sourceHash": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
+            "sourceTextHash": "109274ad778545e3ece4725e8094f51f06d1d19a9184f64e66a436c77cc161b9",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The July forecast assumed one additional firefighter/paramedic in each of 2028, 2029 and 2030, with EMS collections beginning in 2028 if approved.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 10,
+            "quote": "These assumptions were built to add a Firefighter/Paramedic in 2028, one in 2029 and one in 2030.\nWith that timeline in mind, even though theoretically the talk was to move forward with the EMS\nlevy this fall, that did not expire until the end of next year. Even if it was successfully voted in, the\nfunds would not be collected until 2028.",
+            "claimId": "c10",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The General Fund would also share the additional staffing costs.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 13,
+            "quote": "the cost for the new members was split. As the\ndiscussions and talks about addition of staff in 2028, 2029 and 2030 happened, the levy funds would\nbe available, but to remember there was also a General Fund component that would see an increase.",
+            "claimId": "c11",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Chafin reported that ballot documents had been submitted and the ballot technicalities accepted by the Board of Elections; this establishes completed filings, not voter approval.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 23,
+            "quote": "Dir. Chafin said as to the levies themselves, after the Council meeting during which the resolutions\nwere passed, all the documents were successfully turned in to the Board of Elections. The official\nnotice was given and received. So, all the work done so far now meant the real work could begin to\nconduct a support campaign. There would probably be some meetings in the near future to outline\nwhat that campaign looked like. But the Committee needed to know that all the technicalities in terms\nof the ballot were completed and accepted by the Board of Elections.",
+            "claimId": "c12",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The ballot-filing report occurred at the August 12, 2026 Public Safety Committee meeting.",
+            "sourceId": "728c65e7205ae7c965ec",
+            "page": 1,
+            "quote": "Council Member Yurchiak welcomed everyone to the August 12, 2026 Public Safety Committee\nmeeting.",
+            "claimId": "c13",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+            "owner": "City of Wadsworth",
+            "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+            "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Dan Chafin is identified as safety director.",
+            "sourceId": "8bbaf1d1fa28cd02a58d",
+            "page": 1,
+            "quote": "Safety Director Dan Chafin",
+            "claimId": "c14",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+            "owner": "City of Wadsworth",
+            "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
+            "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-fire-ems-levies-2026-11-03",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "bf7616fa8e83df2656bfd108dd5e416b80c6a15541a89d68f2ffd385c9b20ea7",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1",
+                "c2"
+              ],
+              "sourceIds": [
+                "6a730afba778d67b64fe",
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "231821dc75658d0cd813"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d",
+                "231821dc75658d0cd813"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "231821dc75658d0cd813"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c9"
+              ],
+              "sourceIds": [
+                "231821dc75658d0cd813"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c10"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c11"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c12"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c13"
+              ],
+              "sourceIds": [
+                "728c65e7205ae7c965ec"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c14"
+              ],
+              "sourceIds": [
+                "8bbaf1d1fa28cd02a58d",
+                "728c65e7205ae7c965ec",
+                "231821dc75658d0cd813"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "6a730afba778d67b64fe",
+                "728c65e7205ae7c965ec",
+                "8bbaf1d1fa28cd02a58d",
+                "231821dc75658d0cd813"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "7283d9fc46d7aca72c1f7045e0a249c32c3c8c6b522a729dc7f9c1ce5fc55923",
+        "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
   },
@@ -11618,11 +14118,11 @@
   },
   {
     "slug": "wadsworth-stormwater-fund-rate-study",
-    "title": "Stormwater rate review was planned for October 13",
+    "title": "A stormwater bill question, without a price tag yet",
     "category": "Utilities",
-    "dek": "Ongoing budget question: Staff intended to examine costs and land maps before a possible adjustment.",
-    "body": "Wadsworth’s Stormwater Commission was due to revisit costs and a possible rate adjustment October 13, following a July discussion of an internal rate study. For households and businesses paying stormwater charges, the unresolved question is whether that review will lead to a different rate.\n\nAssistant Service Director Mike Testa reported July 14 that the commission had reviewed 2026 and proposed 2027 capital projects and equipment. Engineering staff planned to check maps of impervious land—surfaces that do not absorb water—and consider both capital and operating costs.\n\nA September Council update again listed the commission’s October 13 meeting, at 4:30 p.m. in Council Chambers. No proposed rate amount or adopted change is established. The July discussion described a planned review, not a new charge.",
-    "revisionKind": "NEW",
+    "dek": "The commission’s October 13 meeting follows plans to examine costs and a possible rate adjustment.",
+    "body": "Engineering staff planned to review capital and operating costs, along with maps of impervious land: surfaces that do not absorb water.\n\nThat study could inform a stormwater-rate adjustment. No proposed amount or adopted change is established, so there is no new bill to calculate yet.\n\nThe commission’s October 13 meeting is scheduled for 4:30 p.m. in Council Chambers. The useful question is whether the review produces an actual rate proposal—not simply whether another meeting takes place.",
+    "revisionKind": "STYLE",
     "correctionNote": "",
     "source": {
       "title": "Public Service Agenda & Approved Minutes",
@@ -12004,6 +14504,201 @@
           ]
         },
         "versionHash": "e6ecfe8e4ac359f095b63447fd4ba1f4b75b1ed1d561b754134ac9a423db22f7",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-stormwater-fund-rate-study",
+        "title": "A stormwater bill question, without a price tag yet",
+        "category": "Utilities",
+        "dek": "The commission’s October 13 meeting follows plans to examine costs and a possible rate adjustment.",
+        "body": "Engineering staff planned to review capital and operating costs, along with maps of impervious land: surfaces that do not absorb water.\n\nThat study could inform a stormwater-rate adjustment. No proposed amount or adopted change is established, so there is no new bill to calculate yet.\n\nThe commission’s October 13 meeting is scheduled for 4:30 p.m. in Council Chambers. The useful question is whether the review produces an actual rate proposal—not simply whether another meeting takes place.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "Public Service Agenda & Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-854",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-07-14"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-07-14",
+          "decisionDate": "2026-10-13",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "business_owner",
+            "casual_neighbor"
+          ],
+          "residentValue": "Explains the substantive rate question behind an upcoming commission review while preventing an unsupported claim of a bill increase.",
+          "change": "Existing background identifies a possible rate adjustment planned for consideration October 13.",
+          "whyNow": "The planned consequential review is eight days after cutoff; a later Council update confirms the meeting date.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "Testa reported review of 2026 and proposed 2027 capital spending and discussion of an internal stormwater rate study.",
+            "sourceId": "4a13522457a0430ba871",
+            "page": 3,
+            "quote": "V. STORMWATER\nAsst. Dir. Testa thanked the Chairman.\n\nAt today’s Stormwater Commission meeting there was one Agenda item. The Commission\nreviewed the 2026 and proposed 2027 Capital Projects and Capital Equipment purchases for the\nStormwater Fund. That led to a discussion as to some kind of rate study that should be done. It\nwas believed this rate study could be done internally for the Stormwater Fund.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-854",
+            "owner": "City of Wadsworth",
+            "sourceHash": "a7c175ac4bfa4366dd37634c09df021eb84cc7b06975afa9a2ae33dd572f1f7b",
+            "sourceTextHash": "2f4a53d0cd0da52d0dfee33b0ed7d69dfc2a2713f61f8ebff92ed696fe3383c1",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Engineering staff planned to check impervious-land maps and consider capital and operating costs toward a possible adjustment at the October 13 meeting.",
+            "sourceId": "4a13522457a0430ba871",
+            "page": 3,
+            "quote": "The engineering department would take a look to make sure there was accurate impervious land\nmaps. Both capital costs and operating expenses with an eye toward rate adjustment proposed for\nthe budget to be presented back to the Stormwater Commission would be considered at the next\nmeeting on October 13.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-854",
+            "owner": "City of Wadsworth",
+            "sourceHash": "a7c175ac4bfa4366dd37634c09df021eb84cc7b06975afa9a2ae33dd572f1f7b",
+            "sourceTextHash": "2f4a53d0cd0da52d0dfee33b0ed7d69dfc2a2713f61f8ebff92ed696fe3383c1",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The historical report occurred July 14, 2026.",
+            "sourceId": "4a13522457a0430ba871",
+            "page": 1,
+            "quote": "Council Member Stugmyer called the July 14, 2026 meeting of the Public Service Committee to\norder at approximately 6:02 p.m.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-854",
+            "owner": "City of Wadsworth",
+            "sourceHash": "a7c175ac4bfa4366dd37634c09df021eb84cc7b06975afa9a2ae33dd572f1f7b",
+            "sourceTextHash": "2f4a53d0cd0da52d0dfee33b0ed7d69dfc2a2713f61f8ebff92ed696fe3383c1",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Mike Testa was assistant service director.",
+            "sourceId": "4a13522457a0430ba871",
+            "page": 1,
+            "quote": "Mike Testa, Assistant Service Director",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07142026-854",
+            "owner": "City of Wadsworth",
+            "sourceHash": "a7c175ac4bfa4366dd37634c09df021eb84cc7b06975afa9a2ae33dd572f1f7b",
+            "sourceTextHash": "2f4a53d0cd0da52d0dfee33b0ed7d69dfc2a2713f61f8ebff92ed696fe3383c1",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The September Council update listed an October 13 Stormwater Commission meeting at 4:30 p.m. in Council Chambers.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 3,
+            "quote": "Stormwater Commission – Council Member May reported their next meet Tuesday, October 13 at\n4:30 PM in Council Chambers.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee",
+            "sourceTextHash": "58523c61184e54d2294bc139a37330ed02c014ba9a9a1a057a7f732a5f517bb2",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The later meeting-date confirmation occurred September 1, 2026.",
+            "sourceId": "db1f72f289efa72a0912",
+            "page": 1,
+            "quote": "The meeting of Wadsworth City Council, Tuesday September 1, 2026 at 6:30 p.m., was held in-person\nin City Council Chambers.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_09012026-855",
+            "owner": "City of Wadsworth",
+            "sourceHash": "3ca1bbeebd69410b9d2c8d91ab7eed482a0a0e3d6c833cd763caedb2a3996bee",
+            "sourceTextHash": "58523c61184e54d2294bc139a37330ed02c014ba9a9a1a057a7f732a5f517bb2",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-stormwater-fund-rate-study",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "98eccd65e509ae4626049897810f93cef1957364d08c88d8a99a5a6107ad740c",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "4a13522457a0430ba871"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "4a13522457a0430ba871"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "4a13522457a0430ba871"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "4a13522457a0430ba871"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "4a13522457a0430ba871"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "4a13522457a0430ba871",
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "4a13522457a0430ba871",
+                "db1f72f289efa72a0912"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "4b99a8bac794d2725af69071d12c723f4bec38a6684ea0694957ff246afc9dcb",
         "savedAt": "2026-10-06T00:24:08.592Z"
       }
     ]
@@ -12455,6 +15150,455 @@
           ]
         },
         "versionHash": "efd541c4e6ab49c89d0ebfe2a1eb786c20ab4dc3930c44241ba463d4cc54266d",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-downtown-infrastructure-delivery",
+        "title": "Downtown construction proposal pairs traditional bidding with outside management",
+        "category": "Infrastructure",
+        "dek": "Wadsworth staff recommended traditional construction bidding and a separate firm to help manage the downtown infrastructure project on August 11, 2026. Public Service Director Matt Hiscock said the approach could bring costs closer to the budget while providing management capacity the city lacked.",
+        "body": "Wadsworth staff recommended traditional construction bidding and a separate firm to help manage the downtown infrastructure project on August 11, 2026. Public Service Director Matt Hiscock said the approach could bring costs closer to the budget while providing management capacity the city lacked.\n\nThe proposed “owner’s representative” would work for the city, manage contractor relationships and help oversee construction. Hiscock explained a consequential distinction: unlike a construction manager at risk, that representative would not absorb cost overruns.\n\nStaff hoped to seek construction bids in the fall and award the work during 2026. They also planned to seek authority to interview firms for the representative role. Those were proposed next steps; the August recommendation did not establish a selected firm, a construction award or achieved savings.",
+        "revisionKind": "NEW",
+        "correctionNote": "",
+        "source": {
+          "title": "Public Service Agenda Packet & Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-08-11"
+        },
+        "editorial": {
+          "destination": "PROJECT",
+          "eventDate": "2026-08-11",
+          "review": "independent-pass"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The recommendation was reported August 11, 2026.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Council Member Stugmyer called the August 11, 2026 meeting of the Public Service Committee\nto order at approximately 6:20 p.m.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Matt Hiscock was public service director.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Matt Hiscock, Public Service Dir.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Staff and administration recommended traditional bidding and an owner's representative, expecting a closer fit to the budget and management capacity unavailable within city staffing.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "Dir. Hiscock wished to discuss from staff, as well as Administration, that a more traditional design\nbid project model be pursued. It was thought this would bring things closer to the budget. In\naddition, it was thought to be better to use what was called an “Owner’s Rep” that acted as a\nconstruction manager within the process. It was thought along with savings, the same type of\nmanagement would be gotten. As everyone probably knew, the project worked by team\nmanagement. The manpower did not exist to provide that kind of construction management here\nwith either a CMR or an Owner’s Rep.",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The proposed representative would manage aspects of construction and contractor relationships without absorbing overruns as a construction manager at risk would.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "An Owner’s Rep was essentially a CMR company that did not have the AR part for this type of\nproject. They did not have the “at risk” and would not take the overage. But they would still be\nfirst line to manage the project and would be in charge of certain aspects of the project. They\nwould also manage relationships with certain contractors and would be part of the first steps of the\nprocess.",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The representative would act for the city.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "Such firms\nwere usually construction management firms who worked hand in hand with projects similar to\nthis and then stepped back to be on “this side” of the project to work with the City and would be\nthe City’s eyes and ears.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The discussion concerned the downtown infrastructure project and its relationship to the drainage work.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 9,
+            "quote": "Dir. Hiscock said it was the same design done by the same design team. That group actually said\nall the Downtown Infrastructure project could not be done unless the stormwater aspect was\naddressed.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Staff sought future legislation for fall construction bidding, a 2026 award and interviewing owner's-representative firms; these were expectations rather than completed selections or awards.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 10,
+            "quote": "Dir. Hiscock said the goal was to bring before Committee/Council the first piece of legislation that\nasked to go out to advertise bids in a more traditional design-bid-build for the project. These\nneeded to be gotten in by fall to actually be awarded this year to at least be able to hand off the\nproject to a selected contractor. At the same time and similarly, the next piece of legislation asked\nfor authorization to go out to interview Owner’s Rep firms, CM firms to get under contract.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-downtown-infrastructure-delivery",
+          "verdict": "PASS",
+          "destination": "PROJECT",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "4cbf564a047eb80487b67e2ec6422ade9f64aefd8e7f2220e529e263a205ffda",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c6"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3",
+                "c7"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "projectSlug": "wadsworth-downtown-infrastructure-delivery",
+        "versionHash": "de5c978ffaeb6b73989d271038d6f153f7d3a2ca9699021210cb327d233d3ef8",
+        "savedAt": "2026-10-06T00:24:08.592Z"
+      },
+      {
+        "slug": "wadsworth-downtown-infrastructure-delivery",
+        "title": "Who watches the downtown construction bill?",
+        "category": "Infrastructure",
+        "dek": "Council is considering a $1.13 million base ceiling for management and inspection—not the construction itself.",
+        "body": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+        "revisionKind": "STYLE",
+        "correctionNote": "",
+        "source": {
+          "title": "City Council Revised Agenda Packet",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+          "owner": "City of Wadsworth",
+          "checked": "2026-10-05",
+          "published": "2026-09-15"
+        },
+        "editorial": {
+          "destination": "EXPLAINER",
+          "eventDate": "2026-09-15",
+          "decisionDate": "2026-10-06",
+          "availabilityDate": "",
+          "readerPerspectives": [
+            "business_owner",
+            "casual_neighbor"
+          ],
+          "residentValue": "Explains the proposed base contract ceiling, additional change-order allowance and management arrangement before Council consideration.",
+          "change": "The earlier management recommendation now has proposed financial terms and scheduled Council consideration.",
+          "whyNow": "The October 6 second reading provides a current reason to explain the proposed spending limits and earlier management recommendation.",
+          "review": "independent-pass",
+          "publicationMode": "catch-up",
+          "publicationCutoff": "2026-10-05"
+        },
+        "evidenceRefs": [
+          {
+            "assertion": "The proposed authorization permits agreements with one or more consulting firms for Downtown Infrastructure Project construction management and field inspection, with a $1.13 million base contract ceiling. It concerns oversight services rather than construction work itself.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 15,
+            "quote": "Section 1, That the Director of Public Service is hereby authorized and directed to negotiate and\nenter into one or more agreements with one or more consulting firms to provide construction\nmanagement and field inspection services for the Downtown Infrastructure Project. The total price\nto be awarded pursuant to said contract shall not exceed $1,130,000.",
+            "claimId": "c1",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Under the proposal, total city obligations under the contract, including change orders, could not exceed the contract amount plus 10%; the $1.13 million base ceiling does not include that additional allowance.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 15,
+            "quote": "If it becomes necessary after the\ncontract is entered into, to authorize change orders, such change orders may be authorized so long as\nthe total financial obligation of the city pursuant to the contract including change orders does not\nexceed the contract amount plus ten percent of the contract amount.",
+            "claimId": "c2",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Ordinance 26-108 remains proposed and is scheduled for second reading.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 1,
+            "quote": "ORDINANCE NO. 26-108 (2nd RDG) AN ORDINANCE AUTHORIZING AND DIRECTING\nTHE DIRECTOR OF PUBLIC SERVICE TO ENTER INTO AN AGREEMENT PURSUANT\nTO ORC 735.05 IN ACCORDANCE WITH THE REQUIREMENTS OF ORC 9.17 FOR\nCONSTRUCTION MANAGEMENT SERVICES AND FIELD INSPECTION SERVICES FOR\nTHE DOWNTOWN INFRASTRUCTURE PROJECT AND DECLARING AN EMERGENCY",
+            "claimId": "c3",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Council’s meeting is scheduled for October 6, 2026, at 6:30 p.m. in City Council Chambers.",
+            "sourceId": "c1755bfeb53439fa08a5",
+            "page": 1,
+            "quote": "Tuesday October 6, 2026 at 6:30 p.m.\n                                City Council Chambers",
+            "claimId": "c4",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-864",
+            "owner": "City of Wadsworth",
+            "sourceHash": "30e3bb0ea34930b1f78dcfa8fa1cd7e199ffc1023655316b9a0d37bfdb9f689d",
+            "sourceTextHash": "37fcbd790742ff8a3b572d1225e294b4f4bf9182cf10e78f800a5acd056af34a",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The September 15, 2026 committee packet supplies the dated background for the proposed financial terms.",
+            "sourceId": "2ae1a87ee242e5235d64",
+            "page": 1,
+            "quote": "Tuesday September 15, 2026 at 6:00 p.m.",
+            "claimId": "c5",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-860",
+            "owner": "City of Wadsworth",
+            "sourceHash": "27d9c15e224e2924fe03d59d97f19f0ea12146e73bea97134669e5f850cbd7bd",
+            "sourceTextHash": "5bacf60d5e3d6fd20cefb2f8818cb38441301f0636e16588227dee14e6b13dd3",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "The September draft already contained the $1.13 million base contract ceiling and the limit on total obligations including change orders.",
+            "sourceId": "2ae1a87ee242e5235d64",
+            "page": 18,
+            "quote": "The total price\nto be awarded pursuant to said contract shall not exceed $1,130,000. If it becomes necessary after the\ncontract is entered into, to authorize change orders, such change orders may be authorized so long as\nthe total financial obligation of the city pursuant to the contract including change orders does not\nexceed the contract amount plus ten percent of the contract amount.",
+            "claimId": "c6",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_09152026-860",
+            "owner": "City of Wadsworth",
+            "sourceHash": "27d9c15e224e2924fe03d59d97f19f0ea12146e73bea97134669e5f850cbd7bd",
+            "sourceTextHash": "5bacf60d5e3d6fd20cefb2f8818cb38441301f0636e16588227dee14e6b13dd3",
+            "transcription": "ocr"
+          },
+          {
+            "assertion": "Hiscock described staff’s recommendation for traditional construction bidding with an owner’s representative, anticipated budget benefits and a shortage of city construction-management capacity. Savings were an expectation.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "Dir. Hiscock wished to discuss from staff, as well as Administration, that a more traditional design\nbid project model be pursued. It was thought this would bring things closer to the budget. In\naddition, it was thought to be better to use what was called an “Owner’s Rep” that acted as a\nconstruction manager within the process. It was thought along with savings, the same type of\nmanagement would be gotten. As everyone probably knew, the project worked by team\nmanagement. The manpower did not exist to provide that kind of construction management here\nwith either a CMR or an Owner’s Rep.",
+            "claimId": "c7",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Hiscock said the owner’s representative would manage aspects of construction and contractor relationships without absorbing overruns as a construction manager at risk would.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 8,
+            "quote": "An Owner’s Rep was essentially a CMR company that did not have the AR part for this type of\nproject. They did not have the “at risk” and would not take the overage. But they would still be\nfirst line to manage the project and would be in charge of certain aspects of the project. They\nwould also manage relationships with certain contractors and would be part of the first steps of the\nprocess.",
+            "claimId": "c8",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "Matt Hiscock was public service director.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Matt Hiscock, Public Service Dir.",
+            "claimId": "c9",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          },
+          {
+            "assertion": "The earlier management recommendation was discussed at the August 11, 2026 Public Service Committee meeting.",
+            "sourceId": "37b1d824026c8b67cdbe",
+            "page": 1,
+            "quote": "Council Member Stugmyer called the August 11, 2026 meeting of the Public Service Committee\nto order at approximately 6:20 p.m.",
+            "claimId": "c10",
+            "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-847",
+            "owner": "City of Wadsworth",
+            "sourceHash": "ef22381e8f7a00ab0918ebe5cd1b6fba295be522c4601b5243fa072f40d8aebb",
+            "sourceTextHash": "418724cb2eec0e63667eace8bfbdc23fb1bdd4ac31b1d40fa220334e0bf59304",
+            "transcription": "page-text"
+          }
+        ],
+        "review": {
+          "candidateId": "wadsworth-downtown-infrastructure-delivery",
+          "verdict": "PASS",
+          "destination": "EXPLAINER",
+          "promptVersion": "resident-reviewer-v5",
+          "reviewedAt": "2026-10-06T00:24:08.592Z",
+          "candidateHash": "a7525195ce6c48b0d07f27fe3ddf98213e70475b37b9638c1ac1f4e46e16e3b1",
+          "claimChecks": [
+            {
+              "claimIds": [
+                "c1"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c2"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c3"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c4"
+              ],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c5",
+                "c6"
+              ],
+              "sourceIds": [
+                "2ae1a87ee242e5235d64"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c7"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c8"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [
+                "c9",
+                "c10"
+              ],
+              "sourceIds": [
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            },
+            {
+              "claimIds": [],
+              "sourceIds": [
+                "c1755bfeb53439fa08a5",
+                "2ae1a87ee242e5235d64",
+                "37b1d824026c8b67cdbe"
+              ],
+              "support": "SUPPORTED"
+            }
+          ]
+        },
+        "versionHash": "30ac8c39c9dd5cdc80bf8641883c1b8299d321f6345da708c5d5b03775bfa395",
         "savedAt": "2026-10-06T00:24:08.592Z"
       },
       {
