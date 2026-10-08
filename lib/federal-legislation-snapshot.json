@@ -1936,8 +1936,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-08T12:15:11.491859+00:00",
-      "lastAttempt": "2026-10-08T12:15:11.491859+00:00",
+      "collectedAt": "2026-10-08T12:23:55.012557+00:00",
+      "lastAttempt": "2026-10-08T12:23:55.012557+00:00",
       "status": "ok"
     },
     {
@@ -1946,7 +1946,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "5eef0254240bd4135a7914daac09a5aad40be6c2039dcfc09a20de7b5b0eed07",
+      "archiveHash": "4a1b6774bcc112e0fb0e2309778c935db2f214fa4bc6c6b5b809b0c860778347",
       "records": [
         {
           "bill": "S. 5666",
@@ -3475,8 +3475,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-08T12:15:11.491859+00:00",
-      "lastAttempt": "2026-10-08T12:15:11.491859+00:00",
+      "collectedAt": "2026-10-08T12:23:55.012557+00:00",
+      "lastAttempt": "2026-10-08T12:23:55.012557+00:00",
       "status": "ok"
     },
     {
@@ -3485,7 +3485,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "5eef0254240bd4135a7914daac09a5aad40be6c2039dcfc09a20de7b5b0eed07",
+      "archiveHash": "4a1b6774bcc112e0fb0e2309778c935db2f214fa4bc6c6b5b809b0c860778347",
       "records": [
         {
           "bill": "S. 5638",
@@ -6598,8 +6598,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-08T12:15:11.491859+00:00",
-      "lastAttempt": "2026-10-08T12:15:11.491859+00:00",
+      "collectedAt": "2026-10-08T12:23:55.012557+00:00",
+      "lastAttempt": "2026-10-08T12:23:55.012557+00:00",
       "status": "ok"
     }
   ]
