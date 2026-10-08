@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "eeb3ec6d9c960faa4ccd3caf2e5235888f435abe9bcdbd42911e9c79f61170ab",
+      "archiveHash": "6d419d5a0ab453f459b4fd2428ba3278873c017ee1c00b76cd4b159a80850357",
       "records": [
         {
           "bill": "H.R. 9500",
@@ -1936,8 +1936,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-07T17:28:12.714500+00:00",
-      "lastAttempt": "2026-10-07T17:28:12.714500+00:00",
+      "collectedAt": "2026-10-08T03:33:18.266845+00:00",
+      "lastAttempt": "2026-10-08T03:33:18.266845+00:00",
       "status": "ok"
     },
     {
@@ -1946,7 +1946,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "6aecaf343579ed2826a1ec3b2da7a328cd7d597641d2476304e1c3161d7651d8",
+      "archiveHash": "660da00c23f8cacda5638829cbdbf0c9e687b14fbd9f686dd7aedbb8c2542288",
       "records": [
         {
           "bill": "S. 5666",
@@ -2106,7 +2106,7 @@
           "title": "End Gas Station Heroin Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5383",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5383.xml",
-          "sourceHash": "72c90a8d01fd849e879842e8e0c0f58c3a6820a35c42638906a099280c85be88",
+          "sourceHash": "ab085fb96f10aae10e7ad3ac88901dec719282eed1a04474e4df149f9b7b43ce",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -3475,8 +3475,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-07T17:28:12.714500+00:00",
-      "lastAttempt": "2026-10-07T17:28:12.714500+00:00",
+      "collectedAt": "2026-10-08T03:33:18.266845+00:00",
+      "lastAttempt": "2026-10-08T03:33:18.266845+00:00",
       "status": "ok"
     },
     {
@@ -3485,7 +3485,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "6aecaf343579ed2826a1ec3b2da7a328cd7d597641d2476304e1c3161d7651d8",
+      "archiveHash": "660da00c23f8cacda5638829cbdbf0c9e687b14fbd9f686dd7aedbb8c2542288",
       "records": [
         {
           "bill": "S. 5638",
@@ -6598,8 +6598,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-07T17:28:12.714500+00:00",
-      "lastAttempt": "2026-10-07T17:28:12.714500+00:00",
+      "collectedAt": "2026-10-08T03:33:18.266845+00:00",
+      "lastAttempt": "2026-10-08T03:33:18.266845+00:00",
       "status": "ok"
     }
   ]

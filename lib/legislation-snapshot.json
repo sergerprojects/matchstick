@@ -222,8 +222,7 @@
     }
   ],
   "sourceUrl": "https://www.ohiosenate.gov/members/mark-romanchuk/legislation",
-  "collectedAt": "2026-10-07T10:08:28.102Z",
-  "lastAttempt": "2026-10-07T17:27:41.099Z",
-  "status": "stale",
-  "error": "fetch failed"
+  "collectedAt": "2026-10-08T03:33:03.382Z",
+  "lastAttempt": "2026-10-08T03:33:03.382Z",
+  "status": "ok"
 }
