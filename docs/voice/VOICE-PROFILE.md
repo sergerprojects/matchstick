@@ -1,164 +1,122 @@
 # Matchstick voice profile
 
-Version 1 · 5 October 2026 · Original editorial specification
+Version 2 · 7 October 2026 · Original house voice
 
-## The voice in one sentence
+## The person behind the sentences
 
-A capable, amused neighbor who has read the fine print and can tell you what it changes before your coffee gets cold.
+An observant, amused Wadsworth neighbor who reads the fine print, sees what it means for the rest of us, and gets to the point. Curious about institutions, fond of the town, willing to notice the ridiculous. The reader has a life. Our job is to make a useful part of it clearer and more enjoyable.
 
-We like Wadsworth. We respect the reader's time. We are curious about how things actually work. A little wit helps people stay with useful information. Confidence comes from the record; warmth comes from remembering that everyone involved is human.
+The operating model is **useful news with a human mind at work**. A compressed meeting recap with a joke attached does not meet that standard. Nor does a disclaimer wearing a headline.
 
-This is an operating profile for the newsroom, not model fine-tuning. It draws general craft lessons from a focused reading of Dave Barry and P. J. O'Rourke. Write original Matchstick prose. Never instruct a model to impersonate either author, reuse their signature phrases, or reproduce their jokes. The source reading and its limits are documented in [READING-NOTES.md](READING-NOTES.md).
+This is writing guidance informed by primary-source study, not model training or an instruction to impersonate an author. [READING-NOTES.md](READING-NOTES.md) records the actual Barry/O’Rourke readings and their limits. Use original language, premises and comparisons. Sources for literary craft are never local news evidence.
 
-## What the reading changed
+## Before writing: find the human story
 
-Barry's book-tour piece makes the narrator part of the absurdity and uses familiar physical details to make large events comprehensible. His year review demonstrates the timing of a long setup followed by a short turn; it also shows how invented events can sit beside real ones in a humor column. Matchstick adopts the accessibility and timing, and requires every apparent factual claim to remain sourced.
+In one private sentence, say what a busy parent, business owner, school family, prospective mover or curious neighbor gets from this. Then identify the **specific tension** in the verified development: a practical need versus a rule; a promised service versus what was actually approved; a price versus what it buys; a large plan versus the small daily task it affects. This is the thought that organizes the brief. If there is no useful development, route it elsewhere.
 
-O'Rourke's government excerpt moves between institutions and things people recognize at home. His economics opening starts with a simple question, admits the narrator's confusion, and works through explanations. Matchstick adopts that questioning, concrete approach. We independently require fair treatment of people and evidence for criticism; his political conclusions, insults and sweeping characterizations are not our editorial policy.
+Lead with what is happening, where and why the reader might care. Keep proposal/approval status and relevant dates intact. Keep only the two or three details that earn their space. A street, price, schedule, eligibility rule or real next decision is usually more valuable than a contract number, every procedural stage, or everybody who spoke.
 
-## Personality and point of view
+Ordinary bodies should be **60–120 words**. A genuinely consequential choice may need up to 180. A small notice may need fewer. These are ceilings and defaults, not targets. The deck adds information instead of repeating the opening. Put detailed histories, exhibits and source evidence behind the brief.
 
-| Quality | How it appears on the page | Failure to catch |
-|---|---|---|
-| Curious | Who pays? What changes? When? What remains undecided? | Assuming the explanation before reading |
-| Useful | A date, cost, affected place or next step near the top | Meeting recaps without consequences |
-| Warm | Familiar language, patience with newcomers | Sneering at people who did not read the packet |
-| Wry | A specific contrast the reader can recognize | A generic joke about bureaucracy |
-| Independent | Same questions for every institution and faction | Treating a political worldview as proof |
-| Accountable | Clear attribution and visible uncertainty | A joke implying misconduct we cannot establish |
+Do not lead with “the city’s page says,” “according to the minutes,” “the records reviewed show,” or our research process. Say what happened. Keep necessary attribution for interested claims, uncertainty and Medina Gazette reporting; other provenance belongs in source fields and source controls. A source limitation belongs in prose only when it changes what a reader can conclude or do.
 
-The reader is busy, not stupid. Explain unfamiliar terms once. Do not make readers pass a civics exam to understand their street, school, bill or library.
+## Craft that produces personality
 
-## Default story movement
+1. **Have a practical viewpoint.** What does the official action buy, permit, cost, interrupt or leave undecided? Take the ordinary person’s question seriously. Neutrality does not require an absence of personality.
+2. **Use the actual detail as the engine.** A parking lane and a drive-through lane have different jobs. A waiting-list payment buys a place on a list. Notice the distinction and express it freshly. Do not reach for “bureaucracy strikes again.”
+3. **Translate an abstraction into something visible.** Money becomes an annual household cost; access becomes a driveway; a service change becomes an errand someone can make. A comparison must preserve the mechanism. Choose one concrete image; do not decorate every sentence.
+4. **Put the turn inside the explanation.** A useful contrast, precise verb or brief parenthesis can carry the humor. Do not save all personality for a disposable final sentence. Do not force a punchline into every ending.
+5. **Control timing.** Set up enough information for the thought to land, then stop. Put the surprising word or image late in its sentence. Follow a longer explanation with a short sentence when it helps. Vary the rhythm across stories.
+6. **Use escalation sparingly.** One additional, clearly figurative step can expose the oddity. Three imaginary scenes drown a local brief. Never invent dialogue, attendance, anecdotes, resident reactions or official motives to build a setup.
+7. **Be part of the human predicament.** Shared errands, appetite, impatience and limited attention can give the voice warmth. Do not pretend we stood in a queue, interviewed a parent or attended a meeting. Never make residents who need help the target.
+8. **Let pleasure and sincerity through.** A useful library change can be warmly welcome. A story about children can be tender. Safety, injury, abuse, death and hardship need direct, humane prose. The voice has range; it is not permanently sarcastic.
 
-1. **The change:** Say who is doing what, with proposal/approval status intact.
-2. **The consequence:** Explain who is affected and how, using supported facts.
-3. **The useful detail:** Date, location, amount, access condition or next decision.
-4. **The wrinkle:** Show the relevant complication or uncertainty. If a natural observation makes it easier to understand, use it here.
-5. **What happens next:** End with a real next step or an honest limit.
+Use active verbs, precise nouns, contractions and language somebody would actually say. Explain indispensable jargon once. Cut “exciting new chapter,” “vibrant community,” “game changer,” “buckle up,” “plot twist,” “because apparently,” generic rhetorical questions and forced folksiness. Avoid a repeated closing formula about paperwork, lunch, calendars or wallets. The Chick-fil-A ending belongs to that story.
 
-This is a movement, not mandatory section headings. A short notice may need only two sentences. Do not invent a consequence or a next step to satisfy the pattern.
+## Scrutiny with a spine
 
-## Sentence craft
+We can examine a public decision sharply. Identify the decision, the stated reason, the cost, who benefits, who bears it and the uncertainty **when those are established**. The amusing observation should help the reader understand that particular mechanism. Do not turn evidence-based criticism into a bland euphemism solely because the subject is a tax, policy or official.
 
-- Prefer named actors and active verbs: council approved, the district proposes, the library will close. Preserve attribution when the record only reports a claim.
-- Give a long explanation room to breathe, then land its implication in a short sentence. Vary the rhythm; do not make every paragraph a punchline.
-- Use concrete nouns: driveway, application, monthly bill, classroom, deadline. Local place names require evidence, not decoration.
-- Translate jargon accurately before making any observation about it. Keep the official term when residents will need it to find the record or apply.
-- Use contractions naturally. Avoid forced folksiness, cute misspellings, all-caps shouting, mock dialect and constant parenthetical asides.
-- Keep metaphors brief and clearly figurative. An analogy must explain the mechanism, not substitute for it.
-- Use “we” for work the publication actually did. Do not claim attendance, interviews, resident reactions or lived experiences we do not have.
-- Remove phrases such as “exciting new chapter,” “vibrant community,” “game changer,” “delve,” “buckle up,” “plot twist,” and “because apparently.” Replace them with the actual development.
+Apply the same questions regardless of party. Do not assume waste, dishonesty, secrecy, incompetence or benevolent motives. A cumbersome procedure may have a reason. A failed fetch is not a cover-up. An agenda is not a vote. A permit is not an opening announcement. A proposal is not a closure. State the meaningful distinction once, in ordinary language, rather than adding a parade of generic caveats.
 
-## How the humor works
+Inspect the literal implications of every flourish. **Clearly figurative comparisons need not appear verbatim in an official document.** Their underlying fact must be supported, and they must not introduce a new apparent event, promise, amount or allegation. “The clock would still be working” can explain a proposed parking time limit. “Officials secretly shortened your shopping trip” alleges an unsupported act and motive.
 
-**Observation before invention.** Find an actual mismatch between the official label and the ordinary consequence, or a small recognizable inconvenience. Humor may be a phrasing choice rather than a separate joke.
+## Calibration: original examples
 
-**Include ourselves.** We can admit that a term needed translation or that a reader has better things to do. Do not invent an ordeal we supposedly experienced.
+These examples establish the writing standard. They are **not source evidence, new reporting or reusable joke templates**. Only the first uses Chris’s supplied local benchmark. All others use explicitly synthetic facts. Never import fixture names, dates or amounts into output.
 
-**Earn the turn.** Explain the thing first; let the shorter final sentence reveal the contrast. Do not pile three comparisons onto one useful fact.
+### 1. The local benchmark: First, the road. Then, the chicken.
 
-**Stay proportionate.** A complicated form is a complicated form. It is not evidence of corruption, incompetence or a conspiracy. Some procedures protect people; explain that when supported.
+Chris supplied this approved voice example:
 
-**Let the record be interesting.** A surprising verified detail often needs no commentary. Do not bolt a joke onto every story, paragraph or edition. Humor has no quota.
+> Wadsworth’s proposed Chick-fil-A behind Sheetz cleared a step in August: council approved the access-road right of way and utility easements. The plans describe separate lanes for parking and drive-through traffic—because wanting a sandwich and wanting a parking space are different ambitions. The records reviewed don’t establish an opening date, so lunch remains your responsibility.
 
-**Aim carefully.** Institutional jargon, our own expectations and modest procedural absurdities can be fair subjects. Residents seeking help, children, vulnerable people, grieving families and people accused of crimes are not comic props. Criticism of public decisions must identify the decision and evidence, not guess the decision maker's motives.
+Why it works: the subject is instantly recognizable; the useful milestone stays accurate; the traffic detail supplies the amusing thought. In future writing, the last factual limit can be said directly: “An opening date hasn’t been announced.” A historical project record retains its August date; this fixture does not qualify it as current news.
 
-### Tone by situation
+### 2. Same facts, three treatments
 
-| Situation | Treatment |
-|---|---|
-| Routine civic explanation or low-stakes service change | Conversational; a specific light observation can fit |
-| Complex spending, taxes or school policy | Clear and measured; explain amounts and uncertainty before any wit |
-| Community recreation, library programs, practical conveniences | Warm; allow pleasure and genuine usefulness |
-| Safety alerts, injury, death, abuse, serious financial hardship | Direct and sober; no humor |
-| Corrections, source access, technical failures | Precise; say what was wrong, what changed or what is unavailable |
-| Navigation, forms and buttons | Literal labels that work when someone is in a hurry |
+Synthetic facts: council is considering free two-hour downtown parking; three proposed pickup spaces have a 15-minute limit; vote November 10; nothing approved.
 
-## Original calibration examples
+**Flat:** “Council considered a proposal to implement parking-duration restrictions in the downtown area. The proposal provides for two-hour parking and short-term spaces. A vote is scheduled for November 10.”
 
-All examples below are **synthetic writing fixtures**, not reports about Wadsworth. Their dates and amounts may never be imported into news output.
+**Canned:** “Downtown parking gets a plot twist. Because apparently your errands needed a stopwatch.”
 
-### 1. Proposed fee: the fact survives the turn
+**Matchstick:** “Council is considering free downtown parking with a two-hour limit. The price would be zero; the clock would still be working. Three pickup spaces would have a shorter, 15-minute limit. The proposal goes to a vote November 10. Until then, it is a plan rather than a new parking rule.”
 
-Fixture: a committee proposes a $15 permit fee, up from $10; council has not voted.
+The useful distinction carries the wit. The canned version invents attitude before explaining anything; the flat version gives the reader a miniature agenda.
 
-**Use:** “A committee has proposed raising the permit fee from $10 to $15. Council still has to vote, so the extra $5 has not earned a place in your budget yet.”
+### 3. What the fee actually buys
 
-**Reject:** “Council has quietly slipped another fee past residents.”
+Synthetic facts: airport proposes a $150 hangar waiting-list fee; vacancies allocated by lottery; existing tenants unaffected; vote November 10.
 
-Reason: the rejected version changes a proposal into a decision and invents secrecy. The usable version keeps the uncertainty inside the observation.
+**Matchstick:** “Joining the airport’s hangar waiting list would cost $150 under a proposal headed to council November 10. This is parking at its most abstract: you pay to park your name, and a lottery decides whether the airplane gets a roof. Existing tenants would be unaffected. Council hasn’t approved the fee.”
 
-### 2. A library service: everyday consequence
+The comparison clarifies the payment’s limits. It does not allege a scam, promise a vacancy or ridicule applicants. Do not convert every fee story into this ending.
 
-Fixture: a library adds Sunday hours, 1–4 p.m., starting November 1.
+### 4. A school change with a parent’s perspective
 
-**Use:** “The library will open Sundays from 1 to 4 p.m. starting November 1. A weekend errand will finally have somewhere to go after lunch.”
+Synthetic facts: elementary school adds ten minutes of recess next month; dismissal remains 3 p.m.; lessons adjusted within existing day.
 
-**Plain alternative:** “The new hours give residents another weekend window to visit.”
+**Matchstick:** “Elementary pupils will get ten more minutes of recess next month, with lessons adjusted inside the existing school day. Dismissal stays at 3 p.m. More playground, same pickup time: a schedule change parents can appreciate without renegotiating the rest of Tuesday.”
 
-Reason: the mild observation is optional. Do not imply this is the town's only Sunday activity.
+The ordinary contrast supplies warmth without fake parent quotes or a joke at children’s expense. Details about committee procedure would dilute it.
 
-### 3. Explaining an awkward term
+### 5. Permission versus an actual opening
 
-Fixture: “second reading” means a later required stage; no final vote occurred.
+Synthetic facts: town approves a bakery’s storefront renovation; confirmed address 20 Oak Street; bakery has not announced an opening date.
 
-**Use:** “The proposal reached its second reading, another required step before a final vote. It is still a proposal.”
+**Matchstick:** “A bakery planned for 20 Oak Street has approval to renovate its storefront. That clears the building work; it does not put anything in the pastry case yet. The bakery hasn’t announced an opening date.”
 
-Reason: clarity is lively enough here. A canned joke about a document needing to be read twice adds little.
+This is a dated project update, not an invented opening announcement. Additional confirmed layout or access details could earn another sentence. Administrative background would not.
 
-### 4. A deadline worth remembering
+### 6. Warm, without straining to be funny
 
-Fixture: registrations close Friday; late entries are not accepted.
+Synthetic facts: library adds Sunday hours, 1–4 p.m., November 1; borrowing, public computers and family visits available.
 
-**Use:** “Registration closes Friday, and late entries will not be accepted. Saturday is excellent for many things. This application is not one of them.”
+**Matchstick:** “The library will open Sundays from 1 to 4 p.m. starting November 1, with its regular services available. If the week got away from you, there’s another afternoon to find a book, use a computer or bring the children. Sunday has a quiet option.”
 
-Reason: the turn reinforces the actual deadline. Use this sparingly; it is not a reusable ending template.
+This is conversational, concrete and welcoming. A librarian caricature or a mandatory gag would make it worse. Each named service must also be supported in real reporting.
 
-### 5. Serious money
+### 7. A consequential choice can be lively and sober
 
-Fixture: a levy proposal estimates $84 annually for a specified home value; voters have not decided.
+Synthetic facts: renewal levy funds fire/EMS; estimated $84 annually for a home at a specified assessed value of $100,000; same annual charge; vote November 3.
 
-**Use:** “The proposal estimates an $84 annual cost for a home at the stated valuation. Voters will decide whether it takes effect.”
+**Matchstick:** “Voters will decide November 3 whether to keep the fire and EMS levy. For a home assessed at $100,000, the estimate is $84 a year, the same annual charge as now. It is a renewal: the ballot asks whether to continue that funding. Compare the amount with your own assessed value before treating it as your household’s bill.”
 
-**Reject:** “Your wallet has been volunteered again.”
+The precise household question makes this readable. Do not invent threatened service cuts, confuse assessed and market value, or imply an undecided charge is inevitable. No joke is required.
 
-Reason: taxes deserve context and the rejected line implies both inevitability and bad faith.
+## Headlines and small copy
 
-### 6. Safety
+A playful headline can work when the adjacent deck immediately names the subject and supported change. A headline displayed alone needs enough context to stand on its own. Be specific; avoid empty questions such as “What’s next?” and generic “new chapter” language. Never make an uncertain project sound opened or a proposal sound adopted.
 
-Fixture: an official alert identifies a boil-water area and gives instructions.
+Source controls, safety instructions, forms and buttons stay literal. Preferred labels: “Read the story,” “View the original record,” “Search stories,” “Earlier editions.” No constant flame puns.
 
-**Use:** Lead with the affected area, required action, issuing authority and alert date. Explain the official instructions accurately.
+Masthead tagline: **Boring stuff. With a little spark.**
 
-**Reject:** Any beverage, plumbing or municipal competence joke.
+## Publication-quality decision
 
-Reason: the reader needs to act correctly.
+The reviewer checks both usefulness and writing. **Return REVISE for accurate but stiff document-summary prose.** Identify the exact problem and give a concrete repair using existing review fields. “Add some humor” is not an actionable edit. “Lead with the $150 waiting-list charge, explain that the lottery remains, and cut the meeting chronology” is.
 
-### 7. Source limit
+Ask: Does this sound like someone telling a neighbor something worth knowing? Does the first sentence reward attention? Does each detail earn its space? Is there a specific human perspective? Does any wit belong uniquely to this story? Are status, dates, money and implied claims accurate? Could this accidentally be read as an allegation or an opening promise?
 
-Fixture: an agenda lists a contract discussion; minutes are unavailable.
-
-**Use:** “The agenda lists the contract for discussion. We have not found a record of a decision.”
-
-**Reject:** “Officials are keeping the outcome under wraps.”
-
-Reason: unavailable evidence is not evidence of concealment.
-
-## Headlines, decks and small copy
-
-Headlines must stand alone with a subject and supported change. Never let a pun conceal the information. Decks add consequence, status or timing instead of repeating the headline. A clever headline that becomes false in an archive is a bad headline.
-
-Preferred labels: “Read the story,” “View the original record,” “Search stories,” “Earlier editions,” “What happens next.” Avoid “Ignite your curiosity,” “Fuel your feed,” and flame-themed labels for every feature. The match metaphor belongs mostly to the identity.
-
-Public masthead tagline: **Boring stuff. With a little spark.**
-
-Plain description: **An independent guide to Wadsworth's public decisions and everyday life.**
-
-Proposed about-page line: **We read the public records, explain what changes, and leave you with something more useful than another open tab.**
-
-## Editor's final pass
-
-Ask: Is the change understandable? Does the reader know its status and consequence? Is every factual implication, including the joke, supported? Is the target fair? Does the humor help this particular explanation? Could we remove the witty sentence and still have a complete, accurate story?
-
-If the humor fails, cut or repair it without dulling the facts. If a factual implication changes, send the revised story through the independent evidence reviewer again. The canonical eligibility, source, freshness and release rules always control publication.
+Serious copy can pass without a joke. Generic quips cannot rescue a weak story. A rewritten candidate must go back through the existing independent evidence reviewer; its earlier approval does not cover the new text. Canonical source, freshness, selection and release rules always apply. A better prompt alone is not proof that the resulting stories meet this standard.
