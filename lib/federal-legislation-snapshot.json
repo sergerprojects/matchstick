@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "6d419d5a0ab453f459b4fd2428ba3278873c017ee1c00b76cd4b159a80850357",
+      "archiveHash": "6db1838ab6468586f9be041d965f941133232ca237404fdf3381bd7f94077b2c",
       "records": [
         {
           "bill": "H.R. 9500",
@@ -1936,8 +1936,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-08T03:33:18.266845+00:00",
-      "lastAttempt": "2026-10-08T03:33:18.266845+00:00",
+      "collectedAt": "2026-10-08T12:15:11.491859+00:00",
+      "lastAttempt": "2026-10-08T12:15:11.491859+00:00",
       "status": "ok"
     },
     {
@@ -1946,15 +1946,15 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "660da00c23f8cacda5638829cbdbf0c9e687b14fbd9f686dd7aedbb8c2542288",
+      "archiveHash": "5eef0254240bd4135a7914daac09a5aad40be6c2039dcfc09a20de7b5b0eed07",
       "records": [
         {
           "bill": "S. 5666",
           "number": 5666,
-          "title": "A bill to require the assessment and collection of duties improperly waived under the solar tariff moratorium, and for other purposes.",
+          "title": "NO CHEATS Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5666",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5666.xml",
-          "sourceHash": "1323c426b5cfc84ff11c221d044ad63e106150624b47a5f725790c9de2d7f34b",
+          "sourceHash": "517ba27fd8c979a61ebd004b35ea29f361eca1f4648ba066dd1f0859786ccb7a",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -1963,7 +1963,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-09-30",
-          "updated": "2026-10-01T10:56:43Z",
+          "updated": "2026-10-08T03:08:22Z",
           "latestAction": {
             "date": "2026-09-30",
             "text": "Read twice and referred to the Committee on Finance."
@@ -3475,8 +3475,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-08T03:33:18.266845+00:00",
-      "lastAttempt": "2026-10-08T03:33:18.266845+00:00",
+      "collectedAt": "2026-10-08T12:15:11.491859+00:00",
+      "lastAttempt": "2026-10-08T12:15:11.491859+00:00",
       "status": "ok"
     },
     {
@@ -3485,15 +3485,15 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "660da00c23f8cacda5638829cbdbf0c9e687b14fbd9f686dd7aedbb8c2542288",
+      "archiveHash": "5eef0254240bd4135a7914daac09a5aad40be6c2039dcfc09a20de7b5b0eed07",
       "records": [
         {
           "bill": "S. 5638",
           "number": 5638,
-          "title": "A bill to amend the Immigration and Nationality Act to modernize the wage required for exempt H-1B workers, and for other purposes.",
+          "title": "Protecting American Workers Through H\u20131B Modernization Act.",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5638",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5638.xml",
-          "sourceHash": "0b33768c0d7c555fc1811aac6ee456c3b4dacb772f44ded7c26a4d898a28a5f9",
+          "sourceHash": "90569e86041d7963ed831308f1bbcd68df731f629b6f66e8331d614adc389333",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -3502,7 +3502,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-09-30",
-          "updated": "2026-10-01T10:56:50Z",
+          "updated": "2026-10-08T02:58:40Z",
           "latestAction": {
             "date": "2026-09-30",
             "text": "Read twice and referred to the Committee on the Judiciary."
@@ -6598,8 +6598,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-08T03:33:18.266845+00:00",
-      "lastAttempt": "2026-10-08T03:33:18.266845+00:00",
+      "collectedAt": "2026-10-08T12:15:11.491859+00:00",
+      "lastAttempt": "2026-10-08T12:15:11.491859+00:00",
       "status": "ok"
     }
   ]

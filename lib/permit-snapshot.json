@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-09",
-  "periodEnd": "2026-10-07",
+  "periodStart": "2026-07-10",
+  "periodEnd": "2026-10-08",
   "records": [
     {
       "id": "C-00401-26",
@@ -322,22 +322,10 @@
       "work": [
         "Building"
       ]
-    },
-    {
-      "id": "C-00230-26",
-      "parcel": "",
-      "issued": "2026-07-09",
-      "address": "161 DEEPWOOD DR",
-      "type": "COMMERCIAL HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F09%2F26&eDate=10%2F07%2F26",
-  "collectedAt": "2026-10-08T03:33:03.382Z",
-  "lastAttempt": "2026-10-08T03:33:03.382Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F10%2F26&eDate=10%2F08%2F26",
+  "collectedAt": "2026-10-08T12:14:56.168Z",
+  "lastAttempt": "2026-10-08T12:14:56.168Z",
   "status": "ok"
 }
