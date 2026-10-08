@@ -7,9 +7,9 @@
     {
       "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
       "category": "Schools",
-      "title": "A school tax with a different tax base",
-      "dek": "On November 3, district voters decide a five-year, 1% earned income tax. Retirement income would be excluded.",
-      "body": "The proposed tax would apply to qualifying wages, salaries, tips and self-employment income. Retirement income, interest, dividends, capital gains and unemployment benefits would be excluded.\n\nThe district has already cut or left unfilled 25 teaching positions, one administrator and numerous support positions for 2026–27. It also canceled three planned bus purchases—not three bus routes.\n\nEven with those reductions, its August General Fund forecast projects cash reserves running out in fiscal 2029 without further changes. That is a forecast of trouble ahead, not a statement that the checking account is empty today.",
+      "title": "Paycheck, meet the school ballot.",
+      "dek": "November 3: a five-year, 1% tax on qualifying earned income. A paycheck and a retirement check would get different treatment.",
+      "body": "Wadsworth school district voters will decide whether to tax qualifying wages, salaries, tips and self-employment income at 1%. Retirement income, interest, dividends, capital gains and unemployment benefits would be excluded. The kind of check arriving matters.\n\nThe district has already eliminated or left unfilled 25 teaching positions, one administrator and numerous support positions for 2026–27. It also canceled three planned bus purchases.\n\nEven after those cuts, its August General Fund forecast projects reserves running out in fiscal 2029 without further changes. Voters face a real funding question; the forecast describes the road ahead, not an empty bank account today.",
       "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
@@ -409,9 +409,10 @@
         "newBeyondPriorCoverage": "Adds canceled bus purchases, healthcare premium pressure, the forecast's General Fund scope and the September 14 report about a conditional fiscal precaution plan requirement."
       },
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
-        "scope": "existing facts, concise original observational voice",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
         "priorFactualReviewCandidateHash": "3c3b66a9c1e88d4bbca303fe2daee3a8b534d2b40439388a2c02b942caede3e2",
         "freshIndependentReview": false
       }
@@ -419,9 +420,9 @@
     {
       "slug": "823-college-street-wadsworth-rezoning",
       "category": "Development",
-      "title": "An assisted-living proposal on College Street",
-      "dek": "The plan: three stories, 120 units and 6.5 acres at 823 College St. The zoning still needs Council approval.",
-      "body": "The proposed assisted-living facility cleared a step September 28: Planning Commission recommended changing the property to R-2 residential zoning, The Gazette’s Brooke Adams reported.\n\nCouncil is scheduled to discuss the draft October 6. That is a zoning decision, not a green light for the building.\n\nOne detail matters beyond this proposal: the new zoning would stay even if the facility never gets built. A tentative November 17 public hearing has been reported, but the date is not final.",
+      "title": "120 assisted-living units on College Street?",
+      "dek": "A three-story facility is proposed for 823 College St. The zoning decision could outlast the building plans.",
+      "body": "Vermillion Development wants a three-story, 120-unit assisted-living facility on 6.5 acres at 823 College Street. Planning Commission recommended residential rezoning September 28, The Gazette’s Brooke Adams reported. Rezoning requires Council approval.\n\nHere’s the lasting part: zoning doesn’t pack up and leave when a developer does. The change would apply even if this facility never gets built. The recommendation itself approves neither the rezoning nor the building.\n\nA November 17 public hearing has been reported as tentative. Keep that date in pencil.",
       "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
@@ -635,9 +636,10 @@
         "newBeyondPriorCoverage": "No supplied prior item covers this rezoning recommendation."
       },
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
-        "scope": "existing facts, concise original observational voice",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
         "priorFactualReviewCandidateHash": "fd3db4aece2fa917c1a5898fcf8b052f8dd95bf8ffcfab0f2f009a7b03c9b6b6",
         "freshIndependentReview": false
       }
@@ -3759,9 +3761,9 @@
     {
       "slug": "wadsworth-fire-ems-levies-2026-11-03",
       "category": "Elections",
-      "title": "Two levy changes, one November decision",
-      "dek": "Wadsworth proposes cutting its fire levy by one mill and adding one mill to the EMS levy. Voters decide November 3.",
-      "body": "The proposals would reduce the 1.5-mill fire levy and renew the three-mill EMS levy with an additional mill.\n\nSafety Director Dan Chafin estimated a combined net increase of about $12 a year per $100,000 of the county auditor’s market value once both changes apply. His estimate assumed a state tax rollback on the existing portion of the EMS levy; it is not an individual tax quote.\n\nThe city plans to draw down fire reserves as that levy falls. Fire money would not be transferred to EMS. The tax labels may look like a simple swap, but the funding arrangements are separate.",
+      "title": "One mill down. One mill up. What’s the bill?",
+      "dek": "The November 3 fire and EMS proposals look like a swap. The city estimates a small net increase once both take effect.",
+      "body": "Wadsworth proposes taking one mill off its 1.5-mill fire levy and adding one mill to its three-mill EMS renewal. One down, one up sounds like a wash. Tax bills have their own arithmetic.\n\nSafety Director Dan Chafin estimated about $12 more per year for each $100,000 of the county auditor’s market value once both changes apply. That estimate assumes a state tax rollback on the existing EMS portion.\n\nThe city would draw down fire reserves; it would not move fire money into EMS. Voters decide November 3. The $12 figure is an estimate, not a quote for your house.",
       "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
@@ -4112,9 +4114,10 @@
         "newBeyondPriorCoverage": "Prior election coverage concerns the school earned income tax, not the separate city property-tax proposals."
       },
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
-        "scope": "existing facts, concise original observational voice",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
         "priorFactualReviewCandidateHash": "bf7616fa8e83df2656bfd108dd5e416b80c6a15541a89d68f2ffd385c9b20ea7",
         "freshIndependentReview": false
       }
@@ -4420,9 +4423,9 @@
     {
       "slug": "wadsworth-stormwater-fund-rate-study",
       "category": "Utilities",
-      "title": "A stormwater bill question, without a price tag yet",
-      "dek": "The commission’s October 13 meeting follows plans to examine costs and a possible rate adjustment.",
-      "body": "Engineering staff planned to review capital and operating costs, along with maps of impervious land: surfaces that do not absorb water.\n\nThat study could inform a stormwater-rate adjustment. No proposed amount or adopted change is established, so there is no new bill to calculate yet.\n\nThe commission’s October 13 meeting is scheduled for 4:30 p.m. in Council Chambers. The useful question is whether the review produces an actual rate proposal—not simply whether another meeting takes place.",
+      "title": "Rain is free. Moving it costs money.",
+      "dek": "A stormwater-rate question is headed toward the October 13 commission meeting. There’s no proposed price to calculate yet.",
+      "body": "Wadsworth’s stormwater review could lead to a rate adjustment. Staff planned to weigh construction and operating costs alongside maps of land that doesn’t absorb water. Rain falling there has to find another way out.\n\nThe Stormwater Commission meets October 13 at 4:30 p.m. in Council Chambers. The planned cost review is worth watching for a concrete rate proposal. No proposed dollar amount is confirmed, so there’s nothing new to plug into the household budget.",
       "revisionKind": "STYLE",
       "correctionNote": "",
       "source": {
@@ -4621,9 +4624,10 @@
         "newBeyondPriorCoverage": "No prior item explains the planned stormwater rate review."
       },
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
-        "scope": "existing facts, concise original observational voice",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
         "priorFactualReviewCandidateHash": "98eccd65e509ae4626049897810f93cef1957364d08c88d8a99a5a6107ad740c",
         "freshIndependentReview": false
       }
@@ -4897,11 +4901,11 @@
   "projects": [
     {
       "slug": "wadsworth-lot-10300-chick-fil-a",
-      "name": "First, the road. Then, the chicken.",
+      "name": "First, the road. Then, the chicken",
       "category": "Development",
       "stage": "Right-of-way and utility-easement ordinance adopted",
       "location": "City lot 10300, directly west of Sheetz at the former Legacy Inn site, Wadsworth",
-      "description": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.\n\nThe proposed layout separates parking traffic from two drive-through queues—because wanting a sandwich and wanting a parking space are different ambitions.\n\nAn opening date is not established in the reviewed project information. For now, lunch remains your responsibility.",
+      "description": "The proposed Chick-fil-A behind Sheetz cleared a step in August: Council approved the access-road right of way and utility easements for the former Legacy Inn site.\n\nThe layout separates parking traffic from two drive-through queues—because wanting a sandwich and wanting a parking space are different ambitions.\n\nOpening day remains unconfirmed. For now, lunch remains your responsibility.",
       "next": "Follow the next recorded development.",
       "date": "2026-08-03",
       "evidence": [
@@ -5174,18 +5178,21 @@
       },
       "revisionKind": "STYLE",
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "bdaf058731b97fb46542b43792b36b9d262ae8ba0d29e70539ff199d908839af",
         "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-good-avenue-longview-drive-water-line",
-      "name": "New water lines. Fresh pavement above them.",
+      "name": "Good and Longview: pipes below, pavement above",
       "category": "Infrastructure",
       "stage": "Bidding and contract-award authorization adopted September 1, 2026",
       "location": "Good Avenue and Longview Drive, Wadsworth",
-      "description": "Good Avenue and Longview Drive are in line for water-line replacement, with paving above the new lines included in the project.\n\nCouncil authorized bidding and award on September 1, with a $2 million base ceiling. Changes must keep the total within the awarded bid amount plus 10%. That is a spending limit, not the final price.\n\nPartial funding includes an Ohio Public Works Commission grant and EPA funding. A selected contractor and construction start date are not established yet. The paperwork has moved; the digging is not confirmed.",
+      "description": "Good Avenue and Longview Drive are lined up for water-line replacement and paving. The plan puts new pipes below and new pavement above—a useful order of operations.\n\nCouncil authorized bidding and award September 1, with a $2 million base ceiling and changes limited to the awarded bid plus 10%. Partial funding includes an Ohio Public Works Commission grant and EPA funding.\n\nA contractor and digging date haven’t been established. The ceiling tells you the spending limit; it isn’t the final bill.",
       "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
@@ -5361,19 +5368,22 @@
         "newBeyondPriorCoverage": "Adds the specific contract ceiling and change-order terms while retaining paving, funding and September adoption."
       },
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "09e3c8d06c02752152709f9647bed90e45f675e14144d7284ea542657b9daa6d",
         "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-seville-road-access",
-      "name": "Seville Road access is intended to spread Brickyard traffic",
+      "name": "Another way into the Brickyard",
       "category": "Infrastructure",
       "stage": "Construction contract authorized July 14, 2026",
       "location": "Seville Road access to the former brickyard redevelopment, Wadsworth",
-      "description": "Wadsworth’s Seville Road access project is intended to give the former brickyard redevelopment another entrance and reduce traffic pressure at the Chelley Lane and Wall Road trailheads. Public Service Director Matt Hiscock described that purpose July 7, 2026, along with improved access to a future pond loop trail.\n\nCouncil unanimously authorized a construction contract with Fechko Excavating on July 14 for a gravel access road and parking area. The base ceiling was $920,359, with changes permitted within the awarded bid amount plus 10%.\n\nHiscock said the initial roadway would form the permanent base for the future Seville Road entrance. He distinguished it from the loop road, which would require separate bidding, a funding plan and later Council authorization.\n\nThe July action authorized a contract. It did not establish a construction start, completed entrance or park opening.",
-      "revisionKind": "UPDATE",
+      "description": "The Brickyard’s Seville Road entrance is intended to spread arriving traffic across more than the Chelley Lane and Wall Road trailheads. More ways in, less pressure on the same two doors.\n\nCouncil authorized a Fechko Excavating contract July 14 for a gravel access road and parking, with a $920,359 base ceiling. The road would form the permanent base for the future entrance.\n\nThe pond loop road needs its own bidding and funding. This contract permission didn’t establish a finished entrance or an opening day.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-07-14",
@@ -5592,16 +5602,24 @@
         "wadsworthConnection": "The Seville Road access project serves Wadsworth’s former brickyard redevelopment.",
         "neighborTakeaway": "The authorized Seville Road entrance is intended to distribute park traffic; a separate loop road was outside that construction scope.",
         "newBeyondPriorCoverage": "Adds the access road’s intended traffic function, permanent-base role and separation from the loop-road project."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "74fb56febc915e1cc88974d40f2d65560c737b96415061b8ef09399a0a09b812",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-wall-road-development-annexation",
-      "name": "Wall Road township alternative would limit city traffic requirements",
+      "name": "Wall Road: fewer lots, less city say?",
       "category": "Development",
       "stage": "Annexation withdrawn; township alternative reported August 10, 2026",
       "location": "Former proposed 94.2835-acre annexation area in Wadsworth Township; exact boundaries not established",
-      "description": "Wall Road’s intended shift to township development would leave Wadsworth with less ability to require turn lanes, traffic studies and city development standards, Economic Development Director Tom Morris reported August 10, 2026.\n\nAfter speaking with the applicant, Morris described an intended alternative of approximately 40 lots of roughly two acres each. The withdrawn city proposal had involved approximately 250 residential units. The township alternative remained a reported plan, with approval and construction timing unestablished.\n\nMorris estimated the withdrawn proposal could have generated approximately $1.6 million in impact fees and $10 million to $11 million in public infrastructure investment. Those were potential benefits of a proposal, not money already collected or committed.\n\nThe petitioner withdrew the four-parcel, 94.2835-acre annexation July 27. County commissioners canceled the July 28 review without action.\n\nCouncil had adopted Resolution 26-09 on July 14 to identify municipal services for Wall Road Development’s proposed annexation. Morris explained that the resolution did not approve annexation or development or determine service capacity. Withdrawal remains the latest established annexation outcome.",
-      "revisionKind": "UPDATE",
+      "description": "After the Wall Road annexation petition was withdrawn, the developer’s reported alternative was roughly 40 two-acre lots in the township, replacing a city proposal of about 250 residential units. Economic Development Director Tom Morris described the change August 10.\n\nTownship development would give Wadsworth less ability to require turn lanes, traffic studies and city standards. Traffic, inconveniently, doesn’t stop at a jurisdiction line.\n\nThe annexation was withdrawn July 27. The township alternative remained a reported plan, with approval and construction timing unsettled.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-10",
@@ -5913,15 +5931,23 @@
         "wadsworthConnection": "The withdrawn petition concerned 94.2835 acres moving from Wadsworth Township into Wadsworth.",
         "neighborTakeaway": "The applicant intended roughly 40 township lots after withdrawing the annexation; Morris said the city would have less authority to require traffic studies and turn lanes.",
         "newBeyondPriorCoverage": "Adds the reported limits on city development requirements and explicitly conditional estimates of infrastructure investment and impact fees for the withdrawn proposal."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "c914b2113fd3bb33bec515fbc1b1261eb28233b14c46351890b19a87e9b9b6cb",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-briarthorn-sr261-turn-lane",
-      "name": "Briarthorn turn-lane construction was reported beginning in July",
+      "name": "Briarthorn’s next homes hinge on a turn lane",
       "category": "Infrastructure",
       "stage": "Construction reported beginning July 13, 2026",
       "location": "State Route 261 at Briarthorn Crescent, Wadsworth",
-      "description": "Construction was beginning on the State Route 261 turn lane into Briarthorn, Economic Development Director Tom Morris reported on July 13, 2026.\n\nThe improvement was a condition for completing the subdivision. In June, Morris said a developer had committed to building the required lane and that approximately 40 residential lots remained in the principal unfinished section. He explained that the subdivision was already platted and subdivided, allowing remaining homes to proceed to construction once the turn lane was completed.",
+      "description": "A turn lane on SR 261 was the road improvement required for Briarthorn’s next homes. Economic Development Director Tom Morris reported construction beginning July 13.\n\nAbout 40 lots remained in the principal unfinished section, already platted and subdivided. Completing the required lane would let those homes proceed to construction.\n\nThat makes the lane more than a convenience for drivers: it’s part of the subdivision’s permission to finish. The July update didn’t establish its completion.",
       "next": "Follow the next recorded development.",
       "date": "2026-07-13",
       "evidence": [
@@ -6132,16 +6158,25 @@
         "wadsworthConnection": "City officials identified the turn lane into Briarthorn as a requirement for completing the subdivision.",
         "neighborTakeaway": "The city reported in July that construction was beginning on Briarthorn’s required State Route 261 turn lane.",
         "newBeyondPriorCoverage": "The supplied prior projects do not cover Briarthorn; July reporting advances the June expectation of turn-lane construction."
+      },
+      "revisionKind": "STYLE",
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "e9ae5386009c7915829d8b21e3653fd22b36b8dfe93085f15380ec2f9756d992",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-brickyard-park",
-      "name": "Brickyard cleanup and trail work reached July milestones",
+      "name": "The Brickyard gets a cleanup before the walk",
       "category": "Parks",
       "stage": "Cleanup and trail construction reported underway July 13, 2026",
       "location": "Brickyard Park, including the Chelley Lane and Wall Road trailheads, Wadsworth",
-      "description": "All asbestos containment material at Brickyard Park had been removed and disposed of at a licensed facility by the July 13, 2026 update, Assistant Public Service Director Jon Bellack reported. Cleanup continued, including removal of trash piles and an old car from a pond.\n\nTrail clearing was also underway ahead of work on the trail base and stone surface. At the Chelley Lane trailhead, crews had cleared the site and roughly shaped the landscaping buffers for neighboring homes.\n\nThe Wall Road trailhead had been cleared and was planned as the equipment and materials staging area to limit construction traffic at the other trailhead. These were cleanup and construction milestones, not an announcement that the park’s trails had opened.",
-      "revisionKind": "NEW",
+      "description": "Before the Brickyard gets its walking trails, there’s the less photogenic business of cleaning it up. By July 13, officials reported all asbestos containment material removed to a licensed facility. Cleanup also included trash piles and an old car in a pond.\n\nTrail clearing was underway. Chelley Lane’s site had been cleared and landscaping buffers roughly shaped; Wall Road’s trailhead was planned as the staging area to reduce construction traffic at the other entrance.\n\nThose were preparation milestones. A trail opening wasn’t announced in that update.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-07-13",
@@ -6323,16 +6358,24 @@
         "wadsworthConnection": "The work concerns Wadsworth’s Brickyard Park and its Chelley Lane and Wall Road trailheads.",
         "neighborTakeaway": "Officials reported asbestos containment material removed in July, while cleanup and trail construction continued.",
         "newBeyondPriorCoverage": "No supplied prior project covers the Brickyard cleanup and trail milestones."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "a27d41123ce8d45c3998664a9ca9c999c35893ac1b71f54f7c4b9b3f132f77a0",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "dawna-drive-water-line-placement",
-      "name": "Dawna Drive water-line project reached scheduled bidding in July",
+      "name": "Twelve breaks. One water line to replace",
       "category": "Infrastructure",
       "stage": "Bid opening scheduled in July 14, 2026 report",
       "location": "Dawna Drive, Wadsworth",
-      "description": "Wadsworth scheduled a July 16, 2026 bid opening for the Dawna Drive water-line replacement after tallying 12 water-main breaks over 15 years. Residents had also been waiting on landscaping issues tied to the project, city staff reported July 14.\n\nCity Engineer Glenn Davis then expected construction that season and completion around mid-to-late November. That was a bidding-stage estimate, not confirmation that a contractor had started work or that the line would be finished on a fixed date.",
-      "revisionKind": "NEW",
+      "description": "Dawna Drive’s water main had racked up 12 breaks in 15 years—a fairly persuasive application for retirement. The city scheduled replacement bids for July 16.\n\nCity Engineer Glenn Davis then expected work that season and completion around mid-to-late November. Residents were also waiting on landscaping issues tied to the project.\n\nThose dates were estimates made at the bidding stage. The July update didn’t confirm that digging had begun or promise a fixed finish.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-07-14",
@@ -6479,16 +6522,24 @@
         "wadsworthConnection": "The water-line replacement concerns Dawna Drive in Wadsworth.",
         "neighborTakeaway": "Dawna Drive’s water-line project reached scheduled bidding in July after 12 main breaks in 15 years; November completion was an estimate.",
         "newBeyondPriorCoverage": "No supplied prior project covers Dawna Drive’s water-line replacement."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "ded8e59add6ba7de4eed851efb0534b9f28671c094bb9b4a3420258ffa5e038c",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "130-s-lyman-st-drivebar-liquor-transfer",
-      "name": "Drivebar permit-transfer request drew no Council objection in July",
+      "name": "Drivebar clears a local liquor-permit hurdle",
       "category": "Business",
       "stage": "No Council objection to requested permit transfer, July 21, 2026",
       "location": "130 S. Lyman St., Wadsworth",
-      "description": "Wadsworth City Council raised no objection July 21, 2026, to a requested liquor-permit transfer from Blue Tip BBQ LLC to Drivebar LLC at 130 S. Lyman St.\n\nThe clerk said she would return the application to the Ohio Division of Liquor Control by the end of that week if there were no objections. Safety Director Chafin described the property as having been vacant for some time.\n\nCouncil’s lack of objection was one step in the permit process. It did not establish state approval of the transfer or a business opening date.",
-      "revisionKind": "NEW",
+      "description": "Drivebar’s liquor-permit application got past a local checkpoint July 21: Council raised no objection to transferring the permit from Blue Tip BBQ LLC at 130 S. Lyman Street.\n\nThe clerk planned to return the application to Ohio’s Division of Liquor Control that week. Safety Director Dan Chafin described the property as having been vacant for some time.\n\nCouncil’s silence on objections was useful progress for the paperwork. It didn’t establish state approval or a date to pull up a barstool.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-07-21",
@@ -6609,16 +6660,24 @@
         "wadsworthConnection": "The requested permit transfer names a Wadsworth business address.",
         "neighborTakeaway": "Drivebar requested a liquor-permit transfer at 130 S. Lyman St.; Council raised no objection, but that does not establish an opening.",
         "newBeyondPriorCoverage": "No supplied prior project covers the requested transfer at this address."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "750f2a263bb181a990e54a65f5ef05541ecd330a58c0886f3684574896ae5028",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "college-street-trease-road-sidewalk-connection",
-      "name": "College–Trease walking connection had design funding, construction still unresolved",
+      "name": "Getting to the soccer fields on foot",
       "category": "Infrastructure",
       "stage": "Preliminary design funded; consultant contract pending as reported July 13, 2026",
       "location": "College Street from Chester Street to Sunset Drive; Trease Road from College Street to the soccer fields, Wadsworth",
-      "description": "State funding for a walking connection along College Street and Trease Road covered preliminary design only, City Engineer Glenn Davis reported July 13, 2026. The proposed corridors run along College Street from Chester Street to Sunset Drive and along Trease Road from College Street to the soccer fields.\n\nThe Ohio Department of Transportation was funding and leading that phase but had not yet contracted with its consultant. Construction funding depended on working through questions such as available right of way, needed widths and possible retaining walls.\n\nA wider walking-and-riding path remained an option. The final layout and construction timetable were not settled in the July update.",
-      "revisionKind": "NEW",
+      "description": "A proposed walking connection would run along College Street from Chester Street to Sunset Drive, and along Trease Road from College Street to the soccer fields. For families heading to soccer, the useful part is a route built for feet.\n\nODOT was paying for preliminary design, City Engineer Glenn Davis reported July 13. Construction funding still depended on questions about right of way, widths and possible retaining walls.\n\nA wider walking-and-riding path was also an option. The final layout and construction date remained unsettled.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-07-13",
@@ -6779,16 +6838,24 @@
         "wadsworthConnection": "The proposed connection covers College Street from Chester Street to Sunset Drive and Trease Road from College Street to the soccer fields.",
         "neighborTakeaway": "The College–Trease connection had preliminary-design funding in July, but construction funding and the final layout remained unresolved.",
         "newBeyondPriorCoverage": "No supplied prior project covers the funding limits or corridor scope of this pedestrian connection."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "a75a221a6ba30d030ca9ffd2ae314215e63945808ccacadc19c477cf23db7399",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "sr-94-east-reimer-road-intersection",
-      "name": "SR 94–East Reimer design proposal seeks a $422,000 loan",
+      "name": "A $422,000 design question at State and Reimer",
       "category": "Infrastructure",
       "stage": "Design loan authorization proposed September 15, 2026; adoption not established",
       "location": "State Route 94 and East Reimer Road, Wadsworth",
-      "description": "Wadsworth proposed borrowing up to $422,000 through Ohio’s State Infrastructure Bank for design of the State Route 94 and East Reimer Road roundabout. The proposal appeared in the September 15, 2026 committee packet; loan approval is not established.\n\nThe draft cites earlier authorization for professional design services under Ordinances 25-052 and 26-021. This financing proposal concerns design, not a construction contract.\n\nIn July, City Engineer Glenn Davis reported that the roundabout location had shifted slightly northwest, requiring right of way from a vacant parcel. The revised design was under state review, and 2028 remained the construction target.\n\nPublic Service Director Matt Hiscock expected detours, but no closure duration was established for this intersection. The historical target is not a current travel-disruption schedule.",
-      "revisionKind": "UPDATE",
+      "description": "Wadsworth proposed borrowing up to $422,000 for roundabout design at SR 94 and East Reimer Road. The September 15 committee packet sought a State Infrastructure Bank loan; approval wasn’t established.\n\nThat money would buy design work, not a finished intersection. In July, the city engineer reported that the roundabout had shifted slightly northwest, requiring right of way from a vacant parcel.\n\nThe revised design was under state review, with 2028 as the construction target. A target year isn’t a dated work schedule.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-09-15",
@@ -7011,16 +7078,24 @@
         "wadsworthConnection": "The financing proposal concerns design of the Wadsworth intersection’s roundabout.",
         "neighborTakeaway": "A September proposal would borrow up to $422,000 for roundabout design; it does not establish construction funding or a loan award.",
         "newBeyondPriorCoverage": "Adds the September design-loan proposal to the previously covered July design review."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "20243bfda6560d3f08de7ee3f44199304c77a7af3e759ca634d679f9d0acc10c",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-airport-sr57-water-looping",
-      "name": "Airport–SR 57 water-line extension secured an easement by August",
+      "name": "A water line needs permission to cross, too",
       "category": "Infrastructure",
       "stage": "Easement acquired; bidding anticipated in August 11, 2026 report",
       "location": "Wadsworth airport and State Route 57",
-      "description": "Wadsworth had acquired a private easement needed to extend a water line through the airport and across State Route 57 by August 11, 2026, City Engineer Glenn Davis reported. He described it as one of the last steps needed to get the project begun.\n\nDavis expected bidding within the next couple of months and said a request for legislation would probably reach the committee at its next meeting. Those were anticipated steps, not a contract award or construction-start announcement.",
-      "revisionKind": "NEW",
+      "description": "The planned water line through Wadsworth’s airport and across SR 57 cleared a property hurdle by August 11: the city had acquired a needed private easement. Pipes need a route through other people’s land before water gets a route through the pipes.\n\nCity Engineer Glenn Davis called it one of the last steps toward getting the project begun. He expected bidding within the following couple of months.\n\nThat was the plan at the time. A contract award or construction start wasn’t announced in the update.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-11",
@@ -7163,16 +7238,24 @@
         "wadsworthConnection": "The water-line extension crosses Wadsworth’s airport and SR 57.",
         "neighborTakeaway": "The city had acquired the needed private easement by August 11; bidding and legislation were still anticipated.",
         "newBeyondPriorCoverage": "No prior project covers the airport–SR 57 water-line extension."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "198b18349c3dea50f5a7838f156409c32a44c3d9eec55981426385610f650344",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "south-pardee-mills-stormwater-early-package",
-      "name": "Council authorized Mills–Pardee drainage bidding and contract awards",
+      "name": "Mills and Pardee: a better route for the water",
       "category": "Infrastructure",
       "stage": "Bidding and contract-award authorization adopted August 18, 2026",
       "location": "Mills and Pardee streets, Wadsworth",
-      "description": "Wadsworth City Council unanimously authorized bidding and contract awards for stormwater improvements along Mills and Pardee streets on August 18, 2026. The authorization sets a $1,478,000 base ceiling and permits changes within the awarded bid amount plus 10%.\n\nThe work would connect drainage farther down the streets to a larger system. City Engineer Glenn Davis explained in July that existing drainage crossed backyards and lacked capacity for additional stormwater. Staff proposed handling this underground work separately from the larger downtown project.\n\nOn August 18, Public Service Director Matt Hiscock put the engineer’s estimate at approximately $1.4 million and said existing downtown project funds would cover it. Staff aimed to finish before 2027; that was a goal, not a guaranteed completion date.\n\nCouncil Member Tom Stugmyer said full street closures were not expected, although temporary work-area closures and unforeseen conditions remained possible. Hiscock had also anticipated intermittent driveway-access difficulties. Authorization does not establish an actual contract award or a dated closure schedule.",
-      "revisionKind": "CORRECTION",
+      "description": "Stormwater on Mills and Pardee streets has been taking a route through backyards. The improvement plan would connect drainage farther down the streets to a larger system.\n\nCouncil authorized bidding and awards August 18, with a $1,478,000 base ceiling. Staff hoped to finish before 2027. Full street closures weren’t expected, although temporary work-area closures and driveway-access difficulties were possible.\n\nFor neighbors, the important distinction is water getting a better route while the car may briefly get a worse one. The finish was a goal, not a guarantee.",
+      "revisionKind": "STYLE",
       "correctionNote": "Earlier versions described the Mills–Pardee bidding authorization as proposed with adoption unconfirmed. Council unanimously adopted Ordinance 26-097 on August 18, 2026. A contract award and construction schedule remain unconfirmed.",
       "next": "",
       "date": "2026-08-18",
@@ -7434,16 +7517,24 @@
         "wadsworthConnection": "The authorized work concerns drainage along Mills and Pardee streets in Wadsworth.",
         "neighborTakeaway": "Council authorized bidding and contract awards August 18; the drainage work was no longer merely awaiting authorization.",
         "newBeyondPriorCoverage": "Corrects the adoption status and adds the August funding and traffic expectations."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "c45b41468b4710c44c6c495fa97256854b57bef4c642ad917cad3cec01f39513",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-citylink-fiber",
-      "name": "Council authorized up to $275,000 for CityLink fiber materials",
+      "name": "CityLink’s map and your living room are different milestones",
       "category": "Utilities",
       "stage": "Fiber deployment and testing constraints reported August 11, 2026",
       "location": "Wadsworth CityLink service area",
-      "description": "Wadsworth authorized up to $275,000 in electronics and electrical materials for CityLink’s fiber-to-the-home project on August 4, 2026. Ordinance 26-084 allowed purchases through Graybar’s OMNIA cooperative arrangement or another vendor offering a lower price on an individual item.\n\nIn a separate August 11 update, Public Service Director Matt Hiscock reported about 2,000 homes with fiber installed, 1,166 on streaming TV and about 550 awaiting installation. He also reported 7,500 homes ready for service, half of them existing customers. Service readiness was not a count of completed installations.\n\nHiscock said unfinished testing in some areas constrained installation scheduling, so adding installers alone would not resolve every delay. Staff were pushing to finish testing before handing areas over for scheduling.\n\nThe authorization does not establish actual spending, and the August totals do not establish availability at an individual address.",
-      "revisionKind": "UPDATE",
+      "description": "A home can be ready for CityLink service while its living room is still waiting for the connection. The August 11 update put about 7,500 homes in the service-ready category, with roughly 2,000 installations completed and 550 awaiting installation.\n\nUnfinished testing in some areas was holding up scheduling. Adding installers alone wouldn’t clear every delay. Council had also authorized up to $275,000 for fiber electronics and materials.\n\nThose are August progress figures, not an availability promise for your address.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-11",
@@ -7669,6 +7760,14 @@
         "wadsworthConnection": "The authorization and deployment figures concern Wadsworth’s CityLink fiber-to-the-home project.",
         "neighborTakeaway": "Council authorized up to $275,000 in fiber electronics and materials on August 4; a separate August 11 update reported about 2,000 homes with fiber installed.",
         "newBeyondPriorCoverage": "Adds the August 4 purchasing authorization and ceiling while retaining the later August 11 deployment report."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "d579e95aea46fa232becbe2fd7bb3c3f82885212f8416b72788f8bae0e6e375d",
+        "freshIndependentReview": false
       }
     },
     {
@@ -7677,7 +7776,7 @@
       "category": "Infrastructure",
       "stage": "Traditional bidding and an owner's representative recommended August 11, 2026",
       "location": "Downtown Wadsworth",
-      "description": "The proposal would let Wadsworth hire one or more consulting firms to oversee its Downtown Infrastructure Project. Change orders could add up to 10% of the contract amount.\n\nStaff recommended traditional construction bidding with a separate firm representing the city, supplying management capacity the city lacked.\n\nThere is a catch worth understanding: that representative would manage the work, but would not absorb overruns as a construction manager at risk would. Paying someone to watch the budget does not make overruns disappear.\n\nCouncil’s second reading is scheduled October 6 at 6:30 p.m. The contract authority remains proposed.",
+      "description": "Wadsworth proposed hiring outside firms to oversee its Downtown Infrastructure Project, adding management capacity staff said the city lacked. The proposal allowed change orders of up to 10% of the contract amount.\n\nThe important catch: hiring someone to watch the bill doesn’t make them the person who pays it. Staff favored traditional construction bidding with a separate city representative, who would manage the work but wouldn’t absorb overruns as a construction manager at risk would.\n\nThe contract authority remained proposed in this update.",
       "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
@@ -7886,21 +7985,22 @@
         "newBeyondPriorCoverage": "Adds the proposed delivery method and its overrun-risk distinction. The existing Mills–Pardee entry concerns the separate drainage component."
       },
       "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
         "method": "direct editorial rewrite authorized by Chris",
-        "scope": "existing facts, concise original observational voice",
-        "priorFactualReviewCandidateHash": "a7525195ce6c48b0d07f27fe3ddf98213e70475b37b9638c1ac1f4e46e16e3b1",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "4cbf564a047eb80487b67e2ec6422ade9f64aefd8e7f2220e529e263a205ffda",
         "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-ordinance-26-062-city-lots-5049-5050-5051",
-      "name": "Council rejected three-lot College Street rezoning in July",
+      "name": "College Street’s rezoning got a seven-vote no",
       "category": "Development",
       "stage": "Rezoning rejected July 21, 2026",
       "location": "796, 812 and 826 College Street, Wadsworth",
-      "description": "Wadsworth City Council rejected Ordinance 26-062 on July 21, 2026, with seven votes against and none in favor. The proposed R-2 rezoning concerned vacant lots at 796, 812 and 826 College Street.\n\nGasser Builders’ concept called for 15 residential units, primarily duplexes. Whether the units would be sold as condominiums or retained as a multifamily project was undetermined.\n\nCouncil had advanced the amendment to a sixth reading on July 7. The July 21 rejection is the later outcome. Planning Director Jeff Kaiser had explained that even successful rezoning would require a separate development review; the concept itself was not a construction approval.",
-      "revisionKind": "NEW",
+      "description": "Council rejected residential rezoning for three vacant College Street lots July 21, seven votes to zero. For that proposal, the answer couldn’t have been much clearer.\n\nGasser Builders’ concept for 796, 812 and 826 College Street called for 15 residential units, primarily duplexes. Even a successful rezoning would have needed a separate development review.\n\nThe July rejection is the outcome to remember when looking at that particular plan.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-07-21",
@@ -8107,16 +8207,24 @@
         "wadsworthConnection": "The proposal concerns Wadsworth city lots 5049, 5050 and 5051 on College Street.",
         "neighborTakeaway": "Council rejected the three-lot College Street rezoning unanimously on July 21; the 15-unit concept did not receive development approval.",
         "newBeyondPriorCoverage": "No prior item covers these lots. The supplied College Street assisted-living story concerns a separate property at 823 College Street."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "6c2897c9ab4498cf668c5142ae736229aef4267d70e2e68afa20c8844f44afd3",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-sr94-overlay-ordinance-26-083",
-      "name": "Council authorized state road-repair consent for SR 94 in August",
+      "name": "State Road’s paving bill has an asterisk",
       "category": "Infrastructure",
       "stage": "ODOT consent agreement authorized August 4, 2026",
       "location": "State Route 94 between Eastern Road and approximately Johnson Road, Wadsworth",
-      "description": "Wadsworth City Council authorized a consent agreement for ODOT asphalt overlay and repairs on State Route 94 on August 4, 2026. Public Service Director Matt Hiscock had described the corridor as Eastern Road to approximately Johnson Road.\n\nThe agreement terms assign ODOT 100% of project costs. They also make Wadsworth responsible for city-requested additions deemed unnecessary for the improvement and for utility accommodations, relocation and reimbursement.\n\nOrdinance 26-083’s adoption establishes the city’s authorization to enter the consent agreement. It does not establish a construction start or a traffic-closure schedule.",
-      "revisionKind": "NEW",
+      "description": "SR 94 is lined up for asphalt overlay and repairs from Eastern Road to roughly Johnson Road. Council authorized the ODOT consent agreement August 4.\n\nODOT would pay 100% of project costs. The asterisk is local: Wadsworth would cover city-requested additions deemed unnecessary for the improvement, along with its utility obligations. The state picking up the paving bill doesn’t make every extra free.\n\nThe agreement authorization didn’t establish a construction start or a closure schedule.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-04",
@@ -8318,16 +8426,24 @@
         "wadsworthConnection": "The authorized consent concerns ODOT roadway work within Wadsworth.",
         "neighborTakeaway": "Council authorized consent for SR 94 overlay and repairs August 4; the action did not announce a construction or closure schedule.",
         "newBeyondPriorCoverage": "No prior project covers this SR 94 overlay authorization; the SR 94–East Reimer roundabout is a separate project."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "b6e74885a3cfef12198473d2337157107c2aa95ae6460416e696542c9263465a",
+        "freshIndependentReview": false
       }
     },
     {
       "slug": "wadsworth-sidewalk-program-2026",
-      "name": "2026 sidewalk program paired repairs with no property assessments",
+      "name": "Sidewalk repairs. This year, no assessment bill",
       "category": "Infrastructure",
       "stage": "T.R. Snyder contract authorized August 18, 2026",
       "location": "Wadsworth; individual repair locations not established",
-      "description": "Wadsworth’s 2026 sidewalk program planned approximately 3,000 linear feet of repairs with no property assessments, city staff reported July 13. The program budget was $250,000 after budget-season cutbacks.\n\nCouncil subsequently authorized a contract with T.R. Snyder Construction on August 18, 2026. Public Service Director Matt Hiscock said that day that bids had been received and the contractor was waiting to begin.\n\nThe $250,000 figure is the reported program budget, not an established contract price. The no-assessment statement concerns this 2026 program; it does not establish an exemption for other sidewalk work or future years. A completed construction schedule is not established.",
-      "revisionKind": "NEW",
+      "description": "The city’s 2026 sidewalk program planned roughly 3,000 feet of repairs. Its most neighborly detail is financial: no property assessments for that program.\n\nCouncil authorized a T.R. Snyder Construction contract August 18, when staff said the contractor was waiting to begin. The reported program budget was $250,000; that figure wasn’t an established contract price.\n\nThe no-assessment arrangement belongs to this year’s program. It isn’t a lifetime warranty against every sidewalk bill.",
+      "revisionKind": "STYLE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-18",
@@ -8537,6 +8653,14 @@
         "wadsworthConnection": "The work is Wadsworth’s 2026 Sidewalk Improvement Program.",
         "neighborTakeaway": "The city described about 3,000 feet of repairs without property assessments for its 2026 program and authorized a T.R. Snyder contract in August.",
         "newBeyondPriorCoverage": "Adds the 2026 program’s scope, assessment treatment and later named-contractor authorization."
+      },
+      "copyEdit": {
+        "editedAt": "2026-10-08T03:51:38.812397+00:00",
+        "method": "direct editorial rewrite authorized by Chris",
+        "scope": "currently displayed stories and project summaries; original facts and dates retained",
+        "voiceProfile": "matchstick-voice-v2",
+        "priorFactualReviewCandidateHash": "c044e10d9ce7db07cfb15d3476e5877e112717c334681f0ab77d758201dfb60a",
+        "freshIndependentReview": false
       }
     }
   ]
