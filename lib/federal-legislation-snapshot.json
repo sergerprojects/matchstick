@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "c82561904e14f2498191c4fdb1f6c40c2e9e1c25737e5180525b3a2467d122c2",
+      "archiveHash": "d289c884946b32dcc39649a519faea555e856369c5b47fb37edcc3862cb1c6de",
       "records": [
         {
           "bill": "H.R. 9500",
@@ -1936,8 +1936,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-09T10:07:37.258440+00:00",
-      "lastAttempt": "2026-10-09T10:07:37.258440+00:00",
+      "collectedAt": "2026-10-09T17:02:51.932516+00:00",
+      "lastAttempt": "2026-10-09T17:02:51.932516+00:00",
       "status": "ok"
     },
     {
@@ -1946,7 +1946,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "0e5472d002bf0e0020dccb0d1906dc4d3ba28a7f5553334bc9ad05c3a4fc965b",
+      "archiveHash": "70604014369a1c97702ddf252d3d4b1993170ca9b44c43ab3d6dbfa4413aadf3",
       "records": [
         {
           "bill": "S. 5666",
@@ -3475,8 +3475,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-09T10:07:37.258440+00:00",
-      "lastAttempt": "2026-10-09T10:07:37.258440+00:00",
+      "collectedAt": "2026-10-09T17:02:51.932516+00:00",
+      "lastAttempt": "2026-10-09T17:02:51.932516+00:00",
       "status": "ok"
     },
     {
@@ -3485,7 +3485,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "0e5472d002bf0e0020dccb0d1906dc4d3ba28a7f5553334bc9ad05c3a4fc965b",
+      "archiveHash": "70604014369a1c97702ddf252d3d4b1993170ca9b44c43ab3d6dbfa4413aadf3",
       "records": [
         {
           "bill": "S. 5638",
@@ -3557,7 +3557,7 @@
           "title": "Measuring Illicit Fentanyl Trafficking Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5523",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5523.xml",
-          "sourceHash": "49878d963ad9a6de12018dc265e0ee21c94c16d46c46cd18cffb640e5977a1c8",
+          "sourceHash": "789e08751d167e777d5a87c4b09d4fc62d1dd852cb042d8f836701364bd74fa9",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -3566,7 +3566,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-09-24",
-          "updated": "2026-10-02T05:23:20Z",
+          "updated": "2026-10-09T12:59:12Z",
           "latestAction": {
             "date": "2026-09-24",
             "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
@@ -6598,8 +6598,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-09T10:07:37.258440+00:00",
-      "lastAttempt": "2026-10-09T10:07:37.258440+00:00",
+      "collectedAt": "2026-10-09T17:02:51.932516+00:00",
+      "lastAttempt": "2026-10-09T17:02:51.932516+00:00",
       "status": "ok"
     }
   ]
