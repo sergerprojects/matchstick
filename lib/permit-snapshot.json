@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-10",
-  "periodEnd": "2026-10-08",
+  "periodStart": "2026-07-11",
+  "periodEnd": "2026-10-09",
   "records": [
     {
       "id": "C-00401-26",
@@ -310,22 +310,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00239-26",
-      "parcel": "04020A06052",
-      "issued": "2026-07-10",
-      "address": "780 HIGH ST",
-      "type": "ALARM SYSTEM",
-      "discipline": "Building",
-      "value": 0,
-      "work": [
-        "Building"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F10%2F26&eDate=10%2F08%2F26",
-  "collectedAt": "2026-10-08T17:26:14.007Z",
-  "lastAttempt": "2026-10-08T17:26:14.007Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F11%2F26&eDate=10%2F09%2F26",
+  "collectedAt": "2026-10-09T04:07:18.328Z",
+  "lastAttempt": "2026-10-09T04:07:18.328Z",
   "status": "ok"
 }
