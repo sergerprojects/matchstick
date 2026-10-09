@@ -66,11 +66,13 @@ function Publication({section,slug,data,mode,collectorState,automaticEdition}:{s
  const filteredMeetings=currentMeetings.filter(m=>calendarFilter==='all'||calendarKind(m)===calendarFilter);
  const nextSchoolMeeting=currentMeetings.find(m=>m.type==='Schools');
  const selectedProject=slug?data.projects.find(p=>p.slug===slug):undefined;
- const issueDate=newsroom.cutoff?new Date(newsroom.cutoff+'T12:00:00Z').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric',timeZone:'UTC'}):'Monday, October 5, 2026';
+ const cutoffDate=newsroom.cutoff?new Date(newsroom.cutoff+'T12:00:00Z'):null;
+ const issueDate=cutoffDate?.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric',timeZone:'UTC'});
+ const editionLabel=cutoffDate?`Edition of ${cutoffDate.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',timeZone:'UTC'})}`:null;
  const showDesignHome=section==='home';
  return <>
  <a className="skip-link" href="#main">Skip to content</a>
- <header className="header"><div className="utility"><span><span className="blue-dot"/> Independent. Local. For everyone.</span><span className="utility-date">{issueDate}</span><div><button onClick={()=>setSearchOpen(true)}><Search size={16}/><span>Search</span></button><Link href="/saved"><Bookmark size={15}/>Saved items{saved.length>0&&<b>{saved.length}</b>}</Link></div></div>
+ <header className="header"><div className="utility"><span><span className="blue-dot"/> Independent. Local. For everyone.</span>{editionLabel&&<span className="utility-date"><time dateTime={newsroom.cutoff} title={issueDate}>{editionLabel}</time></span>}<div><button onClick={()=>setSearchOpen(true)}><Search size={16}/><span>Search</span></button><Link href="/saved"><Bookmark size={15}/>Saved items{saved.length>0&&<b>{saved.length}</b>}</Link></div></div>
  <div className="masthead"><Link href="/" aria-label="Matchstick home"><Mark/><span>matchstick<span className="masthead-period">.</span></span></Link><div className="masthead-caption"><span>WADSWORTH, OHIO</span><span>Boring stuff. With a little spark.</span><span>EST. 2026</span></div></div>
  <nav className={menuOpen?'nav is-open':'nav'} aria-label="Main navigation"><button className="mobile-menu" onClick={()=>setMenuOpen(!menuOpen)} aria-expanded={menuOpen}><Menu size={20}/>Explore Matchstick<ChevronDown size={16}/></button><div className="nav-links">{navigation.map(([href,title])=><Link href={href} key={href} className={(section==='home'?href==='/':href==='/'+section||(section==='project'&&href==='/projects'))?'active':''}>{title}</Link>)}</div><Link className="edition-nav" href="/edition">The latest edition <ArrowUpRight size={15}/></Link></nav></header>
  <main id="main" className="main">
