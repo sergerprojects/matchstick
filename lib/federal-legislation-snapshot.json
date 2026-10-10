@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "4ad5d94feb5c3c5bbaac02ab7385b491b4b17a415f6acfa088ecd5ed390983c6",
+      "archiveHash": "959bb31e77a26c53ab9b69ec7c27bdd3f6a920906656c184933c53623f6392ae",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -15,7 +15,7 @@
           "title": "To amend the Higher Education Act of 1965 to require certain institutions to require students who are United States citizens to pass the United States naturalization test in order to graduate, and for other purposes.",
           "url": "https://www.congress.gov/bill/119th-congress/house-bill/10786",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10786.xml",
-          "sourceHash": "1a1ef3852380950f4419be4274c328f009592aebfb18a15d4d4fd34eeac2107f",
+          "sourceHash": "b4387ae8f9a6640c751d9072b492fad3cc480932d809f583b96fa7dd68ae8b28",
           "representative": "Max Miller",
           "role": "Sponsor",
           "bioguideId": "M001222",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-10T10:05:27.194812+00:00",
-      "lastAttempt": "2026-10-10T10:05:27.194812+00:00",
+      "collectedAt": "2026-10-10T15:54:31.538642+00:00",
+      "lastAttempt": "2026-10-10T15:54:31.538642+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "6fe4fd7afc266e109388dc24972a0ebbac211636a9cd9ba5d2487f14e084e2e4",
+      "archiveHash": "080b3eb0c3e548bc29cd2fd725f4ede48561039e5cf083304fe08724f82b5f86",
       "records": [
         {
           "bill": "S. 5666",
@@ -3545,8 +3545,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-10T10:05:27.194812+00:00",
-      "lastAttempt": "2026-10-10T10:05:27.194812+00:00",
+      "collectedAt": "2026-10-10T15:54:31.538642+00:00",
+      "lastAttempt": "2026-10-10T15:54:31.538642+00:00",
       "status": "ok"
     },
     {
@@ -3555,7 +3555,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "6fe4fd7afc266e109388dc24972a0ebbac211636a9cd9ba5d2487f14e084e2e4",
+      "archiveHash": "080b3eb0c3e548bc29cd2fd725f4ede48561039e5cf083304fe08724f82b5f86",
       "records": [
         {
           "bill": "S. 5638",
@@ -6668,8 +6668,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-10T10:05:27.194812+00:00",
-      "lastAttempt": "2026-10-10T10:05:27.194812+00:00",
+      "collectedAt": "2026-10-10T15:54:31.538642+00:00",
+      "lastAttempt": "2026-10-10T15:54:31.538642+00:00",
       "status": "ok"
     }
   ]
