@@ -13,7 +13,7 @@ const manifestFile=new URL('records.json',cache);let prior={records:[]};try{prio
 const excludedMainStreetAnnualReport=r=>r.owner==='Main Street Wadsworth'&&(r.kind==='organization-annual-report'||/annual[-_ ]?report/i.test(r.url));
 prior.records=prior.records.filter(r=>!excludedMainStreetAnnualReport(r));
 const old=new Map(prior.records.map(r=>[r.url,r])),records=[],coverage=[];
-async function fetchBytes(url,max=40000000,redirects=0){const parsed=new URL(url);if(parsed.protocol!=='https:'||!['mainstreetwadsworth.org','www.wadsworthcity.com','wadsworthcity.com','www.wadsworthschools.org','wadsworthschools.org','resources.finalsite.net','www.medinaco.org','medinaco.org','www.wadsworthlibrary.com','static.wixstatic.com','207c9354-d980-4453-94ad-4b64e80864c3.filesusr.com'].includes(parsed.hostname))throw new Error('Unexpected document origin');const response=await fetch(url,{signal:AbortSignal.timeout(45000),redirect:'manual'});if([301,302,303,307,308].includes(response.status)){if(redirects>=6||!response.headers.get('location'))throw new Error('Invalid document redirect');return fetchBytes(new URL(response.headers.get('location'),url).href,max,redirects+1);}if(!response.ok)throw new Error(`HTTP ${response.status}`);const parts=[];let size=0;for await(const part of response.body){size+=part.length;if(size>max)throw new Error('Document exceeds size limit');parts.push(part);}return Buffer.concat(parts);}
+async function fetchBytes(url,max=40000000,redirects=0){const parsed=new URL(url);if(parsed.protocol!=='https:'||!['mainstreetwadsworth.org','medinahealth.org','csuohio.edu','www.csuohio.edu','www.wadsworthcity.com','wadsworthcity.com','www.wadsworthschools.org','wadsworthschools.org','resources.finalsite.net','www.medinaco.org','medinaco.org','www.wadsworthlibrary.com','static.wixstatic.com','207c9354-d980-4453-94ad-4b64e80864c3.filesusr.com'].includes(parsed.hostname))throw new Error('Unexpected document origin');const response=await fetch(url,{signal:AbortSignal.timeout(45000),redirect:'manual'});if([301,302,303,307,308].includes(response.status)){if(redirects>=6||!response.headers.get('location'))throw new Error('Invalid document redirect');return fetchBytes(new URL(response.headers.get('location'),url).href,max,redirects+1);}if(!response.ok)throw new Error(`HTTP ${response.status}`);const parts=[];let size=0;for await(const part of response.body){size+=part.length;if(size>max)throw new Error('Document exceeds size limit');parts.push(part);}return Buffer.concat(parts);}
 async function document(meta){try{
  const bytes=await fetchBytes(meta.downloadUrl||meta.url);if(!bytes.subarray(0,5).equals(Buffer.from('%PDF-')))throw new Error('Not a PDF');const sha256=hash(bytes),cached=old.get(meta.url);await writeFile(new URL('versions/'+sha256+'.pdf',cache),bytes);
  if(cached?.sha256===sha256&&cached.pages?.length&&cached.extraction?.version==='page-complete-v2'){records.push({...cached,...meta,firstSeenAt:cached.firstSeenAt||cached.collectedAt,collectedAt:now,lastAttempt:now,status:'ok'});return true;}
@@ -52,6 +52,30 @@ for(const [path,title] of [['news/','Downtown news'],['news-updates/','Downtown 
 // First-party downtown organization announcements: dated upload directories bound discovery;
 // directory timestamps never become story event dates or proof of a business opening.
 for(const index of ['https://mainstreetwadsworth.org/news/','https://mainstreetwadsworth.org/news-updates/']){try{const $=load((await fetchBytes(index,4000000)).toString()),links=new Map();$('main a[href],article a[href],.entry-content a[href]').each((_,e)=>{const href=$(e).attr('href');if(!href)return;const url=new URL(href,index);if(url.origin!=='https://mainstreetwadsworth.org'||!url.pathname.endsWith('.pdf'))return;if(excludedMainStreetAnnualReport({owner:'Main Street Wadsworth',url:url.href}))return;const month=url.pathname.match(/\/uploads\/(20\d{2})\/(\d{2})\//);if(month&&month[1]+'-'+month[2]<start.slice(0,7))return;links.set(url.href,{url:url.href,title:clean($(e).text())||'Main Street Wadsworth announcement',owner:'Main Street Wadsworth',kind:'organization-announcement',meetingDate:'',indexUrl:index,indexObservedAt:now});});await pool([...links.values()],document);coverage.push({title:'Main Street downtown announcements',url:index,status:[...links.keys()].every(url=>records.some(r=>r.url===url&&r.status==='ok'))?'ok':'partial',discovered:links.size,checkedAt:now,note:'First-party public PDF announcements in current upload directories; older archive remains background. Newsletter-only updates are not collected. Upload dates are discovery metadata, not development dates.'});}catch(e){coverage.push({title:'Main Street downtown announcements',url:index,status:'failed',error:e.message,checkedAt:now});for(const r of prior.records.filter(r=>r.indexUrl===index))records.push({...r,status:'stale'});}}
+// Targeted primary documents for the weekly Gazette leads. This is not a general news feed.
+for(const target of [
+ {url:'https://medinahealth.org/health-alerts/',owner:'Medina County Health Department',kind:'health-alert',selector:'main#main',expected:/Health Alerts.*Medina County/s},
+ {url:'https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio',owner:'Cleveland State University',kind:'education-announcement',selector:'main#main-content article',expected:/Cleveland State Commitment.*Eligibility/s}
+]){
+ try{
+  const bytes=await fetchBytes(target.url,4000000),$=load(bytes.toString()),content=$(target.selector).first();
+  if(!content.length)throw new Error('Primary document main-content selector changed');
+  const title=clean($('h1').first().text());if(!title)throw new Error('Primary document title missing');
+  const postedAt=content.find('time[datetime]').first().attr('datetime')||null;
+  content.find('script,style,nav,header,footer,form,iframe,svg').remove();
+  const text=clean(title+'\n'+content.text());
+  if(text.length<200||text.length>300000||!target.expected.test(text))throw new Error('Primary document content missing, changed or oversized');
+  const sha256=hash(text),rawHash=hash(bytes),id=hash(target.url).slice(0,20),cached=old.get(target.url);
+  await writeFile(new URL('versions/'+sha256+'.txt',cache),text);
+  await writeFile(new URL('versions/'+rawHash+'.html',cache),bytes);
+  records.push({id,url:target.url,title,owner:target.owner,kind:target.kind,sourceKind:'official-primary-document',meetingDate:'',postedAt,indexUrl:target.url,indexObservedAt:now,sha256,rawHash,firstSeenAt:cached?.firstSeenAt||cached?.collectedAt||now,changedAt:cached?.sha256===sha256?cached.changedAt:now,previousHash:cached?.sha256===sha256?cached.previousHash:cached?.sha256||null,collectedAt:now,lastAttempt:now,status:'ok',totalPages:1,partialDocument:false,extraction:{method:'official-complete-main-content',complete:true,totalPages:1,pageNumbers:[1]},pages:[{page:1,text}]});
+  coverage.push({title:target.owner+' primary follow-up',url:target.url,status:'ok',checkedAt:now,note:'Exact first-party document for a targeted reporting lead; full substantive content is read and independently reviewed. Retrieval dates are not development dates.'});
+ }catch(e){
+  const cached=old.get(target.url);if(cached)records.push({...cached,status:'stale',lastAttempt:now,error:e.message});
+  coverage.push({title:target.owner+' primary follow-up',url:target.url,status:'failed',error:e.message,checkedAt:now});
+ }
+}
+
 // Preserve older school context for project follow-up; stale records never establish a fresh event.
 for(const r of prior.records)if(!records.some(n=>n.url===r.url))records.push({...r,status:'stale'});
 const output={cutoff,collectedAt:now,coverage,records};await writeFile(new URL('records.next.json',cache),JSON.stringify(output));await rename(new URL('records.next.json',cache),manifestFile);
