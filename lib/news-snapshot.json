@@ -1,15 +1,15 @@
 {
   "cutoff": "2026-10-12",
-  "publishedAt": "2026-10-12T11:37:58.949Z",
+  "publishedAt": "2026-10-12T11:52:49.394Z",
   "editorPrompt": "resident-editor-v6",
   "reviewerPrompt": "resident-reviewer-v6",
   "stories": [
     {
       "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
       "category": "Schools",
-      "title": "Wadsworth school tax choice comes amid cuts and shrinking reimbursements",
-      "dek": "The district rescheduled textbook purchases and held union base pay flat, while retaining raises for eligible employees moving up the pay schedule.",
-      "body": "Wadsworth school district voters will decide November 3 whether to approve a five-year, 1% tax on qualifying earned income. Wages and qualifying self-employment income would be covered; retirement income, interest, dividends and capital gains would be excluded.\n\nState payments for qualifying high-cost special-education services fell from $669,079 in fiscal 2024 to $472,961 in fiscal 2026, the district reported in August. It attributes the decline to more districts sharing the funding pool, rather than fewer costs submitted by Wadsworth.\n\nThe district also changed its textbook purchase schedule after May's levy failure. Its one-year union contract extensions hold base pay flat, but eligible employees can still move up the pay schedule and receive raises. A base-pay freeze doesn't freeze every paycheck.\n\nThe district's August 2026 forecast projects General Fund reserves running out in fiscal 2029 without changes.",
+      "title": "Wadsworth schools project shortfall even with continued state funding protection",
+      "dek": "The district projects about $117,000 in additional state aid across fiscal 2026 and 2027.",
+      "body": "Wadsworth schools’ August 2026 forecast projects General Fund cash reserves running out in fiscal 2029 without changes. Voters will decide November 3 whether to approve a five-year, 1% earned-income tax.\n\nOhio’s funding guarantee is expected to keep the district’s current-year state aid similar to fiscal 2024–2026 despite declining enrollment. The forecast assumes that protection continues; the district warns that removing it would dramatically change the projections.\n\nThe proposed tax covers qualifying wages and self-employment income. Retirement income, interest, dividends and capital gains are excluded.",
       "revisionKind": "UPDATE",
       "correctionNote": "",
       "source": {
@@ -29,16 +29,16 @@
           "busy_parent",
           "business_owner"
         ],
-        "residentValue": "Helps voters understand revenue losses and spending measures before deciding on the proposed school income tax.",
-        "change": "The election explainer gains additional financial background from August, including reimbursement losses, textbook timing and union pay provisions.",
-        "whyNow": "The November 3, 2026 election is within 30 days of the October 12 cutoff, and these details expand the financial context for that choice.",
+        "residentValue": "Helps voters understand the state-funding assumption behind the district's projected shortfall before deciding on the proposed tax.",
+        "change": "The existing election explainer gains state-aid context and distinguishes a forecast assumption from guaranteed future policy.",
+        "whyNow": "The November 3 election is within 30 days of the October 12 cutoff; the August forecast provides context for that pending choice.",
         "review": "independent-pass",
         "publicationMode": "routine",
         "publicationCutoff": "2026-10-12"
       },
       "evidenceRefs": [
         {
-          "assertion": "Wadsworth school district voters will decide a proposed five-year, 1% earned-income tax on November 3, 2026; the district projects cash reserves depleted in fiscal 2029 without changes.",
+          "assertion": "The district projects cash reserves depleted in fiscal 2029 without changes and has placed a five-year, 1% earned-income tax on the November 3, 2026 ballot.",
           "sourceId": "444e30c979bd4777b311",
           "page": 19,
           "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
@@ -50,23 +50,11 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Qualifying employee compensation and self-employment income are included in earned income; retirement income, interest, dividends and capital gains are excluded.",
-          "sourceId": "efedf274fcacf627cdd7",
-          "page": 4,
-          "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
-          "claimId": "c2",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
-          "sourceTextHash": "428e54856c8a626596f2ce45756de489554419a11f9325320c45bb3ff9df606e",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The Wadsworth City Schools financial projection is dated August 2026.",
+          "assertion": "Wadsworth City Schools' financial projection is dated August 2026.",
           "sourceId": "444e30c979bd4777b311",
           "page": 1,
           "quote": "Wadsworth City Schools\n                   Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
-          "claimId": "c3",
+          "claimId": "c2",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
           "owner": "Wadsworth City Schools",
           "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
@@ -74,46 +62,58 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The reimbursement program provides state funding toward qualifying special-education costs; the district attributes declining reimbursements to more districts sharing the available pool, rather than fewer submitted costs.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 10,
-          "quote": "Under the FSFP, the amount of funding allocated to special education\n             for every district is reduced by 10% to fund Threshold Cost reimbursements. Prior to the\n             FSFP, districts applied for Threshold Costs reimbursements to generate additional funds\n             for special education. The district's threshold cost amount has declined over the past three\n             years. Not because the district is submitting fewer costs. The state allocates a flat dollar\n             amount to Threshold costs reimbursements based on what is deducted from each schools\n             foundation. As more schools participate in Threshold costs less is available to each\n             district.",
-          "claimId": "c4",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "State special-education reimbursements fell from $669,079 in fiscal 2024 to $472,961 in fiscal 2026.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 10,
-          "quote": "FY 2024\n   • District Deduction (10% Share): $170,808\n   • State Reimbursement Received: $669,079\n   • Return on Deduction: 390% more\nFY 2025\n   • District Deduction (10% Share): $163,362\n   • State Reimbursement Received: $518,143\n   • Return on Deduction: 317% more than the district’s share\nFY 2026\n   • District Deduction (10% Share): $163,981\n   • State Reimbursement Received: $472,961",
-          "claimId": "c5",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "Following May's levy failure, the district reduced supplies spending and changed its textbook purchase schedule.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 16,
-          "quote": "As a result of the levy failure in May, there was a reduction in the supplies category, primarily\nrelated to custodial and technology supplies. However, the major reduction in supplies for FY\n27 is a change to the textbook adoption schedule as outlined on the next page",
-          "claimId": "c6",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The teachers' union agreement was extended for one year without base-pay increases, while eligible employees retain increases through movement up the pay schedule.",
+          "assertion": "The state-aid projection concerns the fiscal 2026–2027 biennium.",
           "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 115,
-          "quote": "The district and the Wadsworth Education Association (WEA) are in a one-year\n             rollover of the previous three-year contract. The rollover includes step increases for\n             eligible employees but no increases in base pay.",
+          "page": 105,
+          "quote": "State Aid: FY 2026/2027 Biennial budget",
+          "claimId": "c3",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The district projects approximately $117,000 in additional state aid over the two-year biennium.",
+          "sourceId": "1c17f1e99f09eafc1fd5",
+          "page": 105,
+          "quote": "Projections indicate that the district will receive approximately $117,000\n                in additional state aid over the two-year biennium, as the district continues\n                to be a guaranteed school district.",
+          "claimId": "c4",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "Despite declining enrollment, the guarantee is expected to keep current-year state funding similar to fiscal 2024–2026.",
+          "sourceId": "1c17f1e99f09eafc1fd5",
+          "page": 111,
+          "quote": "Due to declining enrollment, the district is guaranteed and will receive similar State\nfunding for the current fiscal year as we did in FY 2024-2026, despite changes in base cost and local\ncapacity.",
+          "claimId": "c5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The forecast assumes continued funding protection, and the district warns that removing the guarantee would dramatically change its projections.",
+          "sourceId": "1c17f1e99f09eafc1fd5",
+          "page": 112,
+          "quote": "The forecast assumes the guarantee will continue in future years as enrollment\n              declines. If the guarantee is removed from the formula in future years, the district's\n              forecast will change dramatically.",
+          "claimId": "c6",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The forecast projects a negative cash balance during fiscal 2029.",
+          "sourceId": "1c17f1e99f09eafc1fd5",
+          "page": 105,
+          "quote": "The forecast projects a negative cash balance during FY 2029.",
           "claimId": "c7",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
           "owner": "Wadsworth City Schools",
@@ -122,27 +122,15 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The support personnel union agreement was also extended for one year without base-pay increases, while retaining eligible increases within the pay schedule; unchanged base pay therefore does not mean every employee's pay is frozen.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 115,
-          "quote": "The district and the Wadsworth Education Support Personnel Association (WESPA)\n               are also in a one-year rollover of the previous three-year contract. The rollover\n               includes step increases for eligible employees but no increases in base pay.",
+          "assertion": "Qualifying employee compensation and self-employment income are included in earned income; retirement income, interest, dividends and capital gains are excluded.",
+          "sourceId": "efedf274fcacf627cdd7",
+          "page": 4,
+          "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
           "claimId": "c8",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The forecast addresses General Fund spending, including salaries and benefits.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 115,
-          "quote": "The 2026-27 salaries and benefits are projected to be 82% of General Fund Expenditures.",
-          "claimId": "c9",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
+          "sourceTextHash": "428e54856c8a626596f2ce45756de489554419a11f9325320c45bb3ff9df606e",
           "transcription": "page-text"
         }
       ],
@@ -151,8 +139,8 @@
         "verdict": "PASS",
         "destination": "EXPLAINER",
         "promptVersion": "resident-reviewer-v6",
-        "reviewedAt": "2026-10-12T11:25:13.516Z",
-        "candidateHash": "b7bf7e2e262ce88038c6aee7814c7a87a3ca802d6659ef4d9181d2a96f0891a4",
+        "reviewedAt": "2026-10-12T11:44:17.229Z",
+        "candidateHash": "ceabc5599f9752aca1a2e55f011e1c51e24a869966b620512c30ef27ca4ce7b1",
         "claimChecks": [
           {
             "claimIds": [
@@ -169,25 +157,17 @@
               "c2"
             ],
             "sourceIds": [
-              "efedf274fcacf627cdd7"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c3"
-            ],
-            "sourceIds": [
               "444e30c979bd4777b311"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
+              "c3",
               "c4"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311"
+              "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
           },
@@ -196,7 +176,7 @@
               "c5"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311"
+              "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
           },
@@ -205,31 +185,13 @@
               "c6"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311"
+              "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
               "c7"
-            ],
-            "sourceIds": [
-              "1c17f1e99f09eafc1fd5"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c8"
-            ],
-            "sourceIds": [
-              "1c17f1e99f09eafc1fd5"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c9"
             ],
             "sourceIds": [
               "1c17f1e99f09eafc1fd5",
@@ -239,15 +201,10 @@
           },
           {
             "claimIds": [
-              "c1",
-              "c5",
-              "c6",
-              "c7",
               "c8"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311",
-              "1c17f1e99f09eafc1fd5"
+              "efedf274fcacf627cdd7"
             ],
             "support": "SUPPORTED"
           },
@@ -256,12 +213,10 @@
               "c1",
               "c5",
               "c6",
-              "c7",
-              "c8"
+              "c7"
             ],
             "sourceIds": [
               "444e30c979bd4777b311",
-              "efedf274fcacf627cdd7",
               "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
@@ -274,10 +229,10 @@
           "usefulness": 3,
           "timeliness": 2
         },
-        "affectedAudience": "Wadsworth City School District voters, school families and residents with qualifying earned income.",
-        "wadsworthConnection": "The November tax proposal and financial forecast concern Wadsworth City Schools.",
-        "neighborTakeaway": "Special-education reimbursements fell and textbook purchases were rescheduled; union base pay stayed flat, but eligible employees can still move up the pay schedule.",
-        "newBeyondPriorCoverage": "Adds August-reported background on declining special-education reimbursements, textbook timing and the distinction between unchanged union base pay and eligible increases within the pay schedule."
+        "affectedAudience": "Wadsworth school district voters and families evaluating the November income-tax proposal.",
+        "wadsworthConnection": "The forecast and proposed earned-income tax concern Wadsworth City Schools.",
+        "neighborTakeaway": "Wadsworth schools project General Fund cash reserves running out in fiscal 2029 even with continued state funding protection.",
+        "newBeyondPriorCoverage": "Adds the projected $117,000 biennial state-aid increase and explains the forecast's reliance on continued funding guarantees."
       }
     },
     {
@@ -4761,6 +4716,327 @@
         "scope": "existing facts, concise original observational voice",
         "priorFactualReviewCandidateHash": "a7525195ce6c48b0d07f27fe3ddf98213e70475b37b9638c1ac1f4e46e16e3b1",
         "freshIndependentReview": false
+      }
+    },
+    {
+      "slug": "cleveland-state-university-cleveland-state-commitment",
+      "category": "Education",
+      "title": "CSU approves free tuition for qualifying 2027 graduates",
+      "dek": "The program covers up to eight consecutive semesters; housing, meals and other costs remain.",
+      "body": "Wadsworth students graduating next spring could qualify for free tuition at Cleveland State University beginning fall 2027. Trustees approved the program October 9 for Ohio residents graduating in spring 2027 with at least a 3.0 high-school GPA and family adjusted gross income of $125,000 or less.\n\nStudents must enter as new, full-time, degree-seeking first-year students. CSU will cover tuition left after federal and state grants and scholarships, for up to eight consecutive semesters. Continuing eligibility requires a 2.0 GPA, full-time enrollment and qualifying income, checked annually through the FAFSA.\n\nTuition is one part of the college bill. Housing, meals, books, transportation and program-specific fees aren't covered. Transfer students and students already enrolled aren't eligible for this program.",
+      "revisionKind": "NEW",
+      "correctionNote": "",
+      "source": {
+        "title": "Cleveland State University Announces the Cleveland State Commitment: $0 Tuition for Hardworking Ohio Students",
+        "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+        "owner": "Cleveland State University",
+        "checked": "2026-10-12",
+        "published": "2026-10-09"
+      },
+      "editorial": {
+        "destination": "NEWS",
+        "eventDate": "2026-10-09",
+        "decisionDate": "",
+        "availabilityDate": "",
+        "readerPerspectives": [
+          "school_parent",
+          "busy_parent"
+        ],
+        "residentValue": "Helps families assess a newly approved college tuition option and distinguish its coverage from the full cost of attendance.",
+        "change": "CSU trustees approved tuition coverage for qualifying Ohio students entering in fall 2027.",
+        "whyNow": "Approval occurred October 9, three days before cutoff.",
+        "review": "independent-pass",
+        "publicationMode": "routine",
+        "publicationCutoff": "2026-10-12"
+      },
+      "evidenceRefs": [
+        {
+          "assertion": "CSU trustees approved the tuition program October 9, 2026.",
+          "sourceId": "00a44088996444f8ab95",
+          "page": 1,
+          "quote": "Published on Fri, 10/09/2026 - 09:50 Cleveland State University today announced the Cleveland State Commitment, approved this morning by the University's Board of Trustees, a promise of $0 tuition for qualified Ohio students.",
+          "claimId": "c1",
+          "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+          "owner": "Cleveland State University",
+          "sourceHash": "af548a1f871eacd85a0598d824910a2fcbaafba8a4e1c34b90be3e9eab0fc1ce",
+          "sourceTextHash": "68a4133cfdcd0e0f4c08c4d6ae68e7d20f65ecaf22f390461c9f40f630c505ab",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "Beginning fall 2027, spring 2027 high-school graduates with a GPA of at least 3.0 and family adjusted gross income of $125,000 or less qualify for up to eight consecutive semesters of tuition coverage.",
+          "sourceId": "00a44088996444f8ab95",
+          "page": 1,
+          "quote": "Beginning in fall 2027, incoming first-year students who graduate high school in spring 2027 with a 3.0 GPA or higher, and whose families have an adjusted gross income of $125,000 or less, will pay no tuition for up to eight consecutive semesters.",
+          "claimId": "c2",
+          "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+          "owner": "Cleveland State University",
+          "sourceHash": "af548a1f871eacd85a0598d824910a2fcbaafba8a4e1c34b90be3e9eab0fc1ce",
+          "sourceTextHash": "68a4133cfdcd0e0f4c08c4d6ae68e7d20f65ecaf22f390461c9f40f630c505ab",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "Eligibility covers Ohio residents, including qualifying Wadsworth residents, entering as new, full-time, degree-seeking first-year students.",
+          "sourceId": "00a44088996444f8ab95",
+          "page": 1,
+          "quote": "Ohio resident entering CSU as a new, full-time, degree-seeking first-year student beginning in fall 2027",
+          "claimId": "c3",
+          "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+          "owner": "Cleveland State University",
+          "sourceHash": "af548a1f871eacd85a0598d824910a2fcbaafba8a4e1c34b90be3e9eab0fc1ce",
+          "sourceTextHash": "68a4133cfdcd0e0f4c08c4d6ae68e7d20f65ecaf22f390461c9f40f630c505ab",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "CSU covers remaining tuition after federal and state grants and scholarships; income is confirmed annually through FAFSA.",
+          "sourceId": "00a44088996444f8ab95",
+          "page": 1,
+          "quote": "Family adjusted gross income of $125,000 or less, confirmed each year through the FAFSA CSU covers any tuition remaining after federal and state grants and scholarships are applied",
+          "claimId": "c4",
+          "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+          "owner": "Cleveland State University",
+          "sourceHash": "af548a1f871eacd85a0598d824910a2fcbaafba8a4e1c34b90be3e9eab0fc1ce",
+          "sourceTextHash": "68a4133cfdcd0e0f4c08c4d6ae68e7d20f65ecaf22f390461c9f40f630c505ab",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "Continuing eligibility requires a 2.0 GPA, full-time enrollment and qualifying income.",
+          "sourceId": "00a44088996444f8ab95",
+          "page": 1,
+          "quote": "Students remain eligible by maintaining a 2.0 GPA, full-time enrollment and the income requirement",
+          "claimId": "c5",
+          "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+          "owner": "Cleveland State University",
+          "sourceHash": "af548a1f871eacd85a0598d824910a2fcbaafba8a4e1c34b90be3e9eab0fc1ce",
+          "sourceTextHash": "68a4133cfdcd0e0f4c08c4d6ae68e7d20f65ecaf22f390461c9f40f630c505ab",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "Housing, meals, books, transportation and program-specific fees are excluded, as are transfer and currently enrolled students.",
+          "sourceId": "00a44088996444f8ab95",
+          "page": 1,
+          "quote": "The Cleveland State Commitment covers tuition. It does not cover housing, meals, books, transportation or program-specific fees. It does not apply to transfer students or students currently enrolled.",
+          "claimId": "c6",
+          "url": "https://csuohio.edu/news/cleveland-state-university-announces-cleveland-state-commitment-0-tuition-for-hardworking-ohio",
+          "owner": "Cleveland State University",
+          "sourceHash": "af548a1f871eacd85a0598d824910a2fcbaafba8a4e1c34b90be3e9eab0fc1ce",
+          "sourceTextHash": "68a4133cfdcd0e0f4c08c4d6ae68e7d20f65ecaf22f390461c9f40f630c505ab",
+          "transcription": "page-text"
+        }
+      ],
+      "review": {
+        "candidateId": "cleveland-state-university-cleveland-state-commitment",
+        "verdict": "PASS",
+        "destination": "NEWS",
+        "promptVersion": "resident-reviewer-v6",
+        "reviewedAt": "2026-10-12T11:44:17.229Z",
+        "candidateHash": "2fd71a9276fed6367a2d22bdeba464f113920aecb237fc493a12aa1566347991",
+        "claimChecks": [
+          {
+            "claimIds": [
+              "c1"
+            ],
+            "sourceIds": [
+              "00a44088996444f8ab95"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c2"
+            ],
+            "sourceIds": [
+              "00a44088996444f8ab95"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c3"
+            ],
+            "sourceIds": [
+              "00a44088996444f8ab95"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c4"
+            ],
+            "sourceIds": [
+              "00a44088996444f8ab95"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c5"
+            ],
+            "sourceIds": [
+              "00a44088996444f8ab95"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c6"
+            ],
+            "sourceIds": [
+              "00a44088996444f8ab95"
+            ],
+            "support": "SUPPORTED"
+          }
+        ]
+      },
+      "selection": {
+        "scores": {
+          "impact": 3,
+          "usefulness": 3,
+          "timeliness": 2
+        },
+        "affectedAudience": "Wadsworth families with students graduating from high school in spring 2027 and considering Cleveland State University.",
+        "wadsworthConnection": "Ohio-resident eligibility includes qualifying Wadsworth students.",
+        "neighborTakeaway": "Qualifying spring 2027 graduates could attend CSU tuition-free, but living expenses and program-specific fees remain separate.",
+        "newBeyondPriorCoverage": "No supplied prior story covers the tuition program approved October 9."
+      }
+    },
+    {
+      "slug": "medina-county-measles-2026",
+      "category": "Health",
+      "title": "County reports one confirmed, one probable measles case this year",
+      "dek": "The health department says risk remains low for vaccinated people.",
+      "body": "Medina County reported one confirmed and one probable measles case in its 2026 tally as of October 9. These are countywide year-to-date figures, not a count of new infections that day.\n\nThe Medina County Health Department says it is following up on potential exposures. It recommends the measles, mumps and rubella vaccine and says doctors recommend two doses. For vaccinated members of the public, the department says the risk of contracting measles remains low.",
+      "revisionKind": "NEW",
+      "correctionNote": "",
+      "source": {
+        "title": "Health Alerts",
+        "url": "https://medinahealth.org/health-alerts/",
+        "owner": "Medina County Health Department",
+        "checked": "2026-10-12",
+        "published": "2026-10-09"
+      },
+      "editorial": {
+        "destination": "NEWS",
+        "eventDate": "2026-10-09",
+        "decisionDate": "",
+        "availabilityDate": "",
+        "readerPerspectives": [
+          "busy_parent",
+          "school_parent",
+          "casual_neighbor"
+        ],
+        "residentValue": "Provides a dated local case tally with vaccination guidance and risk context, without implying a Wadsworth exposure or a rising trend.",
+        "change": "The health department reports an October 9 year-to-date tally of one confirmed and one probable measles case.",
+        "whyNow": "The substantive health update is dated October 9; infection dates are not established.",
+        "review": "independent-pass",
+        "publicationMode": "routine",
+        "publicationCutoff": "2026-10-12"
+      },
+      "evidenceRefs": [
+        {
+          "assertion": "As of October 9, Medina County's 2026 tally included one confirmed and one probable measles case; the tally does not identify infection dates.",
+          "sourceId": "48c7bdbf36f25f1bdd24",
+          "page": 1,
+          "quote": "As of October 9th, Medina County has reported 2 cases of measles (one confirmed, one probable) in 2026.",
+          "claimId": "c1",
+          "url": "https://medinahealth.org/health-alerts/",
+          "owner": "Medina County Health Department",
+          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
+          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The health department says risk remains low for vaccinated members of the public.",
+          "sourceId": "48c7bdbf36f25f1bdd24",
+          "page": 1,
+          "quote": "For the general public, the risk of contracting measles for vaccinated individuals remains low.",
+          "claimId": "c2",
+          "url": "https://medinahealth.org/health-alerts/",
+          "owner": "Medina County Health Department",
+          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
+          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The department recommends MMR vaccination and says doctors recommend two doses.",
+          "sourceId": "48c7bdbf36f25f1bdd24",
+          "page": 1,
+          "quote": "The best way to protect yourself against measles is to get the measles, mumps, and rubella (MMR) vaccine. Two doses are recommended by doctors.",
+          "claimId": "c3",
+          "url": "https://medinahealth.org/health-alerts/",
+          "owner": "Medina County Health Department",
+          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
+          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The department is following up on potential exposures.",
+          "sourceId": "48c7bdbf36f25f1bdd24",
+          "page": 1,
+          "quote": "The Medina County Health Department is monitoring the situation, following up with any potential exposures, and will provide any updates to the current situation on this webpage.",
+          "claimId": "c4",
+          "url": "https://medinahealth.org/health-alerts/",
+          "owner": "Medina County Health Department",
+          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
+          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "transcription": "page-text"
+        }
+      ],
+      "review": {
+        "candidateId": "medina-county-measles-2026",
+        "verdict": "PASS",
+        "destination": "NEWS",
+        "promptVersion": "resident-reviewer-v6",
+        "reviewedAt": "2026-10-12T11:44:17.229Z",
+        "candidateHash": "3a0554d26990a067a13e5968e45650f025203b112f83cd902331145312bfe9c3",
+        "claimChecks": [
+          {
+            "claimIds": [
+              "c1"
+            ],
+            "sourceIds": [
+              "48c7bdbf36f25f1bdd24"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c2"
+            ],
+            "sourceIds": [
+              "48c7bdbf36f25f1bdd24"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c3"
+            ],
+            "sourceIds": [
+              "48c7bdbf36f25f1bdd24"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
+              "c4"
+            ],
+            "sourceIds": [
+              "48c7bdbf36f25f1bdd24"
+            ],
+            "support": "SUPPORTED"
+          }
+        ]
+      },
+      "selection": {
+        "scores": {
+          "impact": 2,
+          "usefulness": 2,
+          "timeliness": 2
+        },
+        "affectedAudience": "Medina County residents, including Wadsworth families assessing measles precautions.",
+        "wadsworthConnection": "The health department's countywide reporting and guidance cover Wadsworth residents; no Wadsworth case location is established.",
+        "neighborTakeaway": "The county's October 9 tally includes one confirmed and one probable measles case this year; the health department says risk remains low for vaccinated people.",
+        "newBeyondPriorCoverage": "No supplied prior story covers the October 9 county measles tally."
       }
     }
   ],
