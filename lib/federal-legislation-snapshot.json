@@ -99,7 +99,7 @@
             "date": "2026-09-16",
             "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
           },
-          "status": "Passed House · Senate consideration",
+          "status": "Passed House \u00b7 Senate consideration",
           "milestones": [
             {
               "label": "Introduced",
@@ -1831,7 +1831,7 @@
             "date": "2025-03-26",
             "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
           },
-          "status": "Passed House · Senate consideration",
+          "status": "Passed House \u00b7 Senate consideration",
           "milestones": [
             {
               "label": "Introduced",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-12T11:54:56.745897+00:00",
-      "lastAttempt": "2026-10-12T11:54:56.745897+00:00",
+      "collectedAt": "2026-10-12T11:56:34.803941+00:00",
+      "lastAttempt": "2026-10-12T11:56:34.803941+00:00",
       "status": "ok"
     },
     {
@@ -3545,8 +3545,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-12T11:54:56.745897+00:00",
-      "lastAttempt": "2026-10-12T11:54:56.745897+00:00",
+      "collectedAt": "2026-10-12T11:56:34.803941+00:00",
+      "lastAttempt": "2026-10-12T11:56:34.803941+00:00",
       "status": "ok"
     },
     {
@@ -3560,7 +3560,7 @@
         {
           "bill": "S. 5638",
           "number": 5638,
-          "title": "Protecting American Workers Through H–1B Modernization Act.",
+          "title": "Protecting American Workers Through H\u20131B Modernization Act.",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5638",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5638.xml",
           "sourceHash": "90569e86041d7963ed831308f1bbcd68df731f629b6f66e8331d614adc389333",
@@ -4918,7 +4918,7 @@
         {
           "bill": "S. 4459",
           "number": 4459,
-          "title": "Expanding Appalachia’s Broadband Access Act",
+          "title": "Expanding Appalachia\u2019s Broadband Access Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4459",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4459.xml",
           "sourceHash": "4d73d507949333bd2b64682377064458b2e374bf076ff62e4b6260dcf93d4dad",
@@ -4977,12 +4977,12 @@
               "type": "IntroReferral"
             }
           ],
-          "summary": "Expanding Appalachia’s Broadband Access Act This bill requires the Government Accountability Office to study and report to Congress on the Appalachian Regional Commission’s capability to incorporate satellites in broadband projects. Specifically, the study must review and analyze the capacity and cost-effectiveness of using satellite broadband service for business purposes and economic development.&nbsp;"
+          "summary": "Expanding Appalachia\u2019s Broadband Access Act This bill requires the Government Accountability Office to study and report to Congress on the Appalachian Regional Commission\u2019s capability to incorporate satellites in broadband projects. Specifically, the study must review and analyze the capacity and cost-effectiveness of using satellite broadband service for business purposes and economic development.&nbsp;"
         },
         {
           "bill": "S. 4159",
           "number": 4159,
-          "title": "Sammy’s Law",
+          "title": "Sammy\u2019s Law",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4159",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4159.xml",
           "sourceHash": "68a5fdcc20f1b32454b856c90c208f62bba9f4b489537b11434805eaa84fc8ca",
@@ -5430,7 +5430,7 @@
         {
           "bill": "S. 3703",
           "number": 3703,
-          "title": "Rural Veterans’ Improved Access to Benefits Act of 2026",
+          "title": "Rural Veterans\u2019 Improved Access to Benefits Act of 2026",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3703",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3703.xml",
           "sourceHash": "80b1e7a605f290a0c4d53e5f3bcb7216a8c0ea507d25112a9be96121505c4bf3",
@@ -6668,8 +6668,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-12T11:54:56.745897+00:00",
-      "lastAttempt": "2026-10-12T11:54:56.745897+00:00",
+      "collectedAt": "2026-10-12T11:56:34.803941+00:00",
+      "lastAttempt": "2026-10-12T11:56:34.803941+00:00",
       "status": "ok"
     }
   ]
