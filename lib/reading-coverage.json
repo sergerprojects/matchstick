@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-10-11T10:00:29.237Z",
+  "checkedAt": "2026-10-12T10:03:11.963Z",
   "version": "complete-reader-v1",
-  "cutoff": "2026-10-11",
-  "totalDocuments": 133,
-  "completeDocuments": 120,
-  "totalChunks": 158,
-  "completeChunks": 144,
+  "cutoff": "2026-10-12",
+  "totalDocuments": 130,
+  "completeDocuments": 117,
+  "totalChunks": 155,
+  "completeChunks": 141,
   "documents": [
     {
       "sourceId": "d069c4fdd926c915bdb4",
@@ -36,11 +36,11 @@
       "complete": true
     },
     {
-      "sourceId": "2ae1a87ee242e5235d64",
+      "sourceId": "6ccbc7422d813dfa5a37",
       "scope": "complete document",
-      "pageCount": 23,
+      "pageCount": 30,
       "chunkCount": 1,
-      "complete": true
+      "complete": false
     },
     {
       "sourceId": "3ff8f335646a9a5c2e07",
@@ -48,6 +48,13 @@
       "pageCount": 10,
       "chunkCount": 1,
       "complete": false
+    },
+    {
+      "sourceId": "2ae1a87ee242e5235d64",
+      "scope": "complete document",
+      "pageCount": 23,
+      "chunkCount": 1,
+      "complete": true
     },
     {
       "sourceId": "3808d74ee05c4ae89092",
@@ -62,13 +69,6 @@
       "pageCount": 2,
       "chunkCount": 1,
       "complete": true
-    },
-    {
-      "sourceId": "6ccbc7422d813dfa5a37",
-      "scope": "complete document",
-      "pageCount": 30,
-      "chunkCount": 1,
-      "complete": false
     },
     {
       "sourceId": "e1856ac7fbdfb5b03a06",
@@ -120,13 +120,6 @@
       "complete": true
     },
     {
-      "sourceId": "533d2d2119974b07e913",
-      "scope": "complete document",
-      "pageCount": 3,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
       "sourceId": "095ca5e2adc7220c9ba8",
       "scope": "complete document",
       "pageCount": 6,
@@ -134,16 +127,9 @@
       "complete": true
     },
     {
-      "sourceId": "de1ee921267a079e447c",
+      "sourceId": "533d2d2119974b07e913",
       "scope": "complete document",
-      "pageCount": 14,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "5ebf4c85e6d495aa9caf",
-      "scope": "complete document",
-      "pageCount": 32,
+      "pageCount": 3,
       "chunkCount": 1,
       "complete": true
     },
@@ -155,9 +141,23 @@
       "complete": true
     },
     {
-      "sourceId": "d837d0b50bf2e3224654",
+      "sourceId": "5ebf4c85e6d495aa9caf",
       "scope": "complete document",
-      "pageCount": 8,
+      "pageCount": 32,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "de1ee921267a079e447c",
+      "scope": "complete document",
+      "pageCount": 14,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "490aadd865d2122a39c3",
+      "scope": "complete document",
+      "pageCount": 4,
       "chunkCount": 1,
       "complete": true
     },
@@ -166,13 +166,6 @@
       "scope": "complete document",
       "pageCount": 26,
       "chunkCount": 2,
-      "complete": true
-    },
-    {
-      "sourceId": "490aadd865d2122a39c3",
-      "scope": "complete document",
-      "pageCount": 4,
-      "chunkCount": 1,
       "complete": true
     },
     {
@@ -190,16 +183,9 @@
       "complete": true
     },
     {
-      "sourceId": "231821dc75658d0cd813",
+      "sourceId": "d837d0b50bf2e3224654",
       "scope": "complete document",
-      "pageCount": 14,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "26e219aa49db1f518191",
-      "scope": "complete document",
-      "pageCount": 10,
+      "pageCount": 8,
       "chunkCount": 1,
       "complete": true
     },
@@ -211,6 +197,13 @@
       "complete": true
     },
     {
+      "sourceId": "231821dc75658d0cd813",
+      "scope": "complete document",
+      "pageCount": 14,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
       "sourceId": "70e5b9458a9da4a1768f",
       "scope": "complete document",
       "pageCount": 8,
@@ -218,16 +211,23 @@
       "complete": true
     },
     {
-      "sourceId": "0c1cbbc42332ef41e9bb",
+      "sourceId": "7c5c24e1072efb4a188c",
       "scope": "complete document",
-      "pageCount": 2,
+      "pageCount": 8,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "7c5c24e1072efb4a188c",
+      "sourceId": "26e219aa49db1f518191",
       "scope": "complete document",
-      "pageCount": 8,
+      "pageCount": 10,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "0c1cbbc42332ef41e9bb",
+      "scope": "complete document",
+      "pageCount": 2,
       "chunkCount": 1,
       "complete": true
     },
@@ -246,16 +246,16 @@
       "complete": true
     },
     {
-      "sourceId": "e36438f19e61cb83f987",
+      "sourceId": "541e8249c6ec0af3373c",
       "scope": "complete document",
-      "pageCount": 9,
+      "pageCount": 10,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "541e8249c6ec0af3373c",
+      "sourceId": "e36438f19e61cb83f987",
       "scope": "complete document",
-      "pageCount": 10,
+      "pageCount": 9,
       "chunkCount": 1,
       "complete": true
     },
@@ -281,9 +281,9 @@
       "complete": true
     },
     {
-      "sourceId": "c7eaebc245c72ce6e8b9",
+      "sourceId": "c319f341934d50fb6927",
       "scope": "complete document",
-      "pageCount": 20,
+      "pageCount": 15,
       "chunkCount": 1,
       "complete": true
     },
@@ -295,14 +295,14 @@
       "complete": true
     },
     {
-      "sourceId": "c319f341934d50fb6927",
+      "sourceId": "c7eaebc245c72ce6e8b9",
       "scope": "complete document",
-      "pageCount": 15,
+      "pageCount": 20,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "abcfb9916dc8d2c2c5be",
+      "sourceId": "9b4272c54592376c7571",
       "scope": "complete document",
       "pageCount": 4,
       "chunkCount": 1,
@@ -312,13 +312,6 @@
       "sourceId": "6a730afba778d67b64fe",
       "scope": "complete document",
       "pageCount": 10,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "9b4272c54592376c7571",
-      "scope": "complete document",
-      "pageCount": 4,
       "chunkCount": 1,
       "complete": true
     },
@@ -337,16 +330,9 @@
       "complete": true
     },
     {
-      "sourceId": "e4371c980b4d82760907",
+      "sourceId": "abcfb9916dc8d2c2c5be",
       "scope": "complete document",
-      "pageCount": 1,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "3b45ec8febb43f9345e4",
-      "scope": "complete document",
-      "pageCount": 1,
+      "pageCount": 4,
       "chunkCount": 1,
       "complete": true
     },
@@ -354,13 +340,6 @@
       "sourceId": "a40c02a3953b9663741a",
       "scope": "complete document",
       "pageCount": 13,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "4ab8706c7dff0e49a4cd",
-      "scope": "complete document",
-      "pageCount": 14,
       "chunkCount": 1,
       "complete": true
     },
@@ -414,17 +393,24 @@
       "complete": true
     },
     {
-      "sourceId": "4b352ae5d04f434745d3",
-      "scope": "complete document",
-      "pageCount": 222,
-      "chunkCount": 7,
-      "complete": true
-    },
-    {
       "sourceId": "36b8fa799bd618fe0c56",
       "scope": "complete document",
       "pageCount": 2,
       "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "1c17f1e99f09eafc1fd5",
+      "scope": "complete document",
+      "pageCount": 156,
+      "chunkCount": 6,
+      "complete": true
+    },
+    {
+      "sourceId": "4b352ae5d04f434745d3",
+      "scope": "complete document",
+      "pageCount": 222,
+      "chunkCount": 7,
       "complete": true
     },
     {
@@ -449,17 +435,17 @@
       "complete": true
     },
     {
-      "sourceId": "1c17f1e99f09eafc1fd5",
-      "scope": "complete document",
-      "pageCount": 156,
-      "chunkCount": 6,
-      "complete": true
-    },
-    {
       "sourceId": "874d833ee1d039c84d4d",
       "scope": "complete document",
       "pageCount": 118,
       "chunkCount": 4,
+      "complete": true
+    },
+    {
+      "sourceId": "6eac540dee5bdb58789e",
+      "scope": "complete document",
+      "pageCount": 1,
+      "chunkCount": 1,
       "complete": true
     },
     {
@@ -477,13 +463,6 @@
       "complete": true
     },
     {
-      "sourceId": "6eac540dee5bdb58789e",
-      "scope": "complete document",
-      "pageCount": 1,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
       "sourceId": "7d49283ff3fe0c800653",
       "scope": "complete document",
       "pageCount": 1,
@@ -491,16 +470,16 @@
       "complete": true
     },
     {
-      "sourceId": "d57eae99b6590569e743",
+      "sourceId": "7dabe42f4927503ccc3d",
       "scope": "complete document",
-      "pageCount": 3,
+      "pageCount": 4,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "7dabe42f4927503ccc3d",
+      "sourceId": "d57eae99b6590569e743",
       "scope": "complete document",
-      "pageCount": 4,
+      "pageCount": 3,
       "chunkCount": 1,
       "complete": true
     },
@@ -526,16 +505,16 @@
       "complete": true
     },
     {
-      "sourceId": "d02815dc0444f400ec8f",
+      "sourceId": "7245505943cfd5b36f83",
       "scope": "complete document",
-      "pageCount": 4,
+      "pageCount": 1,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "7245505943cfd5b36f83",
+      "sourceId": "d02815dc0444f400ec8f",
       "scope": "complete document",
-      "pageCount": 1,
+      "pageCount": 4,
       "chunkCount": 1,
       "complete": true
     },
@@ -561,13 +540,6 @@
       "complete": true
     },
     {
-      "sourceId": "06e17e76d7eb9c7f5b91",
-      "scope": "complete document",
-      "pageCount": 3,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
       "sourceId": "ca04ca4d0adbba6e9729",
       "scope": "complete document",
       "pageCount": 4,
@@ -578,6 +550,13 @@
       "sourceId": "d1da808071fb534bef8a",
       "scope": "complete document",
       "pageCount": 5,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "06e17e76d7eb9c7f5b91",
+      "scope": "complete document",
+      "pageCount": 3,
       "chunkCount": 1,
       "complete": true
     },
@@ -624,10 +603,10 @@
       "complete": true
     },
     {
-      "sourceId": "6eb9d07a3c8f567c9fa1",
+      "sourceId": "17bd5096e1c21a04fc4b",
       "scope": "complete document",
-      "pageCount": 23,
-      "chunkCount": 1,
+      "pageCount": 55,
+      "chunkCount": 2,
       "complete": true
     },
     {
@@ -638,17 +617,17 @@
       "complete": true
     },
     {
-      "sourceId": "6551638f6eca0a89084a",
+      "sourceId": "6eb9d07a3c8f567c9fa1",
       "scope": "complete document",
-      "pageCount": 21,
+      "pageCount": 23,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "17bd5096e1c21a04fc4b",
+      "sourceId": "6551638f6eca0a89084a",
       "scope": "complete document",
-      "pageCount": 55,
-      "chunkCount": 2,
+      "pageCount": 21,
+      "chunkCount": 1,
       "complete": true
     },
     {
@@ -662,6 +641,13 @@
       "sourceId": "2de9afc7f54d8e4b3bb6",
       "scope": "complete document",
       "pageCount": 60,
+      "chunkCount": 2,
+      "complete": true
+    },
+    {
+      "sourceId": "fba28a2de99a526b2b02",
+      "scope": "complete document",
+      "pageCount": 62,
       "chunkCount": 2,
       "complete": true
     },
@@ -680,21 +666,7 @@
       "complete": true
     },
     {
-      "sourceId": "fba28a2de99a526b2b02",
-      "scope": "complete document",
-      "pageCount": 62,
-      "chunkCount": 2,
-      "complete": true
-    },
-    {
       "sourceId": "5f7033bfe801414d2dfd",
-      "scope": "complete document",
-      "pageCount": 1,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "55b456488d314490693b",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,
@@ -708,7 +680,7 @@
       "complete": true
     },
     {
-      "sourceId": "ae5274345f5977b56afc",
+      "sourceId": "55b456488d314490693b",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,
@@ -716,6 +688,20 @@
     },
     {
       "sourceId": "3e3f1542c59e6ead55fa",
+      "scope": "complete document",
+      "pageCount": 1,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "85c105a137e2e5491c15",
+      "scope": "complete document",
+      "pageCount": 1,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
+      "sourceId": "ae5274345f5977b56afc",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,
@@ -736,7 +722,7 @@
       "complete": true
     },
     {
-      "sourceId": "85c105a137e2e5491c15",
+      "sourceId": "80d0f892c621de3ffa18",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,
@@ -750,7 +736,7 @@
       "complete": true
     },
     {
-      "sourceId": "80d0f892c621de3ffa18",
+      "sourceId": "78c98246d7f48a40ca58",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,
@@ -765,13 +751,6 @@
     },
     {
       "sourceId": "9c3ec2f5361c410f89a9",
-      "scope": "complete document",
-      "pageCount": 1,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "78c98246d7f48a40ca58",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,
@@ -799,6 +778,13 @@
       "complete": true
     },
     {
+      "sourceId": "2afc6edeaab1f3f27800",
+      "scope": "complete document",
+      "pageCount": 2,
+      "chunkCount": 1,
+      "complete": true
+    },
+    {
       "sourceId": "caf024bb9f4319e35c0b",
       "scope": "complete document",
       "pageCount": 2,
@@ -813,14 +799,14 @@
       "complete": true
     },
     {
-      "sourceId": "2afc6edeaab1f3f27800",
+      "sourceId": "b498f0b05f204122eb4c",
       "scope": "complete document",
       "pageCount": 2,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "b498f0b05f204122eb4c",
+      "sourceId": "d560a809fae88a127c3a",
       "scope": "complete document",
       "pageCount": 2,
       "chunkCount": 1,
@@ -834,16 +820,16 @@
       "complete": true
     },
     {
-      "sourceId": "d560a809fae88a127c3a",
+      "sourceId": "d31e9ef9b9443831699e",
       "scope": "complete document",
-      "pageCount": 2,
+      "pageCount": 1,
       "chunkCount": 1,
       "complete": true
     },
     {
-      "sourceId": "d31e9ef9b9443831699e",
+      "sourceId": "2ba400633abe5050baa5",
       "scope": "complete document",
-      "pageCount": 1,
+      "pageCount": 4,
       "chunkCount": 1,
       "complete": true
     },
@@ -855,9 +841,9 @@
       "complete": true
     },
     {
-      "sourceId": "2ba400633abe5050baa5",
+      "sourceId": "fd1b8f838cbdc20039fb",
       "scope": "complete document",
-      "pageCount": 4,
+      "pageCount": 2,
       "chunkCount": 1,
       "complete": true
     },
@@ -872,13 +858,6 @@
       "sourceId": "20a2c1289393d702a426",
       "scope": "complete document",
       "pageCount": 3,
-      "chunkCount": 1,
-      "complete": true
-    },
-    {
-      "sourceId": "fd1b8f838cbdc20039fb",
-      "scope": "complete document",
-      "pageCount": 2,
       "chunkCount": 1,
       "complete": true
     },
@@ -932,7 +911,7 @@
       "complete": true
     },
     {
-      "sourceId": "a8eba2fcb4faf9c48a60",
+      "sourceId": "d8b62d78d18fe3777f40",
       "scope": "complete document",
       "pageCount": 1,
       "chunkCount": 1,

@@ -1,9 +1,9 @@
 {
-  "lastAttempt": "2026-10-11T10:00:41.837Z",
+  "lastAttempt": "2026-10-12T10:03:24.202Z",
   "status": "awaiting-deployment",
   "lastSuccess": "2026-10-05T20:15:16.613Z",
   "collection": {
-    "completedAt": "2026-10-11T10:00:29.129Z",
+    "completedAt": "2026-10-12T10:03:11.853Z",
     "documents": 183,
     "failures": 0
   },
