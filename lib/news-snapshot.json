@@ -1,27 +1,27 @@
 {
-  "cutoff": "2026-10-05",
-  "publishedAt": "2026-10-07T01:25:59.586287+00:00",
-  "editorPrompt": "resident-editor-v5",
-  "reviewerPrompt": "resident-reviewer-v5",
+  "cutoff": "2026-10-12",
+  "publishedAt": "2026-10-12T11:37:58.949Z",
+  "editorPrompt": "resident-editor-v6",
+  "reviewerPrompt": "resident-reviewer-v6",
   "stories": [
     {
       "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
       "category": "Schools",
-      "title": "Paycheck, meet the school ballot.",
-      "dek": "November 3: a five-year, 1% tax on qualifying earned income. A paycheck and a retirement check would get different treatment.",
-      "body": "Wadsworth school district voters will decide whether to tax qualifying wages, salaries, tips and self-employment income at 1%. Retirement income, interest, dividends, capital gains and unemployment benefits would be excluded. The kind of check arriving matters.\n\nThe district has already eliminated or left unfilled 25 teaching positions, one administrator and numerous support positions for 2026–27. It also canceled three planned bus purchases.\n\nEven after those cuts, its August General Fund forecast projects reserves running out in fiscal 2029 without further changes. Voters face a real funding question; the forecast describes the road ahead, not an empty bank account today.",
-      "revisionKind": "STYLE",
+      "title": "Wadsworth school tax choice comes amid cuts and shrinking reimbursements",
+      "dek": "The district rescheduled textbook purchases and held union base pay flat, while retaining raises for eligible employees moving up the pay schedule.",
+      "body": "Wadsworth school district voters will decide November 3 whether to approve a five-year, 1% tax on qualifying earned income. Wages and qualifying self-employment income would be covered; retirement income, interest, dividends and capital gains would be excluded.\n\nState payments for qualifying high-cost special-education services fell from $669,079 in fiscal 2024 to $472,961 in fiscal 2026, the district reported in August. It attributes the decline to more districts sharing the funding pool, rather than fewer costs submitted by Wadsworth.\n\nThe district also changed its textbook purchase schedule after May's levy failure. Its one-year union contract extensions hold base pay flat, but eligible employees can still move up the pay schedule and receive raises. A base-pay freeze doesn't freeze every paycheck.\n\nThe district's August 2026 forecast projects General Fund reserves running out in fiscal 2029 without changes.",
+      "revisionKind": "UPDATE",
       "correctionNote": "",
       "source": {
         "title": "Click here to view the Four Year Assumptions",
         "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
         "owner": "Wadsworth City Schools",
-        "checked": "2026-10-05",
-        "published": "2026-09-14"
+        "checked": "2026-10-12",
+        "published": ""
       },
       "editorial": {
         "destination": "EXPLAINER",
-        "eventDate": "2026-09-14",
+        "eventDate": "",
         "decisionDate": "2026-11-03",
         "availabilityDate": "",
         "readerPerspectives": [
@@ -29,16 +29,16 @@
           "busy_parent",
           "business_owner"
         ],
-        "residentValue": "Helps voters understand existing spending reductions, rising costs and conditional financial oversight before deciding on the proposed tax.",
-        "change": "The election explainer gains substantive budget context and the district's September report about a conditional financial-plan requirement.",
-        "whyNow": "The November 3 election is 29 days after cutoff. The added facts materially expand the existing explainer and remain explicitly dated background.",
+        "residentValue": "Helps voters understand revenue losses and spending measures before deciding on the proposed school income tax.",
+        "change": "The election explainer gains additional financial background from August, including reimbursement losses, textbook timing and union pay provisions.",
+        "whyNow": "The November 3, 2026 election is within 30 days of the October 12 cutoff, and these details expand the financial context for that choice.",
         "review": "independent-pass",
-        "publicationMode": "catch-up",
-        "publicationCutoff": "2026-10-05"
+        "publicationMode": "routine",
+        "publicationCutoff": "2026-10-12"
       },
       "evidenceRefs": [
         {
-          "assertion": "The district placed a five-year, 1% earned income tax on the November 3, 2026 ballot and projected reserve depletion in fiscal 2029 without changes.",
+          "assertion": "Wadsworth school district voters will decide a proposed five-year, 1% earned-income tax on November 3, 2026; the district projects cash reserves depleted in fiscal 2029 without changes.",
           "sourceId": "444e30c979bd4777b311",
           "page": 19,
           "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
@@ -50,10 +50,10 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "District residents would pay the tax if approved.",
+          "assertion": "Qualifying employee compensation and self-employment income are included in earned income; retirement income, interest, dividends and capital gains are excluded.",
           "sourceId": "efedf274fcacf627cdd7",
           "page": 4,
-          "quote": "If approved, the earned income tax is paid by residents of the Wadsworth City School District,\nas outlined in the question above.",
+          "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
           "claimId": "c2",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
           "owner": "Wadsworth City Schools",
@@ -62,22 +62,22 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The district's definition includes the specified compensation and self-employment income to the extent included in modified adjusted gross income and excludes the listed retirement, investment and unemployment income.",
-          "sourceId": "efedf274fcacf627cdd7",
-          "page": 4,
-          "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
+          "assertion": "The Wadsworth City Schools financial projection is dated August 2026.",
+          "sourceId": "444e30c979bd4777b311",
+          "page": 1,
+          "quote": "Wadsworth City Schools\n                   Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
           "claimId": "c3",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
-          "sourceTextHash": "428e54856c8a626596f2ce45756de489554419a11f9325320c45bb3ff9df606e",
+          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
           "transcription": "page-text"
         },
         {
-          "assertion": "The financial projection is dated August 2026.",
+          "assertion": "The reimbursement program provides state funding toward qualifying special-education costs; the district attributes declining reimbursements to more districts sharing the available pool, rather than fewer submitted costs.",
           "sourceId": "444e30c979bd4777b311",
-          "page": 1,
-          "quote": "Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
+          "page": 10,
+          "quote": "Under the FSFP, the amount of funding allocated to special education\n             for every district is reduced by 10% to fund Threshold Cost reimbursements. Prior to the\n             FSFP, districts applied for Threshold Costs reimbursements to generate additional funds\n             for special education. The district's threshold cost amount has declined over the past three\n             years. Not because the district is submitting fewer costs. The state allocates a flat dollar\n             amount to Threshold costs reimbursements based on what is deducted from each schools\n             foundation. As more schools participate in Threshold costs less is available to each\n             district.",
           "claimId": "c4",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
           "owner": "Wadsworth City Schools",
@@ -86,10 +86,10 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The district reported 25 teaching positions, one administrator and numerous support positions eliminated or left unfilled for 2026–27.",
+          "assertion": "State special-education reimbursements fell from $669,079 in fiscal 2024 to $472,961 in fiscal 2026.",
           "sourceId": "444e30c979bd4777b311",
-          "page": 2,
-          "quote": "25 teaching staff, 1 administrator, and numerous support staff positions\n                 were RIF’d/not filled for the 2026-27 school year",
+          "page": 10,
+          "quote": "FY 2024\n   • District Deduction (10% Share): $170,808\n   • State Reimbursement Received: $669,079\n   • Return on Deduction: 390% more\nFY 2025\n   • District Deduction (10% Share): $163,362\n   • State Reimbursement Received: $518,143\n   • Return on Deduction: 317% more than the district’s share\nFY 2026\n   • District Deduction (10% Share): $163,981\n   • State Reimbursement Received: $472,961",
           "claimId": "c5",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
           "owner": "Wadsworth City Schools",
@@ -98,22 +98,22 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The listed reductions include 14 elementary classroom FTE and 1.78 elementary art, music and physical-education FTE.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 116,
-          "quote": "K-4 Elementary Teachers (-14 FTE)\n                    ▪ K-4 Encore teachers - art, music, PE (1.78 FTE – 3 positions)",
+          "assertion": "Following May's levy failure, the district reduced supplies spending and changed its textbook purchase schedule.",
+          "sourceId": "444e30c979bd4777b311",
+          "page": 16,
+          "quote": "As a result of the levy failure in May, there was a reduction in the supplies category, primarily\nrelated to custodial and technology supplies. However, the major reduction in supplies for FY\n27 is a change to the textbook adoption schedule as outlined on the next page",
           "claimId": "c6",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
+          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
           "transcription": "page-text"
         },
         {
-          "assertion": "The forecast plans three additional certified-staff reductions for 2027–28.",
+          "assertion": "The teachers' union agreement was extended for one year without base-pay increases, while eligible employees retain increases through movement up the pay schedule.",
           "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 116,
-          "quote": "The forecast incorporates a planned reduction in professional staff, aligned\n                        with the anticipated decline in our student enrollment of an additional three\n                        certified staff for the 2027-28 school year.",
+          "page": 115,
+          "quote": "The district and the Wadsworth Education Association (WEA) are in a one-year\n             rollover of the previous three-year contract. The rollover includes step increases for\n             eligible employees but no increases in base pay.",
           "claimId": "c7",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
           "owner": "Wadsworth City Schools",
@@ -122,99 +122,27 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Three fiscal 2027 bus purchases were eliminated and replacement was reduced to one bus annually in fiscal 2028 and 2029; these figures concern vehicle replacement, not route cancellations.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 17,
-          "quote": "Previously, the district purchased 3 buses per year to keep a healthy cycle of\n                         bus replacement about every 12 years. Due to the budget reductions outlined\n                         in the spring of 2026, the 3 buses for 2027 were eliminated. In addition, bus\n                         replacement was reduced to 1 per year for FY 28 and 29.",
+          "assertion": "The support personnel union agreement was also extended for one year without base-pay increases, while retaining eligible increases within the pay schedule; unchanged base pay therefore does not mean every employee's pay is frozen.",
+          "sourceId": "1c17f1e99f09eafc1fd5",
+          "page": 115,
+          "quote": "The district and the Wadsworth Education Support Personnel Association (WESPA)\n               are also in a one-year rollover of the previous three-year contract. The rollover\n               includes step increases for eligible employees but no increases in base pay.",
           "claimId": "c8",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
           "transcription": "page-text"
         },
         {
-          "assertion": "The district reported a 12.2% healthcare renewal increase for the plan year beginning July 1, 2026.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 14,
-          "quote": "for\nthe 2026-27 plan year, the district's healthcare renewal increased by 12.2%. In the past year,\nthe district experienced a depletion of reserves with the Summit Regional Healthcare\nConsortium (SRHCC) from $2.5M to less than half a million dollars.\nIn April, the SRHCC approved renewal rates for the 2026-27 plan year beginning July 1, 2026.",
+          "assertion": "The forecast addresses General Fund spending, including salaries and benefits.",
+          "sourceId": "1c17f1e99f09eafc1fd5",
+          "page": 115,
+          "quote": "The 2026-27 salaries and benefits are projected to be 82% of General Fund Expenditures.",
           "claimId": "c9",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "Healthcare renewal increases of 11% for fiscal 2028, 2029 and 2030 are forecast assumptions.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 14,
-          "quote": "FY 2017:       5.16%           FY 2022:        0.00%         Projected\n       FY 2018:       2.33%           FY 2023:        1.60%         FY 2027:     12.2%\n       FY 2019:       4.85%           FY 2024:        4.10%         FY 2028:     11.0%\n       FY 2020:       0.00%           FY 2025:        18.61%        FY 2029:     11.0%\n       FY 2021:       0.00%           FY2026:         15.56%        FY 2030:     11.0%",
-          "claimId": "c10",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The projection covers only the General Fund.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 3,
-          "quote": "This Forecast includes the General Fund only.",
-          "claimId": "c11",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The fiscal 2027 projected annual financing shortfall is $2,505,128, approximately $2.51 million, including other financing sources and uses.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 18,
-          "quote": "Budget FY2027     FY2028       FY2029        FY2030\nExcess of Revenues and Other Financing Sources\nover (under) Expenditures and Other Financing Uses        2,505,128-   6,061,573-   8,477,292-   10,588,657-",
-          "claimId": "c12",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The forecast distinguishes annual shortfalls from remaining reserves, with positive cash balances in fiscal 2027 and 2028 before a projected negative balance in fiscal 2029.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 19,
-          "quote": "2024            2025           2026       Change   Budget FY2027   FY2028      FY2029        FY2030\nCash Balance June 30                   21,076,279      16,883,060     14,611,633   -16.7%     12,106,505    6,044,932   2,432,360-   13,021,018-",
-          "claimId": "c13",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The district reported no current fiscal precaution plan requirement because its projected fiscal 2029 deficit was below 5% of appropriation revenue, but said a deficit still projected at the February update would require a plan regardless of amount.",
-          "sourceId": "3eb5b181039f2e548c2b",
-          "page": 2,
-          "quote": "The District was notified by ODEW that we are not required to submit a fiscal\n             precaution plan since the [projected FY 2029 deficit is less than 5% of our\n             appropriation revenue]. If the deficit in FY 29 is still projected in February with the\n             next forecast update, regardless of the amount, we will be required to submit a plan.",
-          "claimId": "c14",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/70e447d1-e458-4304-826f-6597da77a98d",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
-          "sourceTextHash": "ff84e94fafe25baa35c6e0b87798d85af74c1f10ad545b23dd3cd60c7f11ef3e",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The fiscal precaution report occurred September 14, 2026.",
-          "sourceId": "3eb5b181039f2e548c2b",
-          "page": 2,
-          "quote": "Minutes of Regular Meeting                                       Date: September 14, 2026",
-          "claimId": "c15",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/70e447d1-e458-4304-826f-6597da77a98d",
-          "owner": "Wadsworth City Schools",
-          "sourceHash": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
-          "sourceTextHash": "ff84e94fafe25baa35c6e0b87798d85af74c1f10ad545b23dd3cd60c7f11ef3e",
+          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
+          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
           "transcription": "page-text"
         }
       ],
@@ -222,9 +150,9 @@
         "candidateId": "wadsworth-schools-earned-income-tax-2026-11-03",
         "verdict": "PASS",
         "destination": "EXPLAINER",
-        "promptVersion": "resident-reviewer-v5",
-        "reviewedAt": "2026-10-06T00:24:08.592Z",
-        "candidateHash": "3c3b66a9c1e88d4bbca303fe2daee3a8b534d2b40439388a2c02b942caede3e2",
+        "promptVersion": "resident-reviewer-v6",
+        "reviewedAt": "2026-10-12T11:25:13.516Z",
+        "candidateHash": "b7bf7e2e262ce88038c6aee7814c7a87a3ca802d6659ef4d9181d2a96f0891a4",
         "claimChecks": [
           {
             "claimIds": [
@@ -250,7 +178,7 @@
               "c3"
             ],
             "sourceIds": [
-              "efedf274fcacf627cdd7"
+              "444e30c979bd4777b311"
             ],
             "support": "SUPPORTED"
           },
@@ -277,7 +205,7 @@
               "c6"
             ],
             "sourceIds": [
-              "1c17f1e99f09eafc1fd5"
+              "444e30c979bd4777b311"
             ],
             "support": "SUPPORTED"
           },
@@ -295,7 +223,7 @@
               "c8"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311"
+              "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
           },
@@ -304,61 +232,8 @@
               "c9"
             ],
             "sourceIds": [
+              "1c17f1e99f09eafc1fd5",
               "444e30c979bd4777b311"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c10"
-            ],
-            "sourceIds": [
-              "444e30c979bd4777b311"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c11"
-            ],
-            "sourceIds": [
-              "444e30c979bd4777b311"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c12"
-            ],
-            "sourceIds": [
-              "444e30c979bd4777b311"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c13"
-            ],
-            "sourceIds": [
-              "444e30c979bd4777b311"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c14"
-            ],
-            "sourceIds": [
-              "3eb5b181039f2e548c2b"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c15"
-            ],
-            "sourceIds": [
-              "3eb5b181039f2e548c2b"
             ],
             "support": "SUPPORTED"
           },
@@ -366,32 +241,28 @@
             "claimIds": [
               "c1",
               "c5",
-              "c8",
-              "c9"
+              "c6",
+              "c7",
+              "c8"
             ],
             "sourceIds": [
               "444e30c979bd4777b311",
-              "efedf274fcacf627cdd7"
+              "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c13",
-              "c14"
+              "c1",
+              "c5",
+              "c6",
+              "c7",
+              "c8"
             ],
             "sourceIds": [
               "444e30c979bd4777b311",
-              "3eb5b181039f2e548c2b"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [],
-            "sourceIds": [
               "efedf274fcacf627cdd7",
-              "444e30c979bd4777b311",
-              "3eb5b181039f2e548c2b"
+              "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
           }
@@ -403,18 +274,10 @@
           "usefulness": 3,
           "timeliness": 2
         },
-        "affectedAudience": "Wadsworth City School District voters, school families and residents with earned income.",
-        "wadsworthConnection": "The proposed tax, spending reductions and financial forecast concern Wadsworth City School District.",
-        "neighborTakeaway": "The school tax vote follows staffing and bus-purchase reductions; the forecast also includes higher healthcare costs, and the district reported a conditional February requirement for a financial plan.",
-        "newBeyondPriorCoverage": "Adds canceled bus purchases, healthcare premium pressure, the forecast's General Fund scope and the September 14 report about a conditional fiscal precaution plan requirement."
-      },
-      "copyEdit": {
-        "editedAt": "2026-10-08T03:51:38.812397+00:00",
-        "method": "direct editorial rewrite authorized by Chris",
-        "scope": "currently displayed stories and project summaries; original facts and dates retained",
-        "voiceProfile": "matchstick-voice-v2",
-        "priorFactualReviewCandidateHash": "3c3b66a9c1e88d4bbca303fe2daee3a8b534d2b40439388a2c02b942caede3e2",
-        "freshIndependentReview": false
+        "affectedAudience": "Wadsworth City School District voters, school families and residents with qualifying earned income.",
+        "wadsworthConnection": "The November tax proposal and financial forecast concern Wadsworth City Schools.",
+        "neighborTakeaway": "Special-education reimbursements fell and textbook purchases were rescheduled; union base pay stayed flat, but eligible employees can still move up the pay schedule.",
+        "newBeyondPriorCoverage": "Adds August-reported background on declining special-education reimbursements, textbook timing and the distinction between unchanged union base pay and eligible increases within the pay schedule."
       }
     },
     {
@@ -3139,151 +3002,163 @@
     {
       "slug": "wadsworth-marcs-tower-project",
       "category": "Public Safety",
-      "title": "The radio tower has an altitude problem",
-      "dek": "Wadsworth wants further FAA review of a proposed public-safety tower near protected airport airspace.",
-      "body": "The project needed a 180-foot tower. In August, Safety Director Dan Chafin reported that an FAA notice allowed only four feet at the chosen site. That is quite a difference to resolve before ordering the tower.\n\nConsultants calculated another possible limit of about 21.6 feet—still well short of the requirement.\n\nCouncil’s committee is scheduled to consider a request for continued FAA review October 6 at 6 p.m. The request asks the agency to weigh the site’s history and effect on airport operations. It is not permission to build.",
-      "revisionKind": "STYLE",
+      "title": "Wadsworth tower aviation comments due October 17",
+      "dek": "Exceeding an airport screening boundary does not, by itself, establish an aviation hazard.",
+      "body": "The proposed Wadsworth radio tower would stand 199 feet above ground. People with information about its aviation effects have until October 17, 2026, for comments to reach the FAA.\n\nThe FAA’s September 10 notice places the proposal 195 feet above the airport’s conical surface—an imaginary boundary sloping outward and upward. That measures the tower’s reach above the boundary, not its height above ground. The boundary helps screen proposals for further study; exceeding it alone does not establish an aviation hazard.\n\nComments must explain aviation effects in enough detail to be understood and identify study 2026-AGL-2238-OE. Submit them through the FAA’s electronic notification system or mail them to the FAA Obstruction Evaluation Group, 10101 Hillwood Parkway, Fort Worth, TX 76177. The deadline is for receipt, not mailing.",
+      "revisionKind": "UPDATE",
       "correctionNote": "",
       "source": {
-        "title": "Committee of The Whole-Finance Revised Agenda Packet",
+        "title": "Committee of The Whole-Finance 2nd Revised Agenda Packet",
         "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
         "owner": "City of Wadsworth",
-        "checked": "2026-10-05",
-        "published": "2026-08-12"
+        "checked": "2026-10-12",
+        "published": "2026-09-10"
       },
       "editorial": {
         "destination": "EXPLAINER",
-        "eventDate": "2026-08-12",
-        "decisionDate": "2026-10-06",
+        "eventDate": "2026-09-10",
+        "decisionDate": "2026-10-17",
         "availabilityDate": "",
         "readerPerspectives": [
           "casual_neighbor",
-          "prospective_mover"
+          "business_owner"
         ],
-        "residentValue": "Explains the physical obstacle to a public-safety infrastructure project and the limited purpose of the upcoming city action.",
-        "change": "A proposed request for continued FAA review follows the August report of a height restriction.",
-        "whyNow": "The October 6 committee agenda establishes an imminent substantive choice about advancing the project.",
+        "residentValue": "Explains what the height screening means and gives people with aviation information the deadline and requirements for submitting it.",
+        "change": "Adds FAA proposal details and participation requirements to the existing tower explanation; no final FAA determination is established.",
+        "whyNow": "The October 17, 2026 deadline gives readers five days after cutoff to submit aviation information. The decisionDate identifies this participation deadline, not a scheduled FAA determination.",
         "review": "independent-pass",
-        "publicationMode": "catch-up",
-        "publicationCutoff": "2026-10-05"
+        "publicationMode": "routine",
+        "publicationCutoff": "2026-10-12"
       },
       "evidenceRefs": [
         {
-          "assertion": "The October 6 committee agenda includes a proposed resolution supporting the MARCS tower and requesting continued FAA review of operational history and aviation effects.",
+          "assertion": "The proposed project is a radio communications tower subject to FAA review concerning Wadsworth Municipal Airport.",
           "sourceId": "6ccbc7422d813dfa5a37",
           "page": 1,
-          "quote": "1. RESOLUTION NO. 26-______ A RESOLUTION SUPPORTING THE PROPOSED\n          CONSTRUCTION OF A MULTI-AGENCY RADIO COMMUNICATIONS SYSTEM\n          (MARCS) TOWER AND REQUESTING THE FAA TO CONTINUE ITS AERONAUTICAL\n          REVIEW WITH CONSIDERATION OF THE SITE’S OPERATIONAL HISTORY AND\n          THE TOWER’S PRACTICAL EFFECT ON AVIATION ACTIVITY AT THE\n          WADSWORTH MUNICIPAL AIRPORT AND DECLARING AN EMERGENCY",
+          "quote": "CONSTRUCTION OF A MULTI-AGENCY RADIO COMMUNICATIONS SYSTEM\n(MARCS) TOWER AND REQUESTING THE FAA TO CONTINUE ITS\nAERONAUTICAL REVIEW WITH CONSIDERATION OF THE SITE’S\nOPERATIONAL HISTORY AND THE TOWER’S PRACTICAL EFFECT ON\nAVIATION ACTIVITY AT THE WADSWORTH MUNICIPAL AIRPORT",
           "claimId": "c1",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
-          "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "Committee consideration is scheduled October 6, 2026 at 6 p.m.",
+          "assertion": "The FAA notice was issued September 10, 2026.",
           "sourceId": "6ccbc7422d813dfa5a37",
-          "page": 1,
-          "quote": "COMMITTEE OF THE WHOLE / FINANCE\n                                 Wadsworth City Council\n                           Tuesday October 6, 2026 at 6:00 p.m.",
+          "page": 4,
+          "quote": "Tssued Date: 09/10/2026",
           "claimId": "c2",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "1e2f6cdd3102ce5045cff1413b0d4bf82f79ba6f7b26cffae958d121e6108c22",
-          "sourceTextHash": "7e78c6d7d1c236be43bca5690c6e5a883ee0624bd0c4241d1e4644fe4b2f1c70",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "Chafin reported an FAA notice limiting the proposed tower to four feet.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 22,
-          "quote": "Since the last\nmeeting an official notice from the FAA was received to inform the department that a tower was\nallowed to be built as long as it was 4 feet tall or less.",
+          "assertion": "The FAA notice announces an aeronautical study of Tower Wadsworth.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 4,
+          "quote": "The Federal Aviation Administration is conducting an aeronautical study concerning the following:\n\nStructure: Tower Wadsworth",
           "claimId": "c3",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "Chafin explained that the proposed location fell within protected airport airspace.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 22,
-          "quote": "This created what was called the conical\nsurface area; basically, it was a protected flight space. The location of the tower fell within this\nconical surface area.",
+          "assertion": "The proposed tower would stand 199 feet above ground.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 5,
+          "quote": "Proposal: To construct and/or operate a(n) Tower to a height of 199 feet above ground level, 1502 feet above\nmean sea level.",
           "claimId": "c4",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "Consultants calculated about 21.6 feet, compared with the project's needed 180 feet.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 23,
-          "quote": "The\nconsultants calculated the distance (height) to be about 21.6 feet, which was not the height of 180 feet\nneeded, but was better than 4 feet.",
+          "assertion": "The conical surface is an imaginary airport surface.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 6,
+          "quote": "77.17 (a)(5) The surface of a takeoff and landing area of an airport or any imaginary surface established under\n77.19, 77.21, or 77.23.",
           "claimId": "c5",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "The city was preparing a further-review request, with officials describing the project as a safety need for first responders.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 23,
-          "quote": "Right now, word was awaited on some tentative language or response to help the department craft a\nresponse to the FAA to put them on notice that further review was wanted. The process would be\nhelped with navigation and assistance from the consultants to get through things. To have spoken\nwith Perdantus and DAS, both entities agreed and were glad to have had the consultant because it\nsounded like there was more of a grasp of the situation from which to build a case that this project\nwas still an important safety need for the community, first responders, etc.",
+          "assertion": "The conical surface slopes outward and upward, and the proposal exceeds it by 195 feet; this is a surface exceedance rather than the tower's height above ground.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 6,
+          "quote": "77.19 (b) Conical surface. A surface extending outward and upward from the periphery of the horizontal surface\nat a slope of 20 to I for a horizontal distance of 4,000 feet.\n\nExceeds by 195 ft.",
           "claimId": "c6",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "Alternative plans remained exploratory.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 23,
-          "quote": "there were\nsome exploratory conversations for an emergency Plan B if this issue could not be solved.",
+          "assertion": "Obstruction standards screen proposals for further aviation study; exceeding them alone does not establish an aviation hazard.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 6,
+          "quote": "***Part 77 obstruction standards are used to screen the many proposals submitted in order to identify those\nwhich warrant further aeronautical study. This study is conducted in order to determine if the proposal would\nhave a significant adverse effect on aeronautical operations and airspace. While part 77 obstruction standards\nmay trigger formal aeronautical study, including public circularization, these obstruction standards do not\nconstitute absolute or arbitrary criteria for identification of hazards to air navigation. Accordingly, the fact\nthat a proposed structure exceeds certain obstruction standards of part 77 is in itself not sufficient grounds for\nissuance of a determination of hazard to air navigation.",
           "claimId": "c7",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "The historical report occurred August 12, 2026.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 1,
-          "quote": "Council Member Yurchiak welcomed everyone to the August 12, 2026 Public Safety Committee\nmeeting.",
+          "assertion": "Interested people may comment by mail or through the electronic notification system. Comments must explain aviation effects in sufficient detail, identify the study and be received by October 17, 2026. This date is a participation deadline.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 4,
+          "quote": "Interested persons are invited to participate in the aeronautical study by submitting comments to the above\nFAA address or through the electronic notification system. To be eligible for consideration, comments must\n\nbe relevant to the effect the structure would have on aviation, must provide sufficient detail to permit a clear\nunderstanding, must contain the aeronautical study number printed in the upper right hand corner of this notice,\nand must be received on or before 10/17/2026.",
           "claimId": "c8",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         },
         {
-          "assertion": "Dan Chafin was safety director.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 1,
-          "quote": "Safety Director Dan Chafin",
+          "assertion": "The mailing destination is the FAA Obstruction Evaluation Group, 10101 Hillwood Parkway, Fort Worth, TX 76177.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 4,
+          "quote": "Obstruction Evaluation Group\n\n10101 Hillwood Parkway\n\nFort Worth, TX 76177",
           "claimId": "c9",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
           "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
+        },
+        {
+          "assertion": "The aeronautical study number is 2026-AGL-2238-OE.",
+          "sourceId": "6ccbc7422d813dfa5a37",
+          "page": 4,
+          "quote": "On any future correspondence concerning this matter, please refer to Aeronautical\nStudy Number 2026-AGL-2238-OE,",
+          "claimId": "c10",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_10062026-865",
+          "owner": "City of Wadsworth",
+          "sourceHash": "88d1d2f4f43ec40f96db0e322493a14f3bb994be1329d5c18b3862dae525f565",
+          "sourceTextHash": "a81da116bf6caf8ed1e9ffc919109adcb578c79e90a8cbb3af298bee0059c8ec",
+          "transcription": "ocr"
         }
       ],
       "review": {
         "candidateId": "wadsworth-marcs-tower-project",
         "verdict": "PASS",
         "destination": "EXPLAINER",
-        "promptVersion": "resident-reviewer-v5",
-        "reviewedAt": "2026-10-06T00:24:08.592Z",
-        "candidateHash": "4f7e19019666c3aefd4655f9f258b6ab38b704e049bce80b1a923b50ba36ae99",
+        "promptVersion": "resident-reviewer-v6",
+        "reviewedAt": "2026-10-12T11:25:13.516Z",
+        "candidateHash": "d03232a992ee143a689439758b77c0e3375c2f8d657a74aa48b62d6d21d3ba0f",
         "claimChecks": [
           {
             "claimIds": [
@@ -3296,7 +3171,8 @@
           },
           {
             "claimIds": [
-              "c2"
+              "c2",
+              "c3"
             ],
             "sourceIds": [
               "6ccbc7422d813dfa5a37"
@@ -3305,37 +3181,20 @@
           },
           {
             "claimIds": [
-              "c3"
-            ],
-            "sourceIds": [
-              "728c65e7205ae7c965ec"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
               "c4"
             ],
             "sourceIds": [
-              "728c65e7205ae7c965ec"
+              "6ccbc7422d813dfa5a37"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c5"
-            ],
-            "sourceIds": [
-              "728c65e7205ae7c965ec"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
+              "c5",
               "c6"
             ],
             "sourceIds": [
-              "728c65e7205ae7c965ec"
+              "6ccbc7422d813dfa5a37"
             ],
             "support": "SUPPORTED"
           },
@@ -3344,23 +3203,31 @@
               "c7"
             ],
             "sourceIds": [
-              "728c65e7205ae7c965ec"
+              "6ccbc7422d813dfa5a37"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c8",
+              "c8"
+            ],
+            "sourceIds": [
+              "6ccbc7422d813dfa5a37"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
               "c9"
             ],
             "sourceIds": [
-              "728c65e7205ae7c965ec"
+              "6ccbc7422d813dfa5a37"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c1"
+              "c10"
             ],
             "sourceIds": [
               "6ccbc7422d813dfa5a37"
@@ -3370,8 +3237,14 @@
           {
             "claimIds": [],
             "sourceIds": [
-              "6ccbc7422d813dfa5a37",
-              "728c65e7205ae7c965ec"
+              "6ccbc7422d813dfa5a37"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [],
+            "sourceIds": [
+              "6ccbc7422d813dfa5a37"
             ],
             "support": "SUPPORTED"
           }
@@ -3380,20 +3253,13 @@
       "selection": {
         "scores": {
           "impact": 2,
-          "usefulness": 2,
+          "usefulness": 3,
           "timeliness": 2
         },
-        "affectedAudience": "Residents following Wadsworth’s public-safety radio infrastructure.",
-        "wadsworthConnection": "The proposed MARCS tower is a Wadsworth project affected by protected airspace around the municipal airport.",
-        "neighborTakeaway": "The city is considering asking the FAA for further review after officials reported a four-foot limit at a site intended for a 180-foot radio tower.",
-        "newBeyondPriorCoverage": "No prior item covers the tower setback or the October 6 proposed request for further aeronautical review."
-      },
-      "copyEdit": {
-        "editedAt": "2026-10-07T01:25:59.586287+00:00",
-        "method": "direct editorial rewrite authorized by Chris",
-        "scope": "existing facts, concise original observational voice",
-        "priorFactualReviewCandidateHash": "4f7e19019666c3aefd4655f9f258b6ab38b704e049bce80b1a923b50ba36ae99",
-        "freshIndependentReview": false
+        "affectedAudience": "Wadsworth residents following the proposed radio tower and people with information about its aviation effects.",
+        "wadsworthConnection": "The proposed Wadsworth radio tower is undergoing FAA review concerning its effects near Wadsworth Municipal Airport.",
+        "neighborTakeaway": "Aviation comments on the proposed 199-foot tower must reach the FAA by October 17; exceeding an airport screening boundary does not itself establish a hazard.",
+        "newBeyondPriorCoverage": "Adds the proposed height, explains the airport obstruction screening standard and provides the October 17 comment deadline and submission requirements."
       }
     },
     {
