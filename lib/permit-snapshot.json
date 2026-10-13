@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-14",
-  "periodEnd": "2026-10-12",
+  "periodStart": "2026-07-15",
+  "periodEnd": "2026-10-13",
   "records": [
     {
       "id": "C-00401-26",
@@ -274,46 +274,10 @@
         "Building",
         "Electrical"
       ]
-    },
-    {
-      "id": "C-00161-26",
-      "parcel": "",
-      "issued": "2026-07-14",
-      "address": "151 MAIN ST",
-      "type": "ELECTRIC",
-      "discipline": "Electrical",
-      "value": 0,
-      "work": [
-        "Electrical"
-      ]
-    },
-    {
-      "id": "C-00246-26",
-      "parcel": "",
-      "issued": "2026-07-14",
-      "address": "138 S MAIN STREET",
-      "type": "COMMERCIAL ELECTRIC",
-      "discipline": "Electrical",
-      "value": 0,
-      "work": [
-        "Electrical"
-      ]
-    },
-    {
-      "id": "C-00247-26",
-      "parcel": "",
-      "issued": "2026-07-14",
-      "address": "235 BROAD ST",
-      "type": "COMMERCIAL HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F14%2F26&eDate=10%2F12%2F26",
-  "collectedAt": "2026-10-12T19:52:12.697Z",
-  "lastAttempt": "2026-10-12T19:52:12.697Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F15%2F26&eDate=10%2F13%2F26",
+  "collectedAt": "2026-10-13T10:20:21.521Z",
+  "lastAttempt": "2026-10-13T10:20:21.521Z",
   "status": "ok"
 }
