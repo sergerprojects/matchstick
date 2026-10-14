@@ -66,3 +66,7 @@ The independent reviewer receives the verified complete-reading inventory and re
 ## Snapshot-bot publication races
 
 An ordinary push/rebase may race the GitHub resident-tool collector. The publisher can reconcile only the four named bill/permit snapshot files when their substantive records are identical and the only differences are valid recent retrieval timestamps. It keeps the newer successful snapshot, continues the ordinary rebase and proves the exact Pages release. Changed records, stale/failed snapshots, unknown conflicts and any story/archive conflict stop publication and preserve the approved commit for review. It never forces Git history or changes approved prose.
+
+## Large official school-board packets
+
+School agenda/supporting-document packets may be up to 80 MB; all other PDF documents retain the 40 MB limit. The district's October 12 packet is a verified 60,804,560-byte, 332-page public PDF with usable text. The HTTPS origin allowlist, redirect bound, PDF validation, page/character/OCR bounds, source-version retention and complete-reading gate are unchanged. A larger accepted download is not permission to skip any page or publish an agenda item as a decision.
