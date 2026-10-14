@@ -1,11 +1,11 @@
 {
-  "lastAttempt": "2026-10-14T09:57:38.672Z",
+  "lastAttempt": "2026-10-14T10:04:41.325Z",
   "status": "awaiting-deployment",
   "lastSuccess": "2026-10-05T20:15:16.613Z",
   "collection": {
-    "completedAt": "2026-10-14T09:57:24.163Z",
-    "documents": 190,
-    "failures": 1
+    "completedAt": "2026-10-14T10:04:25.587Z",
+    "documents": 191,
+    "failures": 0
   },
   "editorial": {
     "completedAt": "2026-10-12T11:52:49.479Z",
