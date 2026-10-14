@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "9dd3af5d38774252088ceece59d0c50127ba4800b08952c69919800b5558755c",
+      "archiveHash": "df24bd12b0a775f98ae7d58e87b7e0d30f021191424929d1be986f9b914fa4fe",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-13T17:39:45.164395+00:00",
-      "lastAttempt": "2026-10-13T17:39:45.164395+00:00",
+      "collectedAt": "2026-10-14T09:56:16.110955+00:00",
+      "lastAttempt": "2026-10-14T09:56:16.110955+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "bcf0c7ec71e50c771f174ee6bc227aca6fea7540e959f3e84e91a2404934a180",
+      "archiveHash": "18f46107afe4c1bbd71d8d188e6da53828b5f353e9d76633644586219ac25ecc",
       "records": [
         {
           "bill": "S. 5666",
@@ -2910,7 +2910,7 @@
           "title": "Compressed Gas Cylinder Safety and Oversight Improvements Act of 2025",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2320",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2320.xml",
-          "sourceHash": "988eaeedca754c6262abd329a9df849e90d3e1e99eede0116e7365af690e1b99",
+          "sourceHash": "9956164c0f4f07cf2bb2a453c47e11dce38d342f4325b8c4c7f1291815f42c61",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2919,7 +2919,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2025-07-17",
-          "updated": "2026-09-08T18:03:40Z",
+          "updated": "2026-10-13T16:32:38Z",
           "latestAction": {
             "date": "2025-07-17",
             "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
@@ -3545,8 +3545,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-13T17:39:45.164395+00:00",
-      "lastAttempt": "2026-10-13T17:39:45.164395+00:00",
+      "collectedAt": "2026-10-14T09:56:16.110955+00:00",
+      "lastAttempt": "2026-10-14T09:56:16.110955+00:00",
       "status": "ok"
     },
     {
@@ -3555,7 +3555,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "bcf0c7ec71e50c771f174ee6bc227aca6fea7540e959f3e84e91a2404934a180",
+      "archiveHash": "18f46107afe4c1bbd71d8d188e6da53828b5f353e9d76633644586219ac25ecc",
       "records": [
         {
           "bill": "S. 5638",
@@ -6668,8 +6668,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-13T17:39:45.164395+00:00",
-      "lastAttempt": "2026-10-13T17:39:45.164395+00:00",
+      "collectedAt": "2026-10-14T09:56:16.110955+00:00",
+      "lastAttempt": "2026-10-14T09:56:16.110955+00:00",
       "status": "ok"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-15",
-  "periodEnd": "2026-10-13",
+  "periodStart": "2026-07-16",
+  "periodEnd": "2026-10-14",
   "records": [
     {
       "id": "C-00401-26",
@@ -91,6 +91,18 @@
         "Building",
         "Electrical",
         "HVAC"
+      ]
+    },
+    {
+      "id": "C-00256-26",
+      "parcel": "",
+      "issued": "2026-08-19",
+      "address": "193 SMOKERISE DR",
+      "type": "ELECTRIC",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
       ]
     },
     {
@@ -261,23 +273,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00256-26",
-      "parcel": "04020A03179",
-      "issued": "2026-07-15",
-      "address": "193 SMOKERISE DR",
-      "type": "COMMERCIAL-NEW CONSTRUCTN",
-      "discipline": "Building",
-      "value": 2800000,
-      "work": [
-        "Building",
-        "Electrical"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F15%2F26&eDate=10%2F13%2F26",
-  "collectedAt": "2026-10-13T17:39:28.823Z",
-  "lastAttempt": "2026-10-13T17:39:28.823Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F16%2F26&eDate=10%2F14%2F26",
+  "collectedAt": "2026-10-14T09:56:01.679Z",
+  "lastAttempt": "2026-10-14T09:56:01.679Z",
   "status": "ok"
 }
