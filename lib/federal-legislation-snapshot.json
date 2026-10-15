@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "eb63e9445cfdca1efc60c44cdae2e97e53c60b70992399e3af6ed3afed00481b",
+      "archiveHash": "a02c41e9e53ca7bac4a8c81bbaaa2fea3d4f417e97c53670341eaed0c644e9f3",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-15T13:42:26.620662+00:00",
-      "lastAttempt": "2026-10-15T13:42:26.620662+00:00",
+      "collectedAt": "2026-10-15T15:06:56.193621+00:00",
+      "lastAttempt": "2026-10-15T15:06:56.193621+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "bf59f7dcdc28c4eceb03cd3e666c1c97fb1dae272bd686c1b78ad8cdb7a9fe69",
+      "archiveHash": "c3c15082b3fe8ed45aec827d06842275902a7d4eb196c98e8f4ffa0c5b05cdcc",
       "records": [
         {
           "bill": "S. 5666",
@@ -3545,8 +3545,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-15T13:42:26.620662+00:00",
-      "lastAttempt": "2026-10-15T13:42:26.620662+00:00",
+      "collectedAt": "2026-10-15T15:06:56.193621+00:00",
+      "lastAttempt": "2026-10-15T15:06:56.193621+00:00",
       "status": "ok"
     },
     {
@@ -3555,7 +3555,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "bf59f7dcdc28c4eceb03cd3e666c1c97fb1dae272bd686c1b78ad8cdb7a9fe69",
+      "archiveHash": "c3c15082b3fe8ed45aec827d06842275902a7d4eb196c98e8f4ffa0c5b05cdcc",
       "records": [
         {
           "bill": "S. 5638",
@@ -6668,8 +6668,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-15T13:42:26.620662+00:00",
-      "lastAttempt": "2026-10-15T13:42:26.620662+00:00",
+      "collectedAt": "2026-10-15T15:06:56.193621+00:00",
+      "lastAttempt": "2026-10-15T15:06:56.193621+00:00",
       "status": "ok"
     }
   ]
