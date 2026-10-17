@@ -1,7 +1,19 @@
 {
-  "periodStart": "2026-07-18",
-  "periodEnd": "2026-10-16",
+  "periodStart": "2026-07-19",
+  "periodEnd": "2026-10-17",
   "records": [
+    {
+      "id": "C-00429-26",
+      "parcel": "04020D07043",
+      "issued": "2026-10-16",
+      "address": "320 CHESTNUT ST",
+      "type": "ALARM SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
     {
       "id": "C-00401-26",
       "parcel": "04020C04100",
@@ -275,8 +287,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F18%2F26&eDate=10%2F16%2F26",
-  "collectedAt": "2026-10-16T14:55:07.799Z",
-  "lastAttempt": "2026-10-16T14:55:07.799Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F19%2F26&eDate=10%2F17%2F26",
+  "collectedAt": "2026-10-17T13:47:37.398Z",
+  "lastAttempt": "2026-10-17T13:47:37.398Z",
   "status": "ok"
 }

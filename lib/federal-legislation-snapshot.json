@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "5bca682076462ecb7681545bb86f0ea8c47826ec3bb98ed565aff5207ceef971",
+      "archiveHash": "16672a404186bb954287dfa1914626e41054fbdaa6fbae76b7e9b59f6147eef2",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -15,7 +15,7 @@
           "title": "Civic Literacy in Higher Education Act",
           "url": "https://www.congress.gov/bill/119th-congress/house-bill/10786",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10786.xml",
-          "sourceHash": "adc8b656346e53048ba050365bb8f52d38a65b276a1c36429c2de41d132d8ed9",
+          "sourceHash": "7e9463bc1605df9c5b948e44e6eddf7079555cccad608bbb6cce8ae28fd0f759",
           "representative": "Max Miller",
           "role": "Sponsor",
           "bioguideId": "M001222",
@@ -24,7 +24,7 @@
           "session": "119th Congress",
           "origin": "House",
           "introduced": "2026-10-09",
-          "updated": "2026-10-16T11:58:28Z",
+          "updated": "2026-10-16T18:49:37Z",
           "latestAction": {
             "date": "2026-10-09",
             "text": "Referred to the House Committee on Education and Workforce."
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-16T14:55:28.718713+00:00",
-      "lastAttempt": "2026-10-16T14:55:28.718713+00:00",
+      "collectedAt": "2026-10-17T13:47:50.152127+00:00",
+      "lastAttempt": "2026-10-17T13:47:50.152127+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "800666fedb468a2a41e2613f65304bfb782822c252615d9006c737471fec4fd7",
+      "archiveHash": "17ae4aa43fec09bd9f47dfc90e97e022a2d761ce726de934bdc5ff2b4e593fee",
       "records": [
         {
           "bill": "S. 5689",
@@ -2085,10 +2085,10 @@
         {
           "bill": "S. 5688",
           "number": 5688,
-          "title": "A bill to amend the Mineral Leasing Act for Acquired Lands and the Mineral Leasing Act to increase the State share of oil and gas leasing revenue from acquired lands, and for other purposes.",
+          "title": "Acquired Lands Revenue Modernization Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5688.xml",
-          "sourceHash": "8dada570baeae5c12d32a3c5a101632ccb20f8abea583bd547e1ad05e2f94c12",
+          "sourceHash": "2c6eac2a271a38fe5fcbb27541263084cd2fa31e35fee8f69cff6c802aa19c22",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2097,7 +2097,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-16T10:56:22Z",
+          "updated": "2026-10-17T10:58:31Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources."
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-16T14:55:28.718713+00:00",
-      "lastAttempt": "2026-10-16T14:55:28.718713+00:00",
+      "collectedAt": "2026-10-17T13:47:50.152127+00:00",
+      "lastAttempt": "2026-10-17T13:47:50.152127+00:00",
       "status": "ok"
     },
     {
@@ -3683,7 +3683,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "800666fedb468a2a41e2613f65304bfb782822c252615d9006c737471fec4fd7",
+      "archiveHash": "17ae4aa43fec09bd9f47dfc90e97e022a2d761ce726de934bdc5ff2b4e593fee",
       "records": [
         {
           "bill": "S. 5638",
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-16T14:55:28.718713+00:00",
-      "lastAttempt": "2026-10-16T14:55:28.718713+00:00",
+      "collectedAt": "2026-10-17T13:47:50.152127+00:00",
+      "lastAttempt": "2026-10-17T13:47:50.152127+00:00",
       "status": "ok"
     }
   ]
