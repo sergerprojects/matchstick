@@ -1,27 +1,27 @@
 {
-  "cutoff": "2026-10-12",
-  "publishedAt": "2026-10-12T11:52:49.394Z",
+  "cutoff": "2026-10-19",
+  "publishedAt": "2026-10-19T12:13:08.508Z",
   "editorPrompt": "resident-editor-v6",
   "reviewerPrompt": "resident-reviewer-v6",
   "stories": [
     {
       "slug": "wadsworth-schools-earned-income-tax-2026-11-03",
       "category": "Schools",
-      "title": "Wadsworth schools project shortfall even with continued state funding protection",
-      "dek": "The district projects about $117,000 in additional state aid across fiscal 2026 and 2027.",
-      "body": "Wadsworth schools’ August 2026 forecast projects General Fund cash reserves running out in fiscal 2029 without changes. Voters will decide November 3 whether to approve a five-year, 1% earned-income tax.\n\nOhio’s funding guarantee is expected to keep the district’s current-year state aid similar to fiscal 2024–2026 despite declining enrollment. The forecast assumes that protection continues; the district warns that removing it would dramatically change the projections.\n\nThe proposed tax covers qualifying wages and self-employment income. Retirement income, interest, dividends and capital gains are excluded.",
+      "title": "Wadsworth plans narrower bus service if school income tax fails",
+      "dek": "The November 3 ballot asks for a five-year, 1% earned-income tax.",
+      "body": "Wadsworth’s existing fiscal plan calls for narrower bus service in 2027–28 if the school income tax fails. In September, the district bused K–12 students living at least one mile from their assigned school; the plan would serve K–8 students more than two miles away.\n\nTrips between Wadsworth High School and career technical programs would remain. In September, savings estimates and alternatives, including a 1.5-mile K–12 threshold, were still being developed.\n\nTreasurer Beeman estimated in September that tax failure would require at least another $2.8 million to $3 million in cuts. About $4.5 million in reductions took effect at the start of 2026–27. The district’s forecast projects cash reserves running out in fiscal 2029 without further changes.\n\nHalf-day kindergarten or tuition for full-day attendance were September discussion options, rather than approved changes.",
       "revisionKind": "UPDATE",
       "correctionNote": "",
       "source": {
-        "title": "Click here to view the Four Year Assumptions",
-        "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+        "title": "Agenda & Supporting Documents",
+        "url": "https://www.wadsworthschools.org/fs/resource-manager/view/18191178-5eb5-418b-bca1-a6e3afac9d90",
         "owner": "Wadsworth City Schools",
-        "checked": "2026-10-12",
-        "published": ""
+        "checked": "2026-10-19",
+        "published": "2026-09-24"
       },
       "editorial": {
         "destination": "EXPLAINER",
-        "eventDate": "",
+        "eventDate": "2026-09-24",
         "decisionDate": "2026-11-03",
         "availabilityDate": "",
         "readerPerspectives": [
@@ -29,55 +29,55 @@
           "busy_parent",
           "business_owner"
         ],
-        "residentValue": "Helps voters understand the state-funding assumption behind the district's projected shortfall before deciding on the proposed tax.",
-        "change": "The existing election explainer gains state-aid context and distinguishes a forecast assumption from guaranteed future policy.",
-        "whyNow": "The November 3 election is within 30 days of the October 12 cutoff; the August forecast provides context for that pending choice.",
+        "residentValue": "Helps families compare transportation eligibility and understand the conditional fiscal plan before the tax vote, while distinguishing that plan from additional options discussed in September.",
+        "change": "The existing election explainer gains transportation eligibility and conditional budget-reduction context.",
+        "whyNow": "The November 3 election falls within 30 days of the October 19 cutoff. September planning context explains that pending choice without presenting it as a new October action.",
         "review": "independent-pass",
         "publicationMode": "routine",
-        "publicationCutoff": "2026-10-12"
+        "publicationCutoff": "2026-10-19"
       },
       "evidenceRefs": [
         {
-          "assertion": "The district projects cash reserves depleted in fiscal 2029 without changes and has placed a five-year, 1% earned-income tax on the November 3, 2026 ballot.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 19,
-          "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
+          "assertion": "The September 24, 2026 discussion described an existing fiscal plan calling for transportation reductions in 2027–28 if the levy fails.",
+          "sourceId": "c4ca28ba1adff27fc36c",
+          "page": 15,
+          "quote": "Minutes of Special Meeting                                    Date: September 24, 2026\n\n\n      Transportation\n\n     Julie Batey stated that the Board should review transportation. She reminded the\n     Board and community that the October 2025 fiscal precaution plan identified a\n     reduction in transportation for the 2027-28 school year if the levy is not passed.",
           "claimId": "c1",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/18191178-5eb5-418b-bca1-a6e3afac9d90",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+          "sourceHash": "bbd711467bf650e51c2006a9486660ec243255371fef2605779fd8d05abde6e3",
+          "sourceTextHash": "d5f79684be1ecdfd0977cb03ef2a3a8f18745c5ef113ab7b020976e189638bd7",
           "transcription": "page-text"
         },
         {
-          "assertion": "Wadsworth City Schools' financial projection is dated August 2026.",
-          "sourceId": "444e30c979bd4777b311",
-          "page": 1,
-          "quote": "Wadsworth City Schools\n                   Fiscal Year 2027 – Four-Year Projection\n                                 August 2026",
+          "assertion": "The September comparison describes existing school transportation for K–12 students living at least one mile from their assigned school, and state-minimum transportation for K–8 students more than two miles away plus trips between Wadsworth High School and career technical programs.",
+          "sourceId": "c4ca28ba1adff27fc36c",
+          "page": 23,
+          "quote": "Currently, we transport students in grades K-12 to school who live one (1) mile or more\n      from their assigned school. The state minimum requirement for transportation is to\n      transport students in grades K-8 who live more than two (2) miles from their assigned\n      school and to transport students in grades 9-12 from Wadsworth High School to their\n      career technical education program and back to Wadsworth High School.",
           "claimId": "c2",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/00f34fb0-4e82-4eb4-888e-28d83493b4c7",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/18191178-5eb5-418b-bca1-a6e3afac9d90",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "67c4c02f8769f1e75175d79a466952bbf0c428538e72ed9af5ee1c20f72267e1",
-          "sourceTextHash": "9288ffa7bc9a96206a618d17152b5d81099b64ff7265c8cf11d8999721aaa054",
+          "sourceHash": "bbd711467bf650e51c2006a9486660ec243255371fef2605779fd8d05abde6e3",
+          "sourceTextHash": "d5f79684be1ecdfd0977cb03ef2a3a8f18745c5ef113ab7b020976e189638bd7",
           "transcription": "page-text"
         },
         {
-          "assertion": "The state-aid projection concerns the fiscal 2026–2027 biennium.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 105,
-          "quote": "State Aid: FY 2026/2027 Biennial budget",
+          "assertion": "The plan calls for state-minimum transportation beginning in 2027–28. In September, savings estimates for scenarios including a 1.5-mile K–12 threshold were still being developed.",
+          "sourceId": "c4ca28ba1adff27fc36c",
+          "page": 24,
+          "quote": "Our current fiscal precaution plan (starts on page 28/180) has us moving to state minimum\n      requirements at the start of the 2027-2028 school year. We are close to having a more\n      accurate estimate of the financial savings for different scenarios, including moving to state\n      minimum requirements (e.g., move to the state minimum requirement, move to all students\n      K-12 who live 1.5 miles or more from their assigned school).",
           "claimId": "c3",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/18191178-5eb5-418b-bca1-a6e3afac9d90",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "sourceHash": "bbd711467bf650e51c2006a9486660ec243255371fef2605779fd8d05abde6e3",
+          "sourceTextHash": "d5f79684be1ecdfd0977cb03ef2a3a8f18745c5ef113ab7b020976e189638bd7",
           "transcription": "page-text"
         },
         {
-          "assertion": "The district projects approximately $117,000 in additional state aid over the two-year biennium.",
+          "assertion": "Wadsworth City Schools placed a five-year, 1% earned-income tax on the November 3, 2026 ballot; its forecast projects depleted cash reserves in fiscal 2029 without changes.",
           "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 105,
-          "quote": "Projections indicate that the district will receive approximately $117,000\n                in additional state aid over the two-year biennium, as the district continues\n                to be a guaranteed school district.",
+          "page": 122,
+          "quote": "Without change,\nwe anticipate that our cash reserves will be depleted in FY 2029. For that reason, the Board of\nEducation continues to review reductions in staffing and services to reduce expenditures, and has\nplaced a 1% earned income tax for a period of five years on the November 3, 2026, ballot.",
           "claimId": "c4",
           "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
           "owner": "Wadsworth City Schools",
@@ -86,51 +86,87 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Despite declining enrollment, the guarantee is expected to keep current-year state funding similar to fiscal 2024–2026.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 111,
-          "quote": "Due to declining enrollment, the district is guaranteed and will receive similar State\nfunding for the current fiscal year as we did in FY 2024-2026, despite changes in base cost and local\ncapacity.",
+          "assertion": "In September, Beeman estimated that income-tax failure would require at least another $2.8 million to $3 million in reductions.",
+          "sourceId": "3eb5b181039f2e548c2b",
+          "page": 2,
+          "quote": "Mr. Beeman shared that if the income tax fails in 2026, the\n             District will lose a year of collection, as anything proposed in 2027 would not be\n             collected until 2028. At a minimum, an additional $2.8-3.0M would need to be\n             reduced.",
           "claimId": "c5",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/70e447d1-e458-4304-826f-6597da77a98d",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "sourceHash": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
+          "sourceTextHash": "ff84e94fafe25baa35c6e0b87798d85af74c1f10ad545b23dd3cd60c7f11ef3e",
           "transcription": "page-text"
         },
         {
-          "assertion": "The forecast assumes continued funding protection, and the district warns that removing the guarantee would dramatically change its projections.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 112,
-          "quote": "The forecast assumes the guarantee will continue in future years as enrollment\n              declines. If the guarantee is removed from the formula in future years, the district's\n              forecast will change dramatically.",
+          "assertion": "The estimate was discussed at the September 14, 2026 meeting.",
+          "sourceId": "3eb5b181039f2e548c2b",
+          "page": 2,
+          "quote": "Minutes of Regular Meeting                                       Date: September 14, 2026",
           "claimId": "c6",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/70e447d1-e458-4304-826f-6597da77a98d",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "sourceHash": "ea08a7dc52a663b5901b8530e39bb4ea8f26c672b945670d7045e969243da661",
+          "sourceTextHash": "ff84e94fafe25baa35c6e0b87798d85af74c1f10ad545b23dd3cd60c7f11ef3e",
           "transcription": "page-text"
         },
         {
-          "assertion": "The forecast projects a negative cash balance during fiscal 2029.",
-          "sourceId": "1c17f1e99f09eafc1fd5",
-          "page": 105,
-          "quote": "The forecast projects a negative cash balance during FY 2029.",
+          "assertion": "Beeman is the district treasurer.",
+          "sourceId": "278cd2db3279c5b7bea7",
+          "page": 1,
+          "quote": "Upon the recommendation of Treasurer Beeman",
           "claimId": "c7",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/3330b4c5-b75e-4040-9c0a-79e3db520da5",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/c209f937-c637-4677-89f4-48f547ff8b18",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "8f31123ccfc2b91370636fdedead10c2882379603e8ba7c816ba8b82ff86a116",
-          "sourceTextHash": "6a5b900bd0bd1595d3a6c479fa90624ef1c04166e0da1ab6d48bca066eafd9fa",
+          "sourceHash": "e6312d9e12545379d8a65ebb56b19be321f373838100d526e2a4dd0336428ce6",
+          "sourceTextHash": "37c98776226f601fe3a5bbf05426e815c495960153edf09dfb02bc06df4e6040",
           "transcription": "page-text"
         },
         {
-          "assertion": "Qualifying employee compensation and self-employment income are included in earned income; retirement income, interest, dividends and capital gains are excluded.",
-          "sourceId": "efedf274fcacf627cdd7",
-          "page": 4,
-          "quote": "“Earned income includes only the following items to the extent that they are included in your\nmodified adjusted gross income (MAGI):\n   - Employee compensation, such as wages, salaries, and tips; and\n   - Self-employment income from sole proprietorships and partnerships.\n\nEarned income does not include items such as retirement income, interest, dividends and\ncapital gains, and unemployment benefits.”",
+          "assertion": "Approximately $4.5 million in reductions took effect at the beginning of the 2026–27 school year.",
+          "sourceId": "278cd2db3279c5b7bea7",
+          "page": 2,
+          "quote": "Dr. Hill also\n      reminded the Board of approximately $4.5 million in reductions implemented at the\n      beginning of the 2026-27 school year.",
           "claimId": "c8",
-          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/fccfb704-87f2-4c4d-9e0a-8600b5e48b34",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/c209f937-c637-4677-89f4-48f547ff8b18",
           "owner": "Wadsworth City Schools",
-          "sourceHash": "74b8dc393abbf0fd8ac277bfcea60e188607c42aff87f15876e580071c659bdd",
-          "sourceTextHash": "428e54856c8a626596f2ce45756de489554419a11f9325320c45bb3ff9df606e",
+          "sourceHash": "e6312d9e12545379d8a65ebb56b19be321f373838100d526e2a4dd0336428ce6",
+          "sourceTextHash": "37c98776226f601fe3a5bbf05426e815c495960153edf09dfb02bc06df4e6040",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "Half-day kindergarten and tuition for full-day attendance were conditional options in the September discussion.",
+          "sourceId": "278cd2db3279c5b7bea7",
+          "page": 12,
+          "quote": "If changes are made in this area, they could include:\n\n            •   Only offering a half-day kindergarten program, or\n            •   Offering a full-day program and charging tuition for those who choose to attend it.",
+          "claimId": "c9",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/c209f937-c637-4677-89f4-48f547ff8b18",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "e6312d9e12545379d8a65ebb56b19be321f373838100d526e2a4dd0336428ce6",
+          "sourceTextHash": "37c98776226f601fe3a5bbf05426e815c495960153edf09dfb02bc06df4e6040",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The discussion guide did not establish recommendations or approval of the kindergarten options.",
+          "sourceId": "278cd2db3279c5b7bea7",
+          "page": 5,
+          "quote": "Just because an area is included below does not\n      mean a recommendation is being made to reduce within the area, nor does the order in\n      which areas are listed have any significance.",
+          "claimId": "c10",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/c209f937-c637-4677-89f4-48f547ff8b18",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "e6312d9e12545379d8a65ebb56b19be321f373838100d526e2a4dd0336428ce6",
+          "sourceTextHash": "37c98776226f601fe3a5bbf05426e815c495960153edf09dfb02bc06df4e6040",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The September 24 discussion distinguished potential reductions from concrete decisions.",
+          "sourceId": "278cd2db3279c5b7bea7",
+          "page": 4,
+          "quote": "Amanda Gordon suggested that the Board not make concrete decisions at this point\n      but instead provide the community with a comprehensive list of items being\n      considered for potential reduction.",
+          "claimId": "c11",
+          "url": "https://www.wadsworthschools.org/fs/resource-manager/view/c209f937-c637-4677-89f4-48f547ff8b18",
+          "owner": "Wadsworth City Schools",
+          "sourceHash": "e6312d9e12545379d8a65ebb56b19be321f373838100d526e2a4dd0336428ce6",
+          "sourceTextHash": "37c98776226f601fe3a5bbf05426e815c495960153edf09dfb02bc06df4e6040",
           "transcription": "page-text"
         }
       ],
@@ -139,16 +175,15 @@
         "verdict": "PASS",
         "destination": "EXPLAINER",
         "promptVersion": "resident-reviewer-v6",
-        "reviewedAt": "2026-10-12T11:44:17.229Z",
-        "candidateHash": "ceabc5599f9752aca1a2e55f011e1c51e24a869966b620512c30ef27ca4ce7b1",
+        "reviewedAt": "2026-10-19T11:51:05.267Z",
+        "candidateHash": "e30af94fdd02853dd39cef507df135a0ba5e7626f9ac33f13e397bbe26a545ef",
         "claimChecks": [
           {
             "claimIds": [
               "c1"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311",
-              "efedf274fcacf627cdd7"
+              "c4ca28ba1adff27fc36c"
             ],
             "support": "SUPPORTED"
           },
@@ -157,13 +192,21 @@
               "c2"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311"
+              "c4ca28ba1adff27fc36c"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c3",
+              "c3"
+            ],
+            "sourceIds": [
+              "c4ca28ba1adff27fc36c"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
               "c4"
             ],
             "sourceIds": [
@@ -173,19 +216,11 @@
           },
           {
             "claimIds": [
-              "c5"
-            ],
-            "sourceIds": [
-              "1c17f1e99f09eafc1fd5"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
+              "c5",
               "c6"
             ],
             "sourceIds": [
-              "1c17f1e99f09eafc1fd5"
+              "3eb5b181039f2e548c2b"
             ],
             "support": "SUPPORTED"
           },
@@ -194,8 +229,7 @@
               "c7"
             ],
             "sourceIds": [
-              "1c17f1e99f09eafc1fd5",
-              "444e30c979bd4777b311"
+              "278cd2db3279c5b7bea7"
             ],
             "support": "SUPPORTED"
           },
@@ -204,19 +238,26 @@
               "c8"
             ],
             "sourceIds": [
-              "efedf274fcacf627cdd7"
+              "278cd2db3279c5b7bea7"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c1",
-              "c5",
-              "c6",
-              "c7"
+              "c9",
+              "c10",
+              "c11"
             ],
             "sourceIds": [
-              "444e30c979bd4777b311",
+              "278cd2db3279c5b7bea7"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [],
+            "sourceIds": [
+              "c4ca28ba1adff27fc36c",
+              "3eb5b181039f2e548c2b",
               "1c17f1e99f09eafc1fd5"
             ],
             "support": "SUPPORTED"
@@ -229,10 +270,10 @@
           "usefulness": 3,
           "timeliness": 2
         },
-        "affectedAudience": "Wadsworth school district voters and families evaluating the November income-tax proposal.",
-        "wadsworthConnection": "The forecast and proposed earned-income tax concern Wadsworth City Schools.",
-        "neighborTakeaway": "Wadsworth schools project General Fund cash reserves running out in fiscal 2029 even with continued state funding protection.",
-        "newBeyondPriorCoverage": "Adds the projected $117,000 biennial state-aid increase and explains the forecast's reliance on continued funding guarantees."
+        "affectedAudience": "Wadsworth school district families using transportation and voters weighing the proposed income tax.",
+        "wadsworthConnection": "The transportation plan and tax proposal concern Wadsworth City Schools.",
+        "neighborTakeaway": "The fiscal plan calls for narrower transportation in 2027–28 if the tax fails; savings estimates and alternatives were still being developed in September.",
+        "newBeyondPriorCoverage": "Adds transportation eligibility, the tax-failure condition and estimated additional reductions to the existing election explainer."
       }
     },
     {
@@ -3582,16 +3623,16 @@
     {
       "slug": "wadsworth-fire-ems-levies-2026-11-03",
       "category": "Elections",
-      "title": "One mill down. One mill up. What’s the bill?",
-      "dek": "The November 3 fire and EMS proposals look like a swap. The city estimates a small net increase once both take effect.",
-      "body": "Wadsworth proposes taking one mill off its 1.5-mill fire levy and adding one mill to its three-mill EMS renewal. One down, one up sounds like a wash. Tax bills have their own arithmetic.\n\nSafety Director Dan Chafin estimated about $12 more per year for each $100,000 of the county auditor’s market value once both changes apply. That estimate assumes a state tax rollback on the existing EMS portion.\n\nThe city would draw down fire reserves; it would not move fire money into EMS. Voters decide November 3. The $12 figure is an estimate, not a quote for your house.",
-      "revisionKind": "STYLE",
+      "title": "EMS levy’s $92 estimate covers the whole levy",
+      "dek": "The city’s approximately $12 estimate measures the combined fire and EMS tax change.",
+      "body": "The five-year EMS proposal on Wadsworth’s November 3 ballot renews three mills and adds one. Its stated cost is $92 annually per $100,000 of county auditor market value, before the rollback city officials anticipate on the existing portion.\n\nThat’s the whole EMS levy, not the increase. Safety Director Dan Chafin estimated the paired fire and EMS changes would cost about $12 more annually per $100,000 after that rollback.\n\nThe city proposes cutting its 1.5-mill fire levy by one mill starting in 2027. Increased EMS collections would begin in 2028 if approved. The city plans to spend down fire reserves, without transferring fire money to EMS.\n\nThe EMS resolution projects about $2.52 million a year. Those estimates aren't an individual property's bill.",
+      "revisionKind": "UPDATE",
       "correctionNote": "",
       "source": {
         "title": "Special City Council Agenda Packet - Approved Minutes",
-        "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-837",
+        "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08032026-840",
         "owner": "City of Wadsworth",
-        "checked": "2026-10-05",
+        "checked": "2026-10-19",
         "published": "2026-08-12"
       },
       "editorial": {
@@ -3604,55 +3645,55 @@
           "business_owner",
           "prospective_mover"
         ],
-        "residentValue": "Explains the paired property-tax changes, annual cost estimate and rollback assumption, staggered timing and forecast staffing before a consequential vote.",
-        "change": "The August ballot-filing report advances the earlier levy discussions; the upcoming vote makes the cost and service background timely.",
-        "whyNow": "The November 3 election is within 30 days of the October 5 cutoff.",
+        "residentValue": "Helps voters distinguish the EMS levy's total stated cost from the estimated combined tax increase and understand when the changes would affect collections.",
+        "change": "The election explainer gains official EMS cost, duration and revenue figures alongside the previously reported combined estimate.",
+        "whyNow": "The November 3 election is within 30 days of cutoff. The older resolution supplies material context for that pending decision.",
         "review": "independent-pass",
-        "publicationMode": "catch-up",
-        "publicationCutoff": "2026-10-05"
+        "publicationMode": "routine",
+        "publicationCutoff": "2026-10-19"
       },
       "evidenceRefs": [
         {
-          "assertion": "The fire and EMS levy proposals concern the November 3, 2026 election.",
-          "sourceId": "6a730afba778d67b64fe",
-          "page": 1,
-          "quote": "PROCEEDING TO PLACE THE\nBALLOT ISSUE ON THE BALLOT FOR THE NOVEMBER 3, 2026 ELECTION AND\nDECLARING AN EMERGENCY",
+          "assertion": "The EMS proposal renews three mills and adds one mill, totaling four mills for five years, with a stated cost of $92 per $100,000 of county auditor market value.",
+          "sourceId": "541e8249c6ec0af3373c",
+          "page": 6,
+          "quote": "The tax shall be by renewal of a tax of three (3.0) mills with an increase of one\nmill (1.0) to constitute a tax of four (4) mills for each one-dollar of valuation which amounts to\nninety-two ($92.00) dollars for each one hundred thousand dollars of the county auditor’s market\nvalue for a period of five years.",
           "claimId": "c1",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-837",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08032026-840",
           "owner": "City of Wadsworth",
-          "sourceHash": "0b648ae652799ec2c0edfd6794d4153eab41e459b105770c6422561e491667a8",
-          "sourceTextHash": "a9c5d242924257276f930289e23ec9b6f11ff40244d6f65c1b1fd2c5712059c5",
+          "sourceHash": "ba736bfac821b3a72cfd951398f5b3491439100962c1251d99aaec9563a528fb",
+          "sourceTextHash": "aa9b5437440439476a1fb368a1851b03718f3d2fcc593ce6b83cd911ec60268a",
           "transcription": "ocr"
         },
         {
-          "assertion": "The EMS levy proposal also identifies the November 3, 2026 election.",
-          "sourceId": "6a730afba778d67b64fe",
-          "page": 1,
-          "quote": "PROCEEDING TO PLACE THE BALLOT ISSUE ON THE BALLOT FOR THE\nNOVEMBER 3, 2026 ELECTION AND DECLARING AN EMERGENCY",
+          "assertion": "The EMS resolution identifies the November 3, 2026 election.",
+          "sourceId": "541e8249c6ec0af3373c",
+          "page": 6,
+          "quote": "at an election to be held at the usual voting places\nwithin said City of Wadsworth on the 3rd day of November, 2026.",
           "claimId": "c2",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_07142026-837",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08032026-840",
           "owner": "City of Wadsworth",
-          "sourceHash": "0b648ae652799ec2c0edfd6794d4153eab41e459b105770c6422561e491667a8",
-          "sourceTextHash": "a9c5d242924257276f930289e23ec9b6f11ff40244d6f65c1b1fd2c5712059c5",
+          "sourceHash": "ba736bfac821b3a72cfd951398f5b3491439100962c1251d99aaec9563a528fb",
+          "sourceTextHash": "aa9b5437440439476a1fb368a1851b03718f3d2fcc593ce6b83cd911ec60268a",
           "transcription": "ocr"
         },
         {
-          "assertion": "The fire levy was 1.5 mills, with a proposed one-mill reduction beginning in 2027; increased EMS receipts would begin in 2028.",
-          "sourceId": "231821dc75658d0cd813",
-          "page": 3,
-          "quote": "Safety Director Chafin explained that the FIRE levy was set to expire at the end of 2026 and\nwas currently a 1.5-mill levy. The City proposed reducing it by one mill beginning in 2027.\nThe EMS levy currently in effect had one additional year to run, so the proposed renewal would\nnot increase receipts in 2027. Beginning in 2028, the renewed EMS levy would generate\nincreased receipts.",
+          "assertion": "The EMS annual levy is projected to produce approximately $2,523,100.",
+          "sourceId": "541e8249c6ec0af3373c",
+          "page": 6,
+          "quote": "an annual levy of four (4) mills would produce an annual amount of approximately\n$2,523, 100.00",
           "claimId": "c3",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08032026-840",
           "owner": "City of Wadsworth",
-          "sourceHash": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
-          "sourceTextHash": "109274ad778545e3ece4725e8094f51f06d1d19a9184f64e66a436c77cc161b9",
-          "transcription": "page-text"
+          "sourceHash": "ba736bfac821b3a72cfd951398f5b3491439100962c1251d99aaec9563a528fb",
+          "sourceTextHash": "aa9b5437440439476a1fb368a1851b03718f3d2fcc593ce6b83cd911ec60268a",
+          "transcription": "ocr"
         },
         {
-          "assertion": "The EMS proposal was a three-mill renewal with a one-mill increase.",
+          "assertion": "City officials distinguished the official $92 EMS cost from the anticipated $87.53 out-of-pocket amount after a state rollback on the existing portion.",
           "sourceId": "8bbaf1d1fa28cd02a58d",
-          "page": 12,
-          "quote": "On the EMS side, the levy was a 3 mil renewal with a 1 mil increase",
+          "page": 13,
+          "quote": "Because the EMS\nlevy was in existence for a while, the original portion of the EMS levy was actually eligible for what\nwas called a State Rollback. That meant the State provided funding to help offset the taxes to\nresidents. With the State Rollback, it allowed a drop from $92 to $87.53 per $100,000 and, in reality,\nwas much closer to the number presented last time. However, the County Auditor’s office was not\nallowed to show the number during the process. The official number was the $92; but, in reality,\nwhen the rollback went into effect, the actual out-of-pocket amount would be $87.53 per $100,000\nvaluation.",
           "claimId": "c4",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
           "owner": "City of Wadsworth",
@@ -3661,10 +3702,10 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The July taxpayer comparison used the county auditor’s market-value basis and annual revenue projections.",
+          "assertion": "The combined approximately $12 net increase per $100,000 was presented as an annual comparison, distinct from the full EMS levy cost.",
           "sourceId": "8bbaf1d1fa28cd02a58d",
-          "page": 12,
-          "quote": "Option B - Fire\nThis was the 1.0 mil decrease that turned the annual revenue into $315,700; for taxpayers that would\nbe $11 for each $100,000 Auditor’s Market Value.\n\nCurrent baseline reference was $34.30 for $100,000 Auditor’s market value.\n\nThese were the actual revenue projection estimates from the County Auditor’s office.",
+          "page": 13,
+          "quote": "For the Fire Levy reductions, the reduction went from $34 down to $11. This was a difference of $23\nper $100,000 valuation. The net difference between the two was $12 per $100,000 valuation. As a\nreminder, the EMS levy did not start until 2028. That meant in 2027, the taxpayers saw a temporary\n$23 difference (reduction) per $100,000. To speak of $12 difference per $100,000 that meant the\noffsetting difference was $36 per year, approximately $3 per month.",
           "claimId": "c5",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
           "owner": "City of Wadsworth",
@@ -3673,22 +3714,22 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Chafin’s July estimate assumed an anticipated state rollback on the existing EMS levy portion; he explained that this state funding offsets residents’ taxes.",
-          "sourceId": "8bbaf1d1fa28cd02a58d",
-          "page": 13,
-          "quote": "Because the EMS\nlevy was in existence for a while, the original portion of the EMS levy was actually eligible for what\nwas called a State Rollback. That meant the State provided funding to help offset the taxes to\nresidents. With the State Rollback, it allowed a drop from $92 to $87.53 per $100,000 and, in reality,\nwas much closer to the number presented last time. However, the County Auditor’s office was not\nallowed to show the number during the process. The official number was the $92; but, in reality,\nwhen the rollback went into effect, the actual out-of-pocket amount would be $87.53 per $100,000\nvaluation.",
+          "assertion": "The existing fire levy is 1.5 mills, with a proposed one-mill reduction beginning in 2027; increased EMS receipts would begin in 2028.",
+          "sourceId": "231821dc75658d0cd813",
+          "page": 3,
+          "quote": "Safety Director Chafin explained that the FIRE levy was set to expire at the end of 2026 and\nwas currently a 1.5-mill levy. The City proposed reducing it by one mill beginning in 2027.\nThe EMS levy currently in effect had one additional year to run, so the proposed renewal would\nnot increase receipts in 2027. Beginning in 2028, the renewed EMS levy would generate\nincreased receipts.",
           "claimId": "c6",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
           "owner": "City of Wadsworth",
-          "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
-          "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+          "sourceHash": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
+          "sourceTextHash": "109274ad778545e3ece4725e8094f51f06d1d19a9184f64e66a436c77cc161b9",
           "transcription": "page-text"
         },
         {
-          "assertion": "The July explanation places the approximate $12 net increase per $100,000 of valuation in an annual cost comparison, with the EMS change starting in 2028.",
+          "assertion": "If approved, increased EMS collections would begin in 2028.",
           "sourceId": "8bbaf1d1fa28cd02a58d",
-          "page": 13,
-          "quote": "For the Fire Levy reductions, the reduction went from $34 down to $11. This was a difference of $23\nper $100,000 valuation. The net difference between the two was $12 per $100,000 valuation. As a\nreminder, the EMS levy did not start until 2028. That meant in 2027, the taxpayers saw a temporary\n$23 difference (reduction) per $100,000. To speak of $12 difference per $100,000 that meant the\noffsetting difference was $36 per year, approximately $3 per month.",
+          "page": 10,
+          "quote": "Even if it was successfully voted in, the\nfunds would not be collected until 2028.",
           "claimId": "c7",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
           "owner": "City of Wadsworth",
@@ -3697,10 +3738,10 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Chafin described approximately $4.8 million in projected fire reserves and a planned spend-down alongside the paired levy changes.",
+          "assertion": "Chafin described spending down fire reserves without transferring fire funds to EMS and estimated the combined net impact at approximately $12 per $100,000 of property valuation.",
           "sourceId": "231821dc75658d0cd813",
-          "page": 3,
-          "quote": "Dir. Chafin explained that the projected FIRE levy cash balance was approximately $4.8\nmillion. The City planned to strategically spend down those reserves while reducing the FIRE\nlevy by one mill. The reduction was intended to offset the proposed one-mill increase on the\nEMS side.",
+          "page": 4,
+          "quote": "He emphasized that the City would not be transferring funds from the FIRE account to the\nEMS account. Rather, the two levy changes were being considered together so that increased\nEMS revenue and reduced FIRE revenue would be balanced against the FIRE levy cash\nreserves. The strategic spend-down of FIRE reserves was intended to help offset the taxpayer\nimpact of the EMS increase. He estimated the net impact at approximately $12 per $100,000\nof property valuation.",
           "claimId": "c8",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
           "owner": "City of Wadsworth",
@@ -3709,75 +3750,39 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Chafin said no fire-to-EMS transfer was proposed and described the approximately $12 net impact per $100,000 of property valuation as an estimate, rather than an individual bill.",
-          "sourceId": "231821dc75658d0cd813",
-          "page": 4,
-          "quote": "He emphasized that the City would not be transferring funds from the FIRE account to the\nEMS account. Rather, the two levy changes were being considered together so that increased\nEMS revenue and reduced FIRE revenue would be balanced against the FIRE levy cash\nreserves. The strategic spend-down of FIRE reserves was intended to help offset the taxpayer\nimpact of the EMS increase. He estimated the net impact at approximately $12 per $100,000\nof property valuation.",
-          "claimId": "c9",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08112026-844",
-          "owner": "City of Wadsworth",
-          "sourceHash": "eaddb7d2dce24069efe8c28746c4328d7c67d68980d863fa3219604701fb6f83",
-          "sourceTextHash": "109274ad778545e3ece4725e8094f51f06d1d19a9184f64e66a436c77cc161b9",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The July forecast assumed one additional firefighter/paramedic in each of 2028, 2029 and 2030, with EMS collections beginning in 2028 if approved.",
-          "sourceId": "8bbaf1d1fa28cd02a58d",
-          "page": 10,
-          "quote": "These assumptions were built to add a Firefighter/Paramedic in 2028, one in 2029 and one in 2030.\nWith that timeline in mind, even though theoretically the talk was to move forward with the EMS\nlevy this fall, that did not expire until the end of next year. Even if it was successfully voted in, the\nfunds would not be collected until 2028.",
-          "claimId": "c10",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
-          "owner": "City of Wadsworth",
-          "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
-          "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The General Fund would also share the additional staffing costs.",
-          "sourceId": "8bbaf1d1fa28cd02a58d",
-          "page": 13,
-          "quote": "the cost for the new members was split. As the\ndiscussions and talks about addition of staff in 2028, 2029 and 2030 happened, the levy funds would\nbe available, but to remember there was also a General Fund component that would see an increase.",
-          "claimId": "c11",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
-          "owner": "City of Wadsworth",
-          "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
-          "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "Chafin reported that ballot documents had been submitted and the ballot technicalities accepted by the Board of Elections; this establishes completed filings, not voter approval.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 23,
-          "quote": "Dir. Chafin said as to the levies themselves, after the Council meeting during which the resolutions\nwere passed, all the documents were successfully turned in to the Board of Elections. The official\nnotice was given and received. So, all the work done so far now meant the real work could begin to\nconduct a support campaign. There would probably be some meetings in the near future to outline\nwhat that campaign looked like. But the Committee needed to know that all the technicalities in terms\nof the ballot were completed and accepted by the Board of Elections.",
-          "claimId": "c12",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
-          "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "The ballot-filing report occurred at the August 12, 2026 Public Safety Committee meeting.",
-          "sourceId": "728c65e7205ae7c965ec",
-          "page": 1,
-          "quote": "Council Member Yurchiak welcomed everyone to the August 12, 2026 Public Safety Committee\nmeeting.",
-          "claimId": "c13",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
-          "owner": "City of Wadsworth",
-          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
-          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "Dan Chafin is identified as safety director.",
+          "assertion": "Dan Chafin is the safety director.",
           "sourceId": "8bbaf1d1fa28cd02a58d",
           "page": 1,
           "quote": "Safety Director Dan Chafin",
-          "claimId": "c14",
+          "claimId": "c9",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07082026-833",
           "owner": "City of Wadsworth",
           "sourceHash": "bfa43ce38d79daa1d058500b35fd0651d4ab52e05660cc184c342c6226733d65",
           "sourceTextHash": "aa97d526cc32928394f3c074fd948d57559999eaa4bb3b70db79dabfb7dc0e54",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The retained August 12 milestone is the report that ballot documents had been submitted and accepted, rather than voter approval.",
+          "sourceId": "728c65e7205ae7c965ec",
+          "page": 23,
+          "quote": "Dir. Chafin said as to the levies themselves, after the Council meeting during which the resolutions\nwere passed, all the documents were successfully turned in to the Board of Elections. The official\nnotice was given and received. So, all the work done so far now meant the real work could begin to\nconduct a support campaign. There would probably be some meetings in the near future to outline\nwhat that campaign looked like. But the Committee needed to know that all the technicalities in terms\nof the ballot were completed and accepted by the Board of Elections.",
+          "claimId": "c10",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "owner": "City of Wadsworth",
+          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The ballot-filing report occurred August 12, 2026.",
+          "sourceId": "728c65e7205ae7c965ec",
+          "page": 1,
+          "quote": "Council Member Yurchiak welcomed everyone to the August 12, 2026 Public Safety Committee\nmeeting.",
+          "claimId": "c11",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08122026-846",
+          "owner": "City of Wadsworth",
+          "sourceHash": "50edf3ecefbc654af92f497b576cd780187bb837715be53b578fa83b09abbd8b",
+          "sourceTextHash": "43bb7207c888c1983d628e2b44725416388c84e37e471f2c9a935e2b4d624d75",
           "transcription": "page-text"
         }
       ],
@@ -3785,17 +3790,25 @@
         "candidateId": "wadsworth-fire-ems-levies-2026-11-03",
         "verdict": "PASS",
         "destination": "EXPLAINER",
-        "promptVersion": "resident-reviewer-v5",
-        "reviewedAt": "2026-10-06T00:24:08.592Z",
-        "candidateHash": "bf7616fa8e83df2656bfd108dd5e416b80c6a15541a89d68f2ffd385c9b20ea7",
+        "promptVersion": "resident-reviewer-v6",
+        "reviewedAt": "2026-10-19T11:51:05.267Z",
+        "candidateHash": "171e3a9c84630d73a4f511682bf09542d595f44401878a6be4950b1bbf3fab60",
         "claimChecks": [
           {
             "claimIds": [
-              "c1",
+              "c1"
+            ],
+            "sourceIds": [
+              "541e8249c6ec0af3373c"
+            ],
+            "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [
               "c2"
             ],
             "sourceIds": [
-              "6a730afba778d67b64fe",
+              "541e8249c6ec0af3373c",
               "728c65e7205ae7c965ec"
             ],
             "support": "SUPPORTED"
@@ -3805,7 +3818,7 @@
               "c3"
             ],
             "sourceIds": [
-              "231821dc75658d0cd813"
+              "541e8249c6ec0af3373c"
             ],
             "support": "SUPPORTED"
           },
@@ -3823,26 +3836,20 @@
               "c5"
             ],
             "sourceIds": [
-              "8bbaf1d1fa28cd02a58d"
+              "8bbaf1d1fa28cd02a58d",
+              "231821dc75658d0cd813"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
-              "c6"
-            ],
-            "sourceIds": [
-              "8bbaf1d1fa28cd02a58d"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
+              "c6",
               "c7"
             ],
             "sourceIds": [
+              "231821dc75658d0cd813",
               "8bbaf1d1fa28cd02a58d",
-              "231821dc75658d0cd813"
+              "541e8249c6ec0af3373c"
             ],
             "support": "SUPPORTED"
           },
@@ -3860,53 +3867,25 @@
               "c9"
             ],
             "sourceIds": [
-              "231821dc75658d0cd813"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c10"
-            ],
-            "sourceIds": [
               "8bbaf1d1fa28cd02a58d"
             ],
             "support": "SUPPORTED"
           },
           {
             "claimIds": [
+              "c10",
               "c11"
             ],
             "sourceIds": [
-              "8bbaf1d1fa28cd02a58d"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c12"
-            ],
-            "sourceIds": [
               "728c65e7205ae7c965ec"
             ],
             "support": "SUPPORTED"
           },
           {
-            "claimIds": [
-              "c13"
-            ],
+            "claimIds": [],
             "sourceIds": [
-              "728c65e7205ae7c965ec"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c14"
-            ],
-            "sourceIds": [
+              "541e8249c6ec0af3373c",
               "8bbaf1d1fa28cd02a58d",
-              "728c65e7205ae7c965ec",
               "231821dc75658d0cd813"
             ],
             "support": "SUPPORTED"
@@ -3914,9 +3893,7 @@
           {
             "claimIds": [],
             "sourceIds": [
-              "6a730afba778d67b64fe",
-              "728c65e7205ae7c965ec",
-              "8bbaf1d1fa28cd02a58d",
+              "541e8249c6ec0af3373c",
               "231821dc75658d0cd813"
             ],
             "support": "SUPPORTED"
@@ -3929,18 +3906,10 @@
           "usefulness": 3,
           "timeliness": 2
         },
-        "affectedAudience": "Wadsworth property taxpayers and voters considering city fire and EMS funding.",
-        "wadsworthConnection": "The proposals concern Wadsworth’s fire and EMS levies, reserves and staffing.",
-        "neighborTakeaway": "The proposed fire levy reduction would begin a year before increased EMS collections. Chafin estimates the combined change would eventually cost about $12 more annually per $100,000 of auditor market value, assuming the anticipated state rollback.",
-        "newBeyondPriorCoverage": "Prior election coverage concerns the school earned income tax, not the separate city property-tax proposals."
-      },
-      "copyEdit": {
-        "editedAt": "2026-10-08T03:51:38.812397+00:00",
-        "method": "direct editorial rewrite authorized by Chris",
-        "scope": "currently displayed stories and project summaries; original facts and dates retained",
-        "voiceProfile": "matchstick-voice-v2",
-        "priorFactualReviewCandidateHash": "bf7616fa8e83df2656bfd108dd5e416b80c6a15541a89d68f2ffd385c9b20ea7",
-        "freshIndependentReview": false
+        "affectedAudience": "Wadsworth property taxpayers and voters considering the city fire and EMS proposals.",
+        "wadsworthConnection": "The proposals fund Wadsworth fire and emergency medical services.",
+        "neighborTakeaway": "The stated $92 cost is for the entire proposed EMS levy before the anticipated rollback; the city's approximately $12 estimate concerns the combined change in fire and EMS taxes.",
+        "newBeyondPriorCoverage": "Adds the EMS proposal's five-year duration, official total-cost comparison and projected annual proceeds, while making the staggered collection timing explicit."
       }
     },
     {
@@ -4902,21 +4871,21 @@
     {
       "slug": "medina-county-measles-2026",
       "category": "Health",
-      "title": "County reports one confirmed, one probable measles case this year",
-      "dek": "The health department says risk remains low for vaccinated people.",
-      "body": "Medina County reported one confirmed and one probable measles case in its 2026 tally as of October 9. These are countywide year-to-date figures, not a count of new infections that day.\n\nThe Medina County Health Department says it is following up on potential exposures. It recommends the measles, mumps and rubella vaccine and says doctors recommend two doses. For vaccinated members of the public, the department says the risk of contracting measles remains low.",
-      "revisionKind": "NEW",
+      "title": "County reports three confirmed, 15 probable measles cases",
+      "dek": "The October 16 figures count cases reported during 2026.",
+      "body": "Medina County's 2026 measles tally includes three confirmed cases and 15 probable cases as of October 16. These are year-to-date figures, not 18 new infections that day.\n\nThe Medina County Health Department says risk remains low for vaccinated people. It recommends the measles, mumps and rubella vaccine and says doctors recommend two doses. The department is following up on potential exposures.",
+      "revisionKind": "UPDATE",
       "correctionNote": "",
       "source": {
         "title": "Health Alerts",
         "url": "https://medinahealth.org/health-alerts/",
         "owner": "Medina County Health Department",
-        "checked": "2026-10-12",
-        "published": "2026-10-09"
+        "checked": "2026-10-19",
+        "published": "2026-10-16"
       },
       "editorial": {
         "destination": "NEWS",
-        "eventDate": "2026-10-09",
+        "eventDate": "2026-10-16",
         "decisionDate": "",
         "availabilityDate": "",
         "readerPerspectives": [
@@ -4924,24 +4893,24 @@
           "school_parent",
           "casual_neighbor"
         ],
-        "residentValue": "Provides a dated local case tally with vaccination guidance and risk context, without implying a Wadsworth exposure or a rising trend.",
-        "change": "The health department reports an October 9 year-to-date tally of one confirmed and one probable measles case.",
-        "whyNow": "The substantive health update is dated October 9; infection dates are not established.",
+        "residentValue": "Provides the changed county case tally alongside vaccination and risk guidance without implying new infection dates or a Wadsworth exposure.",
+        "change": "The county's dated surveillance tally changed to three confirmed and 15 probable measles cases.",
+        "whyNow": "The October 16 substantive health update is three days before cutoff and materially changes the previously published tally.",
         "review": "independent-pass",
         "publicationMode": "routine",
-        "publicationCutoff": "2026-10-12"
+        "publicationCutoff": "2026-10-19"
       },
       "evidenceRefs": [
         {
-          "assertion": "As of October 9, Medina County's 2026 tally included one confirmed and one probable measles case; the tally does not identify infection dates.",
+          "assertion": "As of October 16, 2026, Medina County reported three confirmed and 15 probable measles cases during 2026, totaling 18 reported cases; this is a year-to-date tally rather than a count of infections occurring that day.",
           "sourceId": "48c7bdbf36f25f1bdd24",
           "page": 1,
-          "quote": "As of October 9th, Medina County has reported 2 cases of measles (one confirmed, one probable) in 2026.",
+          "quote": "As of October 16th, Medina County has reported 3 confirmed cases of measles and 15 probable cases in 2026.",
           "claimId": "c1",
           "url": "https://medinahealth.org/health-alerts/",
           "owner": "Medina County Health Department",
-          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
-          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "sourceHash": "2ff5c2baa27235b884c6570f97a7381b3c4dbc6b9fad38495b969bcb54eeceb7",
+          "sourceTextHash": "d180d1f0c49bf199430d790b6059e6d446cb3276749e75763e8319ebf111a06a",
           "transcription": "page-text"
         },
         {
@@ -4952,32 +4921,32 @@
           "claimId": "c2",
           "url": "https://medinahealth.org/health-alerts/",
           "owner": "Medina County Health Department",
-          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
-          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "sourceHash": "2ff5c2baa27235b884c6570f97a7381b3c4dbc6b9fad38495b969bcb54eeceb7",
+          "sourceTextHash": "d180d1f0c49bf199430d790b6059e6d446cb3276749e75763e8319ebf111a06a",
           "transcription": "page-text"
         },
         {
-          "assertion": "The department recommends MMR vaccination and says doctors recommend two doses.",
+          "assertion": "The department recommends the measles, mumps and rubella vaccine and says doctors recommend two doses.",
           "sourceId": "48c7bdbf36f25f1bdd24",
           "page": 1,
           "quote": "The best way to protect yourself against measles is to get the measles, mumps, and rubella (MMR) vaccine. Two doses are recommended by doctors.",
           "claimId": "c3",
           "url": "https://medinahealth.org/health-alerts/",
           "owner": "Medina County Health Department",
-          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
-          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "sourceHash": "2ff5c2baa27235b884c6570f97a7381b3c4dbc6b9fad38495b969bcb54eeceb7",
+          "sourceTextHash": "d180d1f0c49bf199430d790b6059e6d446cb3276749e75763e8319ebf111a06a",
           "transcription": "page-text"
         },
         {
-          "assertion": "The department is following up on potential exposures.",
+          "assertion": "The Medina County Health Department is following up on potential exposures.",
           "sourceId": "48c7bdbf36f25f1bdd24",
           "page": 1,
           "quote": "The Medina County Health Department is monitoring the situation, following up with any potential exposures, and will provide any updates to the current situation on this webpage.",
           "claimId": "c4",
           "url": "https://medinahealth.org/health-alerts/",
           "owner": "Medina County Health Department",
-          "sourceHash": "39e6745358c2c6655c732ca7b351544ba7f693f6da20a1a9157ec3f0a4cd869c",
-          "sourceTextHash": "17d6d94fab8c58f53e087110eb751daa136fce1de0ada4aca846e28ff0046c3a",
+          "sourceHash": "2ff5c2baa27235b884c6570f97a7381b3c4dbc6b9fad38495b969bcb54eeceb7",
+          "sourceTextHash": "d180d1f0c49bf199430d790b6059e6d446cb3276749e75763e8319ebf111a06a",
           "transcription": "page-text"
         }
       ],
@@ -4986,8 +4955,8 @@
         "verdict": "PASS",
         "destination": "NEWS",
         "promptVersion": "resident-reviewer-v6",
-        "reviewedAt": "2026-10-12T11:44:17.229Z",
-        "candidateHash": "3a0554d26990a067a13e5968e45650f025203b112f83cd902331145312bfe9c3",
+        "reviewedAt": "2026-10-19T11:51:05.267Z",
+        "candidateHash": "cb54848d195c1a00ef826010d500ba216b33d58d8096df4389862c4da97ea10c",
         "claimChecks": [
           {
             "claimIds": [
@@ -5024,6 +4993,13 @@
               "48c7bdbf36f25f1bdd24"
             ],
             "support": "SUPPORTED"
+          },
+          {
+            "claimIds": [],
+            "sourceIds": [
+              "48c7bdbf36f25f1bdd24"
+            ],
+            "support": "SUPPORTED"
           }
         ]
       },
@@ -5034,9 +5010,9 @@
           "timeliness": 2
         },
         "affectedAudience": "Medina County residents, including Wadsworth families assessing measles precautions.",
-        "wadsworthConnection": "The health department's countywide reporting and guidance cover Wadsworth residents; no Wadsworth case location is established.",
-        "neighborTakeaway": "The county's October 9 tally includes one confirmed and one probable measles case this year; the health department says risk remains low for vaccinated people.",
-        "newBeyondPriorCoverage": "No supplied prior story covers the October 9 county measles tally."
+        "wadsworthConnection": "The county health department's surveillance and vaccination guidance cover Wadsworth residents.",
+        "neighborTakeaway": "The October 16 county tally includes three confirmed and 15 probable measles cases this year; the health department says risk remains low for vaccinated people.",
+        "newBeyondPriorCoverage": "Replaces the October 9 tally of one confirmed and one probable case with the materially changed October 16 tally."
       }
     }
   ],
@@ -8580,21 +8556,21 @@
     },
     {
       "slug": "wadsworth-sidewalk-program-2026",
-      "name": "Sidewalk repairs. This year, no assessment bill",
+      "name": "Sidewalk contract authorization caps spending at $250,000",
       "category": "Infrastructure",
       "stage": "T.R. Snyder contract authorized August 18, 2026",
-      "location": "Wadsworth; individual repair locations not established",
-      "description": "The city’s 2026 sidewalk program planned roughly 3,000 feet of repairs. Its most neighborly detail is financial: no property assessments for that program.\n\nCouncil authorized a T.R. Snyder Construction contract August 18, when staff said the contractor was waiting to begin. The reported program budget was $250,000; that figure wasn’t an established contract price.\n\nThe no-assessment arrangement belongs to this year’s program. It isn’t a lifetime warranty against every sidewalk bill.",
-      "revisionKind": "STYLE",
+      "location": "Wadsworth",
+      "description": "Wadsworth authorized a T.R. Snyder Construction contract August 18, 2026, for its 2026 sidewalk program, with a $250,000 spending ceiling. That sets the limit, rather than the final bill.\n\nThe program called for about 3,000 feet of repairs without property assessments for 2026. On August 18, staff said the contractor was waiting to begin.",
+      "revisionKind": "UPDATE",
       "correctionNote": "",
       "next": "",
       "date": "2026-08-18",
       "evidence": [
         {
-          "title": "Public Ways Agenda & Approved Minutes",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-832",
+          "title": "2nd Revised Committee of The Whole Agenda Packet - Approved Minutes",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08182026-850",
           "owner": "City of Wadsworth",
-          "checked": "2026-10-05",
+          "checked": "2026-10-19",
           "published": "2026-08-18"
         }
       ],
@@ -8602,21 +8578,45 @@
         {
           "date": "2026-07-13",
           "title": "Program scope and assessment treatment reported",
-          "text": "Staff described a $250,000 budget, approximately 3,000 linear feet of repairs and no assessments for the 2026 program."
+          "text": "Staff described a $250,000 budget, approximately 3,000 feet of repairs and no assessments for the 2026 program."
         },
         {
           "date": "2026-08-18",
-          "title": "Contract authorized",
-          "text": "Council adopted Ordinance 26-094 authorizing a contract with T.R. Snyder Construction."
+          "title": "Contract authorized with spending ceiling",
+          "text": "Council adopted Ordinance 26-094 authorizing the T.R. Snyder Construction contract, with a payment obligation capped at $250,000."
         }
       ],
       "evidenceRefs": [
         {
-          "assertion": "The July report specified a $250,000 budget after cutbacks, about 3,000 linear feet of repairs and no assessments for the 2026 program.",
+          "assertion": "The contract provision names T.R. Snyder Construction, the 2026 Sidewalk Improvement Program and a $250,000 payment ceiling rather than an established final price.",
+          "sourceId": "de1ee921267a079e447c",
+          "page": 4,
+          "quote": "Section 1, That the Director of Public Service is hereby authorized to enter into a contract with TR\nSnyder Construction, Inc. for the 2026 Sidewalk Improvement Program. The payment obligation\npursuant to said contract shall not exceed two hundred fifty thousand dollars ($250,000).",
+          "claimId": "c1",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Agenda/_08182026-850",
+          "owner": "City of Wadsworth",
+          "sourceHash": "84eb988a6932d2e4080cbbfb61955a3f51751335b441c4ca53f39d228517e271",
+          "sourceTextHash": "e83ef5b7d5dc199f33a9cfb77a8a169a1e9ce066bd446ae32dff279b7e5e0c12",
+          "transcription": "ocr"
+        },
+        {
+          "assertion": "Council adopted Ordinance 26-094 on August 18, 2026.",
+          "sourceId": "095ca5e2adc7220c9ba8",
+          "page": 4,
+          "quote": "Nays: None Ordinance No. 26-094 declared to have been adopted August\n18, 2026.",
+          "claimId": "c2",
+          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08182026-849",
+          "owner": "City of Wadsworth",
+          "sourceHash": "8715cbe85bbfdb3f99f2a052b948fb9aa033ed3149c419e1e33e4dc25118b082",
+          "sourceTextHash": "2fc05c1a309551b33df3ab2d8f0bd52db6d40e61004516ee419f6e30b548e31a",
+          "transcription": "page-text"
+        },
+        {
+          "assertion": "The July program description specified a $250,000 budget, approximately 3,000 linear feet of repairs and no assessments for 2026.",
           "sourceId": "4ab8706c7dff0e49a4cd",
           "page": 4,
           "quote": "For the 2026 program the plan looked at a budget of $250,000; that was less than the average from\npast years due to some late cutbacks during the budget season. There were no assessments this year\nas discussed before. There was approximately 3,000 linear feet of sidewalk to be repaired during this\ncalendar year.",
-          "claimId": "c1",
+          "claimId": "c3",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-832",
           "owner": "City of Wadsworth",
           "sourceHash": "6f3bb30c21d2f80bf77a94bd38ce51b6359a6a2272dedeb6cd10b00c5f71b1d9",
@@ -8624,11 +8624,11 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The program report occurred July 13, 2026.",
+          "assertion": "The program-scope report occurred July 13, 2026.",
           "sourceId": "4ab8706c7dff0e49a4cd",
           "page": 1,
           "quote": "Council Member Maxwell called to order and welcomed everyone to the July 13, 2026 Public Ways\nCommittee meeting.",
-          "claimId": "c2",
+          "claimId": "c4",
           "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_07132026-832",
           "owner": "City of Wadsworth",
           "sourceHash": "6f3bb30c21d2f80bf77a94bd38ce51b6359a6a2272dedeb6cd10b00c5f71b1d9",
@@ -8636,31 +8636,7 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "Ordinance 26-094 authorizes a contract with T.R. Snyder for the 2026 sidewalk program.",
-          "sourceId": "095ca5e2adc7220c9ba8",
-          "page": 4,
-          "quote": "ORDINANCE NO. 26-094: AN ORDINANCE AUTHORIZING THE DIRECTOR OF\nPUBLIC SERVICE TO ENTER INTO A CONTRACT WITH TR SNYDER\nCONSTRUCTION, INC. FOR THE 2026 SIDEWALK IMPROVEMENT PROGRAM\nAND DECLARING AN EMERGENCY",
-          "claimId": "c3",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08182026-849",
-          "owner": "City of Wadsworth",
-          "sourceHash": "8715cbe85bbfdb3f99f2a052b948fb9aa033ed3149c419e1e33e4dc25118b082",
-          "sourceTextHash": "2fc05c1a309551b33df3ab2d8f0bd52db6d40e61004516ee419f6e30b548e31a",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "Council adopted Ordinance 26-094 August 18, 2026.",
-          "sourceId": "095ca5e2adc7220c9ba8",
-          "page": 4,
-          "quote": "Ordinance No. 26-094 declared to have been adopted August\n18, 2026.",
-          "claimId": "c4",
-          "url": "https://www.wadsworthcity.com/AgendaCenter/ViewFile/Minutes/_08182026-849",
-          "owner": "City of Wadsworth",
-          "sourceHash": "8715cbe85bbfdb3f99f2a052b948fb9aa033ed3149c419e1e33e4dc25118b082",
-          "sourceTextHash": "2fc05c1a309551b33df3ab2d8f0bd52db6d40e61004516ee419f6e30b548e31a",
-          "transcription": "page-text"
-        },
-        {
-          "assertion": "Hiscock said bids had been received and the contractor was waiting to begin.",
+          "assertion": "At the August contract discussion, staff said bids had been received and the contractor was waiting to begin.",
           "sourceId": "2d7812089157ea0bd9be",
           "page": 2,
           "quote": "Service Director Hiscock explained that the ordinance was authorization to enter the contract\nafter bids had been received for the 2026 Sidewalk Improvement Program.\n\nPresident Rospert asked whether the recommendation was to suspend and call the ordinance so the\nprogram could begin.\n\nDirector Hiscock confirmed that the contractor was waiting to begin the work.",
@@ -8672,7 +8648,7 @@
           "transcription": "page-text"
         },
         {
-          "assertion": "The August report was delivered at the August 18 committee meeting.",
+          "assertion": "The contractor-status discussion occurred August 18, 2026.",
           "sourceId": "2d7812089157ea0bd9be",
           "page": 1,
           "quote": "August 18, 2026, 6:00 P.M.",
@@ -8688,16 +8664,17 @@
         "candidateId": "wadsworth-sidewalk-program-2026",
         "verdict": "PASS",
         "destination": "PROJECT",
-        "promptVersion": "resident-reviewer-v5",
-        "reviewedAt": "2026-10-06T00:24:08.592Z",
-        "candidateHash": "c044e10d9ce7db07cfb15d3476e5877e112717c334681f0ab77d758201dfb60a",
+        "promptVersion": "resident-reviewer-v6",
+        "reviewedAt": "2026-10-19T11:51:05.267Z",
+        "candidateHash": "ea48e3a6c666fe7caee8fc76d95049942f4dc5b363f6ee1115857003e4922ca8",
         "claimChecks": [
           {
             "claimIds": [
               "c1"
             ],
             "sourceIds": [
-              "4ab8706c7dff0e49a4cd"
+              "de1ee921267a079e447c",
+              "095ca5e2adc7220c9ba8"
             ],
             "support": "SUPPORTED"
           },
@@ -8706,7 +8683,7 @@
               "c2"
             ],
             "sourceIds": [
-              "4ab8706c7dff0e49a4cd"
+              "095ca5e2adc7220c9ba8"
             ],
             "support": "SUPPORTED"
           },
@@ -8715,8 +8692,7 @@
               "c3"
             ],
             "sourceIds": [
-              "095ca5e2adc7220c9ba8",
-              "2d7812089157ea0bd9be"
+              "4ab8706c7dff0e49a4cd"
             ],
             "support": "SUPPORTED"
           },
@@ -8725,7 +8701,7 @@
               "c4"
             ],
             "sourceIds": [
-              "095ca5e2adc7220c9ba8"
+              "4ab8706c7dff0e49a4cd"
             ],
             "support": "SUPPORTED"
           },
@@ -8750,36 +8726,9 @@
           {
             "claimIds": [],
             "sourceIds": [
-              "4ab8706c7dff0e49a4cd",
-              "2d7812089157ea0bd9be"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [
-              "c1"
-            ],
-            "sourceIds": [
+              "de1ee921267a079e447c",
               "4ab8706c7dff0e49a4cd",
               "095ca5e2adc7220c9ba8"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [],
-            "sourceIds": [
-              "4ab8706c7dff0e49a4cd",
-              "2d7812089157ea0bd9be",
-              "095ca5e2adc7220c9ba8"
-            ],
-            "support": "SUPPORTED"
-          },
-          {
-            "claimIds": [],
-            "sourceIds": [
-              "4ab8706c7dff0e49a4cd",
-              "095ca5e2adc7220c9ba8",
-              "2d7812089157ea0bd9be"
             ],
             "support": "SUPPORTED"
           }
@@ -8791,18 +8740,10 @@
           "usefulness": 2,
           "timeliness": 0
         },
-        "affectedAudience": "Residents following Wadsworth sidewalk repairs and property-assessment charges.",
-        "wadsworthConnection": "The work is Wadsworth’s 2026 Sidewalk Improvement Program.",
-        "neighborTakeaway": "The city described about 3,000 feet of repairs without property assessments for its 2026 program and authorized a T.R. Snyder contract in August.",
-        "newBeyondPriorCoverage": "Adds the 2026 program’s scope, assessment treatment and later named-contractor authorization."
-      },
-      "copyEdit": {
-        "editedAt": "2026-10-08T03:51:38.812397+00:00",
-        "method": "direct editorial rewrite authorized by Chris",
-        "scope": "currently displayed stories and project summaries; original facts and dates retained",
-        "voiceProfile": "matchstick-voice-v2",
-        "priorFactualReviewCandidateHash": "c044e10d9ce7db07cfb15d3476e5877e112717c334681f0ab77d758201dfb60a",
-        "freshIndependentReview": false
+        "affectedAudience": "Residents following Wadsworth sidewalk repairs and the program's spending limits.",
+        "wadsworthConnection": "The authorization concerns Wadsworth's 2026 Sidewalk Improvement Program.",
+        "neighborTakeaway": "Council's August authorization capped the sidewalk contract at $250,000; that is a spending ceiling rather than a final price.",
+        "newBeyondPriorCoverage": "Establishes the $250,000 contract ceiling, which prior coverage identified only as the program budget."
       }
     }
   ]

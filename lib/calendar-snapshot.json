@@ -1,105 +1,51 @@
 {
-  "checkedAt": "2026-10-14T10:03:09.377Z",
+  "checkedAt": "2026-10-19T11:02:17.380Z",
   "horizonDays": 90,
   "coverage": [
     {
       "title": "City current-month calendar",
       "url": "https://www.wadsworthcity.com/Calendar.aspx",
       "status": "ok",
-      "records": 11,
-      "checkedAt": "2026-10-14T10:03:09.377Z"
+      "records": 8,
+      "checkedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "title": "City subscription · City Council Calendar",
       "url": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar",
       "status": "ok",
-      "records": 14,
-      "checkedAt": "2026-10-14T10:03:09.377Z"
+      "records": 12,
+      "checkedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "title": "City subscription · Main Calendar",
       "url": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "status": "ok",
-      "records": 12,
-      "checkedAt": "2026-10-14T10:03:09.377Z"
+      "records": 11,
+      "checkedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "title": "City subscription · America 250-Ohio",
       "url": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=27&feed=calendar",
       "status": "ok",
       "records": 2,
-      "checkedAt": "2026-10-14T10:03:09.377Z"
+      "checkedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "title": "Main Street Wadsworth events",
       "url": "https://mainstreetwadsworth.org/events/",
       "status": "ok",
       "records": 4,
-      "checkedAt": "2026-10-14T10:03:09.377Z"
+      "checkedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "title": "School board calendar",
       "url": "https://www.wadsworthschools.org/board-of-education-2",
       "status": "ok",
       "records": 1,
-      "checkedAt": "2026-10-14T10:03:09.377Z"
+      "checkedAt": "2026-10-19T11:02:17.380Z"
     }
   ],
   "records": [
-    {
-      "id": "city-2184",
-      "day": "14",
-      "month": "OCT",
-      "title": "Public Safety Committee",
-      "time": "October 14, 2026, 5:00 PM – 5:30 PM",
-      "place": "Council Chambers - 120 Maple St. Wadsworth OH 44281",
-      "type": "City meetings",
-      "calendarCategory": "City Council Calendar",
-      "date": "2026-10-14T21:00:00.000Z",
-      "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2184",
-      "description": "",
-      "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
-      "endDate": "2026-10-14T21:30:00.000Z",
-      "allDay": false,
-      "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
-    },
-    {
-      "id": "city-2443",
-      "day": "15",
-      "month": "OCT",
-      "title": "Airport Commission",
-      "time": "October 15, 2026, 4:00 PM – 4:30 PM",
-      "place": "Council Chambers - 120 Maple St. Wadsworth OH 44281",
-      "type": "City meetings",
-      "calendarCategory": "City Council Calendar",
-      "date": "2026-10-15T20:00:00.000Z",
-      "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2443",
-      "description": "",
-      "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
-      "endDate": "2026-10-15T20:30:00.000Z",
-      "allDay": false,
-      "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
-    },
-    {
-      "id": "city-2374",
-      "day": "17",
-      "month": "OCT",
-      "title": "Scare on the Square and Wadsworth Thriller",
-      "time": "October 17, 2026, 5:30 PM – 8:00 PM",
-      "place": "Wadsworth OH 44281",
-      "type": "Around town",
-      "calendarCategory": "Main Calendar",
-      "date": "2026-10-17T21:30:00.000Z",
-      "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2374",
-      "description": "",
-      "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
-      "endDate": "2026-10-18T00:00:00.000Z",
-      "allDay": false,
-      "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar"
-    },
     {
       "id": "city-2465",
       "day": "19",
@@ -113,7 +59,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2465",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-20T00:00:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -131,7 +77,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2158",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-20T22:30:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -149,7 +95,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2130",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-20T23:00:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -167,7 +113,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2464",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-20T23:00:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -185,7 +131,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2287",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-21T21:30:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -203,7 +149,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2466",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-22T00:00:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -221,7 +167,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2439",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-10-27T21:30:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar"
@@ -239,7 +185,7 @@
       "url": "https://www.wadsworthcity.com/calendar.aspx?EID=1561",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "endDate": "2026-11-01T00:00:00.000Z",
       "allDay": false,
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar"
@@ -256,7 +202,7 @@
       "url": "https://www.wadsworthschools.org/board-of-education-2",
       "description": "The district’s next scheduled board meeting.",
       "sourceOwner": "Wadsworth City Schools",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2370",
@@ -274,7 +220,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "Happy November! Our November First Friday is Giving Thanks to Our Veterans! Visit the downtown area, our local businesses and restaurants, and enjoy the many activities.",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "alternateNotices": [
         {
           "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2420",
@@ -304,7 +250,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2051",
@@ -322,7 +268,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2380",
@@ -340,7 +286,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "alternateNotices": [
         {
           "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2419",
@@ -364,7 +310,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "Enjoy the magic of Christmas in downtown Wadsworth at the Candlelight Walk, a cherished community tradition! Local Shopping, Local Dining and so much more! Stroll the downtown sidewalks with a warm beverage in hand, gaze at the beautifully lit buildings and trees, marvel at the beautiful window decorations, and support local small businesses by doing your Christmas shopping in downtown Wadsworth! Enjoy activities, entertainment, food, and shopping in over 30 downtown small businesses and restaurants. Celebrate the holidays with your",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "alternateNotices": [
         {
           "url": "https://mainstreetwadsworth.org/event/main-street-wadsworth-2026-candlelight-walk/",
@@ -391,7 +337,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2053",
@@ -409,7 +355,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "mainstreet-174716",
@@ -427,7 +373,7 @@
       "feedUrl": "https://mainstreetwadsworth.org/wp-json/tribe/events/v1/events",
       "description": "How to Participate: 1. Start at any of the 10 shops listed below & pick up a shop hop card 2. From 9:00am – 5:00pm, have your shop hop card stamped at all 10 of the shops 3. Leave it at your last stop for a chance to win a gift basket with merchandise & gift certificates from all of the shops 4. Make sure to also visit the other shops and restaurants while you are downtown!",
       "sourceOwner": "Main Street Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2297",
@@ -445,7 +391,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2371",
@@ -463,7 +409,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "Happy December! Our December First Friday is A Very Merry First Friday! Visit the downtown area, our local businesses and restaurants, and enjoy the many activities.",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z",
       "alternateNotices": [
         {
           "url": "https://mainstreetwadsworth.org/event/main-street-wadsworth-2026-december-first-friday-a-very-merry-first-friday/",
@@ -489,7 +435,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2441",
@@ -507,7 +453,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2054",
@@ -525,7 +471,7 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     },
     {
       "id": "city-2055",
@@ -543,7 +489,25 @@
       "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
       "description": "",
       "sourceOwner": "City of Wadsworth",
-      "lastVerifiedAt": "2026-10-14T10:03:09.377Z"
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
+    },
+    {
+      "id": "city-2187",
+      "day": "13",
+      "month": "JAN",
+      "title": "Public Safety Committee",
+      "time": "January 13, 2027, 5:00 PM – 5:30 PM",
+      "place": "Council Chambers - 120 Maple St. Wadsworth OH 44281",
+      "type": "City meetings",
+      "calendarCategory": "City Council Calendar",
+      "date": "2027-01-13T22:00:00.000Z",
+      "endDate": "2027-01-13T22:30:00.000Z",
+      "allDay": false,
+      "url": "https://www.wadsworthcity.com/calendar.aspx?EID=2187",
+      "feedUrl": "https://www.wadsworthcity.com/common/modules/iCalendar/iCalendar.aspx?catID=25&feed=calendar",
+      "description": "",
+      "sourceOwner": "City of Wadsworth",
+      "lastVerifiedAt": "2026-10-19T11:02:17.380Z"
     }
   ]
 }

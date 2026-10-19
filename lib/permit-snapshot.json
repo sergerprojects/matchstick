@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-20",
-  "periodEnd": "2026-10-18",
+  "periodStart": "2026-07-21",
+  "periodEnd": "2026-10-19",
   "records": [
     {
       "id": "C-00429-26",
@@ -261,34 +261,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00266-26",
-      "parcel": "",
-      "issued": "2026-07-20",
-      "address": "322 GRANDVIEW AVE",
-      "type": "POWER RESTORATION",
-      "discipline": "Electrical",
-      "value": 0,
-      "work": [
-        "Electrical"
-      ]
-    },
-    {
-      "id": "C-00265-26",
-      "parcel": "",
-      "issued": "2026-07-20",
-      "address": "131 COLLEGE ST",
-      "type": "COMMERCIAL HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F20%2F26&eDate=10%2F18%2F26",
-  "collectedAt": "2026-10-18T14:03:13.277Z",
-  "lastAttempt": "2026-10-18T14:03:13.277Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F21%2F26&eDate=10%2F19%2F26",
+  "collectedAt": "2026-10-19T11:02:22.365Z",
+  "lastAttempt": "2026-10-19T11:02:22.365Z",
   "status": "ok"
 }
