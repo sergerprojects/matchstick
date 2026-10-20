@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-21",
-  "periodEnd": "2026-10-19",
+  "periodStart": "2026-07-22",
+  "periodEnd": "2026-10-20",
   "records": [
     {
       "id": "C-00429-26",
@@ -237,34 +237,10 @@
       "work": [
         "Building"
       ]
-    },
-    {
-      "id": "C-00267-26",
-      "parcel": "04020B29005",
-      "issued": "2026-07-21",
-      "address": "1183 WILLIAMS RESERVE BLVD",
-      "type": "COMMERCIAL SPRINKLER",
-      "discipline": "Building",
-      "value": 0,
-      "work": [
-        "Building"
-      ]
-    },
-    {
-      "id": "C-00269-26",
-      "parcel": "",
-      "issued": "2026-07-21",
-      "address": "209 PARK PLACE DR",
-      "type": "COMMERCIAL HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F21%2F26&eDate=10%2F19%2F26",
-  "collectedAt": "2026-10-19T17:00:27.037Z",
-  "lastAttempt": "2026-10-19T17:00:27.037Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F22%2F26&eDate=10%2F20%2F26",
+  "collectedAt": "2026-10-20T15:10:20.914Z",
+  "lastAttempt": "2026-10-20T15:10:20.914Z",
   "status": "ok"
 }
