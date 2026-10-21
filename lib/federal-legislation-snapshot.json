@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "279a2d214dfc2fc7e789bbcc6de8b403a98a1cd676c0714deb7b9bbd6686368a",
+      "archiveHash": "52ef24ac085e450120553625b0089a812ac8252c5893c760a1ffa1bfa92de914",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-20T15:10:38.672997+00:00",
-      "lastAttempt": "2026-10-20T15:10:38.672997+00:00",
+      "collectedAt": "2026-10-21T15:21:03.470185+00:00",
+      "lastAttempt": "2026-10-21T15:21:03.470185+00:00",
       "status": "ok"
     },
     {
@@ -2016,15 +2016,15 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "5037819e6b09bf463513273176fe9c4f563199f7905c989148b998930de4c99c",
+      "archiveHash": "11bdb77b31092c7dfb0a9fbb892a7651d16df1fc24d52605f1ac25008e2d6944",
       "records": [
         {
           "bill": "S. 5689",
           "number": 5689,
-          "title": "A bill to prohibit Federal and State incentives for the development or commercial operations of data centers.",
+          "title": "RECLAIM Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5689",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5689.xml",
-          "sourceHash": "03be4b5902416d3e8b37492ac06e4096af78c7c281cfa944e2b10c605d247305",
+          "sourceHash": "4f5a6d72ee0720cba19a8a9448f70ae50afb6ddefc6bbe2f3ade8c02e43cc8db",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2033,7 +2033,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-16T10:56:21Z",
+          "updated": "2026-10-21T05:23:18Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance."
@@ -2088,7 +2088,7 @@
           "title": "Acquired Lands Revenue Modernization Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5688.xml",
-          "sourceHash": "2c6eac2a271a38fe5fcbb27541263084cd2fa31e35fee8f69cff6c802aa19c22",
+          "sourceHash": "8d05ecb36c97e119217b0d77acb6329ab7b223a495e839cb92e91b0ac968cdbc",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2097,7 +2097,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-17T10:58:31Z",
+          "updated": "2026-10-20T17:57:59Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources."
@@ -2152,7 +2152,7 @@
           "title": "NO CHEATS Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5666",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5666.xml",
-          "sourceHash": "517ba27fd8c979a61ebd004b35ea29f361eca1f4648ba066dd1f0859786ccb7a",
+          "sourceHash": "2c467b3a7f89747408b28aea87fbf255908cb5c7523eadc68673162ca84d422f",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2161,7 +2161,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-09-30",
-          "updated": "2026-10-08T03:08:22Z",
+          "updated": "2026-10-20T17:26:05Z",
           "latestAction": {
             "date": "2026-09-30",
             "text": "Read twice and referred to the Committee on Finance."
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-20T15:10:38.672997+00:00",
-      "lastAttempt": "2026-10-20T15:10:38.672997+00:00",
+      "collectedAt": "2026-10-21T15:21:03.470185+00:00",
+      "lastAttempt": "2026-10-21T15:21:03.470185+00:00",
       "status": "ok"
     },
     {
@@ -3683,7 +3683,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "5037819e6b09bf463513273176fe9c4f563199f7905c989148b998930de4c99c",
+      "archiveHash": "11bdb77b31092c7dfb0a9fbb892a7651d16df1fc24d52605f1ac25008e2d6944",
       "records": [
         {
           "bill": "S. 5638",
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-20T15:10:38.672997+00:00",
-      "lastAttempt": "2026-10-20T15:10:38.672997+00:00",
+      "collectedAt": "2026-10-21T15:21:03.470185+00:00",
+      "lastAttempt": "2026-10-21T15:21:03.470185+00:00",
       "status": "ok"
     }
   ]
