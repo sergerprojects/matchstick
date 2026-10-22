@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-23",
-  "periodEnd": "2026-10-21",
+  "periodStart": "2026-07-24",
+  "periodEnd": "2026-10-22",
   "records": [
     {
       "id": "C-00429-26",
@@ -225,22 +225,10 @@
       "work": [
         "Building"
       ]
-    },
-    {
-      "id": "C-00275-26",
-      "parcel": "04020D03007",
-      "issued": "2026-07-23",
-      "address": "129 S MAIN STREET",
-      "type": "SPECIAL INS-COMMERCIAL",
-      "discipline": "Building",
-      "value": 0,
-      "work": [
-        "Building"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F23%2F26&eDate=10%2F21%2F26",
-  "collectedAt": "2026-10-21T15:20:48.265Z",
-  "lastAttempt": "2026-10-21T15:20:48.265Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F24%2F26&eDate=10%2F22%2F26",
+  "collectedAt": "2026-10-22T15:21:29.815Z",
+  "lastAttempt": "2026-10-22T15:21:29.815Z",
   "status": "ok"
 }
