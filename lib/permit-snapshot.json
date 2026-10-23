@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-24",
-  "periodEnd": "2026-10-22",
+  "periodStart": "2026-07-25",
+  "periodEnd": "2026-10-23",
   "records": [
     {
       "id": "C-00429-26",
@@ -213,22 +213,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00276-26",
-      "parcel": "04020A04047",
-      "issued": "2026-07-24",
-      "address": "988 HIGH ST",
-      "type": "ALARM SYSTEM",
-      "discipline": "Building",
-      "value": 0,
-      "work": [
-        "Building"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F24%2F26&eDate=10%2F22%2F26",
-  "collectedAt": "2026-10-22T15:21:29.815Z",
-  "lastAttempt": "2026-10-22T15:21:29.815Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F25%2F26&eDate=10%2F23%2F26",
+  "collectedAt": "2026-10-23T15:11:02.288Z",
+  "lastAttempt": "2026-10-23T15:11:02.288Z",
   "status": "ok"
 }

@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "a3f0fae1c4f165dd64f6b6380c7b606530fc5193cf288e431289b59c155a2201",
+      "archiveHash": "2b3f8a0bdc44917afdbe4195483ee9feeddc71803f1e1fea7b5295ccd976768d",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-22T15:21:46.751688+00:00",
-      "lastAttempt": "2026-10-22T15:21:46.751688+00:00",
+      "collectedAt": "2026-10-23T15:11:24.489016+00:00",
+      "lastAttempt": "2026-10-23T15:11:24.489016+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "8c4e80a546cd014d2a35b8d5e2594cb22172e79735db7d2bfb20a56ff12d89ce",
+      "archiveHash": "19ed6cf3c776337d9b0afcc40fcdb4309c5c4cfd3da8d35bd5e9cbf96961f2e7",
       "records": [
         {
           "bill": "S. 5689",
@@ -2088,7 +2088,7 @@
           "title": "Acquired Lands Revenue Modernization Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5688.xml",
-          "sourceHash": "de48ce5741fe68b625bea3ab2944e32b3dfc98675512c90e6845f002e26eba61",
+          "sourceHash": "41833ae0a45f08699225425d84030a61c9445c593f4da59cb8dc4a7f4602bbb0",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2097,7 +2097,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-21T17:24:16Z",
+          "updated": "2026-10-22T13:16:27Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources."
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-22T15:21:46.751688+00:00",
-      "lastAttempt": "2026-10-22T15:21:46.751688+00:00",
+      "collectedAt": "2026-10-23T15:11:24.489016+00:00",
+      "lastAttempt": "2026-10-23T15:11:24.489016+00:00",
       "status": "ok"
     },
     {
@@ -3683,7 +3683,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "8c4e80a546cd014d2a35b8d5e2594cb22172e79735db7d2bfb20a56ff12d89ce",
+      "archiveHash": "19ed6cf3c776337d9b0afcc40fcdb4309c5c4cfd3da8d35bd5e9cbf96961f2e7",
       "records": [
         {
           "bill": "S. 5638",
@@ -6545,7 +6545,7 @@
           "title": "Enhancing Detection of Human Trafficking Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2241",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2241.xml",
-          "sourceHash": "16652eba5139e89a109b488add332af03944a47ca109afcae2f297ba1d644caf",
+          "sourceHash": "c638b390455faec892b9b938ecbe3c15849ea02952b336e222fecee6f5fac0bf",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -6554,7 +6554,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2025-07-10",
-          "updated": "2026-10-15T20:00:52Z",
+          "updated": "2026-10-22T14:10:11Z",
           "latestAction": {
             "date": "2025-07-10",
             "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-22T15:21:46.751688+00:00",
-      "lastAttempt": "2026-10-22T15:21:46.751688+00:00",
+      "collectedAt": "2026-10-23T15:11:24.489016+00:00",
+      "lastAttempt": "2026-10-23T15:11:24.489016+00:00",
       "status": "ok"
     }
   ]
