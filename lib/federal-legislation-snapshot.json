@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "8fee015a20517a65c17526a209cd00d9a283cb849c0d5911bc1cbc30678ad637",
+      "archiveHash": "5cf3ebed9ea2d9fcebba930281e5e581df7e904f817a8b95d8abc6febe36a84e",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-24T14:02:42.526269+00:00",
-      "lastAttempt": "2026-10-24T14:02:42.526269+00:00",
+      "collectedAt": "2026-10-25T14:26:32.446264+00:00",
+      "lastAttempt": "2026-10-25T14:26:32.446264+00:00",
       "status": "ok"
     },
     {
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-24T14:02:42.526269+00:00",
-      "lastAttempt": "2026-10-24T14:02:42.526269+00:00",
+      "collectedAt": "2026-10-25T14:26:32.446264+00:00",
+      "lastAttempt": "2026-10-25T14:26:32.446264+00:00",
       "status": "ok"
     },
     {
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-24T14:02:42.526269+00:00",
-      "lastAttempt": "2026-10-24T14:02:42.526269+00:00",
+      "collectedAt": "2026-10-25T14:26:32.446264+00:00",
+      "lastAttempt": "2026-10-25T14:26:32.446264+00:00",
       "status": "ok"
     }
   ]
