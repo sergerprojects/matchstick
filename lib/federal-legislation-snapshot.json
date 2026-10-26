@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "5cf3ebed9ea2d9fcebba930281e5e581df7e904f817a8b95d8abc6febe36a84e",
+      "archiveHash": "0fb25d2c3c4f2611d960428ce9730951f25129ba9b3b3b92785ae5928fc2bcf3",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-25T14:26:32.446264+00:00",
-      "lastAttempt": "2026-10-25T14:26:32.446264+00:00",
+      "collectedAt": "2026-10-26T16:49:52.777730+00:00",
+      "lastAttempt": "2026-10-26T16:49:52.777730+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "d6fd27146d9d9db1b15afd499c8fa3cc634ddd016af107edf0ec0553258a509c",
+      "archiveHash": "7543cbedf615524c51c0122b64f6a4f5cb7752b35ade6e8adf52f8fec70d1293",
       "records": [
         {
           "bill": "S. 5689",
@@ -2088,7 +2088,7 @@
           "title": "Acquired Lands Revenue Modernization Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5688.xml",
-          "sourceHash": "41833ae0a45f08699225425d84030a61c9445c593f4da59cb8dc4a7f4602bbb0",
+          "sourceHash": "4511e96c0acc9729eec3efa493681de9c22fa1a8eb7c735be72d7f9c3f1d0c01",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2097,7 +2097,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-22T13:16:27Z",
+          "updated": "2026-10-26T14:53:53Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources."
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-25T14:26:32.446264+00:00",
-      "lastAttempt": "2026-10-25T14:26:32.446264+00:00",
+      "collectedAt": "2026-10-26T16:49:52.777730+00:00",
+      "lastAttempt": "2026-10-26T16:49:52.777730+00:00",
       "status": "ok"
     },
     {
@@ -3683,7 +3683,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "d6fd27146d9d9db1b15afd499c8fa3cc634ddd016af107edf0ec0553258a509c",
+      "archiveHash": "7543cbedf615524c51c0122b64f6a4f5cb7752b35ade6e8adf52f8fec70d1293",
       "records": [
         {
           "bill": "S. 5638",
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-25T14:26:32.446264+00:00",
-      "lastAttempt": "2026-10-25T14:26:32.446264+00:00",
+      "collectedAt": "2026-10-26T16:49:52.777730+00:00",
+      "lastAttempt": "2026-10-26T16:49:52.777730+00:00",
       "status": "ok"
     }
   ]
