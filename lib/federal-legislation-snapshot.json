@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "0fb25d2c3c4f2611d960428ce9730951f25129ba9b3b3b92785ae5928fc2bcf3",
+      "archiveHash": "17b50c925a61a0a5f7ea71121462ccf1763f0e4b37cf5fc96f62fc8c15f1e8ee",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-26T16:49:52.777730+00:00",
-      "lastAttempt": "2026-10-26T16:49:52.777730+00:00",
+      "collectedAt": "2026-10-27T15:55:06.598743+00:00",
+      "lastAttempt": "2026-10-27T15:55:06.598743+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "7543cbedf615524c51c0122b64f6a4f5cb7752b35ade6e8adf52f8fec70d1293",
+      "archiveHash": "8366930de314dc234bf40967a0674eae4429aafab031603166cf3d327115ecbc",
       "records": [
         {
           "bill": "S. 5689",
@@ -2024,7 +2024,7 @@
           "title": "RECLAIM Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5689",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5689.xml",
-          "sourceHash": "4f5a6d72ee0720cba19a8a9448f70ae50afb6ddefc6bbe2f3ade8c02e43cc8db",
+          "sourceHash": "0e0921e633ebf3b8b57614461cdd7003853026badd256b6c05bae595059c1482",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2033,7 +2033,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-21T05:23:18Z",
+          "updated": "2026-10-26T19:58:23Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance."
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-26T16:49:52.777730+00:00",
-      "lastAttempt": "2026-10-26T16:49:52.777730+00:00",
+      "collectedAt": "2026-10-27T15:55:06.598743+00:00",
+      "lastAttempt": "2026-10-27T15:55:06.598743+00:00",
       "status": "ok"
     },
     {
@@ -3683,7 +3683,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "7543cbedf615524c51c0122b64f6a4f5cb7752b35ade6e8adf52f8fec70d1293",
+      "archiveHash": "8366930de314dc234bf40967a0674eae4429aafab031603166cf3d327115ecbc",
       "records": [
         {
           "bill": "S. 5638",
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-26T16:49:52.777730+00:00",
-      "lastAttempt": "2026-10-26T16:49:52.777730+00:00",
+      "collectedAt": "2026-10-27T15:55:06.598743+00:00",
+      "lastAttempt": "2026-10-27T15:55:06.598743+00:00",
       "status": "ok"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-28",
-  "periodEnd": "2026-10-26",
+  "periodStart": "2026-07-29",
+  "periodEnd": "2026-10-27",
   "records": [
     {
       "id": "C-00429-26",
@@ -201,22 +201,10 @@
         "Building",
         "Electrical"
       ]
-    },
-    {
-      "id": "C-00139-26",
-      "parcel": "",
-      "issued": "2026-07-28",
-      "address": "111 COLLEGE ST",
-      "type": "HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F28%2F26&eDate=10%2F26%2F26",
-  "collectedAt": "2026-10-26T16:49:36.543Z",
-  "lastAttempt": "2026-10-26T16:49:36.543Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F29%2F26&eDate=10%2F27%2F26",
+  "collectedAt": "2026-10-27T15:54:51.145Z",
+  "lastAttempt": "2026-10-27T15:54:51.145Z",
   "status": "ok"
 }
