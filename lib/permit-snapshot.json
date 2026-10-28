@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-29",
-  "periodEnd": "2026-10-27",
+  "periodStart": "2026-07-30",
+  "periodEnd": "2026-10-28",
   "records": [
     {
       "id": "C-00429-26",
@@ -188,23 +188,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00278-26",
-      "parcel": "04020A03234",
-      "issued": "2026-07-29",
-      "address": "180 GREAT OAKS TRAIL",
-      "type": "EXISTING BLDG C OF O",
-      "discipline": "Building",
-      "value": 0,
-      "work": [
-        "Building",
-        "Electrical"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F29%2F26&eDate=10%2F27%2F26",
-  "collectedAt": "2026-10-27T15:54:51.145Z",
-  "lastAttempt": "2026-10-27T15:54:51.145Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F30%2F26&eDate=10%2F28%2F26",
+  "collectedAt": "2026-10-28T16:42:49.028Z",
+  "lastAttempt": "2026-10-28T16:42:49.028Z",
   "status": "ok"
 }
