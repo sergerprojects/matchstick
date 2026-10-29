@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "63eca2c7da2744037423437c068ab36944cffc1dbbf359bf8fed37602c09a581",
+      "archiveHash": "52200c23dbc879dcdbae1a4559df21d779acbf94e2fb917a2f851603bcd40dd8",
       "records": [
         {
           "bill": "H.R. 10786",
@@ -2006,8 +2006,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-28T16:43:04.166075+00:00",
-      "lastAttempt": "2026-10-28T16:43:04.166075+00:00",
+      "collectedAt": "2026-10-29T16:58:32.295801+00:00",
+      "lastAttempt": "2026-10-29T16:58:32.295801+00:00",
       "status": "ok"
     },
     {
@@ -2016,7 +2016,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "94bd33865cec2adef7039afd65328789ca8ef73a28c44dca76d1dc6a5f896dc5",
+      "archiveHash": "e6fe1fca712813602f61fd87ad39a85895f91f986657afa229778ff95577cb5f",
       "records": [
         {
           "bill": "S. 5689",
@@ -2024,7 +2024,7 @@
           "title": "RECLAIM Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5689",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5689.xml",
-          "sourceHash": "0e0921e633ebf3b8b57614461cdd7003853026badd256b6c05bae595059c1482",
+          "sourceHash": "18e3cfc0edc85be7d74267f6e8cc3a306b7540e5a761d99d6d7145a1ecc69a69",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2033,12 +2033,12 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-26T19:58:23Z",
+          "updated": "2026-10-29T11:03:45Z",
           "latestAction": {
             "date": "2026-10-15",
-            "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance."
+            "text": "Read twice and referred to the Committee on Finance under authority of the order of the Senate of 09/30/2026."
           },
-          "status": "Introduced in the Senate",
+          "status": "In Senate committee",
           "milestones": [
             {
               "label": "Introduced",
@@ -2069,9 +2069,9 @@
           "actions": [
             {
               "date": "2026-10-15",
-              "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance.",
+              "text": "Read twice and referred to the Committee on Finance under authority of the order of the Senate of 09/30/2026.",
               "code": "",
-              "type": "Floor"
+              "type": "IntroReferral"
             },
             {
               "date": "2026-10-15",
@@ -2088,7 +2088,7 @@
           "title": "Acquired Lands Revenue Modernization Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5688",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5688.xml",
-          "sourceHash": "4511e96c0acc9729eec3efa493681de9c22fa1a8eb7c735be72d7f9c3f1d0c01",
+          "sourceHash": "9ee90dcb8bd817483a0d710f82af518dcb76d7a65578b98523718407372fcbb8",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2097,12 +2097,12 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-26T14:53:53Z",
+          "updated": "2026-10-29T11:03:45Z",
           "latestAction": {
             "date": "2026-10-15",
-            "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources."
+            "text": "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026."
           },
-          "status": "Introduced in the Senate",
+          "status": "In Senate committee",
           "milestones": [
             {
               "label": "Introduced",
@@ -2133,9 +2133,9 @@
           "actions": [
             {
               "date": "2026-10-15",
-              "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources.",
+              "text": "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026.",
               "code": "",
-              "type": "Floor"
+              "type": "IntroReferral"
             },
             {
               "date": "2026-10-15",
@@ -3673,8 +3673,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-28T16:43:04.166075+00:00",
-      "lastAttempt": "2026-10-28T16:43:04.166075+00:00",
+      "collectedAt": "2026-10-29T16:58:32.295801+00:00",
+      "lastAttempt": "2026-10-29T16:58:32.295801+00:00",
       "status": "ok"
     },
     {
@@ -3683,7 +3683,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "94bd33865cec2adef7039afd65328789ca8ef73a28c44dca76d1dc6a5f896dc5",
+      "archiveHash": "e6fe1fca712813602f61fd87ad39a85895f91f986657afa229778ff95577cb5f",
       "records": [
         {
           "bill": "S. 5638",
@@ -3691,7 +3691,7 @@
           "title": "Protecting American Workers Through H\u20131B Modernization Act.",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5638",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5638.xml",
-          "sourceHash": "31766e453f33153dd15eac99d09625dc2627ff0b0fe15c764c652b966261e484",
+          "sourceHash": "1ce5fdacf3978cb1e98a51a14e8995bfc9dd7eafdbaa11595778c6ce4ec8d1d5",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -3700,7 +3700,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-09-30",
-          "updated": "2026-10-14T16:28:29Z",
+          "updated": "2026-10-28T17:33:59Z",
           "latestAction": {
             "date": "2026-09-30",
             "text": "Read twice and referred to the Committee on the Judiciary."
@@ -6796,8 +6796,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-28T16:43:04.166075+00:00",
-      "lastAttempt": "2026-10-28T16:43:04.166075+00:00",
+      "collectedAt": "2026-10-29T16:58:32.295801+00:00",
+      "lastAttempt": "2026-10-29T16:58:32.295801+00:00",
       "status": "ok"
     }
   ]

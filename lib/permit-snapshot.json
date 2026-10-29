@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-07-30",
-  "periodEnd": "2026-10-28",
+  "periodStart": "2026-07-31",
+  "periodEnd": "2026-10-29",
   "records": [
     {
       "id": "C-00429-26",
@@ -176,22 +176,10 @@
       "work": [
         "Electrical"
       ]
-    },
-    {
-      "id": "C-00285-26",
-      "parcel": "",
-      "issued": "2026-07-30",
-      "address": "1000 SEVILLE RD",
-      "type": "COMMERCIAL HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F30%2F26&eDate=10%2F28%2F26",
-  "collectedAt": "2026-10-28T16:42:49.028Z",
-  "lastAttempt": "2026-10-28T16:42:49.028Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=07%2F31%2F26&eDate=10%2F29%2F26",
+  "collectedAt": "2026-10-29T16:58:18.552Z",
+  "lastAttempt": "2026-10-29T16:58:18.552Z",
   "status": "ok"
 }
