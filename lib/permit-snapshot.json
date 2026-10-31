@@ -1,7 +1,19 @@
 {
-  "periodStart": "2026-08-01",
-  "periodEnd": "2026-10-30",
+  "periodStart": "2026-08-02",
+  "periodEnd": "2026-10-31",
   "records": [
+    {
+      "id": "C-00449-26",
+      "parcel": "04020A06063",
+      "issued": "2026-10-30",
+      "address": "826 HIGH ST",
+      "type": "COMMERCIAL SIGN",
+      "discipline": "Building",
+      "value": 16000,
+      "work": [
+        "Building"
+      ]
+    },
     {
       "id": "C-00429-26",
       "parcel": "04020D07043",
@@ -178,8 +190,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F01%2F26&eDate=10%2F30%2F26",
-  "collectedAt": "2026-10-30T16:44:00.269Z",
-  "lastAttempt": "2026-10-30T16:44:00.269Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F02%2F26&eDate=10%2F31%2F26",
+  "collectedAt": "2026-10-31T15:46:37.797Z",
+  "lastAttempt": "2026-10-31T15:46:37.797Z",
   "status": "ok"
 }

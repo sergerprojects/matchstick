@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "abc0420ddcab0aedc3f97c5897bdab610873904e834a33c1edc127d9587231f2",
+      "archiveHash": "fe4b0e9f73211c6e0d42aca0ec98ea8db139fd6c346048ab7251206b79a0bce3",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-30T16:44:15.574587+00:00",
-      "lastAttempt": "2026-10-30T16:44:15.574587+00:00",
+      "collectedAt": "2026-10-31T15:46:51.559920+00:00",
+      "lastAttempt": "2026-10-31T15:46:51.559920+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "7a5765fd1ba8619c0e5ef13a24be2392ab122685cc2285e2d0b25a4eb5bfa707",
+      "archiveHash": "2261ab9891b80b8de1f14fbc7f315597288728bfe1897790e95c9e4ff49b20de",
       "records": [
         {
           "bill": "S. 5689",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-30T16:44:15.574587+00:00",
-      "lastAttempt": "2026-10-30T16:44:15.574587+00:00",
+      "collectedAt": "2026-10-31T15:46:51.559920+00:00",
+      "lastAttempt": "2026-10-31T15:46:51.559920+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "7a5765fd1ba8619c0e5ef13a24be2392ab122685cc2285e2d0b25a4eb5bfa707",
+      "archiveHash": "2261ab9891b80b8de1f14fbc7f315597288728bfe1897790e95c9e4ff49b20de",
       "records": [
         {
           "bill": "S. 5638",
@@ -4105,7 +4105,7 @@
           "title": "No Fentanyl on Social Media Act of 2026",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3618",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3618.xml",
-          "sourceHash": "9339ffb040a731be7ba41a6a6fd170b5adc206bc5b4df7b0036d12f2e8827f28",
+          "sourceHash": "d9d91ab4dfe8cb9888a20f46151a359470c952463b57d9fb8c5e6a54dfd88db9",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -4114,7 +4114,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-01-13",
-          "updated": "2026-10-30T16:37:09Z",
+          "updated": "2026-10-31T02:42:10Z",
           "latestAction": {
             "date": "2026-09-14",
             "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 561."
@@ -6866,8 +6866,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-10-30T16:44:15.574587+00:00",
-      "lastAttempt": "2026-10-30T16:44:15.574587+00:00",
+      "collectedAt": "2026-10-31T15:46:51.559920+00:00",
+      "lastAttempt": "2026-10-31T15:46:51.559920+00:00",
       "status": "ok"
     }
   ]
