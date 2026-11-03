@@ -7,15 +7,15 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "7462a1cdfeef90c09a872725ad898ccd8afb839c9517c4fb23a25eaee06dedfb",
+      "archiveHash": "4a619cff5f813e091e17438f4698c14aea964e3f8535631e39d78eecfe3d3f97",
       "records": [
         {
           "bill": "H.R. 10938",
           "number": 10938,
-          "title": "To amend title 38, United States Code, to increase the maximum amount of a home health service benefit available to certain veterans under the laws administered by the Secretary of Veterans Affairs.",
+          "title": "ABLE Veterans Act",
           "url": "https://www.congress.gov/bill/119th-congress/house-bill/10938",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10938.xml",
-          "sourceHash": "2e65482359f1d907836731a0594d105a9bc5fdac8d23405b88c568393b50a045",
+          "sourceHash": "2d90dd5bfec7623d3f6b7484edc376fac8209845554bb63cedca9e9b18b5b322",
           "representative": "Max Miller",
           "role": "Sponsor",
           "bioguideId": "M001222",
@@ -24,7 +24,7 @@
           "session": "119th Congress",
           "origin": "House",
           "introduced": "2026-10-29",
-          "updated": "2026-10-30T08:06:17Z",
+          "updated": "2026-11-03T06:39:20Z",
           "latestAction": {
             "date": "2026-10-29",
             "text": "Referred to the House Committee on Veterans' Affairs."
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-02T20:24:59.892274+00:00",
-      "lastAttempt": "2026-11-02T20:24:59.892274+00:00",
+      "collectedAt": "2026-11-03T17:54:31.252518+00:00",
+      "lastAttempt": "2026-11-03T17:54:31.252518+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "f0b0437eb3c24904f2fbe0a75e4f49d5d011bb1eeac5d8c8bd115ec00d545449",
+      "archiveHash": "a11dbeb3c8cae16151c71d248071e1ffc86826db7c30e981e70b572941799b6f",
       "records": [
         {
           "bill": "S. 5689",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-02T20:24:59.892274+00:00",
-      "lastAttempt": "2026-11-02T20:24:59.892274+00:00",
+      "collectedAt": "2026-11-03T17:54:31.252518+00:00",
+      "lastAttempt": "2026-11-03T17:54:31.252518+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "f0b0437eb3c24904f2fbe0a75e4f49d5d011bb1eeac5d8c8bd115ec00d545449",
+      "archiveHash": "a11dbeb3c8cae16151c71d248071e1ffc86826db7c30e981e70b572941799b6f",
       "records": [
         {
           "bill": "S. 5638",
@@ -6866,8 +6866,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-02T20:24:59.892274+00:00",
-      "lastAttempt": "2026-11-02T20:24:59.892274+00:00",
+      "collectedAt": "2026-11-03T17:54:31.252518+00:00",
+      "lastAttempt": "2026-11-03T17:54:31.252518+00:00",
       "status": "ok"
     }
   ]
