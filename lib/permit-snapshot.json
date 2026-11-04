@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-08-05",
-  "periodEnd": "2026-11-03",
+  "periodStart": "2026-08-06",
+  "periodEnd": "2026-11-04",
   "records": [
     {
       "id": "C-00449-26",
@@ -11,7 +11,8 @@
       "discipline": "Building",
       "value": 16000,
       "work": [
-        "Building"
+        "Building",
+        "Electrical"
       ]
     },
     {
@@ -190,8 +191,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F05%2F26&eDate=11%2F03%2F26",
-  "collectedAt": "2026-11-03T17:54:16.021Z",
-  "lastAttempt": "2026-11-03T17:54:16.021Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F06%2F26&eDate=11%2F04%2F26",
+  "collectedAt": "2026-11-04T18:03:51.934Z",
+  "lastAttempt": "2026-11-04T18:03:51.934Z",
   "status": "ok"
 }
