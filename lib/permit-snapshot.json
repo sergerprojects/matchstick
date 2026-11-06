@@ -1,7 +1,32 @@
 {
-  "periodStart": "2026-08-07",
-  "periodEnd": "2026-11-05",
+  "periodStart": "2026-08-08",
+  "periodEnd": "2026-11-06",
   "records": [
+    {
+      "id": "C-00460-26",
+      "parcel": "04020A06063",
+      "issued": "2026-11-06",
+      "address": "826 HIGH ST",
+      "type": "COMM-SUPPRESSION SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
+    {
+      "id": "C-00462-26",
+      "parcel": "04020A04047",
+      "issued": "2026-11-06",
+      "address": "988 HIGH ST",
+      "type": "COMM-HOOD",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building",
+        "HVAC"
+      ]
+    },
     {
       "id": "C-00455-26",
       "parcel": "04020A06063",
@@ -204,8 +229,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F07%2F26&eDate=11%2F05%2F26",
-  "collectedAt": "2026-11-05T18:05:36.175Z",
-  "lastAttempt": "2026-11-05T18:05:36.175Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F08%2F26&eDate=11%2F06%2F26",
+  "collectedAt": "2026-11-06T17:33:05.836Z",
+  "lastAttempt": "2026-11-06T17:33:05.836Z",
   "status": "ok"
 }
