@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "272d8d80a41fae586d11378adf8bae690765db091d7ced22f17c0b9d5788843e",
+      "archiveHash": "19467f4eb62db907110001e857bf88d286d5e936c1d548408eb15baf6a103f3d",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-06T17:33:22.494335+00:00",
-      "lastAttempt": "2026-11-06T17:33:22.494335+00:00",
+      "collectedAt": "2026-11-07T16:30:36.149028+00:00",
+      "lastAttempt": "2026-11-07T16:30:36.149028+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "e6f126bccac5fb107503853ca1dd3781d77314fe296942f3120c176ce88f04e8",
+      "archiveHash": "25d67c2e9d46fbbdeb8aa591bc01ab58510b778c9a5808b135a25c471b6f5846",
       "records": [
         {
           "bill": "S. 5689",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-06T17:33:22.494335+00:00",
-      "lastAttempt": "2026-11-06T17:33:22.494335+00:00",
+      "collectedAt": "2026-11-07T16:30:36.149028+00:00",
+      "lastAttempt": "2026-11-07T16:30:36.149028+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "e6f126bccac5fb107503853ca1dd3781d77314fe296942f3120c176ce88f04e8",
+      "archiveHash": "25d67c2e9d46fbbdeb8aa591bc01ab58510b778c9a5808b135a25c471b6f5846",
       "records": [
         {
           "bill": "S. 5638",
@@ -5951,7 +5951,7 @@
           "title": "Nuclear REFUEL Act of 2025",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2082",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2082.xml",
-          "sourceHash": "87c217414743d199201709349ea39f4f19dadd8537a78aa9d4aace234d8cbc7c",
+          "sourceHash": "6b4847423d3f01b8a39a8031c949bfa404ef1292fd29bbc70f929a3167187c7b",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -5960,7 +5960,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2025-06-12",
-          "updated": "2026-11-04T14:35:11Z",
+          "updated": "2026-11-07T09:06:45Z",
           "latestAction": {
             "date": "2025-10-29",
             "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 224."
@@ -6866,8 +6866,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-06T17:33:22.494335+00:00",
-      "lastAttempt": "2026-11-06T17:33:22.494335+00:00",
+      "collectedAt": "2026-11-07T16:30:36.149028+00:00",
+      "lastAttempt": "2026-11-07T16:30:36.149028+00:00",
       "status": "ok"
     }
   ]
