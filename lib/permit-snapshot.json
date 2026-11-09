@@ -1,7 +1,19 @@
 {
-  "periodStart": "2026-08-10",
-  "periodEnd": "2026-11-08",
+  "periodStart": "2026-08-11",
+  "periodEnd": "2026-11-09",
   "records": [
+    {
+      "id": "C-00464-26",
+      "parcel": "04020B03048",
+      "issued": "2026-11-09",
+      "address": "1255 HIGH ST",
+      "type": "ALARM SYSTEM",
+      "discipline": "Building",
+      "value": 0,
+      "work": [
+        "Building"
+      ]
+    },
     {
       "id": "C-00460-26",
       "parcel": "04020A06063",
@@ -229,8 +241,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F10%2F26&eDate=11%2F08%2F26",
-  "collectedAt": "2026-11-08T16:43:53.520Z",
-  "lastAttempt": "2026-11-08T16:43:53.520Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F11%2F26&eDate=11%2F09%2F26",
+  "collectedAt": "2026-11-09T20:49:51.911Z",
+  "lastAttempt": "2026-11-09T20:49:51.911Z",
   "status": "ok"
 }
