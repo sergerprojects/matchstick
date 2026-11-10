@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-08-11",
-  "periodEnd": "2026-11-09",
+  "periodStart": "2026-08-12",
+  "periodEnd": "2026-11-10",
   "records": [
     {
       "id": "C-00464-26",
@@ -227,22 +227,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00075-26",
-      "parcel": "",
-      "issued": "2026-08-11",
-      "address": "300 WEATHERSTONE DR",
-      "type": "ELECTRIC",
-      "discipline": "Electrical",
-      "value": 0,
-      "work": [
-        "Electrical"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F11%2F26&eDate=11%2F09%2F26",
-  "collectedAt": "2026-11-09T20:49:51.911Z",
-  "lastAttempt": "2026-11-09T20:49:51.911Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F12%2F26&eDate=11%2F10%2F26",
+  "collectedAt": "2026-11-10T17:56:47.370Z",
+  "lastAttempt": "2026-11-10T17:56:47.370Z",
   "status": "ok"
 }
