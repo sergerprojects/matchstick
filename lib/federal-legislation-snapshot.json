@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "141b29e0a5f4f4b767e7f91456e47dc025d4d9cbdc724155c63416655e396f85",
+      "archiveHash": "240aa99b6d87c5cf7fb0c3b51abcc4d1c2e8e295a050a8cdbd7f00c77f4f4101",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-10T17:57:08.156785+00:00",
-      "lastAttempt": "2026-11-10T17:57:08.156785+00:00",
+      "collectedAt": "2026-11-11T17:56:22.277863+00:00",
+      "lastAttempt": "2026-11-11T17:56:22.277863+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "caca552f973846cd16f8efdc1707dc5eb55d83ac81676b54aa60b4dbe7392fb9",
+      "archiveHash": "c0c5171cb891fe01af8c078ca9b0e6022dd163db253912e5f042e4a6d5ac256b",
       "records": [
         {
           "bill": "S. 5689",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-10T17:57:08.156785+00:00",
-      "lastAttempt": "2026-11-10T17:57:08.156785+00:00",
+      "collectedAt": "2026-11-11T17:56:22.277863+00:00",
+      "lastAttempt": "2026-11-11T17:56:22.277863+00:00",
       "status": "ok"
     },
     {
@@ -3753,8 +3753,96 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "caca552f973846cd16f8efdc1707dc5eb55d83ac81676b54aa60b4dbe7392fb9",
+      "archiveHash": "c0c5171cb891fe01af8c078ca9b0e6022dd163db253912e5f042e4a6d5ac256b",
       "records": [
+        {
+          "bill": "S. 2434",
+          "number": 2434,
+          "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2434",
+          "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2434.xml",
+          "sourceHash": "0ee5f85122aea288488b45a5f759899c7fb9e7b50295311d434094ba8dfe226a",
+          "representative": "Jon Husted",
+          "role": "Sponsor",
+          "bioguideId": "H001104",
+          "level": "Federal",
+          "jurisdiction": "Federal",
+          "session": "119th Congress",
+          "origin": "Senate",
+          "introduced": "2025-07-24",
+          "updated": "2026-11-11T11:57:02Z",
+          "latestAction": {
+            "date": "2026-11-10",
+            "text": "Passed Senate without amendment by Unanimous Consent."
+          },
+          "status": "Passed Senate \u00b7 House consideration",
+          "milestones": [
+            {
+              "label": "Introduced",
+              "done": true,
+              "date": "2025-07-24"
+            },
+            {
+              "label": "Senate passed",
+              "done": true,
+              "date": "2026-11-10"
+            },
+            {
+              "label": "House passed",
+              "done": false,
+              "date": ""
+            },
+            {
+              "label": "President",
+              "done": false,
+              "date": ""
+            },
+            {
+              "label": "Signed",
+              "done": false,
+              "date": ""
+            }
+          ],
+          "actions": [
+            {
+              "date": "2026-11-10",
+              "text": "Passed Senate without amendment by Unanimous Consent.",
+              "code": "",
+              "type": "Floor"
+            },
+            {
+              "date": "2026-11-10",
+              "text": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+              "code": "17000",
+              "type": "Floor"
+            },
+            {
+              "date": "2026-11-10",
+              "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+              "code": "",
+              "type": "Discharge"
+            },
+            {
+              "date": "2026-11-10",
+              "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+              "code": "14500",
+              "type": "Committee"
+            },
+            {
+              "date": "2025-07-24",
+              "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+              "code": "",
+              "type": "IntroReferral"
+            },
+            {
+              "date": "2025-07-24",
+              "text": "Introduced in Senate",
+              "code": "10000",
+              "type": "IntroReferral"
+            }
+          ],
+          "summary": "This bill adjusts the boundary of the Dayton Aviation Heritage National Historical Park to include approximately one acre of land in Dayton, Ohio."
+        },
         {
           "bill": "S. 5638",
           "number": 5638,
@@ -6546,70 +6634,6 @@
           "summary": ""
         },
         {
-          "bill": "S. 2434",
-          "number": 2434,
-          "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
-          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2434",
-          "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2434.xml",
-          "sourceHash": "ad7a9889f725ad55b06b65769f1ee8b9a91c7b214deb62e94825d1928028b1ac",
-          "representative": "Jon Husted",
-          "role": "Sponsor",
-          "bioguideId": "H001104",
-          "level": "Federal",
-          "jurisdiction": "Federal",
-          "session": "119th Congress",
-          "origin": "Senate",
-          "introduced": "2025-07-24",
-          "updated": "2026-09-08T18:09:59Z",
-          "latestAction": {
-            "date": "2025-07-24",
-            "text": "Read twice and referred to the Committee on Energy and Natural Resources."
-          },
-          "status": "In Senate committee",
-          "milestones": [
-            {
-              "label": "Introduced",
-              "done": true,
-              "date": "2025-07-24"
-            },
-            {
-              "label": "Senate passed",
-              "done": false,
-              "date": ""
-            },
-            {
-              "label": "House passed",
-              "done": false,
-              "date": ""
-            },
-            {
-              "label": "President",
-              "done": false,
-              "date": ""
-            },
-            {
-              "label": "Signed",
-              "done": false,
-              "date": ""
-            }
-          ],
-          "actions": [
-            {
-              "date": "2025-07-24",
-              "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
-              "code": "",
-              "type": "IntroReferral"
-            },
-            {
-              "date": "2025-07-24",
-              "text": "Introduced in Senate",
-              "code": "10000",
-              "type": "IntroReferral"
-            }
-          ],
-          "summary": "This bill adjusts the boundary of the Dayton Aviation Heritage National Historical Park to include approximately one acre of land in Dayton, Ohio."
-        },
-        {
           "bill": "S. 2241",
           "number": 2241,
           "title": "Enhancing Detection of Human Trafficking Act",
@@ -6866,8 +6890,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-10T17:57:08.156785+00:00",
-      "lastAttempt": "2026-11-10T17:57:08.156785+00:00",
+      "collectedAt": "2026-11-11T17:56:22.277863+00:00",
+      "lastAttempt": "2026-11-11T17:56:22.277863+00:00",
       "status": "ok"
     }
   ]

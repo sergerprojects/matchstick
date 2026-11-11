@@ -98,7 +98,8 @@
         "In Senate Committee",
         "Senate committee reported the bill",
         "Passed By Senate",
-        "Introduced In House"
+        "Introduced In House",
+        "In House Committee"
       ],
       "finalStage": {
         "label": "Sent To The Governor",
@@ -149,7 +150,8 @@
         "In Senate Committee",
         "Senate committee reported the bill",
         "Passed By Senate",
-        "Introduced In House"
+        "Introduced In House",
+        "In House Committee"
       ],
       "finalStage": {
         "label": "Sent To The Governor",
@@ -222,7 +224,7 @@
     }
   ],
   "sourceUrl": "https://www.ohiosenate.gov/members/mark-romanchuk/legislation",
-  "collectedAt": "2026-11-10T17:56:47.370Z",
-  "lastAttempt": "2026-11-10T17:56:47.370Z",
+  "collectedAt": "2026-11-11T17:56:06.382Z",
+  "lastAttempt": "2026-11-11T17:56:06.382Z",
   "status": "ok"
 }

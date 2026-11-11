@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-08-12",
-  "periodEnd": "2026-11-10",
+  "periodStart": "2026-08-13",
+  "periodEnd": "2026-11-11",
   "records": [
     {
       "id": "C-00464-26",
@@ -177,7 +177,8 @@
       "discipline": "Electrical",
       "value": 0,
       "work": [
-        "Electrical"
+        "Electrical",
+        "HVAC"
       ]
     },
     {
@@ -229,8 +230,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F12%2F26&eDate=11%2F10%2F26",
-  "collectedAt": "2026-11-10T17:56:47.370Z",
-  "lastAttempt": "2026-11-10T17:56:47.370Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F13%2F26&eDate=11%2F11%2F26",
+  "collectedAt": "2026-11-11T17:56:06.382Z",
+  "lastAttempt": "2026-11-11T17:56:06.382Z",
   "status": "ok"
 }
