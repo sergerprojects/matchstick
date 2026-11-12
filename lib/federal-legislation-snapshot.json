@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "240aa99b6d87c5cf7fb0c3b51abcc4d1c2e8e295a050a8cdbd7f00c77f4f4101",
+      "archiveHash": "ec36fd9ddde737d93d201e5f0927232d5f07b334c87ba2942e6892c20e283b78",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-11T17:56:22.277863+00:00",
-      "lastAttempt": "2026-11-11T17:56:22.277863+00:00",
+      "collectedAt": "2026-11-12T18:23:54.778621+00:00",
+      "lastAttempt": "2026-11-12T18:23:54.778621+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "c0c5171cb891fe01af8c078ca9b0e6022dd163db253912e5f042e4a6d5ac256b",
+      "archiveHash": "4e3496a9bea10ca37e7ddcfe5ada577040f3d71de34af9b18159e613c84dd98b",
       "records": [
         {
           "bill": "S. 5689",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-11T17:56:22.277863+00:00",
-      "lastAttempt": "2026-11-11T17:56:22.277863+00:00",
+      "collectedAt": "2026-11-12T18:23:54.778621+00:00",
+      "lastAttempt": "2026-11-12T18:23:54.778621+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "c0c5171cb891fe01af8c078ca9b0e6022dd163db253912e5f042e4a6d5ac256b",
+      "archiveHash": "4e3496a9bea10ca37e7ddcfe5ada577040f3d71de34af9b18159e613c84dd98b",
       "records": [
         {
           "bill": "S. 2434",
@@ -3761,7 +3761,7 @@
           "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2434",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2434.xml",
-          "sourceHash": "0ee5f85122aea288488b45a5f759899c7fb9e7b50295311d434094ba8dfe226a",
+          "sourceHash": "5b06a2cd1d7cf12f31b3aaff002ef10fb5265990a3afa1acb2a4d18786dd59f9",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -6890,8 +6890,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-11T17:56:22.277863+00:00",
-      "lastAttempt": "2026-11-11T17:56:22.277863+00:00",
+      "collectedAt": "2026-11-12T18:23:54.778621+00:00",
+      "lastAttempt": "2026-11-12T18:23:54.778621+00:00",
       "status": "ok"
     }
   ]
