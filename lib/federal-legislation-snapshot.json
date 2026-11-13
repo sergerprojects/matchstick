@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "ec36fd9ddde737d93d201e5f0927232d5f07b334c87ba2942e6892c20e283b78",
+      "archiveHash": "c1e562f9a92b9697b94ae5ec03b1e56e943241284832e600ca9b09a32180ebff",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -15,7 +15,7 @@
           "title": "ABLE Veterans Act",
           "url": "https://www.congress.gov/bill/119th-congress/house-bill/10938",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10938.xml",
-          "sourceHash": "2d90dd5bfec7623d3f6b7484edc376fac8209845554bb63cedca9e9b18b5b322",
+          "sourceHash": "01f3801b00395177a3d46f3fa5145d4b8a40885fa72a98c53dc52bf8f227484a",
           "representative": "Max Miller",
           "role": "Sponsor",
           "bioguideId": "M001222",
@@ -24,7 +24,7 @@
           "session": "119th Congress",
           "origin": "House",
           "introduced": "2026-10-29",
-          "updated": "2026-11-03T06:39:20Z",
+          "updated": "2026-11-12T20:23:39Z",
           "latestAction": {
             "date": "2026-10-29",
             "text": "Referred to the House Committee on Veterans' Affairs."
@@ -1887,7 +1887,7 @@
           "title": "IMPACT Act",
           "url": "https://www.congress.gov/bill/119th-congress/house-bill/1534",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1534.xml",
-          "sourceHash": "3b0d618c5bac4fd6af23d04c2f3bbc829255f0176d459f6c9a2b7a2d8f4c124b",
+          "sourceHash": "79d2c61d135b3aa17a014a5bd911f4840df223ab63c25c2e1d7f1cd11261bfd4",
           "representative": "Max Miller",
           "role": "Sponsor",
           "bioguideId": "M001222",
@@ -1896,7 +1896,7 @@
           "session": "119th Congress",
           "origin": "House",
           "introduced": "2025-02-24",
-          "updated": "2026-09-08T18:09:59Z",
+          "updated": "2026-11-12T20:46:56Z",
           "latestAction": {
             "date": "2025-03-26",
             "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-12T18:23:54.778621+00:00",
-      "lastAttempt": "2026-11-12T18:23:54.778621+00:00",
+      "collectedAt": "2026-11-13T17:51:17.711958+00:00",
+      "lastAttempt": "2026-11-13T17:51:17.711958+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "4e3496a9bea10ca37e7ddcfe5ada577040f3d71de34af9b18159e613c84dd98b",
+      "archiveHash": "dbffb1f2ab05c5d2b1dac5cc1a4e418356ae913c71cfaf74b18c26eb751f849e",
       "records": [
         {
           "bill": "S. 5689",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-12T18:23:54.778621+00:00",
-      "lastAttempt": "2026-11-12T18:23:54.778621+00:00",
+      "collectedAt": "2026-11-13T17:51:17.711958+00:00",
+      "lastAttempt": "2026-11-13T17:51:17.711958+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "4e3496a9bea10ca37e7ddcfe5ada577040f3d71de34af9b18159e613c84dd98b",
+      "archiveHash": "dbffb1f2ab05c5d2b1dac5cc1a4e418356ae913c71cfaf74b18c26eb751f849e",
       "records": [
         {
           "bill": "S. 2434",
@@ -3761,7 +3761,7 @@
           "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2434",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2434.xml",
-          "sourceHash": "5b06a2cd1d7cf12f31b3aaff002ef10fb5265990a3afa1acb2a4d18786dd59f9",
+          "sourceHash": "648a3289ee923e34e45dcce76b3cbb78ef9895436570a4b50f300bc9855c1956",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -3770,10 +3770,10 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2025-07-24",
-          "updated": "2026-11-11T11:57:02Z",
+          "updated": "2026-11-13T11:56:55Z",
           "latestAction": {
-            "date": "2026-11-10",
-            "text": "Passed Senate without amendment by Unanimous Consent."
+            "date": "2026-11-12",
+            "text": "Held at the desk."
           },
           "status": "Passed Senate \u00b7 House consideration",
           "milestones": [
@@ -3805,8 +3805,26 @@
           ],
           "actions": [
             {
+              "date": "2026-11-12",
+              "text": "Held at the desk.",
+              "code": "H15000",
+              "type": "Floor"
+            },
+            {
+              "date": "2026-11-12",
+              "text": "Message on Senate action sent to the House.",
+              "code": "",
+              "type": "Floor"
+            },
+            {
+              "date": "2026-11-12",
+              "text": "Received in the House.",
+              "code": "H14000",
+              "type": "Floor"
+            },
+            {
               "date": "2026-11-10",
-              "text": "Passed Senate without amendment by Unanimous Consent.",
+              "text": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5562; text: CR S5562)",
               "code": "",
               "type": "Floor"
             },
@@ -6890,8 +6908,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-12T18:23:54.778621+00:00",
-      "lastAttempt": "2026-11-12T18:23:54.778621+00:00",
+      "collectedAt": "2026-11-13T17:51:17.711958+00:00",
+      "lastAttempt": "2026-11-13T17:51:17.711958+00:00",
       "status": "ok"
     }
   ]
