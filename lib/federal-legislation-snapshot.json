@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "e6b1d36113fdc9a6fb0a398ea72df93b7bb77b83529a355f30b61158d6430b81",
+      "archiveHash": "f2d0c9388dc8875e6fdce9189ec3d1e89770f48ea014ac8194f5a113d61feaeb",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-15T17:15:45.658913+00:00",
-      "lastAttempt": "2026-11-15T17:15:45.658913+00:00",
+      "collectedAt": "2026-11-16T20:33:43.514231+00:00",
+      "lastAttempt": "2026-11-16T20:33:43.514231+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "d24abd2eebe352a64a486712856e6eeb5e7e448da952a71a4e4a4da38709946e",
+      "archiveHash": "e7b3f0e43980ed29f8af937056d33971f22b7aa17bcb1cba5b64eb33d736c5b6",
       "records": [
         {
           "bill": "S. 5689",
@@ -2094,7 +2094,7 @@
           "title": "RECLAIM Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5689",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5689.xml",
-          "sourceHash": "c253778aa9f8c3673b61d627f736b293ee87ee2e638c0ae2ae8c3d2ea809c51e",
+          "sourceHash": "a51972142745ee32277505011a9c2c3c6f8c86422f96cfe9861e3985ac759733",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -2103,7 +2103,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-10-15",
-          "updated": "2026-10-30T11:04:10Z",
+          "updated": "2026-11-16T19:24:20Z",
           "latestAction": {
             "date": "2026-10-15",
             "text": "Read twice and referred to the Committee on Finance under authority of the order of the Senate of 09/30/2026."
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-15T17:15:45.658913+00:00",
-      "lastAttempt": "2026-11-15T17:15:45.658913+00:00",
+      "collectedAt": "2026-11-16T20:33:43.514231+00:00",
+      "lastAttempt": "2026-11-16T20:33:43.514231+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "d24abd2eebe352a64a486712856e6eeb5e7e448da952a71a4e4a4da38709946e",
+      "archiveHash": "e7b3f0e43980ed29f8af937056d33971f22b7aa17bcb1cba5b64eb33d736c5b6",
       "records": [
         {
           "bill": "S. 2434",
@@ -6908,8 +6908,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-15T17:15:45.658913+00:00",
-      "lastAttempt": "2026-11-15T17:15:45.658913+00:00",
+      "collectedAt": "2026-11-16T20:33:43.514231+00:00",
+      "lastAttempt": "2026-11-16T20:33:43.514231+00:00",
       "status": "ok"
     }
   ]

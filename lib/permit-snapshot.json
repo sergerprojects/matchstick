@@ -1,7 +1,19 @@
 {
-  "periodStart": "2026-08-17",
-  "periodEnd": "2026-11-15",
+  "periodStart": "2026-08-18",
+  "periodEnd": "2026-11-16",
   "records": [
+    {
+      "id": "C-00471-26",
+      "parcel": "",
+      "issued": "2026-11-16",
+      "address": "826 HIGH ST",
+      "type": "COMMERCIAL EXTERIOR LIGHT",
+      "discipline": "Electrical",
+      "value": 0,
+      "work": [
+        "Electrical"
+      ]
+    },
     {
       "id": "C-00468-26",
       "parcel": "04020A06063",
@@ -242,8 +254,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F17%2F26&eDate=11%2F15%2F26",
-  "collectedAt": "2026-11-15T17:15:27.604Z",
-  "lastAttempt": "2026-11-15T17:15:27.604Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F18%2F26&eDate=11%2F16%2F26",
+  "collectedAt": "2026-11-16T20:33:21.504Z",
+  "lastAttempt": "2026-11-16T20:33:21.504Z",
   "status": "ok"
 }
