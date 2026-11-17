@@ -1,7 +1,19 @@
 {
-  "periodStart": "2026-08-18",
-  "periodEnd": "2026-11-16",
+  "periodStart": "2026-08-19",
+  "periodEnd": "2026-11-17",
   "records": [
+    {
+      "id": "C-00473-26",
+      "parcel": "",
+      "issued": "2026-11-17",
+      "address": "1360 REIMER RD",
+      "type": "COMMERCIAL HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
+      ]
+    },
     {
       "id": "C-00471-26",
       "parcel": "",
@@ -216,46 +228,10 @@
       "work": [
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00303-26",
-      "parcel": "04020D04296",
-      "issued": "2026-08-18",
-      "address": "150 SILVERCREEK RD",
-      "type": "ALARM SYSTEM",
-      "discipline": "Building",
-      "value": 0,
-      "work": [
-        "Building"
-      ]
-    },
-    {
-      "id": "C-00298-25",
-      "parcel": "",
-      "issued": "2026-08-18",
-      "address": "457 ROSALIND AVE",
-      "type": "COMM-GENERATOR",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
-    },
-    {
-      "id": "C-00097-26",
-      "parcel": "",
-      "issued": "2026-08-18",
-      "address": "320 CHESTNUT ST",
-      "type": "HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F18%2F26&eDate=11%2F16%2F26",
-  "collectedAt": "2026-11-16T20:33:21.504Z",
-  "lastAttempt": "2026-11-16T20:33:21.504Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F19%2F26&eDate=11%2F17%2F26",
+  "collectedAt": "2026-11-17T19:13:34.898Z",
+  "lastAttempt": "2026-11-17T19:13:34.898Z",
   "status": "ok"
 }
