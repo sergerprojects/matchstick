@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-08-19",
-  "periodEnd": "2026-11-17",
+  "periodStart": "2026-08-20",
+  "periodEnd": "2026-11-18",
   "records": [
     {
       "id": "C-00473-26",
@@ -36,6 +36,18 @@
       "value": 0,
       "work": [
         "Building"
+      ]
+    },
+    {
+      "id": "C-00256-26",
+      "parcel": "",
+      "issued": "2026-11-10",
+      "address": "193 SMOKERISE DR",
+      "type": "HVAC",
+      "discipline": "HVAC",
+      "value": 0,
+      "work": [
+        "HVAC"
       ]
     },
     {
@@ -203,35 +215,10 @@
         "Electrical",
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00256-26",
-      "parcel": "",
-      "issued": "2026-08-19",
-      "address": "193 SMOKERISE DR",
-      "type": "ELECTRIC",
-      "discipline": "Electrical",
-      "value": 0,
-      "work": [
-        "Electrical",
-        "HVAC"
-      ]
-    },
-    {
-      "id": "C-00305-26",
-      "parcel": "",
-      "issued": "2026-08-19",
-      "address": "200 RL HAVENS CRESCENT",
-      "type": "COMMERCIAL HVAC",
-      "discipline": "HVAC",
-      "value": 0,
-      "work": [
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F19%2F26&eDate=11%2F17%2F26",
-  "collectedAt": "2026-11-17T19:13:34.898Z",
-  "lastAttempt": "2026-11-17T19:13:34.898Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F20%2F26&eDate=11%2F18%2F26",
+  "collectedAt": "2026-11-18T18:53:18.588Z",
+  "lastAttempt": "2026-11-18T18:53:18.588Z",
   "status": "ok"
 }

@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "829fd3191a445d686371ebac3e1b4fd06b2b4a2d1fccbc4496042073f52e7bd1",
+      "archiveHash": "6ca6bf550d4dc0f04a812319cd1f413b0c1d60b4ad2fa317b57bfafaf7c1e346",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-17T19:13:38.210013+00:00",
-      "lastAttempt": "2026-11-17T19:13:38.210013+00:00",
+      "collectedAt": "2026-11-18T18:53:38.778749+00:00",
+      "lastAttempt": "2026-11-18T18:53:38.778749+00:00",
       "status": "ok"
     },
     {
@@ -2086,7 +2086,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "237b40433ac057ad9f3753d1882f0cad927edc60f98fef9c51f50c54125360dc",
+      "archiveHash": "86eaa55a46af166960aa53cbf4cc911302adeef33b50eddfb08359276e1de3ef",
       "records": [
         {
           "bill": "S. 5689",
@@ -2094,7 +2094,7 @@
           "title": "RECLAIM Act",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5689",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5689.xml",
-          "sourceHash": "a51972142745ee32277505011a9c2c3c6f8c86422f96cfe9861e3985ac759733",
+          "sourceHash": "587dc9718e6a87a0fc248030b17543ba24c0d37d74804731f73e35b2de95405d",
           "representative": "Bernie Moreno",
           "role": "Sponsor",
           "bioguideId": "M001242",
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-17T19:13:38.210013+00:00",
-      "lastAttempt": "2026-11-17T19:13:38.210013+00:00",
+      "collectedAt": "2026-11-18T18:53:38.778749+00:00",
+      "lastAttempt": "2026-11-18T18:53:38.778749+00:00",
       "status": "ok"
     },
     {
@@ -3753,7 +3753,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119-s.zip",
-      "archiveHash": "237b40433ac057ad9f3753d1882f0cad927edc60f98fef9c51f50c54125360dc",
+      "archiveHash": "86eaa55a46af166960aa53cbf4cc911302adeef33b50eddfb08359276e1de3ef",
       "records": [
         {
           "bill": "S. 2434",
@@ -3761,7 +3761,7 @@
           "title": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heritage National Historical Park, and for other purposes.",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2434",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2434.xml",
-          "sourceHash": "e0dedaf8aa5603aa3b49128f9ec15027ba4967f362a4a6eac875b10638aeff7e",
+          "sourceHash": "96eed2a21a1edb8abe2ca0e21254e36d2953e90782b7894d6ab8f9e19f5c2958",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -3770,7 +3770,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2025-07-24",
-          "updated": "2026-11-14T17:24:41Z",
+          "updated": "2026-11-18T12:27:10Z",
           "latestAction": {
             "date": "2026-11-12",
             "text": "Held at the desk."
@@ -3812,14 +3812,14 @@
             },
             {
               "date": "2026-11-12",
-              "text": "Message on Senate action sent to the House.",
-              "code": "",
+              "text": "Received in the House.",
+              "code": "H14000",
               "type": "Floor"
             },
             {
               "date": "2026-11-12",
-              "text": "Received in the House.",
-              "code": "H14000",
+              "text": "Message on Senate action sent to the House.",
+              "code": "",
               "type": "Floor"
             },
             {
@@ -4899,7 +4899,7 @@
           "title": "U.S. Swine Health Improvement Plan Act of 2026",
           "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4893",
           "evidenceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4893.xml",
-          "sourceHash": "641bf2de3d745b879864e831f8d075a33d5938498f963aba3f901f62a484650c",
+          "sourceHash": "f1b9110d032940e49d27773c498831e034d2588725bd1a23408599f83f1aefe2",
           "representative": "Jon Husted",
           "role": "Sponsor",
           "bioguideId": "H001104",
@@ -4908,7 +4908,7 @@
           "session": "119th Congress",
           "origin": "Senate",
           "introduced": "2026-06-24",
-          "updated": "2026-07-14T21:30:28Z",
+          "updated": "2026-11-17T21:56:24Z",
           "latestAction": {
             "date": "2026-06-24",
             "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
@@ -6908,8 +6908,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-17T19:13:38.210013+00:00",
-      "lastAttempt": "2026-11-17T19:13:38.210013+00:00",
+      "collectedAt": "2026-11-18T18:53:38.778749+00:00",
+      "lastAttempt": "2026-11-18T18:53:38.778749+00:00",
       "status": "ok"
     }
   ]
