@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-08-20",
-  "periodEnd": "2026-11-18",
+  "periodStart": "2026-08-21",
+  "periodEnd": "2026-11-19",
   "records": [
     {
       "id": "C-00473-26",
@@ -201,24 +201,10 @@
         "Electrical",
         "HVAC"
       ]
-    },
-    {
-      "id": "C-00306-26",
-      "parcel": "04020B13215",
-      "issued": "2026-08-20",
-      "address": "110 HUMBOLT AVE",
-      "type": "COMMERCIAL-REMODEL",
-      "discipline": "Building",
-      "value": 12000,
-      "work": [
-        "Building",
-        "Electrical",
-        "HVAC"
-      ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F20%2F26&eDate=11%2F18%2F26",
-  "collectedAt": "2026-11-18T18:53:18.588Z",
-  "lastAttempt": "2026-11-18T18:53:18.588Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F21%2F26&eDate=11%2F19%2F26",
+  "collectedAt": "2026-11-19T19:02:32.672Z",
+  "lastAttempt": "2026-11-19T19:02:32.672Z",
   "status": "ok"
 }
