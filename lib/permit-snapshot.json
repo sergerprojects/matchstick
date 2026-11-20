@@ -1,6 +1,6 @@
 {
-  "periodStart": "2026-08-21",
-  "periodEnd": "2026-11-19",
+  "periodStart": "2026-08-22",
+  "periodEnd": "2026-11-20",
   "records": [
     {
       "id": "C-00473-26",
@@ -203,8 +203,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F21%2F26&eDate=11%2F19%2F26",
-  "collectedAt": "2026-11-19T19:02:32.672Z",
-  "lastAttempt": "2026-11-19T19:02:32.672Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F22%2F26&eDate=11%2F20%2F26",
+  "collectedAt": "2026-11-20T18:38:59.978Z",
+  "lastAttempt": "2026-11-20T18:38:59.978Z",
   "status": "ok"
 }
