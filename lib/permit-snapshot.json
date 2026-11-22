@@ -205,7 +205,7 @@
   ],
   "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F22%2F26&eDate=11%2F20%2F26",
   "collectedAt": "2026-11-20T18:38:59.978Z",
-  "lastAttempt": "2026-11-21T17:37:42.030Z",
+  "lastAttempt": "2026-11-22T17:53:06.564Z",
   "status": "stale",
   "error": "HTTP 500"
 }
