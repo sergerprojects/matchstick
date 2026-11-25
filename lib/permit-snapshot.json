@@ -1,7 +1,19 @@
 {
-  "periodStart": "2026-08-26",
-  "periodEnd": "2026-11-24",
+  "periodStart": "2026-08-27",
+  "periodEnd": "2026-11-25",
   "records": [
+    {
+      "id": "C-00481-26",
+      "parcel": "04020B05049",
+      "issued": "2026-11-25",
+      "address": "1021 HIGH ST",
+      "type": "COMMERCIAL-REMODEL",
+      "discipline": "Building",
+      "value": 68250,
+      "work": [
+        "Building"
+      ]
+    },
     {
       "id": "C-00477-26",
       "parcel": "04020D03030",
@@ -216,8 +228,8 @@
       ]
     }
   ],
-  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F26%2F26&eDate=11%2F24%2F26",
-  "collectedAt": "2026-11-24T20:41:55.440Z",
-  "lastAttempt": "2026-11-24T20:41:55.440Z",
+  "sourceUrl": "https://building.medinaco.org/permits/permitList.php?code=C&sDate=08%2F27%2F26&eDate=11%2F25%2F26",
+  "collectedAt": "2026-11-25T19:58:27.572Z",
+  "lastAttempt": "2026-11-25T19:58:27.572Z",
   "status": "ok"
 }
