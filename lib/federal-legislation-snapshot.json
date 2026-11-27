@@ -7,7 +7,7 @@
       "level": "Federal",
       "session": "119th Congress",
       "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119-hr.zip",
-      "archiveHash": "aa289910db5459c36a8fb6638100bc994b7fc4fb5d81f64a2ff93da399736e4b",
+      "archiveHash": "5fe89013382850d85735ff938f521ee42e015fd4c0dee8d6524a9dfa90ac763d",
       "records": [
         {
           "bill": "H.R. 10938",
@@ -2076,8 +2076,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-26T19:42:19.635478+00:00",
-      "lastAttempt": "2026-11-26T19:42:19.635478+00:00",
+      "collectedAt": "2026-11-27T19:31:27.472342+00:00",
+      "lastAttempt": "2026-11-27T19:31:27.472342+00:00",
       "status": "ok"
     },
     {
@@ -3743,8 +3743,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-26T19:42:19.635478+00:00",
-      "lastAttempt": "2026-11-26T19:42:19.635478+00:00",
+      "collectedAt": "2026-11-27T19:31:27.472342+00:00",
+      "lastAttempt": "2026-11-27T19:31:27.472342+00:00",
       "status": "ok"
     },
     {
@@ -6908,8 +6908,8 @@
           "summary": ""
         }
       ],
-      "collectedAt": "2026-11-26T19:42:19.635478+00:00",
-      "lastAttempt": "2026-11-26T19:42:19.635478+00:00",
+      "collectedAt": "2026-11-27T19:31:27.472342+00:00",
+      "lastAttempt": "2026-11-27T19:31:27.472342+00:00",
       "status": "ok"
     }
   ]
